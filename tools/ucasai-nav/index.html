@@ -1,0 +1,792 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UCASAI 智能学习工具共建资料导航</title>
+    <style>
+        :root { --primary: #0f172a; --accent: #2563eb; --bg: #f8fafc; --card: #ffffff; --text: #1e293b; --muted: #64748b; }
+        * { box-sizing: border-box; }
+        body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; }
+        header { max-width: 1200px; margin: 0 auto 30px; text-align: center; }
+        header h1 { color: var(--primary); margin-bottom: 8px; }
+        
+        /* AI 推荐面板 */
+        .ai-section { max-width: 1200px; margin: 0 auto 30px; background: #fff; border-radius: 12px; padding: 20px; border: 1px solid #e2e8f0; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); }
+        .ai-config { display: flex; gap: 10px; margin-bottom: 15px; flex-wrap: wrap; }
+        .ai-config input, .ai-config select { flex: 1; min-width: 200px; padding: 8px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 0.85rem; background: #fff; }
+        .chat-row { display: flex; gap: 10px; }
+        .chat-row input { flex: 1; padding: 10px; border: 1px solid var(--accent); border-radius: 6px; }
+        .btn-ai { background: var(--accent); color: #fff; border: none; padding: 10px 20px; border-radius: 6px; cursor: pointer; font-weight: 600; white-space: nowrap;}
+        .ai-out { margin-top: 15px; padding: 12px; background: #f1f5f9; border-radius: 6px; font-size: 0.9rem; border-left: 4px solid var(--accent); min-height: 40px; white-space: pre-wrap; }
+        .cache-tip { font-size: 0.75rem; color: #10b981; margin-top: 5px; display: none; }
+
+        /* 搜索与筛选 */
+        .search-row { max-width: 1200px; margin: 0 auto 20px; }
+        .search-bar { width: 100%; padding: 12px 20px; border: 2px solid #e2e8f0; border-radius: 30px; font-size: 1rem; }
+        .filters { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 30px; }
+        .filter-btn { padding: 6px 14px; border: 1px solid #cbd5e1; border-radius: 20px; background: #fff; cursor: pointer; transition: 0.2s; font-size: 0.9rem; }
+        .filter-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+        /* 卡片网格 */
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px; max-width: 1200px; margin: 0 auto; }
+        .card { background: var(--card); border-radius: 12px; padding: 20px; border: 1px solid #e2e8f0; display: flex; flex-direction: column; transition: 0.2s; }
+        .card:hover { transform: translateY(-3px); box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); }
+        .card-cat { font-size: 0.7rem; color: var(--accent); font-weight: bold; margin-bottom: 5px; }
+        .card-title { font-size: 1.1rem; margin: 0 0 10px 0; color: var(--primary); }
+        .card-desc { font-size: 0.85rem; color: var(--muted); margin-bottom: 15px; flex-grow: 1; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; }
+        .card-btns { display: flex; gap: 8px; }
+        .btn { flex: 1; padding: 8px; border-radius: 6px; text-align: center; text-decoration: none; font-size: 0.8rem; font-weight: 600; cursor: pointer; }
+        .btn-main { background: var(--accent); color: #fff; border: none; }
+        .btn-detail { background: #f1f5f9; color: var(--primary); border: 1px solid #e2e8f0; }
+
+        /* 模态框 (详情) */
+        .modal { display: none; position: fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.5); z-index:1000; align-items:center; justify-content:center; padding:20px; }
+        .modal-box { background:#fff; border-radius:16px; width:100%; max-width:800px; max-height:85vh; overflow-y:auto; padding:30px; position:relative; }
+        .close { position:absolute; top:20px; right:20px; font-size:1.5rem; cursor:pointer; border:none; background:none; }
+        .m-section { margin-bottom: 20px; background: #f8fafc; padding: 15px; border-radius: 8px; border: 1px solid #e2e8f0;}
+        .m-label { font-weight: bold; color: var(--primary); display: block; border-left: 4px solid var(--accent); padding-left: 8px; margin-bottom: 8px; font-size: 1.05rem;}
+        .m-text { font-size: 0.95rem; color: #334155; line-height: 1.7; white-space: pre-wrap; }
+
+        footer { text-align: center; margin-top: 50px; padding: 20px; color: var(--muted); font-size: 0.85rem; border-top: 1px solid #e2e8f0; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>智能学习工具共建资料导航</h1>
+    <p>完全收录《智能学习共建手册（2026年4月版）》101款工具原始文本</p>
+</header>
+
+<div class="ai-section">
+    <h3 style="margin-top:0; color:var(--primary); font-size: 1.1rem;">🤖 语义推荐助手 (支持密钥本地缓存)</h3>
+    <div class="ai-config">
+        <select id="apiUrl">
+            <option value="https://api.deepseek.com/v1/chat/completions">DeepSeek 官方接口 (推荐)</option>
+            <option value="https://api.siliconflow.cn/v1/chat/completions">SiliconFlow 硅基流动接口</option>
+            <option value="https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions">阿里云通义千问接口</option>
+            <option value="https://api.moonshot.cn/v1/chat/completions">Kimi 月之暗面接口</option>
+            <option value="https://open.bigmodel.cn/api/paas/v4/chat/completions">GLM 智谱清言接口</option>
+            <option value="https://api.openai.com/v1/chat/completions">OpenAI 官方接口</option>
+        </select>
+        <input type="password" id="apiKey" placeholder="输入 API Key (调用后自动缓存至浏览器)">
+        <select id="modelName">
+            <option value="deepseek-chat">deepseek-chat (DeepSeek V3)</option>
+            <option value="deepseek-reasoner">deepseek-reasoner (DeepSeek R1)</option>
+            <option value="qwen-max">qwen-max (通义千问)</option>
+            <option value="moonshot-v1-8k">moonshot-v1-8k (Kimi)</option>
+            <option value="glm-4">glm-4 (智谱清言)</option>
+            <option value="gpt-4o">gpt-4o (OpenAI)</option>
+            <option value="claude-3-5-sonnet-20241022">claude-3-5-sonnet (Anthropic)</option>
+            <option value="minimax-text-01">minimax-text-01 (MiniMax)</option>
+        </select>
+    </div>
+    <div id="cacheTip" class="cache-tip">✓ 已读取本地缓存的 API 配置信息</div>
+    <div class="chat-row" style="margin-top: 10px;">
+        <input type="text" id="chatInput" placeholder="描述痛点，例如：我需要做文献综述，比较多篇论文结论，用哪个工具好？" onkeypress="if(event.key==='Enter') callAI()">
+        <button class="btn-ai" onclick="callAI()" id="aiBtn">获取匹配建议</button>
+    </div>
+    <div id="aiOut" class="ai-out">请输入您的需求，AI将结合手册原文为您推荐最佳工具。</div>
+</div>
+
+<div class="search-row">
+    <input type="text" id="search" class="search-bar" placeholder="搜索工具名称、功能或原始场景描述...">
+</div>
+<div class="filters" id="filterBar"></div>
+<div class="grid" id="grid"></div>
+
+<div class="modal" id="modal">
+    <div class="modal-box">
+        <button class="close" id="close">&times;</button>
+        <h2 id="m-title" style="margin-top:0; color:var(--primary); font-size: 1.5rem; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px;"></h2>
+        <div class="m-section"><span class="m-label">一句话简介 (它是什么?)</span><div class="m-text" id="m-intro"></div></div>
+        <div class="m-section"><span class="m-label">核心亮点 (它最让你惊喜的能力?)</span><div class="m-text" id="m-hl"></div></div>
+        <div class="m-section"><span class="m-label">简易使用说明 (关键指令或操作步骤)</span><div class="m-text" id="m-steps"></div></div>
+        <div class="m-section"><span class="m-label">适合场景 (在什么情况下用它?解决了什么痛点?)</span><div class="m-text" id="m-sc"></div></div>
+        <a id="m-link" href="#" target="_blank" class="btn btn-main" style="display:block; padding: 12px; font-size: 1rem; margin-top: 20px;">访问官方链接</a>
+    </div>
+</div>
+
+<footer>
+    index作者：leaves
+<p>参考内容为中国科学院大学人工智能学院提供的《智能学习共建手册（2026年4月版）》</p>
+</footer>
+
+<script>
+    const tools = [
+        { name: "Elicit", cat: "学术研究", url: "https://elicit.com/", 
+          intro: "一款面向科研文献检索、综述与信息抽取的AI研究助手,可从海量论文中搜索、总结并提取结构化信息。", 
+          highlight: "当你要做文献综述,比较多篇论文结论、快速搭建“文献摘录表”时特别好用;它解决了“论文搜得到,但人工整理太慢”的痛点。", 
+          steps: "最惊喜的是它能围绕研究问题搜索文献,并把关键信息整理成表格;适合系统综述前期筛选、变量/样本/结论对比。", 
+          scenarios: "1. 用英文完整问题搜索(如:What factors predict student burnout?)\n2.先看摘要与相关论文列表\n3.添加你关心的字段列(样本、方法、结论、效应)\n4.对比结果后再回到原文核查" },
+        
+        { name: "Consensus", cat: "学术研究", url: "https://consensus.app/", 
+          intro: "一款专注“这个研究问题目前学界证据怎么说”的AI学术搜索引擎,基于同行评审文献给出结论导向答案。", 
+          highlight: "当你要快速判断一个观点有没有研究支持、写论文引言时想先摸清证据方向、答辩前想确认某句论断是否站得住时,非常省时间;它解决了“要先翻很多篇论文才知道大致共识”的痛点。", 
+          steps: "最亮眼的是自然语言提问后,能直接给出总结并关联到具体论文,特别适合回答“是否有效/是否相关/是否存在影响”这类证据型问题。", 
+          scenarios: "1.直接输入自然语言问题(如:Does intermittent fasting improve insulin sensitivity?)\n2.先看总结与支持论文\n3.打开高相关论文核对研究设计、样本与局限\n4. 收藏或导出后再做精读与引用" },
+
+        { name: "OpenClaw-Notes", cat: "自动化", url: "https://github.com/Haiming94/OpenClaw-Notes", 
+          intro: "基于 openclaw 的一个科研助理,分别有五种角色,包括搜集最新相关文献、整理文献、总结文献等最后可输出一个PDF", 
+          highlight: "1)可支持不同的大模型\n2)安全运行,不会修改自身电脑的其他文件,运行在 docker中\n3)对于科研有一定的自动化帮助,获取最新的科研方向", 
+          steps: "https://github.com/Haiming94/OpenClaw-Notes 目前只有安装教程,后面会慢慢增加我整个项目的全部技术细节", 
+          scenarios: "人工智能科研助理,帮助你每天快速获取最新的与自身相关的科研方向" },
+
+        { name: "Kimi Chat", cat: "通用模型", url: "https://www.kimi.com/", 
+          intro: "国产长文本处理大模型,擅长处理超长文档和结构化信息提取。", 
+          highlight: "支持最多200万字的上下文输入,可一次性处理整本书或多篇论文,提取关键信息能力强。", 
+          steps: "网页或App 端登录;\n上传文档或粘贴长文本;\n输入指令如“总结每章核心观点”或“提取实验方法部分”。", 
+          scenarios: "课程报告、毕业论文整理、文献对比分析等" },
+
+        { name: "NotebookLM", cat: "学术研究", url: "https://notebooklm.google.com/", 
+          intro: "Google 推出的AI研究助手,可上传论文/文档后与AI 深度对话,自动生成摘要、播客和学习指南", 
+          highlight: "基于你上传的资料回答问题,不会瞎编:所有回答都附带原文引用,点击即可跳转到出处。还能把论文自动生成一段两人对话的播客音频,边听边学。", 
+          steps: "一、索取方式:访问 notebooklm.google.com, Google 账号免费使用\n二、使用方法:\n1.创建笔记本,上传PDF论文,网页链接、GoogleDocs等资料\n2、直接对资料提问,AI会基于你的资料回答并标注引用来源\n3、点击「生成音频概述 可自动生成播客式讲解音频\n4、可同时上传多篇论文对比分析", 
+          scenarios: "论文精读与文献综述、课程学习笔记整理、多篇资料对比分析、通勤路上听论文播客" },
+
+        { name: "Napkin", cat: "创意表达", url: "https://www.napkin.ai/", 
+          intro: "AI驱动的图表生成工具,能将文字自动转化为可视化图示,适合PPT和论文插图。", 
+          highlight: "输入文字描述或段落,AI自动生成流程图、时间轴、结构图等,样式美观,支持导出矢量图。", 
+          steps: "进入Napkin 网页;\n输入或粘贴文本;\n选择想要的图示风格,AI自动生成并支持二次编辑。", 
+          scenarios: "项目展示,快速将文字逻辑可视化" },
+
+        { name: "MiniMax M2.7", cat: "通用模型", url: "#", 
+          intro: "MiniMax 发布的新一代 Agent旗舰大模型,首次展示\"模型自我进化\"能力,让AI从被动执行走向主动演化", 
+          highlight: "具备\"自我优化闭环”能力,可连续执行超过100轮\"分析——改进———验证\"循环,自主调整参数并与自身的训练、优化与迭代过程,在部分研发流程中可承担30%至50%工作量优化工作流,在内部评测中实现约30%的效果提升。模型深度参训练调优等研发流程", 
+          steps: "1、访问 MiniMax Agent平台或开放API接ロ\n2、调用M2.7模型进行任务处理\n3、模型可自动参与数据处理、实验设计\n4、支持复杂 Agent 工作流场景", 
+          scenarios: "适合需要AI系统自主进化的复杂研发场景,如自动化实验设计、代码优化、工作流自动调优等,解决了传统AI模型依赖人工调参、迭代周期长的痛点" },
+
+        { name: "通义千问 Qwen3.5", cat: "通用模型", url: "https://qwen.ai", 
+          intro: "阿里巴巴于2026年2月发布的3970亿参数混合专家模型,采用 Gated DeltaNet 混合架构,支持原生多模态早期融", 
+          highlight: "引入革命性的 Gated DeltaNet 混合架构,将线性注意力机制与传统稀疏 MoE结合,解码速度较Qwen3-Max 提升8.6倍至19倍。支持262K 上下文窗口并可扩展至1M Token,在超长文本摘要和实时代码审计场景中具有决定性优势", 
+          steps: "1、网页登录通义千问官网或使用手机APP\n2、直接提问或上传文档进行分析\n3、支持多模态输入(文本、图像、视频)\n4、可通过API接口集成到各类应用中", 
+          scenarios: "适合处理超长文档分析、实时代码审计、视觉智能体任务等场景,解决了传统Transformer 在超长上下文下计算量二次增长的问题,特别适合需要处理大量文本或代码的企业级应用" },
+
+        { name: "Cursor", cat: "编程开发", url: "https://cursor.com", 
+          intro: "基于大模型的“智能编程IDE”,从0搭建整个项目,也可边写代码边自动补全、解释和重构代码。", 
+          highlight: "1)构建新项目:用对话框直接提需求,它能直接生成可运行的完整项目代码,可直接运行。\n2)代码优化/问题修复:具备跨文件分析,和快速找出问题位置并优化代码能力。\n3)代码逻辑问答:对于项目代码中的任何问题,直接进行问答互动,快速理解和掌握代码实现逻辑等。", 
+          steps: "1)安装与登录: 下载并安装客户端(官网下载安装包)并登录。\n2)打开项目:用Cursor 打开本地代码仓库或文件夹。", 
+          scenarios: "1)写作业/项目开发时:快速搭建项目骨架、接口、模型训练脚本,减少重复体力劳动。\n2)看别人代码时:让Cursor用自然语言解释复杂逻辑,降低读代码门槛。\n3)调试和重构:根据报错信息和日志,自动定位问题、给出修改建议和重构方案。\n4)学习新技术栈:一边写一边问(如FastAPI Transformers Milvus等),边做边学。" },
+
+        { name: "Interviewing.io", cat: "求职面试", url: "https://interviewing.io/", 
+          intro: "面向程序员的AI+真人模拟面试平台", 
+          highlight: "1. AI 模拟算法/系统设计面试,实时代码评审\n2.可约资深工程师真人模拟面试\n3.面试记录回放与复盘", 
+          steps: "1. 注册后选择面试类型(算法/系统设计)\n2.A1 面试:实时写代码+AI 点评\n3. 查看面试报告与改进方向", 
+          scenarios: "程序员求职 LeetCode/系统设计面试冲刺" },
+
+        { name: "antigravity", cat: "编程开发", url: "#", 
+          intro: "Google DeepMind 的全栈自主编程助手", 
+          highlight: "不只是聊天,能直接在你的电脑上执行命令、编辑文件、操控测览器、生成图片 真正的“AI自己动手干活”", 
+          steps: "一、索取方式:目前通过 Google DeepMind内部渠道或合作项目获取使用权限\n二、使用方法:\n1、直接用自然语言描述开发需求(如「帮我搭建一个 React 项目」)\n2.它会自动分析代码库结构、搜索文件、阅读代码,生成修改方案\n3、可直接在终端执行命令(安装依赖、运行测试等),无需手动操作\n4、支持浏览器自动化操作,可帮你调试网页、截图、录制操作流程\n5、支持创建工作流(workflow),将常用操作模板化复用", 
+          scenarios: "全栈开发、代码库深度分析重复操作、网页应用开发自动化" },
+
+        { name: "chatpaper", cat: "学术研究", url: "https://www.chatpaper.ai/dashboard", 
+          intro: "学术论文 AI助手,专注于论文阅读、总结、润色与文献管理", 
+          highlight: "1. 支持上传 PDF论文,一键生成中文摘要、核心观点提炼\n2.可针对论文细节提问(如实验方法、公式推导)快速获取解答\n3.提供论文润色、语法纠错、学术表达优化功能", 
+          steps: "1.网页端登录,上传论文 PDF\n2.选择“总结论文”“精读段落”“润色写作”等功能\n3.指令示例:“帮我总结这篇论文的创新点和实验结论”“帮我润色这段英文摘要”", 
+          scenarios: "论文阅读:快速精读文献,把握领域前沿\n论文写作:润色英文表达,优化逻辑结构\n文献管理:批量处理文献、生成文献笔记" },
+
+        { name: "Pramp", cat: "求职面试", url: "https://www.pramp.com/", 
+          intro: "peer-to-peer+AI 辅助面试练习平台", 
+          highlight: "1. 配对同水平求职者模拟面试\n2. AI 辅助评分与反馈\n3.覆盖编程、产品、数据等岗位", 
+          steps: "1.选择岗位和时间,匹配练习伙伴\n2.互相面试+AI辅助点评\n3.复盘面试表现", 
+          scenarios: "低成本高频面试练习、积累面试经验" },
+
+        { name: "coolpapers", cat: "学术研究", url: "https://papers.cool/", 
+          intro: "用AI 快速帮你筛选和理解最新论文", 
+          highlight: "1.无需手动指令,内置 promote自动生成论文问答/总结,更快抓住核心\n2.实时同步 Arxiv 最新论文\n3.一键查看PDF/Copy/Kimi解读", 
+          steps: "1.打开 https://papers.cool\n2.选择领域,浏览论文列表;输入链接或标题搜索\n4.对感兴趣论文点击: [Kimi]→看AI总结/FAQ(核心) [PDF]→查看原文 [Copy]→复制信息做笔记\n5.根据 Kimi 总结判断是否精读", 
+          scenarios: "4. 做选题/survey/论文调研\n1.每天跟进 Arxiv/最新论文\n2. 快速筛选大量论文\n3.用Kimi辅助理解\n5. 找值得精读的论文,而不是盲读" },
+
+        { name: "codex", cat: "编程开发", url: "https://openai.com/codex/", 
+          intro: "openai 开发的 vibe coding 领域 ide", 
+          highlight: "超强的项目管理,gpt pro会员每月有免费额度,可以使用最新最强的 openai 模型", 
+          steps: "1.登录方式:在vscode下载 codex 插件,通过登录链接跳转或者下载app\n2.使用方法:直接提问;指定文件/项目提问;让 agent 执行命令行/监控进程", 
+          scenarios: "代码开发" },
+
+        { name: "cursor (整合条目)", cat: "编程开发", url: "https://cursor.com", 
+          intro: "AI代码编辑器", 
+          highlight: "可以整个项目拖进去,直接对话修改上下文代码文件", 
+          steps: "打开 cursor 编辑器(类似于VSCode),打开项目代码或者选中要修改的代码文件,输入修改需求,直接在侧边栏进行对话,一键应用", 
+          scenarios: "代码开发" },
+
+        { name: "智谱清言", cat: "自动化", url: "https://chatglm.cn", 
+          intro: "智谱推出的多模态大模型", 
+          highlight: "1. 定时任务:可以设定每天几点执行固定流程\n2. Agent 模式:支持在线执行复杂任务(提供私人空间,给定任务后 Agent 进行规划和执行,自动创建文件、写脚本、执行、可视化)", 
+          steps: "在网页版/手机APP选择模式后直接提问", 
+          scenarios: "1. 中低频重复任务(如:收集每日文献并总结要点、研报总结、每日要闻)\n2.复杂任务:媲美龙虾的复杂任务解决能力但又不想/不方便安装龙虾,手机网页随开随用" },
+
+        { name: "Consensus (学术版)", cat: "学术研究", url: "https://consensus.app/", 
+          intro: "专为学术研究打造的AI搜索引擎，只在经过“同行评审(Peer Review)”的真实学术论文中寻找答案", 
+          highlight: "1. 查找指定论文/领域的相关论文\n2.提取“学术共识”(synthesize功能),当问一个有争议性的问题,不仅会列出相关论文,还会总结出目前学术的主流观点(如:问某“养生偏方”是否有用,会生成总结和引用卡片,并输出观点比例80%支持,20%反对)", 
+          steps: "1.在网页版直接用自然语言提问\n2.找到的论文能够用Filter 筛选(如:筛选高引用文献,论文年限、指定“2DGS”领域等)", 
+          scenarios: "研究方向调研、论文文献综述、验证真伪" },
+
+        { name: "Arena Al", cat: "通用模型", url: "https://arena.ai/leaderboard/", 
+          intro: "全球大模型匿名比分/排行榜平台", 
+          highlight: "查看不同任务领域(如写作,编程、视觉、文档分析、文生图、文生视频等)中全球大模型的能力排行", 
+          steps: "1.网页打开https://arena.ai/leaderboard/\n2.查看不同领域模型能力排行", 
+          scenarios: "寻找合适的AI模型" },
+
+        { name: "TONGYI Lingma", cat: "编程开发", url: "https://tongyi.aliyun.com/lingma", 
+          intro: "基于通义大模型的AI研发辅助工具", 
+          highlight: "行间代码生成,问题智能排查等", 
+          steps: "直接在IDEA等工具中安装插件", 
+          scenarios: "代码开发" },
+
+        { name: "VSCode Github Copilot", cat: "编程开发", url: "https://github.com/features/copilot", 
+          intro: "VSCode 自带的AI编程工具", 
+          highlight: "1.支持终端+界面对话\n2.学生权益白嫖最新Gemini、GPT、Codex模型(近期新版本正尝试加入最新 Claude 模型)", 
+          steps: "1.无需安装,在VSCode中按“ctrl+alt+I”打开对话框,或在终端按\"ctrl+I\"打开终端对话\n2.直接提问", 
+          scenarios: "代码开发、智能终端、自动补全" },
+
+        { name: "千问/豆包", cat: "通用模型", url: "https://www.doubao.com", 
+          intro: "多模态大模型", 
+          highlight: "搭配提示词使用,可以高质量润色学术论文写作", 
+          steps: "在网页版/手机APP 选择模式后直接提问", 
+          scenarios: "论文润色" },
+
+        { name: "chatgpt", cat: "通用模型", url: "https://chatgpt.com", 
+          intro: "多模态大模型", 
+          highlight: "pro版深度思考给出的内容非常完整严谨,有较大的参考价值", 
+          steps: "直接在网页中搜索即可,较好的模型需要收费,较贵", 
+          scenarios: "论文检索、文献阅读、复杂问题推理" },
+
+        { name: "Everything Claude Code", cat: "Agent框架", url: "https://github.com/affaan-m/everything-claud-code/tree/main", 
+          intro: "Anthropic 黑客松冠军的 Claude Code 开箱即用配置。包含Rules、Skill、持久化记忆、Hook等", 
+          highlight: "1.直接复用最顶尖的AI编程“经验”参照\n2.跨跨平台平台通用通用,, 支持配置到Claude Code Cursor、OpenCodee、OpenClaw 等主流环境中\n3. Github 超 10w星标的AI智能体配置框架", 
+          steps: "https://github.com/affaan-m/everything-claud-code/tree/main 仓库教程,两步安装:\n1. 安装插件\n2.修改配置", 
+          scenarios: "AI 智能体配置" },
+
+        { name: "notebookllm + gamma", cat: "创意表达", url: "#", 
+          intro: "notebookllm:交互式对话和分析的AI助手; Gamma:一款AI 驱动的演示文稿和文档智能生成工具", 
+          highlight: "生成可编辑的PPT:\n1.notebookllm 辅助阅读和总结长文档(如pdf)\n2.gamma 生成可编辑的ppt", 
+          steps: "1.notebookllm总结文档中需要制作ppt的內容(不宜太长,比如两页pdf的内容就可以制作10页ppt)\n2.在 gamma 中读取文档,只保留当前制作ppt相关的内容,再加上 notebookllm总结的内容生成ppt(免费版一次最多生成10页,可直接下載)\n3.将 gamma生成的ppt中的组建复制粘贴到自己的ppt模版中(gamma生成的ppt底板有水印)", 
+          scenarios: "可编辑 PPT制作" },
+
+        { name: "Claude Code", cat: "编程开发", url: "https://claude.ai", 
+          intro: "编码 Agent", 
+          highlight: "超长的上下文,了解你的完整项目内容,帮助你增加新代码,整理旧代码", 
+          steps: "1. 参考 claude code 官网安装 CLI或者vscode 插件\n2. 订阅任意 coding agent,如GLM,minimax, ChatGPT, Claude等,参考订阅的coding agent 文档,提供给Claude code 订阅API", 
+          scenarios: "主要是代码开发,但是配合各种MCP和Skills 可以实现各种任务的通用能力,包括调研文献,写综述,操作Excel等" },
+
+        { name: "OpenClaw (小龙虾)", cat: "自动化", url: "https://openclaw.ai", 
+          intro: "自动调用基础软件的AI宠物", 
+          highlight: "1.定时搜集科研资讯,可构建本地知识库,输出文稿可用于打造自媒体IP。\n2.一次对话完成信息保存、日历提醒、启动服务等基础操作。\n3.可自我改造,有永久记忆文件。好像养了个什么,成长感明显。", 
+          steps: "模型方案选型>安装龙虾并配置通讯>按需求安装技能", 
+          scenarios: "最前沿动态整理\n简单操作对话完成\n本地知识库构建与使用\n配置客服服务" },
+
+        { name: "Codex (OpenAI)", cat: "编程开发", url: "https://openai.com/codex/", 
+          intro: "OpenAI 推出的软件工程Agent,可以在独立环境中帮助完成写代码、修Bug、分析仓库和处理工程任务。", 
+          highlight: "它不是只给建议,而是能在云端独立任务环境里实际处理开发任务,适合把功能开发、复杂重构和问题排查整块交给它。", 
+          steps: "1. 打开支持 Codex 的工作区;2.连接代码仓库或导入项目;3.直接输入任务,例如“给这个仓库增加登录模块”或“分析为什么测试失败”;4.查看它生成的修改结果并决定是否采纳。", 
+          scenarios: "适合功能迭代、复杂重构、批量 Issue 处理、远程并行完成工程任务,解决“任务太碎、开发流程太长、单人处理效率低”的问题。" },
+
+        { name: "Julius Al", cat: "数据分析", url: "https://julius.ai/", 
+          intro: "一个能直接和表格、数据对话的AI 分析工具。", 
+          highlight: "它很适合让不会写太多代码的人,也能先把图、结论和异常点跑出来,而这种优势通常就体现在,上传表格后就能画图、解释和做初步预测。", 
+          steps: "先上传 CSV或Excel,再用完整问题来问,比如“按月份看趋势并找异常点”;图出来后别急着信,先抽几条数据手动核对。", 
+          scenarios: "适合课程数据分析、竞赛初探、实验结果快读,尤其适合“有数据但不知道先问什么”的时候。" },
+
+        { name: "Obsidian", cat: "知识管理", url: "https://obsidian.md", 
+          intro: "基于Markdown 的笔记/记忆管理工具", 
+          highlight: "1. AI友好:官方提供CLI指令、API接口、Skill 能够结合AI使用,Markdown格式数据也方便AI阅读,实现AI自动化笔记创建、记录和整理\n2.数据迁移方便:数据为markdown 语法的文本文件,直接拷贝走或上传 github 等即可\n3.关系图谱:根据笔记间的链接自动生成网状知识图谱,可以直观的看到各新旧笔记间的相互关联性\n4. 社区插件丰富:思维导图、自动同步、看板等多种插件,也可自定义插件(让AI写也可以)", 
+          steps: "1. 安装 Obsidian\n2. 新建知识库(文件夹)\n3.新建/导入笔记或同步\n4. 接入AI", 
+          scenarios: "笔记本、知识库管理" },
+
+        { name: "daily-paper-reader", cat: "学术研究", url: "https://github.com/ziwenhahaha/daily-paper-reader", 
+          intro: "一个能每天自动抓新论文、顺手还能做问答和阅读面板的开源工具。", 
+          highlight: "支持 GitHub Actions 自动更新 GitHub Pages 部署与论文问答。它把“找新论文、存下来、继续追问”串成了一条线,个人用很省心,实验室一起用也很顺。", 
+          steps: "按仓库 README的常见流程,先准备个大模型 API Key和GitHub PAT;再Fork仓库、开启 GitHub Actions 和GitHub Pages;站点跑起来后,就能在网页端继续配关键词、研究方向和阅读偏好。", 
+          scenarios: "适合长期追 arXiv / OpenReview 新论文的人,尤其适合做个人论文雷达、实验室公共论文主页,或者想把“发现———阅读————提问”放到一个入口里的人。" },
+
+        { name: "Poe", cat: "通用模型", url: "https://poe.com/", 
+          intro: "一个把多个大模型放在同一入口里的AI 对话平台。", 
+          highlight: "最实用的点是,一个入口就能切换多家模型,做横向对比很方便。同一个问题换几个模型一看,哪个更稳、哪个更会写,一下就能分出来。", 
+          steps: "更实用的用法不是一直换模型,而是先橫向对比第一轮回答,再挑一个继续深入改稿或补思路。", 
+          scenarios: "适合你不知道该用哪家模型、想先少走弯路的时候。" },
+
+        { name: "Kimi Code", cat: "编程开发", url: "https://www.kimi.com/code/zh", 
+          intro: "月之暗面推出的代码Agent,能够在命令行环境中协助完成写代码、改代码、分析项目和自动化开发任务。", 
+          highlight: "亮点在于它既能理解代码,又能直接执行 Shell命令,搜索项目、分析文件,甚至可以协助做一些半自动化的软件开发流程。", 
+          steps: "1. 安装 Kimi Code; 2.在终端进入项目目录;3.用自然语言下达任务,如“分析这个仓库结构并告诉我入口文件在哪”;4.根据返回结果继续追问或让它直接修改。", 
+          scenarios: "适合代码库速读、脚本自动化、命令行协作开发、项目结构分析,解决“新人接手项目成本高、命令行操作繁琐”的问题。" },
+
+        { name: "Gemini CLI / Code Assist", cat: "编程开发", url: "https://developers.google.com/gemini-code-assist", 
+          intro: "Google 推出的编程助手,可在终端或编辑器中协助开发者完成代码生成、调试、解释和工程分析任务。", 
+          highlight: "它的优势是能把代码生成、终端操作、资料搜索和工程理解结合在一起,用一个入口处理“写代码+查资料+调试”这整条链路。", 
+          steps: "1. 安装 Gemini CLI或在编辑器中启用Gemini Code Assist; 2.打开项目目录;3.输入任务,如“为这个接口写测试并解释调用逻辑”;4.按需让它继续修改、解释或调试。", 
+          scenarios: "适合终端工作流、查错调试、补测试、需要一边开发一边查文档的场景,解决“写代码和查资料来回切换”的问题。" },
+
+        { name: "Cursor Agent", cat: "编程开发", url: "https://www.cursor.com/", 
+          intro: "集成在AI 编辑器Cursor 中的编程代理,能够在写代码过程中持续参与修改、补全、重构和调试。", 
+          highlight: "和编辑器深度结合,能边看代码边直接改多个文件,使用体验很顺,特别适合日常持续开发。", 
+          steps: "1. 安装 Cursor 并打开项目;2.在Agent面板中输入需求;3.例如输入“重构这一模块并补充必要注释”;4.查看它对项目的修改并继续交互式调整。", 
+          scenarios: "适合前后端日常开发、旧项目连续迭代、报错修复、局部功能改造,解决“编辑器里改代码效率低、跨文件修改不方便”的问题。" },
+
+        { name: "Windsurf/Cascade", cat: "编程开发", url: "https://windsurf.com/", 
+          intro: "Windsurf 是一款 Al IDE,内置 Cascade 代码代理,能帮助开发者从生成代码到调试修改完成一体化开发。", 
+          highlight: "上下文感知比较强,能够结合终端、项目文件、页面预览等一起协同工作,尤其适合前端和原型开发。", 
+          steps: "1. 安装 Windsurf;2.打开项目或新建工程;3.在Cascade面板中直接说需求,如“帮我做一个登录页并接上假数据接口”;4.再让它继续调样式、修报错或补功能。", 
+          scenarios: "适合前端页面开发、原型设计,小型全栈项目和边预览边修改的任务,解决“从想法到可运行页面中间步骤太多”的问题。" },
+
+        { name: "Cline", cat: "编程开发", url: "https://cline.bot/", 
+          intro: "一个开源的编程代理工具,可以接入不同大模型,在编辑器中帮助用户修改代码、执行任务和管理开发流程。\n或者：一个能在本地编辑器或终端里陪你改代码的AI助手。", 
+          highlight: "开源、透明、可控,很多关键操作都能由用户确认,适合重视自主控制和模型自由选择的使用者。\n好用的地方是,可操作文件和终端,适合多步开发任务。你不用离开当前开发环境,边看代码边下指令就行。", 
+          steps: "1. 安装 Cline 插件或CLI; 2. 配置所需模型接口;3.打开项目后输入任务,例如“帮我定位性能瓶颈并提出修改方案”;4.按步骤确认它的操作。\n先把要改的文件范围说清楚,必要时手动加进上下文;先让它提出改法,再让它执行;每次改完就跑一下测试,至少把关键路径点一遍。", 
+          scenarios: "适合开源爱好者、想自己接模型的人、需要高可控代码修改流程的团队,解决“商业工具黑盒感强、模型选择受限”的问题。\n适合你已经在本地开工了,只想少切网页,少复制粘贴的时候。" },
+
+        { name: "ChatGPT (通用)", cat: "通用模型", url: "https://chatgpt.com/", 
+          intro: "一个拿来就能用的通用型AI工具,适合把零散任务先拉到同一个对话里处理。", 
+          highlight: "真正好用的点在于,文本、图片、文件、代码都能处理,通用性极强。很多时候不是不会做,而是不知道从哪一步开始,它能先替你把路铺出来。读长 PDF 和代码库很省时间。面对几十页材料时,它能先把结构理顺,你再决定哪些段落值得精读。", 
+          steps: "先别一上来就问得很空,第一句把任务、对象和输出格式说清楚;有讲义、截图、PDF就一起上传;第一版出来后只改一个点,比如“压到300字”“改成答辩口语”。", 
+          scenarios: "用在日常学习特别顺手:查概念、改文案补代码、整理资料,都能先让它打个底。" },
+
+        { name: "Claude (长文)", cat: "通用模型", url: "https://claude.ai/", 
+          intro: "一个更擅长吃长文档、长论文和长代码的AI助手。", 
+          highlight: "读长 PDF 和代码库很省时间。面对几十页材料时,它能先把结构理顺,你再决定哪些段落值得精读。(注:原表有部分合并,以此为准)", 
+          steps: "读长论文时,先问“这篇到底想解决什么问题”,再问“方法怎么做、实验怎么验证”;如果是代码库,就先让它讲项目结构,再让它解释关键文件。", 
+          scenarios: "适合老师一次扔给你一大包PDF、你又没时间从头细啃的时候。" },
+
+        { name: "Gemini", cat: "通用模型", url: "https://gemini.google.com/", 
+          intro: "一个偏“万金油”路线的AI助手,平时学习、写作和小开发基本都能派上用场。", 
+          highlight: "最省时间的地方是,联网与Google 生态协同强,适合资料整理。你不用先把问题想得特别标准,先把材料扔进去,它通常就能帮你把第一版搭起来。", 
+          steps: "比较稳的用法是先让它给提纲,再让它按提纲展开,最后单独细改最重要的两三处。这样比一句“帮我写完”更容易得到能直接用的结果。", 
+          scenarios: "用在日常学习特别顺手:查概念、改文案补代码、整理资料,都能先让它打个底。" },
+
+        { name: "DeepSeek (中文)", cat: "通用模型", url: "https://chatdeepseek.com/", 
+          intro: "一个偏“万金油”路线的AI助手,平时学习、写作和小开发基本都能派上用场。", 
+          highlight: "中文问答、推理和代码生成表现稳定。它很适合把“脑子里有个模糊想法”慢慢磨成“手里有个像样成品”。", 
+          steps: "先别一上来就问得很空,第一句把任务、对象和输出格式说清楚;有讲义、截图、PDF就一起上传;第一版出来后只改一个点,比如“压到300字”“改成答辩口语”。", 
+          scenarios: "最适合那种“我大概知道要做什么,但还没理清顺序”的场景。它能先帮你把问题拆开,不至于一直卡在开头。" },
+
+        { name: "Kimi (长文)", cat: "通用模型", url: "https://www.kimi.com/", 
+          intro: "一个适合拿来啃大段材料的AI工具,面对几十页内容也不容易一下子乱掉。", 
+          highlight: "上传长论文、网页、表格后持续追问很方便。面对几十页材料时,它能先把结构理顺,你再决定哪些段落值得精读。", 
+          steps: "先把整份材料上传,不要只截一小段;第一轮先让它按章节或模块总结;第二轮指定某一节“用大白话解释”;第三轮再让它整理成汇报提纲或复习卡片。", 
+          scenarios: "特别适合做长论文阅读、组会准备和接手旧代码库这种一上来信息量就很大的活。" },
+
+        { name: "豆包 (字节)", cat: "通用模型", url: "https://www.doubao.com/", 
+          intro: "一个偏“万金油”路线的AI助手,平时学习,写作和小开发基本都能派上用场。", 
+          highlight: "日常高频场景覆盖广,写作和答疑上手快。你不用先把问题想得特别标准,先把材料扔进去,它通常就能帮你把第一版搭起来。", 
+          steps: "先别一上来就问得很空,第一句把任务、对象和输出格式说清楚;有讲义、截图、PDF就一起上传;第一版出来后只改一个点,比如“压到300字”“改成答辩口语”。", 
+          scenarios: "适合手头事情很杂,但你又得马上动起来的时候,比如作业要交、汇报要做、代码要改,你需要先有个能继续加工的初稿。" },
+
+        { name: "Qwen Chat (通义千问)", cat: "通用模型", url: "https://qwen.ai/", 
+          intro: "一个拿来就能用的通用型AI工具,适合把零散任务先拉到同一个对话里处理。", 
+          highlight: "文档处理、图像理解和网页搜索能力较全面。它很适合把“脑子里有个模糊想法”慢慢磨成“手里有个像样成品”。", 
+          steps: "常见用法是三步:先交代背景和截止时间,再把原文,代码或资料贴进去,最后让它按你要的格式重写。别只说“再优化”,直接点名“删废话、保留结论、分点输出”。", 
+          scenarios: "最适合那种“我大概知道要做什么,但还没理清顺序”的场景。它能先帮你把问题拆开,不至于一直卡在开头。" },
+
+        { name: "文心一言", cat: "通用模型", url: "https://yiyan.baidu.com/", 
+          intro: "一个比较全能的AI助手,问问题、看文件、改文字、顺手写点代码都能接。", 
+          highlight: "最省时间的地方是,中文写作、资料阅读和常见办公场景比较顺手。你不用先把问题想得特别标准,先把材料扔进去,它通常就能帮你把第一版搭起来。", 
+          steps: "先别一上来就问得很空,第一句把任务、对象和输出格式说清楚;有讲义、截图、PDF就一起上传;第一版出来后只改一个点,比如“压到300字”“改成答辩口语”。", 
+          scenarios: "最适合那种“我大概知道要做什么,但还没理清顺序”的场景。它能先帮你把问题拆开,不至于一直卡在开头。" },
+
+        { name: "Perplexity", cat: "通用模型", url: "https://www.perplexity.ai/", 
+          intro: "一个更像“会先找资料、再给你答案”的AI搜索工具。", 
+          highlight: "它舒服的地方在于,适合先看结论再回溯出处,做调研很省时间。你不用自己先开十几个网页再拼答案,能先拿到一个带来路的总结版。", 
+          steps: "比较稳的问法是“先给结论,再给依据,再给反例”。这样拿到的结果既能快速看懂,也方便你回头自己核来源。", 
+          scenarios: "特别适合做选题摸底、行业调研和课前补背景,不然很容易半小时过去还停在搜第一轮链接。" },
+
+        { name: "Microsoft Copilot", cat: "通用模型", url: "https://copilot.microsoft.com", 
+          intro: "一个把搜索、问答和办公场景拧在一起的AI助手。", 
+          highlight: "最省事的地方是,搜索、问答和办公协作衔接自然。查完信息后,顺手就能继续让它改成邮件、表格说明或汇报提纲,不用再换工具。", 
+          steps: "先问它要点和结论,再让它顺手改成你要交的格式,比如“整理成表格”“改成周报口吻”“写成一封能直接发的邮件”。", 
+          scenarios: "适合一边查资料、一边还得把内容整理成办公成品的时候,比如做周报、汇总材料、写说明文档。" },
+
+        { name: "Elicit (简版)", cat: "学术研究", url: "https://elicit.com/", 
+          intro: "一个围绕研究问题找论文、抽要点的科研助手", 
+          highlight: "能检索论文并抽取关键信息,适合开题前摸底。尤其在刚进新方向时,它能帮你先把文献池和对比框架搭起来。", 
+          steps: "比较稳的流程是:先问“这个问题大家怎么做”,再问“常见数据集和指标是什么”,最后再自己挑最关键的几篇精读。", 
+          scenarios: "特别适合老师甩给你一个研究题目,但你还没形成自己的阅读入口时。" },
+
+        { name: "Consensus (简版)", cat: "学术研究", url: "https://consensus.app/", 
+          intro: "一个围绕研究问题找论文、抽要点的科研助手", 
+          highlight: "更偏证据回答,适合验证某个结论是否有研究支持。尤其在刚进新方向时,它能帮你先把文献池和对比框架搭起来。", 
+          steps: "比较稳的流程是:先问“这个问题大家怎么做”,再问“常见数据集和指标是什么”,最后再自己挑最关键的几篇精读。", 
+          scenarios: "特别适合老师甩给你一个研究题目,但你还没形成自己的阅读入口时。" },
+
+        { name: "Scite", cat: "学术研究", url: "https://scite.ai/", 
+          intro: "一个能告诉你“这篇论文后来是被支持还是被质疑”的引用分析工具。", 
+          highlight: "能看论文是被支持、反驳还是仅被提及,避免误引。这能避免你把一篇“很有名的论文”误当成“已经盖棺定论的结论”。", 
+          steps: "先搜核心论文,再点进引用上下文看别人是怎么提到它的;如果是关键结论,顺手把支持和质疑的后续文献都记下来。", 
+          scenarios: "适合写综述、做答辩,尤其是你怕把文献结论说得太满的时候。" },
+
+        { name: "Semantic Scholar", cat: "学术研究", url: "https://www.semanticscholar.org/", 
+          intro: "一个更适合学术场景的论文搜索工具。", 
+          highlight: "它好用在,TLDR 与相似论文推荐很好用,适合入门新方向。先帮你快筛一轮,再决定哪些真的值得花时间精读。", 
+          steps: "先搜主题或标题,看TLDR 和相似论文;挑几篇最像的当种子,再顺着参考文献和相关论文往外扩。", 
+          scenarios: "适合你刚接触一个方向,想先把“这圈人在聊什么”摸清楚。" },
+
+        { name: "Connected Papers", cat: "学术研究", url: "https://www.connectedpapers.com/", 
+          intro: "一个把论文关系画成图的文献脉络工具。", 
+          highlight: "最直观的好处是,一张图看清某篇论文周围的经典文献和后续工作。看图比看一长串检索结果更容易知道谁是前作、谁是后续", 
+          steps: "先找一篇种子论文扔进去,看它周围最密的那一圈;先抓经典文,再补近两年的跟进工作,最后再回去读原文。", 
+          scenarios: "适合你知道一两篇代表作,但还不知道整个领域怎么串起来的时候。" },
+
+        { name: "Research Rabbit", cat: "学术研究", url: "https://www.researchrabbit.ai/", 
+          intro: "一个更偏“持续追新”的论文雷达工具。", 
+          highlight: "它厉害的不是一次帮你找到多少,而是,像文献推荐流一样持续发现相关论文。长期盯一个方向时,比每周重新搜一遍省力得多。", 
+          steps: "更稳的做法是先用少量核心关键词跑起来,别一口气订太宽,不然信息流很快就会爆掉。", 
+          scenarios: "适合长期盯一个方向的人,比如做毕业设计、跟实验室课题、或者准备长期竞赛项目。" },
+
+        { name: "Litmaps", cat: "学术研究", url: "https://www.litmaps.com/", 
+          intro: "一个更偏“持续追新”的论文雷达工具。", 
+          highlight: "它厉害的不是一次帮你找到多少,而是,既能画文献地图,又能监控新论文更新。长期盯一个方向时,比每周重新搜一遍省力得多。", 
+          steps: "更稳的做法是先用少量核心关键词跑起来,别一口气订太宽,不然信息流很快就会爆掉。", 
+          scenarios: "适合长期盯一个方向的人,比如做毕业设计、跟实验室课题、或者准备长期竞赛项目。" },
+
+        { name: "Scholarcy", cat: "学术研究", url: "https://www.scholarcy.com/", 
+          intro: "一个专门帮你把长论文压成摘要卡片的阅读工具。", 
+          highlight: "最实用的是,提炼结构、方法、结果很快,适合批量筛文。它特别适合先粗筛一轮,不用每篇都从头到尾硬啃。", 
+          steps: "先把 PDF 丢进去看结构化摘要,再决定要不要看原文;真正重要的论文,再让它单独展开方法、实验和结论。", 
+          scenarios: "适合论文一下子堆很多,你先想快速区分“值得细读”和“不必深挖”的时候。" },
+
+        { name: "Heptabase", cat: "知识管理", url: "https://heptabase.com/", 
+          intro: "一个适合把论文、想法和项目笔记连成网的可视化笔记工具。", 
+          highlight: "适合把论文和想法串起来。长期积累下来,会更容易看见不同材料之间的联系。", 
+          steps: "一篇论文一张卡片,方法、结论和灵感分开记;再把相关卡片拖到白板上连线,慢慢长成自己的知识地图。", 
+          scenarios: "适合做长期研究、毕设或跨课程项目,不太适合只用来记一次性课堂笔记。" },
+
+        { name: "GitHub Copilot (简版)", cat: "编程开发", url: "https://github.com/features/copilot", 
+          intro: "一个装进 IDE 里就能随手补全、解释和改代码的编程助手。", 
+          highlight: "它最省的是那些零碎但耗神的活,而这点通常体现在,补全、对话、解释代码一体,适合日常编码提速。写样板代码、解释报错、把注释长成函数,都能快不少", 
+          steps: "最好把它当“副驾驶”而不是“代写”:先自己定思路,再让它补细节,代码质量通常会稳很多。", 
+          scenarios: "适合大作业、课程实验和日常改bug,不太适合完全不看代码就全权托管。" },
+
+        { name: "Cursor (简版)", cat: "编程开发", url: "https://cursor.com/", 
+          intro: "一个更懂整个代码库、能跨文件一起改的AI编程环境。", 
+          highlight: "它不只是补全几行,而更像能陪你一起读仓库、找入口、动多处文件,这一点通常就体现在,能理解整个代码库并跨文件修改,适合做大项目。", 
+          steps: "先把仓库完整打开,让它先解释项目结构;再下明确任务,比如“给登录接口补鉴权并改前端调用”;最后一定要逐个看 diff和运行结果。", 
+          scenarios: "适合接手旧项目、比赛代码太乱、或者你知道目标但找不到该改哪几个文件的时候。" },
+
+        { name: "Windsurf", cat: "编程开发", url: "https://windsurf.com/", 
+          intro: "一个更懂整个代码库、能跨文件一起改的AI编程环境。", 
+          highlight: "它不只是补全几行,而更像能陪你一起读仓库、找入口、动多处文件,这一点通常就体现在,AI会跟着开发流程持续工作,改代码更连贯。", 
+          steps: "先把仓库完整打开,让它先解释项目结构;再下明确任务,比如“给登录接口补鉴权并改前端调用”;最后一定要逐个看 diff 和运行结果。", 
+          scenarios: "适合接手旧项目、比赛代码大乱、或者你知道目标但找不到该改哪几个文件的时候。" },
+
+        { name: "Replit Al", cat: "编程开发", url: "https://replit.com/ai", 
+          intro: "一个更偏“说一句需求,先给你起个能跑起来的原型”的开发工具。", 
+          highlight: "它最适合的不是工程级完美,而是,不必本地配环境就能快速做出可运行demo。先把想法落成demo,很多事情就好推进了。", 
+          steps: "先把功能说具体,别只说“做个网站”;最好写出页面、输入、输出和数据库要不要。生成后先跑通主流程,再回头慢慢补样式和边角。", 
+          scenarios: "适合课程作业、比赛展示、产品验证,尤其适合先把 demo 做出来给老师或队友看。" },
+
+        { name: "v0", cat: "编程开发", url: "https://v0.app/", 
+          intro: "一个更偏“说一句需求,先给你起个能跑起来的原型”的开发工具。", 
+          highlight: "它最适合的不是工程级完美,而是,网页UI和组件生成速度很快,展示效果好。先把想法落成demo,很多事情就好推进了。", 
+          steps: "先把功能说具体,别只说“做个网站”;最好写出页面、输入、输出和数据库要不要。生成后先跑通主流程,再回头慢慢补样式和边角。", 
+          scenarios: "适合课程作业、比赛展示、产品验证,尤其适合先把 demo 做出来给老师或队友看。" },
+
+        { name: "Bolt.new", cat: "编程开发", url: "https://bolt.new/", 
+          intro: "一个更偏“说一句需求,先给你起个能跑起来的原型”的开发工具。", 
+          highlight: "它最适合的不是工程级完美,而是,无需本地搭环境,适合快速验证 MVP。先把想法落成demo,很多事情就好推进了。", 
+          steps: "先把功能说具体,别只说“做个网站”;最好写出页面、输入、输出和数据库要不要。生成后先跑通主流程,再回头慢慢补样式和边角。", 
+          scenarios: "适合课程作业、比赛展示、产品验证,尤其适合先把 demo 做出来给老师或队友看。" },
+
+        { name: "Aider", cat: "编程开发", url: "https://aider.chat/", 
+          intro: "一个能在本地编辑器或终端里陪你改代码的AI助手。", 
+          highlight: "改现有项目很稳,配合Git 工作流很顺手。你不用离开当前开发环境,边看代码边下指令就行。", 
+          steps: "先把要改的文件范围说清楚,必要时手动加进上下文;先让它提出改法,再让它执行;每次改完就跑一下测试,至少把关键路径点一遍。", 
+          scenarios: "适合你已经在本地开工了,只想少切网页,少复制粘贴的时候。" },
+
+        { name: "OpenHands", cat: "编程开发", url: "https://openhands.dev/", 
+          intro: "一个更偏“给任务,它自己去读代码、改文件、跑命令”的开发代理。", 
+          highlight: "能连着做多步,能读代码、运行命令、改文件,适合 agent 实验。但也正因为如此,更需要你盯住边界和结果。", 
+          steps: "任务一定要写得具体:目标、限制、验收标准都要给;先让它只动一个小功能或一个bug;跑通后再放大范围。不要一上来就让它大改整个项目。", 
+          scenarios: "适合重复性开发、小功能迭代、修明确bug,不适合需求还没想清楚的时候。" },
+
+        { name: "OpenClaw (小龙虾 简版)", cat: "自动化", url: "https://openclaw.ai/", 
+          intro: "一个会自己点网页,走流程的执行型 AI智能体。", 
+          highlight: "和普通聊天工具最大的区别是,不只聊天,而是能按步骤实际帮你做事。它不是只给建议,而是会真的去做那些重复点击的活。", 
+          steps: "先把目标写成一条清晰任务,再把不能动的边界说死;先让它做一遍简单流程观察步骤,没问题再放大到批量任务。", 
+          scenarios: "适合网页上重复操作很多,但每一步又不值得你亲手一直点的时候。" },
+
+        { name: "Dify", cat: "Agent框架", url: "https://dify.ai/", 
+          intro: "一个更适合用拖拽和配置搭 AI 应用或机器人的平台。", 
+          highlight: "提示词、知识库和工具链可以快速串起来。不一定要先写很多代码,也能把一个能演示的AI小应用搭出来。", 
+          steps: "更稳的做法是先用模板或最小流程起步,跑通后再加知识库、工具调用和发布渠道。", 
+          scenarios: "适合课设、比赛展示、班级机器人,实验室知识库这类“需要先做出可用版本”的场景。" },
+
+        { name: "扣子 Coze", cat: "Agent框架", url: "https://www.coze.cn/", 
+          intro: "一个更适合用拖拽和配置搭 AI 应用或机器人的平台。", 
+          highlight: "中文生态友好,插件和发布渠道比较全。不一定要先写很多代码,也能把一个能演示的AI 小应用搭出来。", 
+          steps: "先定好用途:聊天、知识库还是工作流;再配模型、提示词和外部工具;最后用几条真实问题反复测,别只看它能不能跑起来。", 
+          scenarios: "适合课设、比赛展示、班级机器人、实验室知识库这类“需要先做出可用版本”的场景。" },
+
+        { name: "n8n", cat: "自动化", url: "https://n8n.io/", 
+          intro: "一个把邮箱、表格、表单聊天工具和AI 串起来的自动化平台。", 
+          highlight: "真正舒服的地方是,应用连接多,既能拖拽也能自定义逻辑。一次配好之后,很多重复的小动作以后都不用再手点。", 
+          steps: "先想清楚触发条件和最终动作,比如“表单一提交就发消息并记到表格”;先做最短链路跑通,再慢慢补条件判断和异常处理。", 
+          scenarios: "适合那些每天都在重复搬运信息的人,比如收作业、发通知、同步表格、整理报名信息。" },
+
+        { name: "Zapier", cat: "自动化", url: "https://zapier.com/", 
+          intro: "一个把邮箱、表格、表单聊天工具和 AI 串起来的自动化平台。", 
+          highlight: "真正舒服的地方是,连接应用极多,办公室自动化方案成熟。一次配好之后,很多重复的小动作以后都不用再手点。", 
+          steps: "刚开始别做太长的流程,先把一进一出的最短闭环跑通;自动化一长,排错成本会明显变高。", 
+          scenarios: "适合那些每天都在重复搬运信息的人,比如收作业、发通知、同步表格、整理报名信息。" },
+
+        { name: "AutoGen", cat: "Agent框架", url: "https://microsoft.github.io/autogen/", 
+          intro: "一个给开发者搭 Agent和多步骤推理流程用的代码框架。", 
+          highlight: "它更像积木,不会直接替你把成品做完,但很适合把复杂任务拆成可控的几步,而这点就体现在,适合研究多个AI分工协作的复杂任务。", 
+          steps: "写这类框架时,先把日志和可观测性配好,不然一复杂起来很难看出是检索错了、工具错了还是提示词错了。", 
+          scenarios: "适合毕设、课程项目、Agent实验,尤其适合想研究“为什么它会这样做”的人。" },
+
+        { name: "CrewAI", cat: "Agent框架", url: "https://crewai.com/", 
+          intro: "一个给开发者搭 Agent和多步骤推理流程用的代码框架。", 
+          highlight: "很适合把复杂任务拆成可控的几步,而这点就体现在,研究员、规划师、执行者分工清晰,适合复杂流程。", 
+          steps: "别一上来就做大系统,先用一个最小例子跑通:模型、工具、输入、输出各一份;等链路稳定后,再加记忆、路由和多agent 协作。", 
+          scenarios: "适合毕设、课程项目、Agent实验,尤其适合想研究“为什么它会这样做”的人。" },
+
+        { name: "LangChain", cat: "Agent框架", url: "https://www.langchain.com/", 
+          intro: "一个给开发者搭 Agent和多步骤推理流程用的代码框架。", 
+          highlight: "很适合把复杂任务拆成可控的几步,而这点就体现在,生态丰富,适合做可扩展AI系统。", 
+          steps: "写这类框架时,先把日志和可观测性配好,不然一复杂起来很难看出是检索错了、工具错了还是提示词错了。", 
+          scenarios: "适合毕设、课程项目、Agent实验,尤其适合想研究“为什么它会这样做”的人。" },
+
+        { name: "GitHub Spark", cat: "编程开发", url: "https://github.com/features/spark", 
+          intro: "一个更偏“从想法直接长出应用骨架”的AI开发平台。", 
+          highlight: "它特别适合先把界面、逻辑和云端能力拉出一版,而这种优势通常就体现在,适合快速搭一个能演示、能协作的小工具。", 
+          steps: "先把页面、数据和登录这三件事讲清楚;生成后先检查主流程,再决定要不要接数据库、鉴权和部署。", 
+          scenarios: "适合想快速做个能分享的Web/App原型,而不是花很多时间先配开发环境。" },
+
+        { name: "Firebase Studio", cat: "编程开发", url: "https://firebase.studio/", 
+          intro: "一个更偏“从想法直接长出应用骨架”的AI开发平台。", 
+          highlight: "它特别适合先把界面、逻辑和云端能力拉出一版,而这种优势通常就体现在,开发、数据库、托管和AI助手连在一起。", 
+          steps: "先把页面、数据和登录这三件事讲清楚;生成后先检查主流程,再决定要不要接数据库、鉴权和部署。", 
+          scenarios: "适合想快速做个能分享的Web/App原型,而不是花很多时间先配开发环境。" },
+
+        { name: "Notion Al", cat: "知识管理", url: "https://www.notion.com/product/ai", 
+          intro: "一个把笔记、资料和AI整理能力放在一起的知识工作台。", 
+          highlight: "它不是那种用完即走的工具,更像把你平时散落的内容慢慢收拢成自己的外脑,而这点就体现在,写作、检索、整理笔记可在一个界面完成。", 
+          steps: "这类工具越早开始用越香,别等资料全乱了再补。先建立最小分类,后面再慢慢长成自己的知识库。", 
+          scenarios: "适合长期积累型任务,比如一学期课程毕设、实习项目,而不是一次性小作业" },
+
+        { name: "Grammarly", cat: "创意表达", url: "https://www.grammarly.com/", 
+          intro: "一个专门帮你把英文写得更顺、更像人写的润色工具。", 
+          highlight: "它最有用的往往不是“大改”,而是,不只改语法,还会给清晰度和语气建议。那些别扭、啰嗦或不够自然的地方,会被很快挑出来。", 
+          steps: "把整段贴进去后,先看语法和清晰度,再看语气;不要整篇一键全收,最好一条条看,保住你原本想表达的意思。", 
+          scenarios: "适合英文邮件、英文摘要、简历、作业这些“内容已经有了,但表达还不够顺”的时候。" },
+
+        { name: "QuillBot", cat: "创意表达", url: "https://quillbot.com/", 
+          intro: "一个专门帮你把英文写得更顺、更像人写的润色工具。", 
+          highlight: "最有用的往往不是“大改”,而是改写模式多,适合快速调整英文表达。那些别扭、啰嗦或不够自然的地方,会被很快挑出来。", 
+          steps: "更稳的用法是先只开语法和表达建议,别一上来就全盘改写;这样更不容易把你的原意改没。", 
+          scenarios: "适合英文邮件、英文摘要、简历、作业这些“内容已经有了,但表达还不够顺”的时候。" },
+
+        { name: "DeepL", cat: "创意表达", url: "https://www.deepl.com/", 
+          intro: "一个翻译质量比较稳、很适合处理长句和文档的工具。", 
+          highlight: "长句翻译自然,文档翻译体验很好。尤其碰到专业表达时,常常比普通机翻更像正常人会说的话。", 
+          steps: "整段整段翻,不要一句一句拆;如果是正式材料,翻完最好再对照原文把术语统一一遍。", 
+          scenarios: "适合看英文论文、改双语简历、写邮件,尤其适合你不想被生硬翻译拖慢理解的时候。" },
+
+        { name: "Gamma", cat: "创意表达", url: "https://gamma.app/", 
+          intro: "一个能把主题快速变成PPT 或网页展示初稿的AI工具。", 
+          highlight: "它最大的价值不是直接替你完成终稿,而是,出稿速度快,视觉观感现代。把“空白页焦虑”很快变成“至少已经有一版能改”。", 
+          steps: "如果时间紧,就先用它做骨架和分页;真正决定成败的还是你的逻辑顺序和重点页面。", 
+          scenarios: "适合课程汇报、比赛路演、答辩初稿,特别适合离交稿时间不多的时候。" },
+
+        { name: "Canva", cat: "创意表达", url: "https://www.canva.com/", 
+          intro: "一个能把主题快速变成PPT 或网页展示初稿的AI工具。", 
+          highlight: "它最大的价值不是直接替你完成终稿,而是,模板丰富,非设计专业也能快速出成品。把“空白页焦虑”很快变成“至少已经有一版能改”.", 
+          steps: "先把受众、页数和语气说清楚,再喂它大纲或文稿;生成后优先改目录、标题和关键页,别一上来纠结每张图漂不漂亮。", 
+          scenarios: "适合课程汇报、比赛路演、答辩初稿,特别适合离交稿时间不多的时候。" },
+
+        { name: "Napkin AI", cat: "创意表达", url: "https://www.napkin.ai/", 
+          intro: "一个把文字内容迅速变成脑图、流程图或信息图的可视化工具。", 
+          highlight: "它很适合把你脑子里那坨还说不清的东西先变成图,而这点通常就体现在,流程、对比、关系图生成很快。", 
+          steps: "先给它一段结构化文字或提纲,再根据需要选流程,对比或关系图;出图后重点改层级和用词,不用每个装饰都抠。", 
+          scenarios: "适合论文框架图、课程讲解图、复习脑图这类“讲清楚比做漂亮更重要”的场景。" },
+
+        { name: "飞书妙记", cat: "会议记录", url: "https://www.feishu.cn/product/minutes", 
+          intro: "一个更适合中文会议、课程录音和访谈整理的转写工具。", 
+          highlight: "不是只把话转成字,而是,中文会议纪要体验好,时间点回看方便。要点、待办和关键时间点通常也能一起拎出来。", 
+          steps: "会前开录音或会后上传音频;先看自动摘要,再回到关键时间点核对原话;需要发给别人时,再手动改成正式纪要。", 
+          scenarios: "适合组会、课堂录音、采访整理,尤其适合“会开完了,但谁都不想手打纪要”的时候。" },
+
+        { name: "Otter", cat: "会议记录", url: "https://otter.ai/", 
+          intro: "一个更偏线上会议自动记录和总结的AI 会议助手。", 
+          highlight: "它能把整场会先替你记下来,而这点通常就体现在,英文会议记录和检索比较成熟。你不用一边听一边慌着记重点。", 
+          steps: "把它连到会议平台或上传录音;会后先看summary 和 action items,再回到关键片段核对;重要会议别完全依赖自动稿,最后自己过一遍。", 
+          scenarios: "适合远程组会、英文会议、客户沟通,尤其适合边开会边记容易漏信息的时候。" },
+
+        { name: "Fireflies.ai", cat: "会议记录", url: "https://fireflies.ai/", 
+          intro: "一个更偏线上会议自动记录和总结的AI 会议助手。", 
+          highlight: "它能把整场会先替你记下来,而这点通常就体现在,会后检索和行动项整理很方便。你不用一边听一边慌着记重点。", 
+          steps: "如果是英文会,先用它抓大意和行动项,再回听关键几分钟,效率通常会高很多。", 
+          scenarios: "适合远程组会、英文会议、客户沟通,尤其适合边开会边记容易漏信息的时候。" },
+
+        { name: "tl dv", cat: "会议记录", url: "https://tldv.io/", 
+          intro: "一个更偏线上会议自动记录和总结的AI 会议助手。", 
+          highlight: "它能把整场会先替你记下来,而这点通常就体现在,能按议题回看和分发会议重点。你不用一边听一边慌着记重点。", 
+          steps: "把它连到会议平台或上传录音;会后先看summary 和 action items,再回到关键片段核对;重要会议别完全依赖自动稿,最后自己过一遍。", 
+          scenarios: "适合远程组会、英文会议、客户沟通,尤其适合边开会边记容易漏信息的时候。" },
+
+        { name: "Xmind AI", cat: "创意表达", url: "https://xmind.ai/", 
+          intro: "一个把文字内容迅速变成脑图、流程图或信息图的可视化工具。", 
+          highlight: "它很适合把你脑子里那坨还说不清的东西先变成图,而这点通常就体现在,从文档到脑图很方便,梳理逻辑很强。", 
+          steps: "先给它一段结构化文字或提纲,再根据需要选流程,对比或关系图;出图后重点改层级和用词,不用每个装饰都抠。", 
+          scenarios: "适合论文框架图、课程讲解图、复习脑图这类“讲清楚比做漂亮更重要”的场景。" },
+
+        { name: "Teal", cat: "求职面试", url: "https://www.tealhq.com/", 
+          intro: "一个把改简历、记岗位和盯投递进度放在一起的求职工具。", 
+          highlight: "它能把秋招春招那种一堆岗位、一堆版本的混乱感压下去不少,而这通常就体现在,把岗位、简历版本和投递进度统一管理。", 
+          steps: "先导入你的基础简历,再按岗位建不同版本;投完别只看是否投了,把进度、反馈和下一步也记进去。", 
+          scenarios: "适合海投、实习投递、秋招这种“岗位多到脑子记不住”的阶段。" },
+
+        { name: "Final Round AI", cat: "求职面试", url: "https://www.finalroundai.com/", 
+          intro: "一个拿来练开口、练节奏、练答题结构的模拟面试工具。", 
+          highlight: "最有用的不是它问了什么,而是,偏真实面试场景,反馈较具体。能逼你真的把答案说出口。", 
+          steps: "练的时候别贪多,一次只盯一个问题类型,比如自我介绍、项目深挖或行为题,进步会更明显。", 
+          scenarios: "适合正式面试前热身,特别适合“脑子里会,嘴上说不出来”的人。" },
+
+        { name: "Interview Warmup", cat: "求职面试", url: "https://grow.google/interview-warmup/", 
+          intro: "一个拿来练开口、练节奏、练答题结构的模拟面试工具。", 
+          highlight: "零门槛,开口训练方便,适合面试前热身。它能逼你真的把答案说出口。", 
+          steps: "先选岗位或题型,再按真实面试那样开口回答;别只看评分,重点回听自己哪段最绕、最虚、最像背稿。", 
+          scenarios: "适合正式面试前热身,特别适合“脑子里会,嘴上说不出来”的人。" },
+
+        { name: "Jobscan", cat: "求职面试", url: "https://www.jobscan.co/", 
+          intro: "一个专门看简历和JD匹配度的求职工具。", 
+          highlight: "它会逼你从招聘方的词来看自己的简历,而这种价值通常就体现在,JD-简历关键词匹配度分析很实用。不是你觉得写得好,就真的容易过筛。", 
+          steps: "把岗位JD 和简历都放进去,先看缺了哪些关键词;改的时候别生硬堆词,尽量用真实项目和结果把关键词落进去。", 
+          scenarios: "适合海投前、定制简历前,尤其适合老觉得“我明明很合适却老过不了筛”的时候。" },
+
+        { name: "Midjourney", cat: "创意表达", url: "https://www.midjourney.com/", 
+          intro: "一个拿来出图、找风格做封面很快的AI创意工具。", 
+          highlight: "它最适合先把视觉方向探出来,而这通常就体现在,出图质量高,做封面和海报很惊艳。不用一上来就自己从零开画布。", 
+          steps: "提示词尽量写清主体、风格、比例和用途;先多出几版找方向,再放大或局部重绘;真正要交付的图,最后还是自己再挑和再修。", 
+          scenarios: "适合海报、封面、PPT配图、活动宣传图,尤其适合先出灵感再定稿的时候。" },
+
+        { name: "Adobe Firefly", cat: "创意表达", url: "https://www.adobe.com/products/firefly.html", 
+          intro: "一个拿来出图、找风格做封面很快的AI 创意工具。", 
+          highlight: "它最适合先把视觉方向探出来,生态衔接好,后期流程顺。不用一上来就自己从零开画布。", 
+          steps: "提示词尽量写清主体、风格、比例和用途:先多出几版找方向,再放大或局部重绘;真正要交付的图,最后还是自己再挑和再修。", 
+          scenarios: "适合海报、封面、PPT配图、活动宣传 尤其适合先出灵感再定稿的时候。" },
+
+        { name: "Runway", cat: "创意表达", url: "https://runwayml.com/", 
+          intro: "一个更偏 AI 视频生成和视频编辑的创作平台", 
+          highlight: "它不是单纯帮你剪片子,而是,文本生成视频、抠像和特效能力强。脚本、镜头和特效这几步能被明显压缩到一起。", 
+          steps: "先写清镜头描述或上传素材;先跑短片段看风格对不对,再做长视频;最后一定要自己过一遍节奏和字幕。", 
+          scenarios: "适合课程展示、产品demo、宣传短片,尤其适合“要有视频但没太多后期时间的情况。" },
+
+        { name: "ElevenLabs", cat: "创意表达", url: "https://elevenlabs.io/", 
+          intro: "一个拿来做配音、旁白和多语种语音合成很顺手的工具。", 
+          highlight: "语音自然度高,多语种输出稳定。声音自然很多,不像传统TTS 那么硬。", 
+          steps: "先准备好脚本,再选声音和语速;重要内容先生成一小段试听,确认停顿和情绪没问题,再一次性导出全段。", 
+          scenarios: "适合视频旁白、演示配音、播客试做,不太适合直接替代真人采访类内容。" },
+
+        { name: "Wolfram Alpha", cat: "计算引擎", url: "https://www.wolframalpha.com/", 
+          intro: "一个更像“会算、会推、会查公式”的知识计算引擎。", 
+          highlight: "它强的不是聊天感,而是,复杂公式求解、单位换算和步骤展示很强。算得准、步骤清楚,理工科同学会特别有感觉。", 
+          steps: "把问题直接写成公式或自然语言都行;先看结果,再点步骤;重要作业别只抄答案,顺手把推导过程也看懂。", 
+          scenarios: "适合理工科作业、建模、单位换算和快速验算,尤其适合“我知道怎么算但想先核一下”的时候。" }
+    ];
+
+    const grid = document.getElementById('grid');
+    const filterBar = document.getElementById('filterBar');
+    const search = document.getElementById('search');
+    const cats = ['全部', ...new Set(tools.map(t => t.cat))];
+
+    // 初始化 API 缓存
+    window.onload = () => {
+        const savedKey = localStorage.getItem('ucas_api_key');
+        const savedUrl = localStorage.getItem('ucas_api_url');
+        const savedModel = localStorage.getItem('ucas_model_name');
+        let hasCache = false;
+        
+        if(savedKey) { document.getElementById('apiKey').value = savedKey; hasCache = true; }
+        if(savedUrl) { document.getElementById('apiUrl').value = savedUrl; hasCache = true; }
+        if(savedModel) { document.getElementById('modelName').value = savedModel; hasCache = true; }
+        
+        if(hasCache) {
+            const tip = document.getElementById('cacheTip');
+            tip.style.display = 'block';
+            setTimeout(() => tip.style.display = 'none', 3000);
+        }
+    };
+
+    function render(f = '全部', q = '') {
+        grid.innerHTML = '';
+        const filtered = tools.filter(t => 
+            (f === '全部' || t.cat === f) && 
+            (t.name.toLowerCase().includes(q.toLowerCase()) || 
+             t.intro.toLowerCase().includes(q.toLowerCase()) ||
+             t.scenarios.toLowerCase().includes(q.toLowerCase()))
+        );
+        filtered.forEach(t => {
+            const div = document.createElement('div');
+            div.className = 'card';
+            div.innerHTML = `<div class="card-cat">${t.cat}</div><h3 class="card-title">${t.name}</h3><div class="card-desc">${t.intro}</div><div class="card-btns"><button class="btn btn-detail" onclick="show('${t.name}')">详细内容</button><a href="${t.url}" target="_blank" class="btn btn-main">直接进入</a></div>`;
+            grid.appendChild(div);
+        });
+    }
+
+    cats.forEach(c => {
+        const b = document.createElement('button');
+        b.className = 'filter-btn' + (c === '全部' ? ' active' : '');
+        b.innerText = c;
+        b.onclick = () => { document.querySelectorAll('.filter-btn').forEach(x => x.classList.remove('active')); b.classList.add('active'); render(c, search.value); };
+        filterBar.appendChild(b);
+    });
+
+    search.oninput = (e) => render(document.querySelector('.filter-btn.active').innerText, e.target.value);
+
+    function show(n) {
+        const t = tools.find(x => x.name === n);
+        document.getElementById('m-title').innerText = t.name;
+        document.getElementById('m-intro').innerText = t.intro;
+        document.getElementById('m-hl').innerText = t.highlight;
+        document.getElementById('m-steps').innerText = t.steps;
+        document.getElementById('m-sc').innerText = t.scenarios;
+        document.getElementById('m-link').href = t.url;
+        document.getElementById('modal').style.display = 'flex';
+    }
+
+    document.getElementById('close').onclick = () => document.getElementById('modal').style.display = 'none';
+    window.onclick = (e) => { if(e.target === document.getElementById('modal')) document.getElementById('modal').style.display = 'none'; };
+
+    async function callAI() {
+        const url = document.getElementById('apiUrl').value;
+        const key = document.getElementById('apiKey').value;
+        const model = document.getElementById('modelName').value;
+        const q = document.getElementById('chatInput').value;
+        const out = document.getElementById('aiOut');
+        const btn = document.getElementById('aiBtn');
+
+        if(!key || !q) { out.innerText = "错误：请提供 API Key 和详细的需求描述。"; return; }
+        
+        // 保存缓存
+        localStorage.setItem('ucas_api_url', url);
+        localStorage.setItem('ucas_api_key', key);
+        localStorage.setItem('ucas_model_name', model);
+
+        btn.innerText = "请求中...";
+        btn.disabled = true;
+        out.innerText = "正在分析全库工具并匹配最佳方案...";
+        
+        try {
+            const r = await fetch(url, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${key}` },
+                body: JSON.stringify({ 
+                    model: model, 
+                    messages: [
+                        { role: "system", content: "你是一个冷静的工具导航专家。库中包含: " + tools.map(t=>t.name + " (" + t.scenarios + ")").join("; ") + "。请基于用户的需求，从库中推荐1-2个具体工具并依据其适合场景给出专业理由。禁止废话。" }, 
+                        { role: "user", content: q }
+                    ] 
+                })
+            });
+            const d = await r.json();
+            if(d.error) throw new Error(d.error.message || "未知接口错误");
+            out.innerText = d.choices ? d.choices[0].message.content : "接口调用异常，请确认Key和Endpoint配置。";
+        } catch(e) { out.innerText = "调用失败: " + e.message; }
+        finally { btn.innerText = "获取匹配建议"; btn.disabled = false; }
+    }
+
+    render();
+</script>
+</body>
+</html>

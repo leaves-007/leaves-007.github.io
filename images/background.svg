@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f7f8fb"/>
+      <stop offset="0.52" stop-color="#f4e6e2"/>
+      <stop offset="1" stop-color="#e8c8c4"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#d76848"/>
+      <stop offset="1" stop-color="#8d1f2b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1100" fill="url(#sky)"/>
+  <g opacity="0.18">
+    <path fill="url(#leaf)" d="M1192 188c40 83 88 132 171 141-54 39-68 92-45 165-59-27-107-18-149 35-9-68-39-108-97-134 71-17 109-86 120-207Z"/>
+    <path fill="url(#leaf)" d="M268 712c29 61 65 97 126 104-40 29-50 68-33 122-43-20-79-13-110 26-7-50-29-80-72-99 52-13 80-64 89-153Z"/>
+    <path fill="url(#leaf)" d="M1338 762c23 48 51 77 98 82-31 23-39 53-26 96-34-15-63-10-87 21-5-39-23-63-56-78 41-10 63-50 71-121Z"/>
+  </g>
+  <path d="M0 950c222-86 453-104 692-52 259 56 557 51 908-57v259H0Z" fill="#fff" opacity="0.26"/>
+</svg>
