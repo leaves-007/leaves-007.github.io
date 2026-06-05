@@ -371,7 +371,7 @@ html {
 <div class="quiz-meta"><div class="meta-card"><strong id="wrongbook-stat-count">0</strong><span>当前错题本</span></div><a class="meta-card meta-card-link" href="核电厂总练习题.html"><strong>返回</strong><span>返回总题页</span></a></div>
 <div class="wrongbook-box"><strong>错题目录：</strong><span id="wrongbook-count">0</span><div class="wrongbook-list" id="wrongbook-list"></div></div>
 <div id="score-box"><div class="score-num" id="score-num">0 / 0</div><div class="score-label">自动判分成绩</div><div id="score-detail" style="margin-top:8px;color:var(--ink-light)"></div></div>
-<div class="quiz-toolbar no-print"><button class="primary" onclick="gradeAll()">提交判分</button><button onclick="window.location.href='核电厂总练习题.html'">返回总题页</button><button onclick="clearWrongbook()">清空错题本</button><button onclick="resetPageState()">重置本页</button></div>
+<div class="quiz-toolbar no-print"><button class="primary" onclick="gradeAll()">提交判分</button><button onclick="window.location.href='核电厂总练习题.html'">返回总题页</button><button onclick="resetQuizProgress()">重新刷题</button><button onclick="clearWrongbook()">清空错题本</button><button onclick="resetPageState()">重置本页</button></div>
 <div id="questions-container"></div>
 
 <script>
@@ -383,7 +383,9 @@ var PAGE_MODE = "wrongbook" || 'quiz';
 var PRACTICE_PAGE_HREF = "核电厂总练习题.html" || '';
 var WRONGBOOK_TITLE = "核电厂总练习题" || TITLE;
 var WRONGBOOK_KEY = 'wrongbook::' + WRONGBOOK_TITLE;
+var PROGRESS_KEY = 'progress::' + TITLE;
 var wrongbook = loadWrongbook();
+var progressState = loadProgress();
 var filterFavoritesOnly = false;
 
 function escapeHtml(text) {
@@ -414,6 +416,291 @@ function saveWrongbook() {
   refreshWrongbookPanel();
 }
 
+function loadProgress() {
+  try {
+    var raw = localStorage.getItem(PROGRESS_KEY);
+    return raw ? JSON.parse(raw) : null;
+  } catch (err) {
+    console.error('load progress failed', err);
+    return null;
+  }
+}
+
+function saveProgress(state) {
+  try {
+    progressState = state || captureProgressState();
+    localStorage.setItem(PROGRESS_KEY, JSON.stringify(progressState));
+  } catch (err) {
+    console.error('save progress failed', err);
+  }
+}
+
+function clearProgress() {
+  progressState = null;
+  try {
+    localStorage.removeItem(PROGRESS_KEY);
+  } catch (err) {
+    console.error('clear progress failed', err);
+  }
+}
+
+function clearWrongbookState() {
+  wrongbook = {};
+  try {
+    localStorage.removeItem(WRONGBOOK_KEY);
+  } catch (err) {
+    console.error('clear wrongbook failed', err);
+  }
+}
+
+function getVisibleQuestionIds() {
+  var cards = document.querySelectorAll('.q-card[data-qid]');
+  var ids = [];
+  for (var i = 0; i < cards.length; i++) {
+    ids.push(cards[i].getAttribute('data-qid'));
+  }
+  return ids;
+}
+
+function getActiveQuestions() {
+  if (PAGE_MODE !== 'wrongbook') {
+    return Q;
+  }
+
+  var visibleIds = progressState && Array.isArray(progressState.visibleQuestionIds)
+    ? progressState.visibleQuestionIds
+    : null;
+
+  if (visibleIds && visibleIds.length) {
+    var byId = {};
+    for (var i = 0; i < Q.length; i++) {
+      byId[Q[i].id] = Q[i];
+    }
+    var restored = [];
+    for (var j = 0; j < visibleIds.length; j++) {
+      if (byId[visibleIds[j]]) {
+        restored.push(byId[visibleIds[j]]);
+      }
+    }
+    if (restored.length) {
+      return restored;
+    }
+  }
+
+  var activeQuestions = [];
+  for (var x = 0; x < Q.length; x++) {
+    if (wrongbook[Q[x].id]) {
+      activeQuestions.push(Q[x]);
+    }
+  }
+  return activeQuestions;
+}
+
+function areInputsDisabled() {
+  var input = document.querySelector('#questions-container input');
+  if (input) {
+    return !!input.disabled;
+  }
+  var textarea = document.querySelector('#questions-container textarea');
+  return textarea ? !!textarea.disabled : false;
+}
+
+function setInputsDisabled(disabled) {
+  var inputs = document.querySelectorAll('#questions-container input');
+  for (var i = 0; i < inputs.length; i++) {
+    inputs[i].disabled = disabled;
+  }
+  var textareas = document.querySelectorAll('.q-textarea');
+  for (var j = 0; j < textareas.length; j++) {
+    textareas[j].disabled = disabled;
+  }
+}
+
+function captureProgressState() {
+  var state = {
+    filterFavoritesOnly: filterFavoritesOnly,
+    visibleQuestionIds: getVisibleQuestionIds(),
+    inputsDisabled: areInputsDisabled(),
+    scrollY: window.pageYOffset || window.scrollY || 0,
+    scoreBox: {
+      visible: false,
+      scoreNum: '',
+      scoreDetail: ''
+    },
+    questions: {}
+  };
+
+  var scoreBox = document.getElementById('score-box');
+  if (scoreBox) {
+    state.scoreBox.visible = scoreBox.style.display === 'block';
+    var scoreNum = document.getElementById('score-num');
+    var scoreDetail = document.getElementById('score-detail');
+    state.scoreBox.scoreNum = scoreNum ? scoreNum.textContent : '';
+    state.scoreBox.scoreDetail = scoreDetail ? scoreDetail.textContent : '';
+  }
+
+  var cards = document.querySelectorAll('.q-card[data-qid]');
+  for (var i = 0; i < cards.length; i++) {
+    var card = cards[i];
+    var qid = card.getAttribute('data-qid');
+    var stateItem = {
+      cardClassName: card.className,
+      checkedValues: [],
+      textValue: '',
+      resultVisible: false,
+      badgeClassName: '',
+      badgeText: '',
+      answerText: '',
+      sourceOpen: false,
+      optionClassNames: {}
+    };
+
+    var checked = document.querySelectorAll('input[name="' + qid + '"]:checked');
+    for (var j = 0; j < checked.length; j++) {
+      stateItem.checkedValues.push(checked[j].value);
+    }
+
+    var textarea = document.getElementById('text-' + qid);
+    if (textarea) {
+      stateItem.textValue = textarea.value;
+    }
+
+    var labels = card.querySelectorAll('.option');
+    for (var k = 0; k < labels.length; k++) {
+      if (labels[k].id) {
+        stateItem.optionClassNames[labels[k].id] = labels[k].className;
+      }
+    }
+
+    var result = document.getElementById('result-' + qid);
+    if (result) {
+      stateItem.resultVisible = result.style.display === 'block';
+    }
+
+    var badge = document.getElementById('badge-' + qid);
+    if (badge) {
+      stateItem.badgeClassName = badge.className;
+      stateItem.badgeText = badge.textContent;
+    }
+
+    var answer = document.getElementById('answer-' + qid);
+    if (answer) {
+      stateItem.answerText = answer.textContent;
+    }
+
+    var source = document.getElementById('src-' + qid);
+    if (source) {
+      stateItem.sourceOpen = !!source.open;
+    }
+
+    state.questions[qid] = stateItem;
+  }
+
+  return state;
+}
+
+function restoreProgressState() {
+  if (!progressState || !progressState.questions) {
+    return;
+  }
+
+  filterFavoritesOnly = !!progressState.filterFavoritesOnly;
+
+  var questionStates = progressState.questions || {};
+  var ids = Object.keys(questionStates);
+  for (var i = 0; i < ids.length; i++) {
+    var qid = ids[i];
+    var item = questionStates[qid];
+    var card = document.getElementById('card-' + qid);
+    if (!card || !item) {
+      continue;
+    }
+
+    if (item.cardClassName) {
+      card.className = item.cardClassName;
+    }
+
+    var inputs = document.querySelectorAll('input[name="' + qid + '"]');
+    for (var j = 0; j < inputs.length; j++) {
+      inputs[j].checked = item.checkedValues.indexOf(inputs[j].value) !== -1;
+    }
+
+    var textarea = document.getElementById('text-' + qid);
+    if (textarea && typeof item.textValue === 'string') {
+      textarea.value = item.textValue;
+    }
+
+    var optionIds = Object.keys(item.optionClassNames || {});
+    for (var k = 0; k < optionIds.length; k++) {
+      var optionEl = document.getElementById(optionIds[k]);
+      if (optionEl) {
+        optionEl.className = item.optionClassNames[optionIds[k]];
+      }
+    }
+
+    var result = document.getElementById('result-' + qid);
+    if (result) {
+      result.style.display = item.resultVisible ? 'block' : 'none';
+    }
+
+    var badge = document.getElementById('badge-' + qid);
+    if (badge) {
+      badge.className = item.badgeClassName || 'badge';
+      badge.textContent = item.badgeText || '';
+    }
+
+    var answer = document.getElementById('answer-' + qid);
+    if (answer) {
+      answer.textContent = item.answerText || '';
+    }
+
+    var source = document.getElementById('src-' + qid);
+    if (source) {
+      source.open = !!item.sourceOpen;
+    }
+  }
+
+  applyFavoritesFilter();
+  setInputsDisabled(!!progressState.inputsDisabled);
+
+  var scoreBox = document.getElementById('score-box');
+  if (scoreBox) {
+    scoreBox.style.display = progressState.scoreBox && progressState.scoreBox.visible ? 'block' : 'none';
+  }
+  var scoreNum = document.getElementById('score-num');
+  if (scoreNum && progressState.scoreBox) {
+    scoreNum.textContent = progressState.scoreBox.scoreNum || '0 / 0';
+  }
+  var scoreDetail = document.getElementById('score-detail');
+  if (scoreDetail && progressState.scoreBox) {
+    scoreDetail.textContent = progressState.scoreBox.scoreDetail || '';
+  }
+
+  if (typeof progressState.scrollY === 'number') {
+    var top = progressState.scrollY;
+    setTimeout(function() {
+      window.scrollTo(0, top);
+    }, 0);
+  }
+}
+
+function attachProgressListeners() {
+  var inputs = document.querySelectorAll('#questions-container input');
+  for (var i = 0; i < inputs.length; i++) {
+    inputs[i].addEventListener('change', saveProgress);
+  }
+
+  var textareas = document.querySelectorAll('.q-textarea');
+  for (var j = 0; j < textareas.length; j++) {
+    textareas[j].addEventListener('input', saveProgress);
+  }
+
+  var details = document.querySelectorAll('#questions-container details.q-source');
+  for (var k = 0; k < details.length; k++) {
+    details[k].addEventListener('toggle', saveProgress);
+  }
+}
+
 function summarizeWrongbookQuestion(text) {
   return String(text || '')
     .replace(/\s+/g, ' ')
@@ -427,18 +714,10 @@ function build() {
     return;
   }
 
-  var activeQuestions = Q;
-  if (PAGE_MODE === 'wrongbook') {
-    activeQuestions = [];
-    for (var x = 0; x < Q.length; x++) {
-      if (wrongbook[Q[x].id]) {
-        activeQuestions.push(Q[x]);
-      }
-    }
-  }
+  var activeQuestions = getActiveQuestions();
 
   if (PAGE_MODE === 'wrongbook' && !activeQuestions.length) {
-    container.innerHTML = '<div class="wrongbook-empty">当前错题本为空。返回总题页做题后，自动判错或手动收藏的题目会出现在这里。</div>';
+    container.innerHTML = '<div class="wrongbook-empty">\u5f53\u524d\u9519\u9898\u672c\u4e3a\u7a7a\u3002\u8fd4\u56de\u603b\u9898\u9875\u505a\u9898\u540e\uff0c\u81ea\u52a8\u5224\u9519\u6216\u624b\u52a8\u6536\u85cf\u7684\u9898\u76ee\u4f1a\u51fa\u73b0\u5728\u8fd9\u91cc\u3002</div>';
     refreshWrongbookPanel();
     return;
   }
@@ -457,6 +736,8 @@ function build() {
   container.innerHTML = html;
   applyFavoritesFilter();
   refreshWrongbookPanel();
+  restoreProgressState();
+  attachProgressListeners();
   if (window.MathJax && MathJax.typesetPromise) {
     MathJax.typesetPromise([container]).catch(function(err) {
       console.error('MathJax typeset error:', err);
@@ -534,6 +815,11 @@ function favoriteButtonText(qid) {
 }
 
 function toggleFavorite(qid) {
+  var preservedState = null;
+  if (PAGE_MODE === 'wrongbook') {
+    preservedState = captureProgressState();
+  }
+
   if (wrongbook[qid]) {
     delete wrongbook[qid];
   } else {
@@ -544,18 +830,30 @@ function toggleFavorite(qid) {
     button.textContent = favoriteButtonText(qid);
     button.classList.toggle('active', !!wrongbook[qid]);
   }
+
+  if (PAGE_MODE === 'wrongbook' && preservedState) {
+    delete preservedState.questions[qid];
+    preservedState.visibleQuestionIds = (preservedState.visibleQuestionIds || []).filter(function(id) {
+      return id !== qid;
+    });
+    progressState = preservedState;
+  }
+
   saveWrongbook();
   if (PAGE_MODE === 'wrongbook') {
     build();
+    saveProgress();
     return;
   }
   applyFavoritesFilter();
+  saveProgress();
 }
 
 function toggleSources(qid) {
   var details = document.getElementById('src-' + qid);
   if (details) {
     details.open = !details.open;
+    saveProgress();
   }
 }
 
@@ -725,6 +1023,8 @@ function gradeAll() {
       console.error('MathJax typeset error:', err);
     });
   }
+
+  saveProgress();
 }
 
 function updateWrongbookPanel() {
@@ -839,11 +1139,13 @@ function applyFavoritesFilter() {
 function showFavoritesOnly() {
   filterFavoritesOnly = true;
   applyFavoritesFilter();
+  saveProgress();
 }
 
 function showAllQuestions() {
   filterFavoritesOnly = false;
   applyFavoritesFilter();
+  saveProgress();
 }
 
 function clearWrongbook() {
@@ -851,19 +1153,33 @@ function clearWrongbook() {
   saveWrongbook();
   var buttons = document.querySelectorAll('[id^="fav-"]');
   for (var i = 0; i < buttons.length; i++) {
-    buttons[i].textContent = '收藏错题';
+    buttons[i].textContent = '\u6536\u85cf\u9519\u9898';
     buttons[i].classList.remove('active');
   }
   applyFavoritesFilter();
+  saveProgress();
+}
+
+function resetQuizProgress() {
+  filterFavoritesOnly = false;
+  clearProgress();
+  build();
 }
 
 function resetPageState() {
+  clearProgress();
+  clearWrongbookState();
   window.location.reload();
 }
 
-document.addEventListener('DOMContentLoaded', build);
+window.addEventListener('beforeunload', function() {
+  saveProgress();
+});
+
 if (document.readyState === 'interactive' || document.readyState === 'complete') {
   build();
+} else {
+  document.addEventListener('DOMContentLoaded', build);
 }
 
 </script>
