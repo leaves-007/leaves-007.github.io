@@ -94,7 +94,7 @@
       meta.appendChild(shared.createElement("span", "chip", `章节限定：${pageConfig.chapterTitle}`));
       meta.appendChild(shared.createElement("span", "chip", `本章题数：${scopedQuestions.length}`));
     } else {
-      title.textContent = "毛概离线交互式题库";
+      title.textContent = "毛概交互式题库";
       subtitle.textContent = "全部题目来自当前目录下的 Excel 题库，支持离线刷题、章节拆页、错题本、收藏、统计和题库元数据导航。";
       meta.appendChild(shared.createElement("span", "chip", `总题数：${bank.totalQuestions}`));
       meta.appendChild(shared.createElement("span", "chip", `章节数：${bank.chapters.length}`));
@@ -837,7 +837,7 @@
       dom.heroMeta.appendChild(shared.createElement("span", "chip", `章节限定：${pageConfig.chapterTitle}`));
       dom.heroMeta.appendChild(shared.createElement("span", "chip", `本章题数：${scopedQuestions.length}`));
     } else {
-      dom.heroTitle.textContent = "毛概离线交互式题库";
+      dom.heroTitle.textContent = "毛概交互式题库";
       dom.heroSubtitle.remove();
       dom.heroMeta.appendChild(shared.createElement("span", "chip", `总题数：${bank.totalQuestions}`));
       dom.heroMeta.appendChild(shared.createElement("span", "chip", `章节数：${bank.chapters.length}`));
