@@ -838,7 +838,7 @@
       dom.heroMeta.appendChild(shared.createElement("span", "chip", `本章题数：${scopedQuestions.length}`));
     } else {
       dom.heroTitle.textContent = "毛概离线交互式题库";
-      dom.heroSubtitle.textContent = "这里是独立练习区。题目内容、解析规则、去重逻辑、判分逻辑和错题本存储语义保持不变；只优化移动端性能与移动端操作区。";
+      dom.heroSubtitle.remove();
       dom.heroMeta.appendChild(shared.createElement("span", "chip", `总题数：${bank.totalQuestions}`));
       dom.heroMeta.appendChild(shared.createElement("span", "chip", `章节数：${bank.chapters.length}`));
       dom.heroMeta.appendChild(shared.createElement("span", "chip", `题型：${bank.questionTypes.join(" / ")}`));
@@ -1460,4 +1460,3 @@
     return pageConfig.pageType === "chapter" ? `${pageConfig.chapterTitle} · ` : "";
   }
 })();
-
