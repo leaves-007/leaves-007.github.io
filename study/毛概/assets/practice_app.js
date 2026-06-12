@@ -1460,3 +1460,4 @@
     return pageConfig.pageType === "chapter" ? `${pageConfig.chapterTitle} · ` : "";
   }
 })();
+
