@@ -385,6 +385,176 @@ html {
   color: var(--ink-light);
 }
 
+.hero-metrics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 12px;
+  margin: 18px 0 24px;
+}
+.hero-metric {
+  padding: 14px 16px;
+  border: 1px solid var(--card-border);
+  border-radius: 14px;
+  background: var(--card-bg);
+  box-shadow: 0 10px 24px rgba(132, 94, 31, 0.06);
+}
+.hero-metric strong {
+  display: block;
+  margin-bottom: 4px;
+  font-size: 1.8em;
+}
+.hero-metric span {
+  color: var(--ink-light);
+  font-size: 0.92em;
+}
+.focus-module {
+  margin: 28px 0 18px;
+  padding: 18px;
+  border: 1px solid #ead7b4;
+  border-radius: 18px;
+  background: linear-gradient(180deg, #fffaf0 0%, #fff6e4 100%);
+  box-shadow: 0 14px 32px rgba(132, 94, 31, 0.08);
+}
+.focus-module h2 {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+.focus-module p {
+  margin: 8px 0 0;
+  color: var(--ink-light);
+}
+.focus-module .quiz-meta {
+  margin: 16px 0 0;
+}
+.focus-module-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+.focus-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.focus-chip-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 10px;
+  margin-top: 16px;
+}
+.focus-chip {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 6px;
+  width: 100%;
+  padding: 12px 14px;
+  border: 1px solid #d9c8a8;
+  border-radius: 12px;
+  background: #fffdf7;
+  color: var(--ink);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: transform 0.12s ease, border-color 0.12s ease, box-shadow 0.12s ease, background 0.12s ease;
+}
+.focus-chip:hover {
+  transform: translateY(-1px);
+  border-color: #c79b4b;
+  box-shadow: 0 10px 20px rgba(132, 94, 31, 0.12);
+}
+.focus-chip.active {
+  border-color: #d97706;
+  background: #fff1cf;
+  box-shadow: 0 12px 22px rgba(217, 119, 6, 0.16);
+}
+.focus-chip-label {
+  font-weight: 700;
+  line-height: 1.45;
+}
+.focus-chip-count {
+  font-size: 0.84em;
+  color: var(--ink-light);
+}
+.focus-chip-action {
+  width: auto;
+  min-width: 132px;
+}
+.focus-chip-primary {
+  background: #fff2d8;
+  border-color: #d8b36a;
+}
+.focus-chip-clear {
+  background: transparent;
+}
+.study-toolbar {
+  margin: 20px 0;
+  padding: 16px 18px;
+  border: 1px solid #ead7b4;
+  border-radius: 16px;
+  background: #fff9ef;
+  box-shadow: 0 10px 24px rgba(132, 94, 31, 0.06);
+}
+.study-toolbar-title {
+  margin-bottom: 10px;
+  font-size: 1em;
+  font-weight: 700;
+}
+.section-nav {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 10px;
+  margin: 18px 0 24px;
+}
+.section-jump {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 10px 12px;
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  background: #fffdf7;
+  color: var(--ink);
+  text-decoration: none;
+  transition: transform 0.12s ease, border-color 0.12s ease, box-shadow 0.12s ease;
+}
+.section-jump:hover {
+  transform: translateY(-1px);
+  border-color: var(--accent);
+  box-shadow: 0 10px 18px rgba(37, 99, 235, 0.08);
+  text-decoration: none;
+}
+.section-jump strong {
+  font-size: 1.12em;
+}
+.section-jump span {
+  color: var(--ink-light);
+  font-size: 0.9em;
+}
+
+@media (max-width: 640px) {
+  body {
+    padding: 20px 14px 48px;
+  }
+  .focus-toolbar {
+    width: 100%;
+  }
+  .focus-chip-action {
+    flex: 1 1 calc(50% - 5px);
+    min-width: 0;
+  }
+  .study-toolbar .quiz-toolbar {
+    justify-content: flex-start;
+  }
+  .study-toolbar .quiz-toolbar button {
+    flex: 1 1 calc(50% - 5px);
+  }
+}
+
 </style>
 </head>
 <body>
@@ -396,10 +566,8 @@ html {
 <hr class="header-divider">
 
 <h1>核电厂总练习题</h1>
-<p class="hero-subtitle">Study overview / review by question type with separate wrongbook access.</p>
 <p style="text-align:center;color:var(--ink-light)">来源文件 4 份，原始题目 3720 道，去重后 803 道。</p>
 <div class="hero-metrics"><div class="hero-metric"><strong>803</strong><span>去重后总题数</span></div><div class="hero-metric"><strong>544</strong><span>可自动判分</span></div><div class="hero-metric"><strong>7</strong><span>题型分区</span></div><div class="hero-metric"><strong>121</strong><span>无标准答案主观题</span></div></div>
-</section>
 <div class="quiz-meta"><a class="meta-card meta-card-link" href="#questions-container"><strong>803</strong><span>去重后总题数</span></a><a class="meta-card meta-card-link" href="#section-choice"><strong>544</strong><span>可自动判分</span></a><a class="meta-card meta-card-link" href="核电厂错题本.html"><strong id="wrongbook-stat-count">0</strong><span>错题本</span></a><a class="meta-card meta-card-link" href="核电厂重点版题库.html"><strong>232</strong><span>重点题</span></a><a class="meta-card meta-card-link" href="#card-short-98e4b30b0702"><strong>121</strong><span>无标准答案主观题</span></a><a class="meta-card meta-card-link" href="#section-choice"><strong>233</strong><span>一、单选题</span></a><a class="meta-card meta-card-link" href="#section-multi"><strong>141</strong><span>二、多选题</span></a><a class="meta-card meta-card-link" href="#section-fill"><strong>102</strong><span>三、填空题</span></a><a class="meta-card meta-card-link" href="#section-tf"><strong>68</strong><span>四、判断题</span></a><a class="meta-card meta-card-link" href="#section-short"><strong>237</strong><span>五、简答题</span></a><a class="meta-card meta-card-link" href="#section-term"><strong>13</strong><span>六、名词解释</span></a><a class="meta-card meta-card-link" href="#section-essay"><strong>9</strong><span>七、论述题</span></a></div>
 <section class="focus-module" id="focus-module"><h2>重点版题库</h2><p>依据《核电厂设备_录音转写稿_章节题型版》中的章节与题型重点筛题</p><div class="quiz-meta"><div class="meta-card"><strong>232</strong><span>重点题数</span></div><div class="meta-card"><strong>7</strong><span>覆盖重点章节</span></div></div><div class="focus-chip-row"><button class="focus-chip" data-focus-chip="" type="button" onclick="showFocusOnly()">只看重点题</button><button class="focus-chip" data-focus-chip="第二章 一回路与反应堆主要设备" type="button" onclick="showFocusChapter('第二章 一回路与反应堆主要设备')">第二章 一回路与反应堆主要设备 / 86</button><button class="focus-chip" data-focus-chip="第六章 专设安全设施与安全壳" type="button" onclick="showFocusChapter('第六章 专设安全设施与安全壳')">第六章 专设安全设施与安全壳 / 63</button><button class="focus-chip" data-focus-chip="第四章 二回路与常规岛主流程" type="button" onclick="showFocusChapter('第四章 二回路与常规岛主流程')">第四章 二回路与常规岛主流程 / 13</button><button class="focus-chip" data-focus-chip="第一章 绪论与核电基础" type="button" onclick="showFocusChapter('第一章 绪论与核电基础')">第一章 绪论与核电基础 / 16</button><button class="focus-chip" data-focus-chip="第三章 一回路辅助系统" type="button" onclick="showFocusChapter('第三章 一回路辅助系统')">第三章 一回路辅助系统 / 42</button><button class="focus-chip" data-focus-chip="第五章 凝结水与给水系统" type="button" onclick="showFocusChapter('第五章 凝结水与给水系统')">第五章 凝结水与给水系统 / 9</button><button class="focus-chip" data-focus-chip="第十三章 放射性来源与废物管理" type="button" onclick="showFocusChapter('第十三章 放射性来源与废物管理')">第十三章 放射性来源与废物管理 / 3</button><button class="focus-chip" type="button" onclick="showAllQuestions()">清除重点筛选</button></div></section>
 <div class="missing-reference-note"><strong>说明：</strong>共有 121 道主观题在源文档中没有标准答案，主页面已用橙色标记。 <a href="核电厂无标准答案主观题清单.html">打开单独清单</a></div>
@@ -414,7 +582,6 @@ html {
   </div>
 </div>
 
-<div class="quiz-toolbar no-print"><button class="primary" onclick="gradeAll()">提交判分</button><button onclick="showFavoritesOnly()">只看错题</button><button onclick="showAllQuestions()">显示全部</button><button onclick="window.location.href='核电厂错题本.html'">打开错题本</button><button onclick="resetQuizProgress()">重新刷题</button><button onclick="clearWrongbook()">清空错题本</button><button onclick="resetPageState()">重置本页</button></div>
 <div id="questions-container" aria-busy="true"></div>
 
 <script>
@@ -434,6 +601,8 @@ var scrollSaveTimer = null;
 var renderTaskToken = 0;
 var windowProgressListenersAttached = false;
 var filterFavoritesOnly = false;
+var focusFilterMode = 'all';
+var activeFocusChapter = '';
 
 function escapeHtml(text) {
   return String(text || '')
@@ -644,6 +813,8 @@ function setInputsDisabled(disabled) {
 function captureProgressState() {
   var state = {
     filterFavoritesOnly: filterFavoritesOnly,
+    focusFilterMode: focusFilterMode,
+    activeFocusChapter: activeFocusChapter,
     visibleQuestionIds: getVisibleQuestionIds(),
     inputsDisabled: areInputsDisabled(),
     scrollY: window.pageYOffset || window.scrollY || 0,
@@ -730,6 +901,8 @@ function restoreProgressState() {
   }
 
   filterFavoritesOnly = !!progressState.filterFavoritesOnly;
+  focusFilterMode = progressState.focusFilterMode || 'all';
+  activeFocusChapter = progressState.activeFocusChapter || '';
 
   var questionStates = progressState.questions || {};
   var ids = Object.keys(questionStates);
@@ -1324,7 +1497,28 @@ function applyFavoritesFilter() {
       continue;
     }
     var hidden = filterFavoritesOnly && !wrongbook[Q[i].id];
+    if (!hidden && focusFilterMode !== 'all') {
+      var assignment = Q[i].focus_assignment;
+      var chapter = assignment && assignment.chapter ? assignment.chapter : '';
+      if (focusFilterMode === 'focus' && !chapter) {
+        hidden = true;
+      }
+      if (focusFilterMode === 'chapter' && chapter !== activeFocusChapter) {
+        hidden = true;
+      }
+    }
     card.classList.toggle('hidden', hidden);
+  }
+  toggleFocusChipState();
+}
+
+function toggleFocusChipState() {
+  var chips = document.querySelectorAll('[data-focus-chip]');
+  for (var i = 0; i < chips.length; i++) {
+    var chipValue = chips[i].getAttribute('data-focus-chip') || '';
+    var isActive = (focusFilterMode === 'focus' && chipValue === '')
+      || (focusFilterMode === 'chapter' && chipValue === activeFocusChapter);
+    chips[i].classList.toggle('active', isActive);
   }
 }
 
@@ -1334,8 +1528,24 @@ function showFavoritesOnly() {
   saveProgress();
 }
 
+function showFocusOnly() {
+  focusFilterMode = 'focus';
+  activeFocusChapter = '';
+  applyFavoritesFilter();
+  saveProgress();
+}
+
+function showFocusChapter(chapter) {
+  focusFilterMode = 'chapter';
+  activeFocusChapter = chapter || '';
+  applyFavoritesFilter();
+  saveProgress();
+}
+
 function showAllQuestions() {
   filterFavoritesOnly = false;
+  focusFilterMode = 'all';
+  activeFocusChapter = '';
   applyFavoritesFilter();
   saveProgress();
 }
@@ -1354,6 +1564,8 @@ function clearWrongbook() {
 
 function resetQuizProgress() {
   filterFavoritesOnly = false;
+  focusFilterMode = 'all';
+  activeFocusChapter = '';
   clearProgress();
   build();
 }
