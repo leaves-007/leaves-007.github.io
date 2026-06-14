@@ -296,67 +296,6 @@ div.toc li { margin: 3px 0; font-size: 0.95em; }
   border-left: 3px solid #d97706;
   box-shadow: 0 8px 20px rgba(217, 119, 6, 0.08);
 }
-.wrongbook-box {
-  margin: 16px 0;
-  padding: 12px 14px;
-  background: #fff8ed;
-  border: 1px solid #f2d7aa;
-  border-radius: var(--radius);
-}
-.wrongbook-section {
-  margin: 18px 0 22px;
-  padding: 14px;
-  background: #fff8ed;
-  border: 1px solid #f2d7aa;
-  border-radius: var(--radius);
-}
-.wrongbook-section-head {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 12px;
-  margin-bottom: 10px;
-}
-.wrongbook-section-head strong {
-  font-size: 1.02em;
-}
-.wrongbook-section-list {
-  display: grid;
-  gap: 10px;
-  margin-top: 12px;
-}
-.wrongbook-entry {
-  padding: 10px 12px;
-  background: #fffdf7;
-  border: 1px solid #edd9b0;
-  border-radius: 4px;
-}
-.wrongbook-entry-meta {
-  margin-bottom: 4px;
-  color: var(--ink-light);
-  font-size: 0.84em;
-}
-.wrongbook-entry-link {
-  display: block;
-  color: var(--ink);
-  text-decoration: none;
-  font-weight: 600;
-}
-.wrongbook-empty {
-  color: var(--ink-light);
-  font-size: 0.92em;
-}
-.wrongbook-list a {
-  display: inline-block;
-  margin: 0 8px 8px 0;
-  padding: 4px 10px;
-  background: #ffffff;
-  border: 1px solid #e6d7b7;
-  border-radius: 999px;
-  color: var(--ink);
-  text-decoration: none;
-  font-size: 0.9em;
-}
 .card-tools {
   display: flex;
   gap: 8px;
@@ -413,10 +352,10 @@ div.toc li { margin: 3px 0; font-size: 0.95em; }
 }
 .missing-reference-note {
   margin: 16px 0;
-  padding: 12px 14px;
-  border: 1px solid #f2d7aa;
-  border-radius: var(--radius);
-  background: #fff8ed;
+  padding: 16px 18px;
+  border: 1px solid rgba(143, 59, 46, 0.16);
+  border-radius: 16px;
+  background: rgba(255, 248, 238, 0.9);
 }
 .missing-reference-note a {
   font-weight: 600;
@@ -424,17 +363,121 @@ div.toc li { margin: 3px 0; font-size: 0.95em; }
 html {
   scroll-behavior: smooth;
 }
+#exampass-header,
+.header-divider {
+  display: none !important;
+}
+body {
+  max-width: none;
+  margin: 0;
+  padding: 28px 20px 56px;
+  background:
+    radial-gradient(circle at top left, rgba(200, 111, 91, 0.2), transparent 28%),
+    radial-gradient(circle at top right, rgba(36, 93, 111, 0.18), transparent 26%),
+    linear-gradient(180deg, #fbf7f1 0%, #f4efe7 56%, #e9dfd1 100%);
+}
+.page-shell {
+  width: min(1320px, 100%);
+  margin: 0 auto;
+  display: grid;
+  gap: 20px;
+}
+.hero {
+  position: relative;
+  overflow: hidden;
+  padding: 28px;
+  border-radius: 28px;
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.88), rgba(255, 247, 237, 0.9)),
+    rgba(255, 255, 255, 0.75);
+  box-shadow: 0 18px 50px rgba(83, 52, 28, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+}
+.hero::after {
+  content: "";
+  position: absolute;
+  inset: auto -40px -30px auto;
+  width: 220px;
+  height: 220px;
+  border-radius: 999px;
+  background: radial-gradient(circle, rgba(200, 111, 91, 0.3), transparent 68%);
+  pointer-events: none;
+}
+.hero-title {
+  margin: 10px 0 0;
+  font-family: "STZhongsong", "SimSun", "Songti SC", serif;
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  letter-spacing: 0.04em;
+  text-align: left;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+.hero-meta {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 12px;
+  border-radius: 999px;
+  background: rgba(143, 59, 46, 0.08);
+  color: #8f3b2e;
+  font-size: 0.92rem;
+}
+.layout-two {
+  display: grid;
+  grid-template-columns: minmax(280px, 360px) minmax(0, 1fr);
+  gap: 20px;
+  align-items: start;
+}
+.control-stack {
+  display: grid;
+  gap: 16px;
+}
+.panel,
+.list-card,
+.study-question-panel {
+  background: rgba(255, 252, 247, 0.94);
+  border: 1px solid rgba(255, 255, 255, 0.68);
+  box-shadow: 0 18px 50px rgba(83, 52, 28, 0.12);
+  border-radius: 20px;
+  backdrop-filter: blur(16px);
+}
+.panel,
+.list-card,
+.study-question-panel {
+  padding: 22px;
+}
+.section-title {
+  margin: 0 0 14px;
+  font-size: 1.18rem;
+}
+.section-caption {
+  color: #586574;
+  margin: 0 0 12px;
+}
 .study-shell {
   display: grid;
   gap: 18px;
 }
-.study-hero,
-.wrongbook-hero {
-  padding: 22px 20px;
-  border: 1px solid var(--card-border);
-  border-radius: 16px;
-  background: linear-gradient(135deg, #fff9ee 0%, #fffdf8 100%);
-  box-shadow: 0 10px 30px rgba(134, 94, 14, 0.08);
+.study-main-grid {
+  display: grid;
+  grid-template-columns: minmax(280px, 360px) minmax(0, 1fr);
+  gap: 18px;
+  align-items: start;
+}
+.study-side-panel,
+.study-question-panel {
+  display: grid;
+  gap: 14px;
+}
+.study-question-panel {
+  min-width: 0;
+  padding: 22px;
 }
 .hero-kicker {
   display: inline-flex;
@@ -442,58 +485,44 @@ html {
   gap: 8px;
   padding: 4px 10px;
   border-radius: 999px;
-  background: #fef3c7;
-  color: #92400e;
+  background: rgba(143, 59, 46, 0.08);
+  color: #8f3b2e;
   font-size: 0.82em;
   font-weight: 700;
 }
-.study-hero h1,
-.wrongbook-hero h1 {
-  margin: 12px 0 8px;
-  padding-bottom: 0;
-  border-bottom: none;
-  text-align: left;
-}
 .hero-subtitle {
-  margin: 0;
-  color: var(--ink-light);
+  margin: 12px 0 0;
+  color: #586574;
+  line-height: 1.7;
 }
 .hero-metrics {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-  gap: 10px;
-  margin-top: 16px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 20px;
 }
 .hero-metric {
-  padding: 12px 14px;
-  border-radius: 12px;
-  background: rgba(255, 255, 255, 0.75);
-  border: 1px solid rgba(214, 200, 168, 0.8);
+  min-width: 120px;
+  padding: 14px 16px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.74);
+  border: 1px solid rgba(121, 91, 53, 0.14);
 }
 .hero-metric strong {
   display: block;
-  font-size: 1.18em;
+  font-size: 1.3rem;
 }
 .study-toolbar {
-  padding: 14px;
-  border: 1px solid var(--card-border);
-  border-radius: 14px;
-  background: rgba(255, 253, 245, 0.9);
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  background: transparent;
 }
 .study-toolbar-title {
   margin: 0 0 10px;
-  font-size: 0.92em;
-  color: var(--ink-light);
+  font-size: 1rem;
+  color: #1f2933;
   font-weight: 700;
-}
-.study-toolbar.quiz-toolbar,
-.wrongbook-toolbar.quiz-toolbar {
-  justify-content: flex-start;
-  margin: 0;
-}
-.study-toolbar.quiz-toolbar button,
-.wrongbook-toolbar.quiz-toolbar button {
-  min-height: 40px;
 }
 .section-nav {
   display: flex;
@@ -506,8 +535,8 @@ html {
   gap: 8px;
   padding: 8px 14px;
   border-radius: 999px;
-  border: 1px solid #e4d7bf;
-  background: #fffdf8;
+  border: 1px solid rgba(36, 93, 111, 0.12);
+  background: rgba(255, 255, 255, 0.68);
   color: var(--ink);
   text-decoration: none;
   font-size: 0.9em;
@@ -525,14 +554,182 @@ html {
 .section-block > h2 {
   margin-top: 8px;
 }
+.question-stage {
+  display: grid;
+  gap: 12px;
+}
+.question-stage-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 16px;
+  border: 1px solid var(--card-border);
+  border-radius: 14px;
+  background: rgba(255, 253, 245, 0.92);
+}
+.question-stage-title {
+  display: grid;
+  gap: 4px;
+}
+.question-stage-title strong {
+  font-size: 1.02em;
+}
+.question-stage-title span {
+  color: var(--ink-light);
+  font-size: 0.9em;
+}
+.question-progress {
+  min-width: 220px;
+  display: grid;
+  gap: 8px;
+}
+.question-progress-meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 0.88em;
+  color: var(--ink-light);
+}
+.progress-shell {
+  width: 100%;
+  height: 10px;
+  border-radius: 999px;
+  background: #efe3c9;
+  overflow: hidden;
+}
+.progress-bar {
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, #d97706 0%, #f59e0b 100%);
+}
+.question-pager {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 12px 14px;
+  border: 1px solid var(--card-border);
+  border-radius: 14px;
+  background: rgba(255, 253, 245, 0.92);
+}
+.question-pager-meta {
+  color: var(--ink-light);
+  font-size: 0.9em;
+}
+.question-pager-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.question-pager-actions button {
+  font-size: 0.92em;
+  padding: 8px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--card-border);
+  background: #fffdf5;
+  cursor: pointer;
+}
+.question-pager-actions button:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
+.question-empty {
+  padding: 24px 18px;
+  border: 1px dashed #dbc8a4;
+  border-radius: 14px;
+  background: rgba(255, 251, 241, 0.9);
+  color: var(--ink-light);
+}
+.section-jump.is-active {
+  background: rgba(143, 59, 46, 0.1);
+  border-color: rgba(143, 59, 46, 0.24);
+  color: #8f3b2e;
+}
+.quiz-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  margin: 0;
+}
+.quiz-toolbar button {
+  appearance: none;
+  border: 1px solid rgba(36, 93, 111, 0.12);
+  border-radius: 999px;
+  padding: 11px 18px;
+  font: inherit;
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.68);
+  color: var(--ink);
+  transition: transform 0.18s ease, box-shadow 0.18s ease, opacity 0.18s ease;
+}
+.quiz-toolbar button:hover {
+  transform: translateY(-1px);
+}
+.quiz-toolbar button.primary {
+  background: linear-gradient(135deg, #8f3b2e, #c86f5b);
+  color: white;
+  box-shadow: 0 10px 22px rgba(143, 59, 46, 0.24);
+  border-color: transparent;
+}
+.quiz-meta {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 10px;
+  margin: 0;
+}
+.meta-card {
+  background: rgba(255, 252, 247, 0.94);
+  border: 1px solid rgba(255, 255, 255, 0.68);
+  box-shadow: 0 18px 50px rgba(83, 52, 28, 0.12);
+  border-radius: 20px;
+  padding: 14px 16px;
+}
+.meta-card strong {
+  display: block;
+  margin-top: 4px;
+  font-size: clamp(1.2rem, 3vw, 1.9rem);
+}
+.meta-card span {
+  color: #586574;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  word-break: break-word;
+}
+.meta-card-link {
+  text-decoration: none;
+}
+.meta-card-link:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 20px 52px rgba(83, 52, 28, 0.14);
+}
 @media (max-width: 768px) {
   body {
     padding: 16px 14px 88px;
   }
-  .study-hero,
-  .wrongbook-hero,
+  .page-shell {
+    gap: 16px;
+  }
+  .hero,
+  .panel,
+  .list-card,
+  .study-question-panel {
+    padding: 18px;
+    border-radius: 18px;
+    box-shadow: none;
+  }
+  .layout-two,
+  .study-main-grid {
+    grid-template-columns: 1fr;
+  }
+  .quiz-meta {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
   .study-toolbar,
-  .wrongbook-box,
   .focus-module,
   .q-card {
     box-shadow: none;
@@ -559,6 +756,14 @@ html {
     font-size: 0.9em;
     padding: 10px 12px;
   }
+  .question-stage-header,
+  .question-pager {
+    padding: 12px;
+  }
+  .question-progress {
+    min-width: 0;
+    width: 100%;
+  }
 }
 
 </style>
@@ -571,18 +776,24 @@ html {
 </header>
 <hr class="header-divider">
 
-<main class="study-shell">
-<section id="wrongbook-hero" class="wrongbook-hero">
-<span class="hero-kicker">Wrongbook Review</span>
-<h1>核电厂重点版题库_错题本</h1>
-<p class="hero-subtitle">Shared wrongbook for 核电厂重点版题库. Review, re-answer, or remove saved mistakes here.</p>
-<div class="hero-metrics"><div class="hero-metric"><strong id="wrongbook-count">0</strong><span>Saved items</span></div><div class="hero-metric"><strong>1</strong><span>Dedicated review page</span></div></div>
+<div class="page-shell">
+<section id="wrongbook-hero" class="hero">
+<span class="hero-kicker">错题本</span>
+<h1 class="hero-title">核电厂重点版题库_错题本</h1>
+<p class="hero-subtitle">这里集中重做和回看来自《核电厂重点版题库》的错题或手动收藏题，不再把错题目录塞回总题页。</p>
+<div class="hero-metrics"><div class="hero-metric"><strong id="wrongbook-count">0</strong><span>当前错题数</span></div><div class="hero-metric"><strong>1</strong><span>独立复盘界面</span></div></div>
 </section>
-<div class="quiz-meta"><div class="meta-card"><strong id="wrongbook-stat-count">0</strong><span>当前错题数</span></div><a class="meta-card meta-card-link" href="核电厂重点版题库.html"><strong>返回</strong><span>返回总题页</span></a></div>
-<div id="score-box"><div class="score-num" id="score-num">0 / 0</div><div class="score-label">Auto-graded score</div><div id="score-detail" style="margin-top:8px;color:var(--ink-light)"></div></div>
-<section class="study-toolbar wrongbook-toolbar no-print" id="wrongbook-actions"><div class="study-toolbar-title">Wrongbook Actions</div><div class="quiz-toolbar"><button class="primary" onclick="gradeAll()">Grade Now</button><button onclick="window.location.href='核电厂重点版题库.html'">Back to Practice</button><button onclick="clearWrongbook()">Clear Wrongbook</button><button onclick="resetPageState()">Reset Page</button></div></section>
+<div class="layout-two">
+<aside class="control-stack">
+<section class="panel"><h2 class="section-title">错题概览</h2><div class="quiz-meta"><div class="meta-card"><strong id="wrongbook-stat-count">0</strong><span>当前错题数</span></div><a class="meta-card meta-card-link" href="核电厂重点版题库.html"><strong>返回</strong><span>返回总题页</span></a></div></section>
+<section class="panel no-print" id="wrongbook-actions"><div class="study-toolbar"><div class="study-toolbar-title">错题操作</div><div class="quiz-toolbar"><button onclick="window.location.href='核电厂重点版题库.html'">返回总题页</button><button onclick="clearWrongbook()">清空错题本</button><button onclick="resetPageState()">重置本页</button></div></div></section>
+</aside>
+<section class="study-question-panel">
+<div id="score-box"><div class="score-num" id="score-num">0 / 0</div><div class="score-label">自动判分得分</div><div id="score-detail" style="margin-top:8px;color:var(--ink-light)"></div></div>
 <div id="questions-container" class="section-block"></div>
-</main>
+</section>
+</div>
+</div>
 
 <script>
 
@@ -592,7 +803,7 @@ var TITLE = "核电厂重点版题库_错题本";
 var PAGE_MODE = "wrongbook" || 'quiz';
 var PRACTICE_PAGE_HREF = "核电厂重点版题库.html" || '';
 var WRONGBOOK_TITLE = "核电厂重点版题库" || TITLE;
-var FOCUS_SUMMARY = {"title": "核电厂重点版题库", "generated_at": "2026-06-12T13:23:17", "source_files": ["核电厂题库 (2).docx", "核电厂系统与设备题库（2023.5牛逼版）.docx", "2018级核电厂考试试卷.docx", "核电厂系统与设备【总】(1).docx"], "raw_question_count": 3720, "deduplicated_question_count": 232, "missing_subjective_count": 18, "source_question_counts": {"核电厂题库 (2).docx": 1757, "核电厂系统与设备题库（2023.5牛逼版）.docx": 439, "2018级核电厂考试试卷.docx": 41, "核电厂系统与设备【总】(1).docx": 1483}, "type_question_counts": {"choice": 70, "fill": 32, "multi": 54, "short": 65, "essay": 2, "tf": 9}, "focus_basis": "依据《核电厂设备_录音转写稿_章节题型版》中的章节与题型重点筛题", "focus_question_count": 232, "focus_chapter_counts": {"第二章 一回路与反应堆主要设备": 86, "第六章 专设安全设施与安全壳": 63, "第四章 二回路与常规岛主流程": 13, "第一章 绪论与核电基础": 16, "第三章 一回路辅助系统": 42, "第五章 凝结水与给水系统": 9, "第十三章 放射性来源与废物管理": 3}, "focus_topic_counts": {"第二章 一回路与反应堆主要设备::蒸汽发生器": 12, "第六章 专设安全设施与安全壳::安全壳与喷淋": 40, "第二章 一回路与反应堆主要设备::反应堆本体与堆芯": 58, "第二章 一回路与反应堆主要设备::主泵与稳压器": 16, "第四章 二回路与常规岛主流程::汽轮机与发电机": 12, "第一章 绪论与核电基础::核电厂组成": 10, "第六章 专设安全设施与安全壳::安注系统": 23, "第三章 一回路辅助系统::化学容积控制系统": 23, "第一章 绪论与核电基础::核电发展与堆型": 6, "第三章 一回路辅助系统::冷却水与燃料厂房系统": 15, "第三章 一回路辅助系统::余热排出系统": 4, "第五章 凝结水与给水系统::主给水系统": 5, "第十三章 放射性来源与废物管理::放射性来源与三废": 3, "第五章 凝结水与给水系统::凝结水与除氧器": 4, "第四章 二回路与常规岛主流程::二回路主流程": 1}, "focus_assignments": {"choice-71f2682119e7": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 3}, "choice-53ac0290bd6a": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 4}, "choice-b603262c97e5": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 4}, "choice-35a3009bdaea": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "choice-f971928086cd": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "choice-08466e347918": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "choice-82377d4270a1": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "choice-4718f0cbe8a0": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "choice-1d98e9439529": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "choice-deecaa3ce1a7": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "choice-49bb425d35ad": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "choice-944a885cdb7c": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 3}, "choice-e9226e71115d": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "choice-e1addeb0b543": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "choice-bfeb8748d0a2": {"chapter": "第一章 绪论与核电基础", "topic": "核电发展与堆型", "score": 2}, "choice-c92c146fc5a8": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "choice-a668f3f0e0ce": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "choice-f94805b385d6": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 3}, "choice-e7e27abf2954": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 3}, "choice-a39776e87206": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "choice-5dd7c095f82d": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "choice-27e61a2a660c": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "choice-2f23b83ffa71": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "choice-d7828cfd24cd": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "choice-69959a5c5307": {"chapter": "第三章 一回路辅助系统", "topic": "余热排出系统", "score": 3}, "choice-b2e66234cf59": {"chapter": "第三章 一回路辅助系统", "topic": "余热排出系统", "score": 3}, "choice-d4adf8d2c5c6": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "choice-529f830e8f5e": {"chapter": "第一章 绪论与核电基础", "topic": "核电发展与堆型", "score": 4}, "choice-586c7b496a54": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 2}, "choice-bf2a9de7cce7": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 3}, "choice-3e4bab08d351": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "choice-3e2c566dcae8": {"chapter": "第一章 绪论与核电基础", "topic": "核电发展与堆型", "score": 4}, "choice-ad3fa43a547f": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "choice-02713020b898": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "choice-692349023e59": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "choice-47dd23044027": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "choice-5c34ef5b6fc8": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "choice-4c11f0ad9a0e": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "choice-2a850fcea053": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "choice-90a381cb17f8": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "choice-f3912947bc9b": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "choice-e3fdd6b2dfd9": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "choice-4634c6038148": {"chapter": "第五章 凝结水与给水系统", "topic": "主给水系统", "score": 2}, "choice-902e1ee37eef": {"chapter": "第三章 一回路辅助系统", "topic": "余热排出系统", "score": 2}, "choice-519b5c5a6c17": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "choice-60681728fbe1": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "choice-2e96b9db93b9": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "choice-9559910b3735": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "choice-37b59bff5685": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "choice-b9e437b7c13a": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "choice-58e1ccd02eb3": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "choice-2183a28a4b31": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "choice-6ef8a56fdcb4": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 4}, "choice-18bacdb10da6": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "choice-4027ed87c5b1": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 4}, "choice-c4040e124338": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 3}, "choice-6582e36c876c": {"chapter": "第十三章 放射性来源与废物管理", "topic": "放射性来源与三废", "score": 4}, "choice-7e9caa7ff1cf": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "choice-0ce0ac93c90b": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 3}, "choice-43b693fbe456": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 3}, "choice-e78b0e083154": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 2}, "choice-7e67d7fd4d55": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 2}, "choice-bb53e840ec66": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 3}, "choice-2420b79afabd": {"chapter": "第五章 凝结水与给水系统", "topic": "主给水系统", "score": 2}, "choice-5af61e1cd830": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 4}, "choice-31693bf953a0": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "choice-d1063aed5bf6": {"chapter": "第一章 绪论与核电基础", "topic": "核电发展与堆型", "score": 3}, "choice-bf15e48293d2": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "choice-248687781c5d": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "choice-d0257c55f3e2": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "multi-1fbfd6d68b21": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-1d259b578bc2": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-ccc0e12e8710": {"chapter": "第五章 凝结水与给水系统", "topic": "凝结水与除氧器", "score": 4}, "multi-d1b88199e1f3": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "multi-9cc1a9a88d46": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 3}, "multi-7627023121bb": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-bb0944a5754e": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 3}, "multi-75091fcbaf74": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-427e2b9927d5": {"chapter": "第三章 一回路辅助系统", "topic": "余热排出系统", "score": 2}, "multi-2a6abb8a4860": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-c4773fd5d52d": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-da99d985b6fb": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "multi-5e1534e74390": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "multi-61ee809742a2": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "multi-95c254b6670a": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-608f0b053eee": {"chapter": "第十三章 放射性来源与废物管理", "topic": "放射性来源与三废", "score": 2}, "multi-26f0c1a17359": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-b00c43487963": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "multi-2de524fdebff": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "multi-0bdace5a7edc": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "multi-70ef59984b0d": {"chapter": "第五章 凝结水与给水系统", "topic": "主给水系统", "score": 2}, "multi-797939ac73a3": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 3}, "multi-625d6d0828d7": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "multi-d38c1259a343": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "multi-37bbfac3f358": {"chapter": "第五章 凝结水与给水系统", "topic": "凝结水与除氧器", "score": 2}, "multi-4cb408e560a0": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-e2ff94d3186a": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 5}, "multi-63141716b94a": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-411a83b65204": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "multi-f5b6e7d935f4": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 3}, "multi-a021d7946b85": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "multi-86d4189aea5d": {"chapter": "第四章 二回路与常规岛主流程", "topic": "二回路主流程", "score": 2}, "multi-e371764c4302": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "multi-ea138fcdf207": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 3}, "multi-c279ef4ce7b7": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "multi-89811fa39c99": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 3}, "multi-03ac8efccf52": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "multi-8cdf91442ddc": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "multi-9b930db237c6": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-3eeb56479989": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 3}, "multi-6977bdb5085c": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-af6468b8cc1b": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 3}, "multi-36bcf0d87ea9": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 3}, "multi-5d78c66b6eb0": {"chapter": "第十三章 放射性来源与废物管理", "topic": "放射性来源与三废", "score": 3}, "multi-0e103d85a94e": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "multi-2987a025dbdf": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-84030f36d887": {"chapter": "第五章 凝结水与给水系统", "topic": "凝结水与除氧器", "score": 4}, "multi-9374bd8f077d": {"chapter": "第五章 凝结水与给水系统", "topic": "凝结水与除氧器", "score": 4}, "multi-5edd7ef8674a": {"chapter": "第一章 绪论与核电基础", "topic": "核电发展与堆型", "score": 4}, "multi-79bb304290b4": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-6c8ba1b68115": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "multi-900de09b1479": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "multi-3cfe7dbc726b": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "multi-7414d226eed0": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 3}, "fill-3d15db87635f": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "fill-acc3085338d1": {"chapter": "第五章 凝结水与给水系统", "topic": "主给水系统", "score": 2}, "fill-ebc581d431b5": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "fill-d980c605b1cd": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "fill-c5ce98d95f6b": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "fill-f56c4af10a6b": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "fill-32e05bcbe1ac": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "fill-94f7866183ea": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "fill-612930de4a5c": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "fill-401b75dc414f": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "fill-3c8eb4dfe4a8": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "fill-9314abb943f8": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 4}, "fill-feffddef205c": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "fill-9025634f7f65": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "fill-5975486b33ea": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "fill-11f1ba073fef": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "fill-4bb795af9eaf": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "fill-7f622c37c954": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "fill-8e78031d9a75": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "fill-f00e4645bc07": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "fill-7823c3c0f069": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "fill-5383ec8028bd": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "fill-d4942880f6ab": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "fill-c73adcbfb8f9": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "fill-d738f89f23bf": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "fill-048d87ba0933": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "fill-b90e2f325f91": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 4}, "fill-64aa32ccf2f3": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "fill-e3fa8c0b84c4": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "fill-d35a59742b30": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 3}, "fill-19482b79d535": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 3}, "fill-15894356694c": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "tf-4d681c13f068": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "tf-4048b098d33d": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "tf-0bb89f96b32c": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "tf-62b879136289": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "tf-86622efd5b66": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "tf-2f2cb4cd3440": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "tf-53bff80f2f34": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "tf-6386d9d3705e": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "tf-530cfa58d5dd": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-a018fe5a122a": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-3698d0f2d6cc": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-0d4e55b07c9b": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "short-f12e6d3e55bf": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "short-1c3665cc0896": {"chapter": "第一章 绪论与核电基础", "topic": "核电发展与堆型", "score": 2}, "short-742f7f06bd85": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "short-449ea35e6235": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "short-bfd15edf5944": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-5a31c0919a1f": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "short-dd94f09bf611": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 3}, "short-781ba5e6fd99": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "short-85d93e36f9ac": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "short-ded95a3a4d68": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "short-9e15b1954a07": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "short-52a5296ee137": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 3}, "short-1382aa450fe7": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-e1f6b397bee2": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-30a9b61547df": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "short-d1ada9dc45a4": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "short-fb3ebaace46f": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "short-f0d9d7f36a00": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "short-910e4c4e86e7": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 2}, "short-b5da398d6570": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "short-92e39a176dcf": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "short-e5e23154ac0b": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "short-355956544c98": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "short-cdbd7e1fabd3": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "short-0b50d20a6209": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-9fc4cba958a0": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "short-281259526748": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "short-6f2b80e27ba7": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-17a18f014bbf": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-add2c8884ed7": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "short-f0bef87f48fe": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "short-9e2dc71bf10a": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "short-2f990cdd350a": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "short-2281d6c332a8": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 2}, "short-cd55a216bb86": {"chapter": "第五章 凝结水与给水系统", "topic": "主给水系统", "score": 2}, "short-b72b5eed78e4": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 3}, "short-4f4161dfea60": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 4}, "short-5e00d2fc48c8": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 5}, "short-c7d698a33384": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "short-85739b3b3aee": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-4f8d46f91838": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "short-adc0b5589b84": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "short-4fe193e4e937": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "short-7cb3542a8490": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "short-e1e2095e29e9": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "short-88553b53b172": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 3}, "short-ea6e35d5052b": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 2}, "short-f5a7fc6a8eb6": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 3}, "short-023060169578": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 2}, "short-67fc3c8cb633": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "short-d4419ccdc7a3": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "short-cfc5cda46dd3": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 3}, "short-0e70ef280994": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "short-4d5253201ac7": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 4}, "short-c8387402ec1b": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 4}, "short-1439141638b3": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "short-053bf06e6e19": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "short-cfe73e774a4a": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "short-a425c94f3191": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "short-f525036e6b51": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "short-f9e1228005ea": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 3}, "short-eb6f338f2fff": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 3}, "essay-61343cada36d": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "essay-c9edac819ed9": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 2}}} || null;
+var FOCUS_SUMMARY = {"title": "核电厂重点版题库", "generated_at": "2026-06-14T12:14:24", "source_files": ["核电厂题库 (2).docx", "核电厂系统与设备题库（2023.5牛逼版）.docx", "2018级核电厂考试试卷.docx", "核电厂系统与设备【总】(1).docx"], "raw_question_count": 3720, "deduplicated_question_count": 232, "missing_subjective_count": 18, "source_question_counts": {"核电厂题库 (2).docx": 1757, "核电厂系统与设备题库（2023.5牛逼版）.docx": 439, "2018级核电厂考试试卷.docx": 41, "核电厂系统与设备【总】(1).docx": 1483}, "type_question_counts": {"choice": 70, "fill": 32, "multi": 54, "short": 65, "essay": 2, "tf": 9}, "focus_basis": "依据《核电厂设备_录音转写稿_章节题型版》中的章节与题型重点筛题", "focus_question_count": 232, "focus_chapter_counts": {"第二章 一回路与反应堆主要设备": 86, "第六章 专设安全设施与安全壳": 63, "第四章 二回路与常规岛主流程": 13, "第一章 绪论与核电基础": 16, "第三章 一回路辅助系统": 42, "第五章 凝结水与给水系统": 9, "第十三章 放射性来源与废物管理": 3}, "focus_topic_counts": {"第二章 一回路与反应堆主要设备::蒸汽发生器": 12, "第六章 专设安全设施与安全壳::安全壳与喷淋": 40, "第二章 一回路与反应堆主要设备::反应堆本体与堆芯": 58, "第二章 一回路与反应堆主要设备::主泵与稳压器": 16, "第四章 二回路与常规岛主流程::汽轮机与发电机": 12, "第一章 绪论与核电基础::核电厂组成": 10, "第六章 专设安全设施与安全壳::安注系统": 23, "第三章 一回路辅助系统::化学容积控制系统": 23, "第一章 绪论与核电基础::核电发展与堆型": 6, "第三章 一回路辅助系统::冷却水与燃料厂房系统": 15, "第三章 一回路辅助系统::余热排出系统": 4, "第五章 凝结水与给水系统::主给水系统": 5, "第十三章 放射性来源与废物管理::放射性来源与三废": 3, "第五章 凝结水与给水系统::凝结水与除氧器": 4, "第四章 二回路与常规岛主流程::二回路主流程": 1}, "focus_assignments": {"choice-71f2682119e7": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 3}, "choice-53ac0290bd6a": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 4}, "choice-b603262c97e5": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 4}, "choice-35a3009bdaea": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "choice-f971928086cd": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "choice-08466e347918": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "choice-82377d4270a1": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "choice-4718f0cbe8a0": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "choice-1d98e9439529": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "choice-deecaa3ce1a7": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "choice-49bb425d35ad": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "choice-944a885cdb7c": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 3}, "choice-e9226e71115d": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "choice-e1addeb0b543": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "choice-bfeb8748d0a2": {"chapter": "第一章 绪论与核电基础", "topic": "核电发展与堆型", "score": 2}, "choice-c92c146fc5a8": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "choice-a668f3f0e0ce": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "choice-f94805b385d6": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 3}, "choice-e7e27abf2954": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 3}, "choice-a39776e87206": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "choice-5dd7c095f82d": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "choice-27e61a2a660c": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "choice-2f23b83ffa71": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "choice-d7828cfd24cd": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "choice-69959a5c5307": {"chapter": "第三章 一回路辅助系统", "topic": "余热排出系统", "score": 3}, "choice-b2e66234cf59": {"chapter": "第三章 一回路辅助系统", "topic": "余热排出系统", "score": 3}, "choice-d4adf8d2c5c6": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "choice-529f830e8f5e": {"chapter": "第一章 绪论与核电基础", "topic": "核电发展与堆型", "score": 4}, "choice-586c7b496a54": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 2}, "choice-bf2a9de7cce7": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 3}, "choice-3e4bab08d351": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "choice-3e2c566dcae8": {"chapter": "第一章 绪论与核电基础", "topic": "核电发展与堆型", "score": 4}, "choice-ad3fa43a547f": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "choice-02713020b898": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "choice-692349023e59": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "choice-47dd23044027": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "choice-5c34ef5b6fc8": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "choice-4c11f0ad9a0e": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "choice-2a850fcea053": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "choice-90a381cb17f8": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "choice-f3912947bc9b": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "choice-e3fdd6b2dfd9": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "choice-4634c6038148": {"chapter": "第五章 凝结水与给水系统", "topic": "主给水系统", "score": 2}, "choice-902e1ee37eef": {"chapter": "第三章 一回路辅助系统", "topic": "余热排出系统", "score": 2}, "choice-519b5c5a6c17": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "choice-60681728fbe1": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "choice-2e96b9db93b9": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "choice-9559910b3735": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "choice-37b59bff5685": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "choice-b9e437b7c13a": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "choice-58e1ccd02eb3": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "choice-2183a28a4b31": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "choice-6ef8a56fdcb4": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 4}, "choice-18bacdb10da6": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "choice-4027ed87c5b1": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 4}, "choice-c4040e124338": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 3}, "choice-6582e36c876c": {"chapter": "第十三章 放射性来源与废物管理", "topic": "放射性来源与三废", "score": 4}, "choice-7e9caa7ff1cf": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "choice-0ce0ac93c90b": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 3}, "choice-43b693fbe456": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 3}, "choice-e78b0e083154": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 2}, "choice-7e67d7fd4d55": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 2}, "choice-bb53e840ec66": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 3}, "choice-2420b79afabd": {"chapter": "第五章 凝结水与给水系统", "topic": "主给水系统", "score": 2}, "choice-5af61e1cd830": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 4}, "choice-31693bf953a0": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "choice-d1063aed5bf6": {"chapter": "第一章 绪论与核电基础", "topic": "核电发展与堆型", "score": 3}, "choice-bf15e48293d2": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "choice-248687781c5d": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "choice-d0257c55f3e2": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "multi-1fbfd6d68b21": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-1d259b578bc2": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-ccc0e12e8710": {"chapter": "第五章 凝结水与给水系统", "topic": "凝结水与除氧器", "score": 4}, "multi-d1b88199e1f3": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "multi-9cc1a9a88d46": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 3}, "multi-7627023121bb": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-bb0944a5754e": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 3}, "multi-75091fcbaf74": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-427e2b9927d5": {"chapter": "第三章 一回路辅助系统", "topic": "余热排出系统", "score": 2}, "multi-2a6abb8a4860": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-c4773fd5d52d": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-da99d985b6fb": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "multi-5e1534e74390": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "multi-61ee809742a2": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "multi-95c254b6670a": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-608f0b053eee": {"chapter": "第十三章 放射性来源与废物管理", "topic": "放射性来源与三废", "score": 2}, "multi-26f0c1a17359": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-b00c43487963": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "multi-2de524fdebff": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "multi-0bdace5a7edc": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "multi-70ef59984b0d": {"chapter": "第五章 凝结水与给水系统", "topic": "主给水系统", "score": 2}, "multi-797939ac73a3": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 3}, "multi-625d6d0828d7": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "multi-d38c1259a343": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "multi-37bbfac3f358": {"chapter": "第五章 凝结水与给水系统", "topic": "凝结水与除氧器", "score": 2}, "multi-4cb408e560a0": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-e2ff94d3186a": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 5}, "multi-63141716b94a": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-411a83b65204": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "multi-f5b6e7d935f4": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 3}, "multi-a021d7946b85": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "multi-86d4189aea5d": {"chapter": "第四章 二回路与常规岛主流程", "topic": "二回路主流程", "score": 2}, "multi-e371764c4302": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "multi-ea138fcdf207": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 3}, "multi-c279ef4ce7b7": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "multi-89811fa39c99": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 3}, "multi-03ac8efccf52": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "multi-8cdf91442ddc": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "multi-9b930db237c6": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-3eeb56479989": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 3}, "multi-6977bdb5085c": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-af6468b8cc1b": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 3}, "multi-36bcf0d87ea9": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 3}, "multi-5d78c66b6eb0": {"chapter": "第十三章 放射性来源与废物管理", "topic": "放射性来源与三废", "score": 3}, "multi-0e103d85a94e": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "multi-2987a025dbdf": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-84030f36d887": {"chapter": "第五章 凝结水与给水系统", "topic": "凝结水与除氧器", "score": 4}, "multi-9374bd8f077d": {"chapter": "第五章 凝结水与给水系统", "topic": "凝结水与除氧器", "score": 4}, "multi-5edd7ef8674a": {"chapter": "第一章 绪论与核电基础", "topic": "核电发展与堆型", "score": 4}, "multi-79bb304290b4": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "multi-6c8ba1b68115": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "multi-900de09b1479": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "multi-3cfe7dbc726b": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "multi-7414d226eed0": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 3}, "fill-3d15db87635f": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "fill-acc3085338d1": {"chapter": "第五章 凝结水与给水系统", "topic": "主给水系统", "score": 2}, "fill-ebc581d431b5": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "fill-d980c605b1cd": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "fill-c5ce98d95f6b": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "fill-f56c4af10a6b": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "fill-32e05bcbe1ac": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "fill-94f7866183ea": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "fill-612930de4a5c": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "fill-401b75dc414f": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "fill-3c8eb4dfe4a8": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "fill-9314abb943f8": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 4}, "fill-feffddef205c": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "fill-9025634f7f65": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "fill-5975486b33ea": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "fill-11f1ba073fef": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "fill-4bb795af9eaf": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "fill-7f622c37c954": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "fill-8e78031d9a75": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "fill-f00e4645bc07": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "fill-7823c3c0f069": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "fill-5383ec8028bd": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "fill-d4942880f6ab": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "fill-c73adcbfb8f9": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "fill-d738f89f23bf": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "fill-048d87ba0933": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "fill-b90e2f325f91": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 4}, "fill-64aa32ccf2f3": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "fill-e3fa8c0b84c4": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "fill-d35a59742b30": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 3}, "fill-19482b79d535": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 3}, "fill-15894356694c": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "tf-4d681c13f068": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "tf-4048b098d33d": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "tf-0bb89f96b32c": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "tf-62b879136289": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "tf-86622efd5b66": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "tf-2f2cb4cd3440": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "tf-53bff80f2f34": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "tf-6386d9d3705e": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "tf-530cfa58d5dd": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-a018fe5a122a": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-3698d0f2d6cc": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-0d4e55b07c9b": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "short-f12e6d3e55bf": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "short-1c3665cc0896": {"chapter": "第一章 绪论与核电基础", "topic": "核电发展与堆型", "score": 2}, "short-742f7f06bd85": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "short-449ea35e6235": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "short-bfd15edf5944": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-5a31c0919a1f": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "short-dd94f09bf611": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 3}, "short-781ba5e6fd99": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "short-85d93e36f9ac": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "short-ded95a3a4d68": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "short-9e15b1954a07": {"chapter": "第一章 绪论与核电基础", "topic": "核电厂组成", "score": 2}, "short-52a5296ee137": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 3}, "short-1382aa450fe7": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-e1f6b397bee2": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-30a9b61547df": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 3}, "short-d1ada9dc45a4": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "short-fb3ebaace46f": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "short-f0d9d7f36a00": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "short-910e4c4e86e7": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 2}, "short-b5da398d6570": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "short-92e39a176dcf": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 2}, "short-e5e23154ac0b": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "short-355956544c98": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "short-cdbd7e1fabd3": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "short-0b50d20a6209": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-9fc4cba958a0": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "short-281259526748": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "short-6f2b80e27ba7": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-17a18f014bbf": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-add2c8884ed7": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "short-f0bef87f48fe": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "short-9e2dc71bf10a": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "short-2f990cdd350a": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "short-2281d6c332a8": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 2}, "short-cd55a216bb86": {"chapter": "第五章 凝结水与给水系统", "topic": "主给水系统", "score": 2}, "short-b72b5eed78e4": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 3}, "short-4f4161dfea60": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 4}, "short-5e00d2fc48c8": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 5}, "short-c7d698a33384": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "short-85739b3b3aee": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "short-4f8d46f91838": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "short-adc0b5589b84": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "short-4fe193e4e937": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "short-7cb3542a8490": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "short-e1e2095e29e9": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安全壳与喷淋", "score": 2}, "short-88553b53b172": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 3}, "short-ea6e35d5052b": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 2}, "short-f5a7fc6a8eb6": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 3}, "short-023060169578": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 2}, "short-67fc3c8cb633": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "short-d4419ccdc7a3": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "主泵与稳压器", "score": 2}, "short-cfc5cda46dd3": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 3}, "short-0e70ef280994": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "short-4d5253201ac7": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 4}, "short-c8387402ec1b": {"chapter": "第三章 一回路辅助系统", "topic": "化学容积控制系统", "score": 4}, "short-1439141638b3": {"chapter": "第四章 二回路与常规岛主流程", "topic": "汽轮机与发电机", "score": 2}, "short-053bf06e6e19": {"chapter": "第三章 一回路辅助系统", "topic": "冷却水与燃料厂房系统", "score": 2}, "short-cfe73e774a4a": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "short-a425c94f3191": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "short-f525036e6b51": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 2}, "short-f9e1228005ea": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 3}, "short-eb6f338f2fff": {"chapter": "第六章 专设安全设施与安全壳", "topic": "安注系统", "score": 3}, "essay-61343cada36d": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "反应堆本体与堆芯", "score": 2}, "essay-c9edac819ed9": {"chapter": "第二章 一回路与反应堆主要设备", "topic": "蒸汽发生器", "score": 2}}} || null;
 var WRONGBOOK_KEY = 'wrongbook::' + WRONGBOOK_TITLE;
 var wrongbook = loadWrongbook();
 var filterFavoritesOnly = false;
@@ -600,6 +811,14 @@ var filterFocusOnly = false;
 var focusChapterFilter = '';
 var statsRefreshTimer = 0;
 var delegatesAttached = false;
+var draftAnswers = {};
+var questionResults = {};
+var currentQuestionIndex = 0;
+
+var QUESTION_MAP = {};
+for (var qIndex = 0; qIndex < Q.length; qIndex++) {
+  QUESTION_MAP[Q[qIndex].id] = Q[qIndex];
+}
 
 function escapeHtml(text) {
   return String(text || '')
@@ -629,25 +848,68 @@ function saveWrongbook() {
   scheduleStatsRefresh();
 }
 
-function summarizeWrongbookQuestion(text) {
-  return String(text || '')
-    .replace(/\s+/g, ' ')
-    .trim()
-    .slice(0, 72);
+function cloneAnswer(answer) {
+  return Array.isArray(answer) ? answer.slice() : answer;
 }
 
-function updateCardSelectionState(qid) {
-  var card = document.getElementById('card-' + qid);
-  if (!card) {
-    return;
+function isObjectiveType(type) {
+  return type === 'choice' || type === 'multi' || type === 'tf' || type === 'fill';
+}
+
+function getBaseQuestions() {
+  if (PAGE_MODE === 'wrongbook') {
+    var wrongQuestions = [];
+    for (var i = 0; i < Q.length; i++) {
+      if (wrongbook[Q[i].id]) {
+        wrongQuestions.push(Q[i]);
+      }
+    }
+    return wrongQuestions;
   }
-  var inputs = card.querySelectorAll('input[name="' + qid + '"]');
-  for (var i = 0; i < inputs.length; i++) {
-    var label = inputs[i].closest('.option');
-    if (label) {
-      label.classList.toggle('selected', !!inputs[i].checked);
+  return Q.slice();
+}
+
+function getActiveQuestions() {
+  var questions = getBaseQuestions();
+  var filtered = [];
+  for (var i = 0; i < questions.length; i++) {
+    var question = questions[i];
+    var hidden = false;
+    if (filterFavoritesOnly && !wrongbook[question.id]) {
+      hidden = true;
+    }
+    if (!hidden && filterFocusOnly && !question.focus_assignment) {
+      hidden = true;
+    }
+    if (!hidden && focusChapterFilter) {
+      hidden = !question.focus_assignment || question.focus_assignment.chapter !== focusChapterFilter;
+    }
+    if (!hidden) {
+      filtered.push(question);
     }
   }
+  return filtered;
+}
+
+function clampCurrentQuestionIndex(activeQuestions) {
+  if (!activeQuestions.length) {
+    currentQuestionIndex = 0;
+    return;
+  }
+  if (currentQuestionIndex < 0) {
+    currentQuestionIndex = 0;
+  }
+  if (currentQuestionIndex >= activeQuestions.length) {
+    currentQuestionIndex = activeQuestions.length - 1;
+  }
+}
+
+function getCurrentQuestion(activeQuestions) {
+  if (!activeQuestions || !activeQuestions.length) {
+    return null;
+  }
+  clampCurrentQuestionIndex(activeQuestions);
+  return activeQuestions[currentQuestionIndex];
 }
 
 function attachInteractionDelegates() {
@@ -661,20 +923,31 @@ function attachInteractionDelegates() {
 
   container.addEventListener('change', function(event) {
     var target = event.target;
-    if (!target) {
+    if (!target || !target.matches('input[type="radio"], input[type="checkbox"]')) {
       return;
     }
-    if (target.matches('input[type="radio"], input[type="checkbox"]')) {
-      updateCardSelectionState(target.name);
-      scheduleStatsRefresh();
+    var activeQuestions = getActiveQuestions();
+    var question = getCurrentQuestion(activeQuestions);
+    if (!question) {
+      return;
     }
+    syncDraftAnswer(question);
+    updateCardSelectionState(question.id);
+    scheduleStatsRefresh();
   });
 
   container.addEventListener('input', function(event) {
     var target = event.target;
-    if (target && target.matches('textarea')) {
-      scheduleStatsRefresh();
+    if (!target || !target.matches('textarea')) {
+      return;
     }
+    var activeQuestions = getActiveQuestions();
+    var question = getCurrentQuestion(activeQuestions);
+    if (!question) {
+      return;
+    }
+    syncDraftAnswer(question);
+    scheduleStatsRefresh();
   });
 
   delegatesAttached = true;
@@ -691,70 +964,78 @@ function scheduleStatsRefresh() {
 }
 
 function refreshStatsNow() {
+  var activeQuestions = getActiveQuestions();
   refreshWrongbookPanel();
-  syncSectionVisibility();
-  updateSectionJumpState();
+  updateSectionJumpState(activeQuestions);
+  updateFocusChips();
+  refreshScoreBox(activeQuestions);
 }
 
-function updateSectionJumpState() {
-  var jumps = document.querySelectorAll('#section-nav [data-section-jump]');
-  for (var i = 0; i < jumps.length; i++) {
-    var jump = jumps[i];
-    var sectionType = jump.getAttribute('data-section-jump');
-    var heading = document.getElementById('section-' + sectionType);
-    var hidden = !heading || heading.classList.contains('hidden');
-    jump.classList.toggle('is-empty', hidden);
-  }
-}
-
-function build() {
-  var container = document.getElementById('questions-container');
-  if (!container) {
-    return;
-  }
-
-  var activeQuestions = Q;
-  if (PAGE_MODE === 'wrongbook') {
-    activeQuestions = [];
-    for (var x = 0; x < Q.length; x++) {
-      if (wrongbook[Q[x].id]) {
-        activeQuestions.push(Q[x]);
-      }
-    }
-  }
-
-  if (PAGE_MODE === 'wrongbook' && !activeQuestions.length) {
-    container.innerHTML = '<div class="wrongbook-empty">当前错题本为空。返回总题页做题后，自动判错或手动收藏的题目会出现在这里。</div>';
-    refreshWrongbookPanel();
-    return;
-  }
-
-  var html = '';
-  var currentSection = '';
+function updateSectionJumpState(activeQuestions) {
+  var visibleTypes = {};
   for (var i = 0; i < activeQuestions.length; i++) {
-    var q = activeQuestions[i];
-    if (q.type !== currentSection) {
-      currentSection = q.type;
-      html += '<h2 id="section-' + currentSection + '">' + SECTION_LABELS[currentSection] + '</h2>';
-    }
-    html += renderQuestion(q, i);
+    visibleTypes[activeQuestions[i].type] = true;
   }
-
-  container.innerHTML = html;
-  attachInteractionDelegates();
-  for (var y = 0; y < activeQuestions.length; y++) {
-    updateCardSelectionState(activeQuestions[y].id);
-  }
-  applyQuestionFilters();
-  refreshStatsNow();
-  if (window.MathJax && MathJax.typesetPromise) {
-    MathJax.typesetPromise([container]).catch(function(err) {
-      console.error('MathJax typeset error:', err);
-    });
+  var currentQuestion = getCurrentQuestion(activeQuestions);
+  var jumps = document.querySelectorAll('#section-nav [data-section-jump]');
+  for (var j = 0; j < jumps.length; j++) {
+    var jump = jumps[j];
+    var sectionType = jump.getAttribute('data-section-jump');
+    jump.classList.toggle('is-empty', !visibleTypes[sectionType]);
+    jump.classList.toggle('is-active', !!currentQuestion && currentQuestion.type === sectionType);
   }
 }
 
-function renderQuestion(q, index) {
+function updateFocusChips() {
+  var chips = document.querySelectorAll('[data-focus-chip]');
+  for (var i = 0; i < chips.length; i++) {
+    var chip = chips[i];
+    var chapter = chip.getAttribute('data-focus-chip') || '';
+    var active = false;
+    if (!chapter) {
+      active = filterFocusOnly && !focusChapterFilter;
+    } else {
+      active = focusChapterFilter === chapter;
+    }
+    chip.classList.toggle('active', active);
+  }
+}
+
+function renderStageHeader(question, currentNumber, totalQuestions) {
+  var currentLabel = SECTION_LABELS[question.type] || question.type || '题目';
+  var chapterText = question.focus_assignment
+    ? escapeHtml(question.focus_assignment.chapter + ' / ' + question.focus_assignment.topic)
+    : '';
+  var progress = totalQuestions ? Math.round((currentNumber / totalQuestions) * 100) : 0;
+  return ''
+    + '<div class="question-stage-header">'
+    + '<div class="question-stage-title">'
+    + '<strong>' + escapeHtml(currentLabel) + '</strong>'
+    + (chapterText ? '<span>' + chapterText + '</span>' : '')
+    + '</div>'
+    + '<div class="question-progress">'
+    + '<div class="question-progress-meta"><span>当前第 ' + currentNumber + ' / ' + totalQuestions + ' 题</span><span>进度 ' + progress + '%</span></div>'
+    + '<div class="progress-shell"><div class="progress-bar" style="width:' + progress + '%"></div></div>'
+    + '</div>'
+    + '</div>';
+}
+
+function renderPager(totalQuestions) {
+  var currentNumber = totalQuestions ? currentQuestionIndex + 1 : 0;
+  var previousDisabled = currentQuestionIndex <= 0 ? ' disabled' : '';
+  var nextDisabled = currentQuestionIndex >= totalQuestions - 1 ? ' disabled' : '';
+  return ''
+    + '<div class="question-pager">'
+    + '<div class="question-pager-actions">'
+    + '<button type="button" class="primary" onclick="gradeAll()">提交判分</button>'
+    + '<button type="button" onclick="goToFirstQuestion()" ' + (currentNumber <= 1 ? 'disabled' : '') + '>回到首题</button>'
+    + '<button type="button" onclick="goToPreviousQuestion()"' + previousDisabled + '>上一题</button>'
+    + '<button type="button" onclick="goToNextQuestion()"' + nextDisabled + '>下一题</button>'
+    + '</div>'
+    + '</div>';
+}
+
+function renderQuestion(q, currentNumber, totalQuestions) {
   var card = '';
   var classes = ['q-card'];
   if (q.missing_reference) {
@@ -764,8 +1045,10 @@ function renderQuestion(q, index) {
     classes.push('focus-card');
   }
   var chapterAttr = q.focus_assignment ? escapeHtml(q.focus_assignment.chapter) : '';
+  card += renderStageHeader(q, currentNumber, totalQuestions);
+  card += '<h2 id="section-' + q.type + '">' + escapeHtml(SECTION_LABELS[q.type] || q.type) + '</h2>';
   card += '<div class="' + classes.join(' ') + '" id="card-' + q.id + '" data-qid="' + q.id + '" data-focus="' + (q.focus_assignment ? '1' : '0') + '" data-focus-chapter="' + chapterAttr + '">';
-  card += '<div class="q-num">' + (index + 1) + '. (' + q.points + ' 分)</div>';
+  card += '<div class="q-num">' + currentNumber + '. (' + q.points + ' 分)</div>';
   if (q.missing_reference) {
     card += '<div class="missing-reference-flag">无参考答案</div>';
   }
@@ -786,9 +1069,9 @@ function renderQuestion(q, index) {
       card += renderOption(q, j, true);
     }
   } else if (q.type === 'tf') {
-    var options = ['对', '错'];
-    for (var k = 0; k < options.length; k++) {
-      card += renderTfOption(q, k, options[k]);
+    var tfOptions = ['对', '错'];
+    for (var k = 0; k < tfOptions.length; k++) {
+      card += renderTfOption(q, k, tfOptions[k]);
     }
   } else {
     card += '<textarea class="q-textarea" id="text-' + q.id + '" rows="3" placeholder="在此作答..."></textarea>';
@@ -798,14 +1081,43 @@ function renderQuestion(q, index) {
   card += '<button type="button" id="fav-' + q.id + '" onclick="toggleFavorite(\'' + q.id + '\')">' + favoriteButtonText(q.id) + '</button>';
   card += '<button type="button" onclick="toggleSources(\'' + q.id + '\')">来源</button>';
   card += '</div>';
-  card += '<div class="result" id="result-' + q.id + '">';
-  card += '<span class="badge" id="badge-' + q.id + '"></span>';
-  card += '<span class="objective-answer" id="answer-' + q.id + '"></span>';
-  card += '<div class="explanation">' + toHtml(q.explanation || q.answer_text || '暂无解析') + '</div>';
-  card += '</div>';
+  card += renderResultBlock(q);
   card += '<details class="q-source" id="src-' + q.id + '"><summary>查看来源</summary><div>' + toHtml((q.sources || []).join('\n')) + '</div></details>';
   card += '</div>';
+  card += renderPager(totalQuestions);
   return card;
+}
+
+function renderResultBlock(q) {
+  var state = questionResults[q.id];
+  var resultClass = 'result';
+  var badgeClass = 'badge';
+  var badgeText = '';
+  var answerText = '';
+  var explanationText = toHtml(q.explanation || q.answer_text || '暂无解析');
+
+  if (state) {
+    resultClass += ' result-visible';
+    if (state.result === 'correct') {
+      badgeClass += ' badge-ok';
+      badgeText = '正确';
+    } else if (state.result === 'wrong') {
+      badgeClass += ' badge-no';
+      badgeText = '错误';
+      answerText = '正确答案：' + escapeHtml(q.answer_text || (q.answers || []).join('、'));
+    } else {
+      badgeClass += ' badge-ref';
+      badgeText = '参考答案';
+      answerText = q.answer_text ? '参考答案：' + escapeHtml(q.answer_text) : '开放题，请自行对照来源答案。';
+    }
+  }
+
+  return ''
+    + '<div class="' + resultClass + '" id="result-' + q.id + '"' + (state ? ' style="display:block"' : '') + '>'
+    + '<span class="' + badgeClass + '" id="badge-' + q.id + '">' + badgeText + '</span>'
+    + '<span class="objective-answer" id="answer-' + q.id + '">' + answerText + '</span>'
+    + '<div class="explanation">' + explanationText + '</div>'
+    + '</div>';
 }
 
 function renderOption(q, optionIndex, isCheckbox) {
@@ -833,7 +1145,10 @@ function renderTfOption(q, optionIndex, label) {
 }
 
 function favoriteButtonText(qid) {
-  return wrongbook[qid] ? '取消收藏' : '收藏错题';
+  if (wrongbook[qid]) {
+    return PAGE_MODE === 'wrongbook' ? '移出错题本' : '取消收藏';
+  }
+  return '收藏错题';
 }
 
 function toggleFavorite(qid) {
@@ -842,17 +1157,8 @@ function toggleFavorite(qid) {
   } else {
     wrongbook[qid] = snapshotQuestion(qid, 'manual');
   }
-  var button = document.getElementById('fav-' + qid);
-  if (button) {
-    button.textContent = favoriteButtonText(qid);
-    button.classList.toggle('active', !!wrongbook[qid]);
-  }
   saveWrongbook();
-  if (PAGE_MODE === 'wrongbook') {
-    build();
-    return;
-  }
-  applyQuestionFilters();
+  build();
 }
 
 function toggleSources(qid) {
@@ -863,16 +1169,15 @@ function toggleSources(qid) {
 }
 
 function snapshotQuestion(qid, reason) {
-  for (var i = 0; i < Q.length; i++) {
-    if (Q[i].id === qid) {
-      return {
-        id: qid,
-        question: Q[i].question,
-        type: Q[i].type,
-        reason: reason,
-        savedAt: new Date().toISOString()
-      };
-    }
+  var question = QUESTION_MAP[qid];
+  if (question) {
+    return {
+      id: qid,
+      question: question.question,
+      type: question.type,
+      reason: reason,
+      savedAt: new Date().toISOString()
+    };
   }
   return { id: qid, reason: reason, savedAt: new Date().toISOString() };
 }
@@ -882,16 +1187,6 @@ function normalizeText(text) {
     .toLowerCase()
     .replace(/[\s\u00a0]+/g, '')
     .replace(/[，,；;、。．\.：:！!？?（）()【】\[\]“”"']/g, '');
-}
-
-function getSelectedValues(qid) {
-  var inputs = document.querySelectorAll('input[name="' + qid + '"]:checked');
-  var values = [];
-  for (var i = 0; i < inputs.length; i++) {
-    values.push(inputs[i].value);
-  }
-  values.sort();
-  return values;
 }
 
 function isFillCorrect(userText, answers) {
@@ -943,242 +1238,280 @@ function markOptionState(qid, values, answers) {
   }
 }
 
-function gradeAll() {
-  var score = 0;
-  var maxScore = 0;
-  var autoCount = 0;
-  var correctCount = 0;
+function updateCardSelectionState(qid) {
+  var card = document.getElementById('card-' + qid);
+  if (!card) {
+    return;
+  }
+  var inputs = card.querySelectorAll('input[name="' + qid + '"]');
+  for (var i = 0; i < inputs.length; i++) {
+    var label = inputs[i].closest('.option');
+    if (label) {
+      label.classList.toggle('selected', !!inputs[i].checked);
+    }
+  }
+}
 
+function collectAnswerFromCard(question) {
+  if (!question) {
+    return '';
+  }
+  if (question.type === 'choice' || question.type === 'tf') {
+    var selected = document.querySelector('input[name="' + question.id + '"]:checked');
+    return selected ? selected.value : '';
+  }
+  if (question.type === 'multi') {
+    var checked = document.querySelectorAll('input[name="' + question.id + '"]:checked');
+    var values = [];
+    for (var i = 0; i < checked.length; i++) {
+      values.push(checked[i].value);
+    }
+    values.sort();
+    return values;
+  }
+  var textarea = document.getElementById('text-' + question.id);
+  return textarea ? textarea.value : '';
+}
+
+function syncDraftAnswer(question) {
+  draftAnswers[question.id] = cloneAnswer(collectAnswerFromCard(question));
+}
+
+function restoreAnswerControls(question) {
+  var savedAnswer = questionResults[question.id]
+    ? questionResults[question.id].userAnswer
+    : draftAnswers[question.id];
+
+  if (question.type === 'choice' || question.type === 'tf') {
+    var choiceValue = Array.isArray(savedAnswer) ? savedAnswer[0] : savedAnswer;
+    var radio = document.querySelector('input[name="' + question.id + '"][value="' + choiceValue + '"]');
+    if (radio) {
+      radio.checked = true;
+    }
+  } else if (question.type === 'multi') {
+    var selectedValues = Array.isArray(savedAnswer) ? savedAnswer : [];
+    for (var i = 0; i < selectedValues.length; i++) {
+      var checkbox = document.querySelector('input[name="' + question.id + '"][value="' + selectedValues[i] + '"]');
+      if (checkbox) {
+        checkbox.checked = true;
+      }
+    }
+  } else {
+    var textarea = document.getElementById('text-' + question.id);
+    if (textarea && savedAnswer !== undefined && savedAnswer !== null) {
+      textarea.value = Array.isArray(savedAnswer) ? savedAnswer.join('；') : savedAnswer;
+    }
+  }
+
+  updateCardSelectionState(question.id);
+}
+
+function setCurrentInputsDisabled(question, disabled) {
+  var inputs = document.querySelectorAll('#card-' + question.id + ' input, #card-' + question.id + ' textarea');
+  for (var i = 0; i < inputs.length; i++) {
+    inputs[i].disabled = !!disabled;
+  }
+}
+
+function applyResolvedState(question) {
+  var state = questionResults[question.id];
+  if (!state) {
+    setCurrentInputsDisabled(question, false);
+    return;
+  }
+  setCurrentInputsDisabled(question, true);
+  if (state.auto && question.type !== 'fill') {
+    var expected = (question.answers || []).slice().sort();
+    var picked = Array.isArray(state.userAnswer) ? state.userAnswer.slice().sort() : [state.userAnswer].filter(Boolean);
+    markOptionState(question.id, picked, expected);
+  }
+}
+
+function hydrateQuestionCard(question) {
+  restoreAnswerControls(question);
+  applyResolvedState(question);
+}
+
+function refreshWrongbookPanel() {
+  var countEl = document.getElementById('wrongbook-count');
+  var statEl = document.getElementById('wrongbook-stat-count');
+  var ids = [];
   for (var i = 0; i < Q.length; i++) {
-    var q = Q[i];
-    var result = document.getElementById('result-' + q.id);
-    var badge = document.getElementById('badge-' + q.id);
-    var answer = document.getElementById('answer-' + q.id);
-    var card = document.getElementById('card-' + q.id);
-    if (!result || !badge || !answer || !card) {
-      continue;
-    }
-    result.style.display = 'block';
-    card.classList.remove('correct', 'wrong');
-
-    if (q.type === 'choice' || q.type === 'multi' || q.type === 'tf' || q.type === 'fill') {
-      autoCount += 1;
-      maxScore += q.points;
-      var passed = false;
-
-      if (q.type === 'fill') {
-        var userText = document.getElementById('text-' + q.id).value;
-        passed = isFillCorrect(userText, q.answers);
-      } else {
-        var picked = getSelectedValues(q.id);
-        var expected = (q.answers || []).slice().sort();
-        passed = JSON.stringify(picked) === JSON.stringify(expected);
-        markOptionState(q.id, picked, expected);
-      }
-
-      if (passed) {
-        score += q.points;
-        correctCount += 1;
-        badge.className = 'badge badge-ok';
-        badge.textContent = '正确';
-        card.classList.add('correct');
-        answer.textContent = '';
-        delete wrongbook[q.id];
-      } else {
-        badge.className = 'badge badge-no';
-        badge.textContent = '错误';
-        card.classList.add('wrong');
-        answer.textContent = '正确答案：' + (q.answer_text || (q.answers || []).join('、'));
-        wrongbook[q.id] = snapshotQuestion(q.id, 'auto');
-      }
-    } else {
-      badge.className = 'badge badge-ref';
-      badge.textContent = '参考答案';
-      answer.textContent = q.answer_text ? '参考答案：' + q.answer_text : '开放题，参考来源答案。';
-    }
-
-    var button = document.getElementById('fav-' + q.id);
-    if (button) {
-      button.textContent = favoriteButtonText(q.id);
-      button.classList.toggle('active', !!wrongbook[q.id]);
+    if (wrongbook[Q[i].id]) {
+      ids.push(Q[i].id);
     }
   }
+  if (countEl) {
+    countEl.textContent = String(ids.length);
+  }
+  if (statEl) {
+    statEl.textContent = String(ids.length);
+  }
+}
 
-  saveWrongbook();
-
+function refreshScoreBox(activeQuestions) {
   var scoreBox = document.getElementById('score-box');
-  if (scoreBox) {
-    scoreBox.style.display = 'block';
-    document.getElementById('score-num').textContent = score + ' / ' + maxScore;
-    document.getElementById('score-detail').textContent = '自动判分题：' + autoCount + '，答对：' + correctCount + '。主观题请自行对照参考答案。';
-    scoreBox.scrollIntoView({ behavior: 'smooth' });
+  var scoreNum = document.getElementById('score-num');
+  var scoreDetail = document.getElementById('score-detail');
+  if (!scoreBox || !scoreNum || !scoreDetail) {
+    return;
   }
 
-  var textareas = document.querySelectorAll('.q-textarea');
-  for (var t = 0; t < textareas.length; t++) {
-    textareas[t].disabled = true;
-  }
-  var inputs = document.querySelectorAll('#questions-container input');
-  for (var p = 0; p < inputs.length; p++) {
-    inputs[p].disabled = true;
+  var totalObjectiveScore = 0;
+  var gradedObjectiveCount = 0;
+  var objectiveCount = 0;
+  var correctCount = 0;
+  var currentScore = 0;
+  var subjectiveReviewed = 0;
+
+  for (var i = 0; i < activeQuestions.length; i++) {
+    var question = activeQuestions[i];
+    var result = questionResults[question.id];
+    if (isObjectiveType(question.type)) {
+      objectiveCount += 1;
+      totalObjectiveScore += Number(question.points || 0);
+      if (result && result.auto) {
+        gradedObjectiveCount += 1;
+        currentScore += Number(result.score || 0);
+        if (result.result === 'correct') {
+          correctCount += 1;
+        }
+      }
+    } else if (result && result.result === 'reference') {
+      subjectiveReviewed += 1;
+    }
   }
 
+  if (!gradedObjectiveCount && !subjectiveReviewed) {
+    scoreBox.style.display = 'none';
+    return;
+  }
+
+  scoreBox.style.display = 'block';
+  scoreNum.textContent = currentScore + ' / ' + totalObjectiveScore;
+  scoreDetail.textContent = '当前筛选下自动判分题：' + objectiveCount + '，已判：' + gradedObjectiveCount + '，答对：' + correctCount + '。'
+    + (subjectiveReviewed ? ' 已查看参考答案的主观题：' + subjectiveReviewed + '。' : '');
+}
+
+function gradeAll() {
+  var activeQuestions = getActiveQuestions();
+  var question = getCurrentQuestion(activeQuestions);
+  if (!question) {
+    return;
+  }
+
+  var userAnswer = collectAnswerFromCard(question);
+  draftAnswers[question.id] = cloneAnswer(userAnswer);
+  var resultState = {
+    judgedAt: new Date().toISOString(),
+    userAnswer: cloneAnswer(userAnswer),
+    score: 0,
+    maxScore: 0,
+    auto: isObjectiveType(question.type),
+    result: 'reference'
+  };
+
+  if (question.type === 'fill') {
+    resultState.maxScore = Number(question.points || 0);
+    if (isFillCorrect(userAnswer, question.answers)) {
+      resultState.result = 'correct';
+      resultState.score = resultState.maxScore;
+      delete wrongbook[question.id];
+    } else {
+      resultState.result = 'wrong';
+      wrongbook[question.id] = snapshotQuestion(question.id, 'auto');
+    }
+  } else if (question.type === 'choice' || question.type === 'multi' || question.type === 'tf') {
+    resultState.maxScore = Number(question.points || 0);
+    var picked = Array.isArray(userAnswer) ? userAnswer.slice().sort() : [userAnswer].filter(Boolean);
+    var expected = (question.answers || []).slice().sort();
+    if (JSON.stringify(picked) === JSON.stringify(expected)) {
+      resultState.result = 'correct';
+      resultState.score = resultState.maxScore;
+      delete wrongbook[question.id];
+    } else {
+      resultState.result = 'wrong';
+      wrongbook[question.id] = snapshotQuestion(question.id, 'auto');
+    }
+  } else {
+    resultState.auto = false;
+    resultState.result = 'reference';
+  }
+
+  questionResults[question.id] = resultState;
+  saveWrongbook();
+  build();
+}
+
+function build() {
+  var container = document.getElementById('questions-container');
+  if (!container) {
+    return;
+  }
+
+  var activeQuestions = getActiveQuestions();
+  clampCurrentQuestionIndex(activeQuestions);
+  var currentQuestion = getCurrentQuestion(activeQuestions);
+
+  if (!activeQuestions.length) {
+    var emptyText = PAGE_MODE === 'wrongbook'
+      ? '当前错题本为空。返回总题页做题后，自动判错或手动收藏的题目会出现在这里。'
+      : '当前筛选下没有题目，请切换筛选条件后继续。';
+    container.innerHTML = '<div class="question-empty">' + emptyText + '</div>';
+    attachInteractionDelegates();
+    refreshStatsNow();
+    return;
+  }
+
+  container.innerHTML = '<div class="question-stage">' + renderQuestion(currentQuestion, currentQuestionIndex + 1, activeQuestions.length) + '</div>';
+  attachInteractionDelegates();
+  hydrateQuestionCard(currentQuestion);
+  refreshStatsNow();
   if (window.MathJax && MathJax.typesetPromise) {
-    MathJax.typesetPromise().catch(function(err) {
+    MathJax.typesetPromise([container]).catch(function(err) {
       console.error('MathJax typeset error:', err);
     });
   }
 }
 
-function updateWrongbookPanel() {
-  var countEl = document.getElementById('wrongbook-count');
-  var listEl = document.getElementById('wrongbook-list');
-  var statEl = document.getElementById('wrongbook-stat-count');
-  var sectionCountEl = document.getElementById('wrongbook-section-count');
-  var sectionListEl = document.getElementById('wrongbook-section-list');
-  if (!countEl || !listEl) {
-    return;
-  }
-  var ids = Object.keys(wrongbook);
-  countEl.textContent = String(ids.length);
-  if (statEl) {
-    statEl.textContent = String(ids.length);
-  }
-  if (sectionCountEl) {
-    sectionCountEl.textContent = String(ids.length);
-  }
-  if (!ids.length) {
-    listEl.innerHTML = '<span>当前没有收藏错题。</span>';
-    if (sectionListEl) {
-      sectionListEl.innerHTML = '<div class="wrongbook-empty">当前错题本为空。自动判分答错或手动收藏后会出现在这里。</div>';
+function jumpToSection(sectionType) {
+  var activeQuestions = getActiveQuestions();
+  for (var i = 0; i < activeQuestions.length; i++) {
+    if (activeQuestions[i].type === sectionType) {
+      currentQuestionIndex = i;
+      build();
+      return false;
     }
-    return;
   }
-  var html = '';
-  var sectionHtml = '';
-  for (var i = 0; i < ids.length; i++) {
-    var snapshot = wrongbook[ids[i]] || { id: ids[i] };
-    var sectionLabel = SECTION_LABELS[snapshot.type] || snapshot.type || '题目';
-    var summary = summarizeWrongbookQuestion(snapshot.question || ids[i]);
-    html += '<a href="#card-' + ids[i] + '">' + escapeHtml(ids[i]) + '</a>';
-    sectionHtml += ''
-      + '<div class="wrongbook-entry">'
-      + '<div class="wrongbook-entry-meta">' + escapeHtml(sectionLabel) + '</div>'
-      + '<a class="wrongbook-entry-link" href="#card-' + ids[i] + '">' + escapeHtml(summary || ids[i]) + '</a>'
-      + '</div>';
-  }
-  listEl.innerHTML = html;
-  if (sectionListEl) {
-    sectionListEl.innerHTML = sectionHtml;
-  }
+  return false;
 }
 
-function refreshWrongbookPanel() {
-  var countEl = document.getElementById('wrongbook-count');
-  var listEl = document.getElementById('wrongbook-list');
-  var statEl = document.getElementById('wrongbook-stat-count');
-  var sectionCountEl = document.getElementById('wrongbook-section-count');
-  var sectionListEl = document.getElementById('wrongbook-section-list');
-  var ids = Object.keys(wrongbook);
-
-  if (statEl) {
-    statEl.textContent = String(ids.length);
-  }
-  if (sectionCountEl) {
-    sectionCountEl.textContent = String(ids.length);
-  }
-  if (countEl) {
-    countEl.textContent = String(ids.length);
-  }
-
-  if (!ids.length) {
-    if (PAGE_MODE === 'wrongbook') {
-      var container = document.getElementById('questions-container');
-      if (container) {
-        container.innerHTML = '<div class="wrongbook-empty">当前错题本为空。返回总题页做题后，自动判错或手动收藏的题目会出现在这里。</div>';
-      }
-    }
-    if (listEl) {
-      listEl.innerHTML = '<span>当前没有收藏错题。</span>';
-    }
-    if (sectionListEl) {
-      sectionListEl.innerHTML = '<div class="wrongbook-empty">当前错题本为空。自动判错或手动收藏后会出现在这里。</div>';
-    }
+function goToPreviousQuestion() {
+  var activeQuestions = getActiveQuestions();
+  if (!activeQuestions.length) {
     return;
   }
-
-  var html = '';
-  var sectionHtml = '';
-  for (var i = 0; i < ids.length; i++) {
-    var snapshot = wrongbook[ids[i]] || { id: ids[i] };
-    var sectionLabel = SECTION_LABELS[snapshot.type] || snapshot.type || '题目';
-    var summary = summarizeWrongbookQuestion(snapshot.question || ids[i]);
-    html += '<a href="#card-' + ids[i] + '">' + escapeHtml(ids[i]) + '</a>';
-    sectionHtml += ''
-      + '<div class="wrongbook-entry">'
-      + '<div class="wrongbook-entry-meta">' + escapeHtml(sectionLabel) + '</div>'
-      + '<a class="wrongbook-entry-link" href="#card-' + ids[i] + '">' + escapeHtml(summary || ids[i]) + '</a>'
-      + '</div>';
-  }
-  if (listEl) {
-    listEl.innerHTML = html;
-  }
-  if (sectionListEl) {
-    sectionListEl.innerHTML = sectionHtml;
-  }
+  currentQuestionIndex = Math.max(0, currentQuestionIndex - 1);
+  build();
 }
 
-function syncSectionVisibility() {
-  var visibleSections = {};
-  for (var i = 0; i < Q.length; i++) {
-    var card = document.getElementById('card-' + Q[i].id);
-    if (card && !card.classList.contains('hidden')) {
-      visibleSections[Q[i].type] = true;
-    }
+function goToNextQuestion() {
+  var activeQuestions = getActiveQuestions();
+  if (!activeQuestions.length) {
+    return;
   }
-  var headings = document.querySelectorAll('#questions-container h2[id^="section-"]');
-  for (var j = 0; j < headings.length; j++) {
-    var heading = headings[j];
-    var sectionType = heading.id.replace('section-', '');
-    heading.classList.toggle('hidden', !visibleSections[sectionType]);
-  }
+  currentQuestionIndex = Math.min(activeQuestions.length - 1, currentQuestionIndex + 1);
+  build();
 }
 
-function updateFocusChips() {
-  var chips = document.querySelectorAll('[data-focus-chip]');
-  for (var i = 0; i < chips.length; i++) {
-    var chip = chips[i];
-    var chapter = chip.getAttribute('data-focus-chip') || '';
-    var active = false;
-    if (!chapter) {
-      active = filterFocusOnly && !focusChapterFilter;
-    } else {
-      active = focusChapterFilter === chapter;
-    }
-    chip.classList.toggle('active', active);
-  }
+function goToFirstQuestion() {
+  currentQuestionIndex = 0;
+  build();
 }
 
 function applyQuestionFilters() {
-  for (var i = 0; i < Q.length; i++) {
-    var card = document.getElementById('card-' + Q[i].id);
-    if (!card) {
-      continue;
-    }
-    var hidden = false;
-    if (filterFavoritesOnly && !wrongbook[Q[i].id]) {
-      hidden = true;
-    }
-    if (!hidden && filterFocusOnly && !Q[i].focus_assignment) {
-      hidden = true;
-    }
-    if (!hidden && focusChapterFilter) {
-      hidden = !Q[i].focus_assignment || Q[i].focus_assignment.chapter !== focusChapterFilter;
-    }
-    card.classList.toggle('hidden', hidden);
-  }
-  syncSectionVisibility();
-  updateFocusChips();
+  currentQuestionIndex = 0;
+  build();
 }
 
 function showFavoritesOnly() {
@@ -1212,17 +1545,14 @@ function showAllQuestions() {
 function clearWrongbook() {
   wrongbook = {};
   saveWrongbook();
-  var buttons = document.querySelectorAll('[id^="fav-"]');
-  for (var i = 0; i < buttons.length; i++) {
-    buttons[i].textContent = '收藏错题';
-    buttons[i].classList.remove('active');
-  }
-  filterFocusOnly = false;
-  focusChapterFilter = '';
-  applyQuestionFilters();
+  currentQuestionIndex = 0;
+  build();
 }
 
 function resetPageState() {
+  questionResults = {};
+  draftAnswers = {};
+  currentQuestionIndex = 0;
   window.location.reload();
 }
 
