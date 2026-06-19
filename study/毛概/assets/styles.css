@@ -489,9 +489,101 @@ textarea {
   resize: vertical;
 }
 
-.question-card {
+ .question-card {
+ display: flex;
+ flex-direction: column;
+ gap: 0;
+}
+
+.question-content-scroll {
   display: grid;
-  gap: 16px;
+  gap: 14px;
+}
+
+.question-bottom-bar {
+  flex-shrink: 0;
+  position: sticky;
+  bottom: 0;
+  z-index: 20;
+  margin-top: 16px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+  display: grid;
+  gap: 10px;
+  background: var(--paper);
+  border-radius: 0 0 var(--radius-lg) var(--radius-lg);
+}
+
+.bottom-action-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.bottom-action-row .primary-button {
+  background: var(--accent);
+  box-shadow: 0 4px 14px rgba(143, 59, 46, 0.22);
+}
+
+.bottom-action-row .ghost-button {
+  background: rgba(255, 255, 255, 0.85);
+  border: 1px solid var(--line);
+}
+
+.bottom-action-row .secondary-button {
+  background: var(--accent-2);
+  box-shadow: 0 4px 14px rgba(36, 93, 111, 0.18);
+}
+
+.bottom-action-row .remove-wrongbook-button {
+  background: linear-gradient(135deg, rgba(36, 93, 111, 0.96), #4f8a9f);
+  box-shadow: 0 4px 14px rgba(36, 93, 111, 0.2);
+}
+
+.question-footer {
+  display: grid;
+  gap: 8px;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+}
+
+.question-footer .nav-progress-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.nav-progress-info {
+  flex: 1;
+  min-width: 120px;
+  display: grid;
+  gap: 6px;
+}
+
+.nav-progress-info .progress-label {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: var(--ink);
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.nav-progress-info .progress-label .muted {
+  font-size: 0.82rem;
+  font-weight: 400;
+}
+
+.nav-progress-info .progress-shell {
+  height: 6px;
+  margin: 0;
+}
+
+.nav-button-group {
+  display: flex;
+  gap: 6px;
+  flex-shrink: 0;
 }
 
 .question-meta {
@@ -899,7 +991,7 @@ details.chapter-card summary::-webkit-details-marker {
 @media (max-width: 768px) {
   body {
     background: #f7f3ed;
-    padding-bottom: 96px;
+    padding-bottom: 180px;
   }
 
   .hero::after {
@@ -923,17 +1015,6 @@ details.chapter-card summary::-webkit-details-marker {
     animation: none;
   }
 
-  .nav-row a,
-  .ghost-button,
-  .primary-button,
-  .secondary-button,
-  .danger-button,
-  .option-item,
-  .graph-node,
-  .tag-pill {
-    transition: none;
-  }
-
   #study-actions,
   #wrongbook-actions {
     position: sticky;
@@ -947,32 +1028,73 @@ details.chapter-card summary::-webkit-details-marker {
     box-shadow: 0 8px 20px rgba(83, 52, 28, 0.12);
   }
 
-  #study-actions > button,
-  #wrongbook-actions > button,
+  .question-bottom-bar {
+    position: sticky;
+    bottom: 0;
+    z-index: 24;
+    padding: 14px 16px 12px;
+    border-radius: 20px 20px 0 0;
+    background: rgba(255, 252, 247, 0.96);
+    border: 1px solid rgba(121, 91, 53, 0.12);
+    box-shadow: 0 8px 20px rgba(83, 52, 28, 0.12);
+    backdrop-filter: blur(16px);
+    margin-left: -16px;
+    margin-right: -16px;
+    width: calc(100% + 32px);
+  }
+
   .question-actions > button,
   .answer-actions > button,
-  .toolbar-row > button,
+  .bottom-action-row > button,
+  .nav-button-group > button,
   .section-actions > button,
   .section-actions > a {
     min-height: 48px;
-    padding: 12px 14px;
+    padding: 10px 14px;
+    font-size: 0.92rem;
   }
 
-  .question-actions,
-  .answer-actions,
-  .toolbar-row,
-  .section-actions {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+  .bottom-action-row {
+    display: flex;
+    gap: 8px;
+  }
+
+  .bottom-action-row > button {
+    flex: 1;
+    min-width: 0;
+    text-align: center;
+  }
+
+  .nav-button-group {
+    display: flex;
+    gap: 6px;
+  }
+
+  .nav-button-group > button {
+    flex: 1;
+    min-width: 0;
+    text-align: center;
+  }
+
+  .nav-progress-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  .nav-progress-info {
+    flex: 1;
+    min-width: 80px;
+  }
+
+  .question-footer {
+    padding-top: 8px;
+    gap: 6px;
+  }
+
+  .question-content-scroll {
     gap: 12px;
-  }
-
-  .question-actions.has-three-actions {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-
-  .question-footer .toolbar-row {
-    justify-content: stretch;
   }
 
   .nav-row {

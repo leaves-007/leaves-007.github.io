@@ -465,42 +465,48 @@
     const questionCount = currentSession.questionIds.length;
     const currentNumber = currentSession.currentIndex + 1;
     const shell = shared.createElement("div", "question-footer");
-    const progress = shared.createElement("div", "control-stack");
-    progress.appendChild(shared.createElement("div", "section-title", currentSession.label));
-    progress.appendChild(shared.createElement("div", "muted", `当前第 ${currentNumber} / ${questionCount} 题，本轮已作答 ${answeredCount} 题。`));
+    const navRow = shared.createElement("div", "nav-progress-row");
+    const progressInfo = shared.createElement("div", "nav-progress-info");
+    const progressLabel = shared.createElement("div", "progress-label");
+    const labelSpan = shared.createElement("span", "", `↻ ${currentSession.label}`);
+    const positionSpan = shared.createElement("span", "muted", `${currentNumber} / ${questionCount}`);
+    progressLabel.appendChild(labelSpan);
+    progressLabel.appendChild(positionSpan);
+    progressInfo.appendChild(progressLabel);
     const progressShell = shared.createElement("div", "progress-shell");
     const bar = shared.createElement("div", "progress-bar");
     bar.style.width = `${Math.round((currentNumber / questionCount) * 100)}%`;
     progressShell.appendChild(bar);
-    progress.appendChild(progressShell);
-    shell.appendChild(progress);
+    progressInfo.appendChild(progressShell);
+    navRow.appendChild(progressInfo);
 
-    const toolbar = shared.createElement("div", "toolbar-row");
-    const previousButton = shared.createElement("button", "ghost-button", "上一题");
+    const navButtons = shared.createElement("div", "nav-button-group");
+    const previousButton = shared.createElement("button", "ghost-button", "◀ 上一题");
     previousButton.disabled = currentSession.currentIndex <= 0;
     previousButton.addEventListener("click", function () {
       currentSession.currentIndex = Math.max(0, currentSession.currentIndex - 1);
       shared.persistSession(state, currentSession);
       renderAll();
     });
-    const nextButton = shared.createElement("button", "ghost-button", "下一题");
+    navButtons.appendChild(previousButton);
+    const nextButton = shared.createElement("button", "ghost-button", "▶ 下一题");
     nextButton.disabled = currentSession.currentIndex >= currentSession.questionIds.length - 1;
     nextButton.addEventListener("click", function () {
       currentSession.currentIndex = Math.min(currentSession.questionIds.length - 1, currentSession.currentIndex + 1);
       shared.persistSession(state, currentSession);
       renderAll();
     });
-    const restartButton = shared.createElement("button", "secondary-button", "本轮重新开始");
+    navButtons.appendChild(nextButton);
+    const restartButton = shared.createElement("button", "ghost-button", "↺ 重新开始");
     restartButton.addEventListener("click", function () {
       currentSession.currentIndex = 0;
       currentSession.answered = {};
       shared.persistSession(state, currentSession);
       renderAll();
     });
-    toolbar.appendChild(previousButton);
-    toolbar.appendChild(nextButton);
-    toolbar.appendChild(restartButton);
-    shell.appendChild(toolbar);
+    navButtons.appendChild(restartButton);
+    navRow.appendChild(navButtons);
+    shell.appendChild(navRow);
     return shell;
   }
 
@@ -519,18 +525,29 @@
     const questionState = state.questionStates[question.id];
     const sessionAnswer = currentSession.answered[question.id];
 
-    panel.appendChild(shared.createQuestionMeta(question));
-    panel.appendChild(shared.createTagChips(question.tags));
-    panel.appendChild(shared.createElement("div", "question-stem", question.stem));
+    const scrollArea = shared.createElement("div", "question-content-scroll");
+    scrollArea.appendChild(shared.createQuestionMeta(question));
+    scrollArea.appendChild(shared.createTagChips(question.tags));
+    scrollArea.appendChild(shared.createElement("div", "question-stem", question.stem));
     if (question.material) {
-      panel.appendChild(shared.createElement("div", "question-material", question.material));
+      scrollArea.appendChild(shared.createElement("div", "question-material", question.material));
     }
 
     const answerHost = shared.createElement("div", "control-stack answer-host");
     buildAnswerInputs(question, answerHost);
-    panel.appendChild(answerHost);
+    scrollArea.appendChild(answerHost);
 
-    const actionRow = shared.createElement("div", "question-actions");
+    if (question.type === "简答题" && revealedShortAnswerQuestionId === question.id) {
+      scrollArea.appendChild(renderShortAnswerResult(question));
+    }
+    if (sessionAnswer || questionState) {
+      scrollArea.appendChild(renderResultSection(question, sessionAnswer || questionState));
+    }
+
+    panel.appendChild(scrollArea);
+
+    const bottomBar = shared.createElement("div", "question-bottom-bar");
+    const actionRow = shared.createElement("div", "bottom-action-row");
     if (question.type !== "简答题") {
       const submitButton = shared.createElement("button", "primary-button", "提交答案");
       submitButton.onclick = function () {
@@ -549,7 +566,7 @@
     const favoriteButton = shared.createElement(
       "button",
       shared.isFavorite(state, question.id) ? "secondary-button" : "ghost-button",
-      shared.isFavorite(state, question.id) ? "取消收藏" : "收藏本题"
+      (shared.isFavorite(state, question.id) ? "★ " : "☆ ") + (shared.isFavorite(state, question.id) ? "取消收藏" : "收藏本题")
     );
     favoriteButton.onclick = function () {
       shared.toggleFavorite(state, question.id);
@@ -557,17 +574,10 @@
       renderAll();
     };
     actionRow.appendChild(favoriteButton);
-    panel.appendChild(actionRow);
+    bottomBar.appendChild(actionRow);
 
-    if (question.type === "简答题" && revealedShortAnswerQuestionId === question.id) {
-      panel.appendChild(renderShortAnswerResult(question));
-    }
-
-    if (sessionAnswer || questionState) {
-      panel.appendChild(renderResultSection(question, sessionAnswer || questionState));
-    }
-
-    panel.appendChild(buildSessionSummaryCard());
+    bottomBar.appendChild(buildSessionSummaryCard());
+    panel.appendChild(bottomBar);
   }
 
   function buildAnswerInputs(question, host) {
@@ -1226,20 +1236,27 @@
     const sessionAnswer = currentSession.answered[question.id];
     const restoredAnswer = sessionAnswer ? sessionAnswer.userAnswer : getDraftAnswer(question.id);
 
-    panel.dataset.questionId = question.id;
-    panel.appendChild(shared.createQuestionMeta(question));
-    panel.appendChild(shared.createTagChips(question.tags));
-    panel.appendChild(shared.createElement("div", "question-stem", question.stem));
+        panel.dataset.questionId = question.id;
+    const scrollArea = shared.createElement("div", "question-content-scroll");
+    scrollArea.appendChild(shared.createQuestionMeta(question));
+    scrollArea.appendChild(shared.createTagChips(question.tags));
+    scrollArea.appendChild(shared.createElement("div", "question-stem", question.stem));
     if (question.material) {
-      panel.appendChild(shared.createElement("div", "question-material", question.material));
+      scrollArea.appendChild(shared.createElement("div", "question-material", question.material));
     }
-
     const answerHost = shared.createElement("div", "control-stack answer-host");
     answerHost.dataset.questionId = question.id;
     buildAnswerInputs(question, answerHost, restoredAnswer);
-    panel.appendChild(answerHost);
-
-    const actionRow = shared.createElement("div", "question-actions");
+    scrollArea.appendChild(answerHost);
+    if (question.type === "简答题" && revealedShortAnswerQuestionId === question.id) {
+      scrollArea.appendChild(renderShortAnswerResult(question));
+    }
+    if (sessionAnswer || questionState) {
+      scrollArea.appendChild(renderResultSection(question, sessionAnswer || questionState));
+    }
+    panel.appendChild(scrollArea);
+    const bottomBar = shared.createElement("div", "question-bottom-bar");
+    const actionRow = shared.createElement("div", "bottom-action-row");
     if (question.type !== "简答题") {
       actionRow.appendChild(createActionButton("primary-button", "提交答案", "submit-answer"));
     } else {
@@ -1248,59 +1265,57 @@
     actionRow.appendChild(
       createActionButton(
         shared.isFavorite(state, question.id) ? "secondary-button" : "ghost-button",
-        shared.isFavorite(state, question.id) ? "取消收藏" : "收藏本题",
+        (shared.isFavorite(state, question.id) ? "★ " : "☆ ") + (shared.isFavorite(state, question.id) ? "取消收藏" : "收藏本题"),
         "toggle-favorite"
       )
     );
-    panel.appendChild(actionRow);
-
-    if (question.type === "简答题" && revealedShortAnswerQuestionId === question.id) {
-      panel.appendChild(renderShortAnswerResult(question));
-    }
-
-    if (sessionAnswer || questionState) {
-      panel.appendChild(renderResultSection(question, sessionAnswer || questionState));
-    }
-
-    panel.appendChild(buildSessionSummaryCard());
+    bottomBar.appendChild(actionRow);
+    bottomBar.appendChild(buildSessionSummaryCard());
+    panel.appendChild(bottomBar);
   }
 
-  function createActionButton(className, label, action) {
+  
+function createActionButton(className, label, action) {
     const button = shared.createElement("button", className, label);
     button.type = "button";
     button.dataset.action = action;
     return button;
   }
 
-  function buildSessionSummaryCard() {
+    function buildSessionSummaryCard() {
     const answeredCount = Object.keys(currentSession.answered || {}).length;
     const questionCount = currentSession.questionIds.length;
     const currentNumber = currentSession.currentIndex + 1;
     const shell = shared.createElement("div", "question-footer");
-    const progress = shared.createElement("div", "control-stack");
-    progress.appendChild(shared.createElement("div", "section-title", currentSession.label));
-    progress.appendChild(shared.createElement("div", "muted", `当前第 ${currentNumber} / ${questionCount} 题，本轮已作答 ${answeredCount} 题。`));
+    const navRow = shared.createElement("div", "nav-progress-row");
+    const progressInfo = shared.createElement("div", "nav-progress-info");
+    const progressLabel = shared.createElement("div", "progress-label");
+    const labelSpan = shared.createElement("span", "", "↻ " + currentSession.label);
+    const positionSpan = shared.createElement("span", "muted", "" + currentNumber + " / " + questionCount);
+    progressLabel.appendChild(labelSpan);
+    progressLabel.appendChild(positionSpan);
+    progressInfo.appendChild(progressLabel);
     const progressShell = shared.createElement("div", "progress-shell");
     const bar = shared.createElement("div", "progress-bar");
-    bar.style.width = `${Math.round((currentNumber / questionCount) * 100)}%`;
+    bar.style.width = String(Math.round((currentNumber / questionCount) * 100)) + "%";
     progressShell.appendChild(bar);
-    progress.appendChild(progressShell);
-    shell.appendChild(progress);
-
-    const toolbar = shared.createElement("div", "toolbar-row");
-    const previousButton = createActionButton("ghost-button", "上一题", "session-prev");
+    progressInfo.appendChild(progressShell);
+    navRow.appendChild(progressInfo);
+    const navButtons = shared.createElement("div", "nav-button-group");
+    const previousButton = createActionButton("ghost-button", "◀ 上一题", "session-prev");
     previousButton.disabled = currentSession.currentIndex <= 0;
-    const nextButton = createActionButton("ghost-button", "下一题", "session-next");
+    const nextButton = createActionButton("ghost-button", "▶ 下一题", "session-next");
     nextButton.disabled = currentSession.currentIndex >= currentSession.questionIds.length - 1;
-    const restartButton = createActionButton("secondary-button", "本轮重新开始", "session-restart");
-    toolbar.appendChild(previousButton);
-    toolbar.appendChild(nextButton);
-    toolbar.appendChild(restartButton);
-    shell.appendChild(toolbar);
+    const restartButton = createActionButton("ghost-button", "↺ 重新开始", "session-restart");
+    navButtons.appendChild(previousButton);
+    navButtons.appendChild(nextButton);
+    navButtons.appendChild(restartButton);
+    navRow.appendChild(navButtons);
+    shell.appendChild(navRow);
     return shell;
   }
 
-  function buildAnswerInputs(question, host, restoredAnswer) {
+function buildAnswerInputs(question, host, restoredAnswer) {
     if (question.type === "判断题") {
       buildChoiceInputs(
         question,
@@ -1483,20 +1498,27 @@
     const sessionAnswer = currentSession.answered[question.id];
     const restoredAnswer = sessionAnswer ? sessionAnswer.userAnswer : getDraftAnswer(question.id);
 
-    panel.dataset.questionId = question.id;
-    panel.appendChild(shared.createQuestionMeta(question));
-    panel.appendChild(shared.createTagChips(question.tags));
-    panel.appendChild(shared.createElement("div", "question-stem", question.stem));
+        panel.dataset.questionId = question.id;
+    const scrollArea = shared.createElement("div", "question-content-scroll");
+    scrollArea.appendChild(shared.createQuestionMeta(question));
+    scrollArea.appendChild(shared.createTagChips(question.tags));
+    scrollArea.appendChild(shared.createElement("div", "question-stem", question.stem));
     if (question.material) {
-      panel.appendChild(shared.createElement("div", "question-material", question.material));
+      scrollArea.appendChild(shared.createElement("div", "question-material", question.material));
     }
-
     const answerHost = shared.createElement("div", "control-stack answer-host");
     answerHost.dataset.questionId = question.id;
     buildAnswerInputs(question, answerHost, restoredAnswer);
-    panel.appendChild(answerHost);
-
-    const actionRow = shared.createElement("div", "question-actions");
+    scrollArea.appendChild(answerHost);
+    if (question.type === "简答题" && revealedShortAnswerQuestionId === question.id) {
+      scrollArea.appendChild(renderShortAnswerResult(question));
+    }
+    if (sessionAnswer || questionState) {
+      scrollArea.appendChild(renderResultSection(question, sessionAnswer || questionState));
+    }
+    panel.appendChild(scrollArea);
+    const bottomBar = shared.createElement("div", "question-bottom-bar");
+    const actionRow = shared.createElement("div", "bottom-action-row");
     if (question.type !== "简答题") {
       actionRow.appendChild(createActionButton("primary-button", "提交答案", "submit-answer"));
     } else {
@@ -1505,7 +1527,7 @@
     actionRow.appendChild(
       createActionButton(
         shared.isFavorite(state, question.id) ? "secondary-button" : "ghost-button",
-        shared.isFavorite(state, question.id) ? "取消收藏" : "收藏本题",
+        (shared.isFavorite(state, question.id) ? "★ " : "☆ ") + (shared.isFavorite(state, question.id) ? "取消收藏" : "收藏本题"),
         "toggle-favorite"
       )
     );
@@ -1513,26 +1535,17 @@
       actionRow.appendChild(
         createActionButton(
           "secondary-button remove-wrongbook-button",
-          "标记掌握并移出错题本",
+          "✓ 标记掌握并移出",
           "remove-wrong-entry"
         )
       );
     }
-    actionRow.classList.toggle("has-three-actions", actionRow.childElementCount >= 3);
-    panel.appendChild(actionRow);
-
-    if (question.type === "简答题" && revealedShortAnswerQuestionId === question.id) {
-      panel.appendChild(renderShortAnswerResult(question));
-    }
-
-    if (sessionAnswer || questionState) {
-      panel.appendChild(renderResultSection(question, sessionAnswer || questionState));
-    }
-
-    panel.appendChild(buildSessionSummaryCard());
+    bottomBar.appendChild(actionRow);
+    bottomBar.appendChild(buildSessionSummaryCard());
+    panel.appendChild(bottomBar);
   }
 
-  function renderShortAnswerResult(question) {
+  function renderShortAnswerResultfunction renderShortAnswerResult(question) {
     const wrapper = shared.createElement("div", "control-stack");
     wrapper.appendChild(shared.createRevealableAnswerBlock("参考答案", question.answerRaw || "暂无"));
     const actionRow = shared.createElement("div", "answer-actions");
