@@ -103,7 +103,7 @@
       filtered.forEach(function (question) {
         const questionState = state.questionStates[question.id];
         if (questionState && (questionState.lastResult === "correct" || questionState.lastResult === "mastered")) {
-          shared.removeWrongBookEntry(state, question.id);
+          shared.markQuestionMastered(state, question.id);
         }
       });
       state = shared.loadState();
@@ -463,5 +463,269 @@
     });
     dom.wrongList.appendChild(questionList);
   }
-})();
 
+  let wrongbookOverviewDrawerOpen = false;
+  let wrongbookOverviewCurrentId = "";
+  let wrongbookOverviewFilterSignature = "";
+  let wrongbookOverviewViewedIds = new Set();
+  let wrongbookOverviewFrame = 0;
+  let wrongbookOverviewEventsBound = false;
+
+  function getWrongbookOverviewStorageKey() {
+    return "maogai-wrongbook-overview";
+  }
+
+  function loadWrongbookOverviewDrawerState() {
+    try {
+      return window.sessionStorage.getItem(getWrongbookOverviewStorageKey()) === "open";
+    } catch (error) {
+      return false;
+    }
+  }
+
+  function persistWrongbookOverviewDrawerState() {
+    try {
+      window.sessionStorage.setItem(
+        getWrongbookOverviewStorageKey(),
+        wrongbookOverviewDrawerOpen ? "open" : "closed"
+      );
+    } catch (error) {
+      // Ignore storage failures and keep using in-memory state.
+    }
+  }
+
+  function cacheWrongbookOverviewDom() {
+    dom.overviewShell = document.getElementById("question-overview-shell");
+    dom.overviewToggle = document.getElementById("overview-mobile-toggle");
+    dom.overviewPanel = document.getElementById("question-overview-panel");
+  }
+
+  function ensureWrongbookOverviewShell() {
+    const layout = document.querySelector(".page-shell .layout-two, .page-shell .layout-three");
+    if (!layout) {
+      return;
+    }
+
+    layout.classList.remove("layout-two");
+    layout.classList.add("layout-three");
+
+    if (!document.getElementById("question-overview-shell")) {
+      const shell = shared.createElement("aside", "question-overview-shell");
+      shell.id = "question-overview-shell";
+      const toggle = shared.createElement("button", "overview-mobile-toggle", "题目概览");
+      toggle.type = "button";
+      toggle.id = "overview-mobile-toggle";
+      toggle.addEventListener("click", toggleWrongbookOverviewDrawer);
+      const panel = shared.createElement("section", "question-overview-panel");
+      panel.id = "question-overview-panel";
+      shell.appendChild(toggle);
+      shell.appendChild(panel);
+      layout.appendChild(shell);
+    }
+
+    cacheWrongbookOverviewDom();
+    wrongbookOverviewDrawerOpen = loadWrongbookOverviewDrawerState();
+    syncWrongbookOverviewShell();
+  }
+
+  function syncWrongbookOverviewShell() {
+    if (!dom.overviewShell) {
+      return;
+    }
+    dom.overviewShell.classList.toggle("is-open", wrongbookOverviewDrawerOpen);
+    if (dom.overviewToggle) {
+      dom.overviewToggle.textContent = wrongbookOverviewDrawerOpen ? "收起题目概览" : "题目概览";
+    }
+  }
+
+  function toggleWrongbookOverviewDrawer() {
+    wrongbookOverviewDrawerOpen = !wrongbookOverviewDrawerOpen;
+    persistWrongbookOverviewDrawerState();
+    syncWrongbookOverviewShell();
+  }
+
+  function bindWrongbookOverviewViewportEvents() {
+    if (wrongbookOverviewEventsBound) {
+      return;
+    }
+    wrongbookOverviewEventsBound = true;
+    window.addEventListener("scroll", scheduleWrongbookOverviewViewportSync, { passive: true });
+    window.addEventListener("resize", scheduleWrongbookOverviewViewportSync, { passive: true });
+  }
+
+  function scheduleWrongbookOverviewViewportSync() {
+    if (wrongbookOverviewFrame) {
+      return;
+    }
+    wrongbookOverviewFrame = window.requestAnimationFrame(function () {
+      wrongbookOverviewFrame = 0;
+      syncWrongbookOverviewViewport();
+    });
+  }
+
+  function markWrongbookOverviewVisited(questionId) {
+    if (!questionId) {
+      return false;
+    }
+    const previousSize = wrongbookOverviewViewedIds.size;
+    wrongbookOverviewViewedIds.add(questionId);
+    return wrongbookOverviewViewedIds.size !== previousSize;
+  }
+
+  function jumpToWrongbookOverviewItem(questionId) {
+    const target = document.getElementById(`wrongbook-card-${questionId}`);
+    if (!target) {
+      return;
+    }
+    wrongbookOverviewCurrentId = questionId;
+    markWrongbookOverviewVisited(questionId);
+    renderWrongbookOverviewPanel();
+    target.scrollIntoView({ behavior: "smooth", block: "start" });
+    if (window.innerWidth <= 820) {
+      wrongbookOverviewDrawerOpen = false;
+      persistWrongbookOverviewDrawerState();
+      syncWrongbookOverviewShell();
+    }
+  }
+
+  function getWrongbookOverviewStatus(questionId) {
+    if (questionId === wrongbookOverviewCurrentId) {
+      return "current";
+    }
+    if (wrongbookOverviewViewedIds.has(questionId)) {
+      return "viewed";
+    }
+    return "unviewed";
+  }
+
+  function renderWrongbookOverviewPanel() {
+    if (!dom.overviewPanel) {
+      return;
+    }
+
+    const questions = getFilteredWrongQuestions();
+    shared.renderOverviewPanel({
+      panel: dom.overviewPanel,
+      title: "题目概览",
+      caption: questions.length ? `当前筛选结果 · 共 ${questions.length} 题` : "当前筛选结果",
+      legend: [
+        { label: "当前定位", status: "current" },
+        { label: "已浏览", status: "viewed" },
+        { label: "未浏览", status: "unviewed" },
+      ],
+      groups: shared.buildOverviewGroups(
+        questions.map(function (question) {
+          return question.id;
+        }),
+        questionMap
+      ),
+      getStatus: function (item) {
+        return getWrongbookOverviewStatus(item.questionId);
+      },
+      onJump: function (item) {
+        jumpToWrongbookOverviewItem(item.questionId);
+      },
+      emptyMessage: "当前筛选下没有错题，调整筛选后这里会同步更新。",
+    });
+
+    syncWrongbookOverviewShell();
+  }
+
+  function syncWrongbookOverviewViewport() {
+    if (!dom.wrongList) {
+      return;
+    }
+
+    const cards = Array.from(dom.wrongList.querySelectorAll(".question-list-item[data-question-id]"));
+    if (!cards.length) {
+      if (wrongbookOverviewCurrentId || wrongbookOverviewViewedIds.size) {
+        wrongbookOverviewCurrentId = "";
+        wrongbookOverviewViewedIds = new Set();
+        renderWrongbookOverviewPanel();
+      }
+      return;
+    }
+
+    const viewportAnchor = Math.max(120, window.innerHeight * 0.32);
+    let candidate = null;
+    let nearest = null;
+    let nearestOffset = Number.POSITIVE_INFINITY;
+
+    cards.forEach(function (card) {
+      const rect = card.getBoundingClientRect();
+      const questionId = card.dataset.questionId;
+      if (rect.top <= viewportAnchor && rect.bottom >= 120 && !candidate) {
+        candidate = questionId;
+      }
+      const offset = Math.abs(rect.top - viewportAnchor);
+      if (offset < nearestOffset) {
+        nearestOffset = offset;
+        nearest = questionId;
+      }
+    });
+
+    const nextCurrentId = candidate || nearest || "";
+    const viewedChanged = markWrongbookOverviewVisited(nextCurrentId);
+    const currentChanged = nextCurrentId !== wrongbookOverviewCurrentId;
+
+    if (currentChanged) {
+      wrongbookOverviewCurrentId = nextCurrentId;
+    }
+    if (currentChanged || viewedChanged) {
+      renderWrongbookOverviewPanel();
+    }
+  }
+
+  const baseWrongbookInit = init;
+  init = function initWithOverview() {
+    baseWrongbookInit();
+    ensureWrongbookOverviewShell();
+    bindWrongbookOverviewViewportEvents();
+    renderWrongbookOverviewPanel();
+    scheduleWrongbookOverviewViewportSync();
+  };
+
+  const baseWrongbookRender = render;
+  render = function renderWithOverview() {
+    const questions = getFilteredWrongQuestions();
+    const nextSignature = questions
+      .map(function (question) {
+        return question.id;
+      })
+      .join("|");
+
+    if (nextSignature !== wrongbookOverviewFilterSignature) {
+      wrongbookOverviewFilterSignature = nextSignature;
+      wrongbookOverviewCurrentId = "";
+      wrongbookOverviewViewedIds = new Set();
+    }
+
+    baseWrongbookRender();
+
+    Array.from(dom.wrongList.querySelectorAll(".question-list-item")).forEach(function (item, index) {
+      const question = questions[index];
+      if (!question) {
+        return;
+      }
+      item.id = `wrongbook-card-${question.id}`;
+      item.dataset.questionId = question.id;
+      item.dataset.overviewIndex = String(index);
+    });
+
+    renderWrongbookOverviewPanel();
+    scheduleWrongbookOverviewViewportSync();
+  };
+
+  function activateWrongbookOverviewEnhancements() {
+    ensureWrongbookOverviewShell();
+    bindWrongbookOverviewViewportEvents();
+    renderWrongbookOverviewPanel();
+    scheduleWrongbookOverviewViewportSync();
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", activateWrongbookOverviewEnhancements);
+  } else {
+    window.setTimeout(activateWrongbookOverviewEnhancements, 0);
+  }
+})();

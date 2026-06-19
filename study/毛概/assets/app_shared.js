@@ -320,13 +320,28 @@
   function createQuestionMeta(question) {
     const meta = createElement("div", "question-meta");
     [
-      `章节：${question.chapterTitle}`,
-      `题型：${question.type}`,
-      `分值：${question.score || 0}`,
-      `难度：${question.difficulty || "-"}`,
-      `序号：${question.sourceNo || question.sequence}`,
+      {
+        text: `章节：${question.chapterTitle}`,
+        className: "chip chip-chapter",
+      },
+      {
+        text: `题型：${question.type}`,
+        className: "chip chip-question-type",
+      },
+      {
+        text: `分值：${question.score || 0}`,
+        className: "chip chip-score",
+      },
+      {
+        text: `难度：${question.difficulty || "-"}`,
+        className: "chip chip-difficulty",
+      },
+      {
+        text: `序号：${question.sourceNo || question.sequence}`,
+        className: "chip chip-sequence",
+      },
     ].forEach(function (item) {
-      meta.appendChild(createElement("span", "chip", item));
+      meta.appendChild(createElement("span", item.className, item.text));
     });
     return meta;
   }
@@ -352,6 +367,57 @@
     const card = createElement("div", "empty-card fade-in");
     card.appendChild(createElement("p", "", message));
     return card;
+  }
+
+  function setRevealableAnswerState(shell, toggle, revealed) {
+    shell.classList.toggle("is-revealed", revealed);
+    toggle.setAttribute("aria-pressed", revealed ? "true" : "false");
+    toggle.textContent = revealed ? "收起答案" : "点击查看";
+  }
+
+  function createRevealableAnswerBlock(label, answerText) {
+    const shell = createElement("div", "answer-detail answer-reveal-shell");
+    shell.tabIndex = 0;
+
+    const content = createElement("div", "answer-reveal-content");
+    content.appendChild(createElement("span", "answer-reveal-label", `${label}：`));
+    content.appendChild(createElement("span", "answer-reveal-body", answerText || "暂无"));
+    shell.appendChild(content);
+
+    const toggle = createElement("button", "answer-reveal-toggle", "点击查看");
+    toggle.type = "button";
+
+    const toggleReveal = function (event) {
+      if (event) {
+        event.preventDefault();
+        event.stopPropagation();
+      }
+      setRevealableAnswerState(shell, toggle, !shell.classList.contains("is-revealed"));
+    };
+
+    toggle.addEventListener("click", toggleReveal);
+    shell.addEventListener("click", function (event) {
+      if (event.target === toggle) {
+        return;
+      }
+      if (!window.matchMedia("(hover: none), (pointer: coarse)").matches) {
+        return;
+      }
+      toggleReveal(event);
+    });
+    shell.addEventListener("keydown", function (event) {
+      if (event.key !== "Enter" && event.key !== " ") {
+        return;
+      }
+      if (!window.matchMedia("(hover: none), (pointer: coarse)").matches) {
+        return;
+      }
+      toggleReveal(event);
+    });
+
+    setRevealableAnswerState(shell, toggle, false);
+    shell.appendChild(toggle);
+    return shell;
   }
 
   function setPendingSession(state, session) {
@@ -418,9 +484,150 @@
     createTagChips: createTagChips,
     getQuestionSummary: getQuestionSummary,
     createEmptyCard: createEmptyCard,
+    createRevealableAnswerBlock: createRevealableAnswerBlock,
     setPendingSession: setPendingSession,
     consumePendingSession: consumePendingSession,
     persistSession: persistSession,
     normalizeSession: normalizeSession,
   };
 });
+
+(function (shared) {
+  if (!shared) {
+    return;
+  }
+
+  function hasMeaningfulOverviewAnswer(value) {
+    if (Array.isArray(value)) {
+      return value.some(function (item) {
+        return hasMeaningfulOverviewAnswer(item);
+      });
+    }
+    if (typeof value === "string") {
+      return value.trim().length > 0;
+    }
+    return value !== null && value !== undefined && value !== false;
+  }
+
+  function buildOverviewGroups(questionIds, questionMap) {
+    const groups = [];
+    const groupMap = new Map();
+    (questionIds || []).forEach(function (questionId, index) {
+      const question = questionMap[questionId];
+      if (!question) {
+        return;
+      }
+      const groupKey = String(question.type || "未分类");
+      if (!groupMap.has(groupKey)) {
+        const group = {
+          key: groupKey,
+          title: groupKey,
+          items: [],
+        };
+        groupMap.set(groupKey, group);
+        groups.push(group);
+      }
+      groupMap.get(groupKey).items.push({
+        questionId: questionId,
+        question: question,
+        index: index,
+        number: index + 1,
+      });
+    });
+    return groups;
+  }
+
+  function resolveOverviewStatusClass(status) {
+    switch (status) {
+      case "current":
+        return "is-current";
+      case "answered":
+        return "is-answered";
+      case "viewed":
+        return "is-viewed";
+      case "unanswered":
+      case "unviewed":
+      default:
+        return "is-unanswered";
+    }
+  }
+
+  function renderOverviewPanel(config) {
+    const panel = config && config.panel;
+    if (!panel) {
+      return;
+    }
+
+    shared.clearElement(panel);
+    panel.classList.add("question-overview-panel");
+
+    const header = shared.createElement("div", "overview-header");
+    header.appendChild(shared.createElement("h2", "section-title", config.title || "题目概览"));
+    if (config.caption) {
+      header.appendChild(shared.createElement("div", "section-caption", config.caption));
+    }
+    panel.appendChild(header);
+
+    const legend = shared.createElement("div", "overview-legend");
+    (config.legend || []).forEach(function (item) {
+      const entry = shared.createElement("div", "overview-legend-item");
+      const swatch = shared.createElement(
+        "span",
+        `overview-swatch ${resolveOverviewStatusClass(item.status)}`
+      );
+      entry.appendChild(swatch);
+      entry.appendChild(shared.createElement("span", "", item.label));
+      legend.appendChild(entry);
+    });
+    panel.appendChild(legend);
+
+    const groups = config.groups || [];
+    if (!groups.length) {
+      panel.appendChild(
+        shared.createElement(
+          "div",
+          "question-overview-empty",
+          config.emptyMessage || "当前没有可展示的题目概览。"
+        )
+      );
+      return;
+    }
+
+    const sections = shared.createElement("div", "overview-sections");
+    groups.forEach(function (group) {
+      const section = shared.createElement("section", "overview-section");
+      section.appendChild(shared.createElement("div", "overview-section-title", group.title));
+      const grid = shared.createElement("div", "overview-grid");
+
+      group.items.forEach(function (item) {
+        const status = typeof config.getStatus === "function" ? config.getStatus(item) : "unanswered";
+        const label =
+          typeof config.getItemLabel === "function" ? config.getItemLabel(item) : String(item.number);
+        const button = shared.createElement(
+          "button",
+          `overview-button ${resolveOverviewStatusClass(status)}`,
+          label
+        );
+        button.type = "button";
+        button.dataset.questionId = item.questionId || "";
+        button.dataset.overviewIndex = String(item.index);
+        button.dataset.overviewStatus = status;
+        if (typeof config.onJump === "function") {
+          button.addEventListener("click", function () {
+            config.onJump(item);
+          });
+        }
+        grid.appendChild(button);
+      });
+
+      section.appendChild(grid);
+      sections.appendChild(section);
+    });
+
+    panel.appendChild(sections);
+  }
+
+  shared.hasMeaningfulOverviewAnswer = hasMeaningfulOverviewAnswer;
+  shared.buildOverviewGroups = buildOverviewGroups;
+  shared.renderOverviewPanel = renderOverviewPanel;
+})(window.QuestionBankAppShared);

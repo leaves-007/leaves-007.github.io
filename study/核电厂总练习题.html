@@ -766,6 +766,186 @@ body {
   }
 }
 
+
+.layout-three {
+  display: grid;
+  grid-template-columns: minmax(280px, 360px) minmax(0, 1fr) minmax(260px, 320px);
+  gap: 20px;
+  align-items: start;
+}
+.question-overview-shell {
+  position: relative;
+}
+.question-overview-panel {
+  position: sticky;
+  top: 24px;
+  max-height: calc(100vh - 48px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  display: grid;
+  gap: 16px;
+  padding: 22px;
+  background: rgba(255, 252, 247, 0.94);
+  border: 1px solid rgba(255, 255, 255, 0.68);
+  box-shadow: 0 18px 50px rgba(83, 52, 28, 0.12);
+  border-radius: 20px;
+  backdrop-filter: blur(16px);
+}
+.overview-header {
+  display: grid;
+  gap: 12px;
+}
+.overview-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.overview-legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.88rem;
+  color: #586574;
+}
+.overview-swatch {
+  width: 16px;
+  height: 16px;
+  border-radius: 5px;
+  border: 1px solid rgba(37, 99, 235, 0.28);
+  background: rgba(255, 255, 255, 0.92);
+}
+.overview-swatch.is-current {
+  background: linear-gradient(135deg, #3b82f6, #2563eb);
+  border-color: transparent;
+}
+.overview-swatch.is-answered {
+  background: rgba(59, 130, 246, 0.12);
+  border-color: rgba(37, 99, 235, 0.26);
+}
+.overview-swatch.is-unanswered {
+  background: rgba(255, 255, 255, 0.96);
+}
+.overview-sections {
+  display: grid;
+  gap: 16px;
+}
+.overview-section {
+  display: grid;
+  gap: 10px;
+}
+.overview-section-title {
+  margin: 0;
+  font-size: 0.98rem;
+  color: #1f2933;
+}
+.overview-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 10px;
+}
+.overview-button {
+  appearance: none;
+  min-height: 42px;
+  border-radius: 14px;
+  border: 1px solid rgba(37, 99, 235, 0.28);
+  background: rgba(255, 255, 255, 0.96);
+  color: #2563eb;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease, background 0.18s ease;
+}
+.overview-button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 20px rgba(37, 99, 235, 0.12);
+}
+.overview-button.is-current {
+  background: linear-gradient(135deg, #3b82f6, #2563eb);
+  color: #fff;
+  border-color: transparent;
+  box-shadow: 0 12px 24px rgba(37, 99, 235, 0.2);
+}
+.overview-button.is-answered {
+  background: rgba(59, 130, 246, 0.12);
+  color: #1d4ed8;
+  border-color: rgba(37, 99, 235, 0.26);
+}
+.overview-button.is-unanswered {
+  background: rgba(255, 255, 255, 0.96);
+  color: #2563eb;
+}
+.question-overview-empty {
+  padding: 18px;
+  border-radius: 14px;
+  border: 1px dashed rgba(37, 99, 235, 0.2);
+  background: rgba(255, 255, 255, 0.68);
+  color: #586574;
+}
+.overview-mobile-toggle {
+  display: none;
+  appearance: none;
+  width: 100%;
+  min-height: 48px;
+  border: 0;
+  border-radius: 16px;
+  background: linear-gradient(135deg, #245d6f, #4f8a9f);
+  color: #fff;
+  font: inherit;
+  font-weight: 700;
+  box-shadow: 0 12px 24px rgba(36, 93, 111, 0.18);
+}
+@media (max-width: 1180px) {
+  .layout-three {
+    grid-template-columns: minmax(280px, 360px) minmax(0, 1fr);
+  }
+  .question-overview-shell {
+    grid-column: 1 / -1;
+  }
+  .question-overview-panel {
+    position: static;
+  }
+}
+@media (max-width: 768px) {
+  body {
+    padding-bottom: 176px;
+  }
+  .question-overview-shell {
+    position: fixed;
+    left: 14px;
+    right: 14px;
+    bottom: calc(84px + env(safe-area-inset-bottom, 0px));
+    z-index: 28;
+    display: grid;
+    gap: 10px;
+  }
+  .overview-mobile-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .question-overview-panel {
+    display: none;
+    position: static;
+    max-height: min(52vh, 420px);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    padding: 18px;
+    border-radius: 18px;
+    box-shadow: 0 8px 20px rgba(83, 52, 28, 0.12);
+  }
+  .question-overview-shell.is-open .question-overview-panel {
+    display: grid;
+  }
+  .overview-grid {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+}
+@media (max-width: 480px) {
+  .overview-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
 </style>
 </head>
 <body>
@@ -782,7 +962,7 @@ body {
 <p style="text-align:center;color:var(--ink-light)">来源文件 4 份，原始题目 3720 道，去重后 803 道。</p>
 <div class="hero-metrics"><div class="hero-metric"><strong>803</strong><span>去重后总题数</span></div><div class="hero-metric"><strong>544</strong><span>可自动判分</span></div><div class="hero-metric"><strong>7</strong><span>题型分区</span></div><div class="hero-metric"><strong>121</strong><span>无标准答案主观题</span></div></div>
 </section>
-<div class="layout-two">
+<div class="layout-three">
 <aside class="control-stack">
 <section class="panel"><h2 class="section-title">题库总览</h2><div class="quiz-meta"><a class="meta-card meta-card-link" href="#questions-container"><strong>803</strong><span>去重后总题数</span></a><a class="meta-card meta-card-link" href="#section-choice"><strong>544</strong><span>可自动判分</span></a><a class="meta-card meta-card-link" href="核电厂错题本.html"><strong id="wrongbook-stat-count">0</strong><span>错题本</span></a><a class="meta-card meta-card-link" href="核电厂重点版题库.html"><strong>232</strong><span>重点题</span></a><a class="meta-card meta-card-link" href="#card-short-98e4b30b0702"><strong>121</strong><span>无标准答案主观题</span></a><a class="meta-card meta-card-link" href="#section-choice" onclick="return jumpToSection('choice')"><strong>233</strong><span>一、单选题</span></a><a class="meta-card meta-card-link" href="#section-multi" onclick="return jumpToSection('multi')"><strong>141</strong><span>二、多选题</span></a><a class="meta-card meta-card-link" href="#section-fill" onclick="return jumpToSection('fill')"><strong>102</strong><span>三、填空题</span></a><a class="meta-card meta-card-link" href="#section-tf" onclick="return jumpToSection('tf')"><strong>68</strong><span>四、判断题</span></a><a class="meta-card meta-card-link" href="#section-short" onclick="return jumpToSection('short')"><strong>237</strong><span>五、简答题</span></a><a class="meta-card meta-card-link" href="#section-term" onclick="return jumpToSection('term')"><strong>13</strong><span>六、名词解释</span></a><a class="meta-card meta-card-link" href="#section-essay" onclick="return jumpToSection('essay')"><strong>9</strong><span>七、论述题</span></a></div></section>
 
@@ -793,6 +973,10 @@ body {
 <div id="score-box"><div class="score-num" id="score-num">0 / 0</div><div class="score-label">自动判分得分</div><div id="score-detail" style="margin-top:8px;color:var(--ink-light)"></div></div>
 <div id="questions-container" class="section-block"></div>
 </section>
+<aside class="question-overview-shell no-print" id="question-overview-shell">
+<button type="button" class="overview-mobile-toggle" id="overview-mobile-toggle" onclick="return toggleOverviewDrawer()">题目概览</button>
+<section class="question-overview-panel" id="question-overview-panel"></section>
+</aside></section>
 </div>
 </div>
 
@@ -812,6 +996,7 @@ var pageState = loadPageState();
 var filterFavoritesOnly = !!pageState.filterFavoritesOnly;
 var filterFocusOnly = !!pageState.filterFocusOnly;
 var focusChapterFilter = typeof pageState.focusChapterFilter === 'string' ? pageState.focusChapterFilter : '';
+var overviewDrawerOpen = !!pageState.overviewDrawerOpen;
 var statsRefreshTimer = 0;
 var delegatesAttached = false;
 var draftAnswers = pageState.draftAnswers && typeof pageState.draftAnswers === 'object' ? pageState.draftAnswers : {};
@@ -872,6 +1057,7 @@ function savePageState() {
     filterFavoritesOnly: filterFavoritesOnly,
     filterFocusOnly: filterFocusOnly,
     focusChapterFilter: focusChapterFilter,
+    overviewDrawerOpen: overviewDrawerOpen,
     draftAnswers: draftAnswers,
     questionResults: questionResults,
     currentQuestionIndex: currentQuestionIndex
@@ -1452,7 +1638,6 @@ function gradeAll() {
     if (isFillCorrect(userAnswer, question.answers)) {
       resultState.result = 'correct';
       resultState.score = resultState.maxScore;
-      delete wrongbook[question.id];
     } else {
       resultState.result = 'wrong';
       wrongbook[question.id] = snapshotQuestion(question.id, 'auto');
@@ -1464,7 +1649,6 @@ function gradeAll() {
     if (JSON.stringify(picked) === JSON.stringify(expected)) {
       resultState.result = 'correct';
       resultState.score = resultState.maxScore;
-      delete wrongbook[question.id];
     } else {
       resultState.result = 'wrong';
       wrongbook[question.id] = snapshotQuestion(question.id, 'auto');
@@ -1478,6 +1662,129 @@ function gradeAll() {
   saveWrongbook();
   savePageState();
   build();
+}
+
+
+function hasMeaningfulAnswer(answer) {
+  if (Array.isArray(answer)) {
+    for (var i = 0; i < answer.length; i++) {
+      if (hasMeaningfulAnswer(answer[i])) {
+        return true;
+      }
+    }
+    return false;
+  }
+  return answer !== undefined && answer !== null && String(answer).trim() !== '';
+}
+
+function isQuestionAnswered(questionId) {
+  return !!questionResults[questionId] || hasMeaningfulAnswer(draftAnswers[questionId]);
+}
+
+function buildQuestionOverviewGroups(activeQuestions) {
+  var groups = [];
+  var groupMap = {};
+  for (var i = 0; i < activeQuestions.length; i++) {
+    var question = activeQuestions[i];
+    var type = question.type || 'other';
+    if (!groupMap[type]) {
+      groupMap[type] = {
+        type: type,
+        label: SECTION_LABELS[type] || type,
+        items: []
+      };
+      groups.push(groupMap[type]);
+    }
+    groupMap[type].items.push({
+      id: question.id,
+      index: i,
+      number: i + 1
+    });
+  }
+  return groups;
+}
+
+function renderOverviewLegend() {
+  return ''
+    + '<div class="overview-legend">'
+    + '<span class="overview-legend-item"><span class="overview-swatch is-current"></span><span>当前题目</span></span>'
+    + '<span class="overview-legend-item"><span class="overview-swatch is-answered"></span><span>已作答</span></span>'
+    + '<span class="overview-legend-item"><span class="overview-swatch is-unanswered"></span><span>未作答</span></span>'
+    + '</div>';
+}
+
+function renderQuestionOverview(activeQuestions) {
+  var shell = document.getElementById('question-overview-shell');
+  var panel = document.getElementById('question-overview-panel');
+  var toggle = document.getElementById('overview-mobile-toggle');
+  if (!shell || !panel || !toggle) {
+    return;
+  }
+
+  var drawerOpen = overviewDrawerOpen || window.innerWidth > 768;
+  shell.classList.toggle('is-open', drawerOpen);
+  toggle.setAttribute('aria-expanded', drawerOpen ? 'true' : 'false');
+  toggle.textContent = activeQuestions.length
+    ? '题目概览 ' + (currentQuestionIndex + 1) + '/' + activeQuestions.length
+    : '题目概览';
+
+  if (!activeQuestions.length) {
+    panel.innerHTML = ''
+      + '<div class="overview-header">'
+      + '<div><h2 class="section-title">题目概览</h2><div class="section-caption">按题号快速跳转当前题集。</div></div>'
+      + renderOverviewLegend()
+      + '</div>'
+      + '<div class="question-overview-empty">当前筛选下暂无题目。</div>';
+    return;
+  }
+
+  var groups = buildQuestionOverviewGroups(activeQuestions);
+  var html = ''
+    + '<div class="overview-header">'
+    + '<div><h2 class="section-title">题目概览</h2><div class="section-caption">按题号快速跳转当前题集。</div></div>'
+    + renderOverviewLegend()
+    + '</div>'
+    + '<div class="overview-sections">';
+
+  for (var groupIndex = 0; groupIndex < groups.length; groupIndex++) {
+    var group = groups[groupIndex];
+    html += '<section class="overview-section">';
+    html += '<h3 class="overview-section-title">' + escapeHtml(group.label) + '</h3>';
+    html += '<div class="overview-grid">';
+    for (var itemIndex = 0; itemIndex < group.items.length; itemIndex++) {
+      var item = group.items[itemIndex];
+      var stateClass = item.index === currentQuestionIndex
+        ? 'is-current'
+        : (isQuestionAnswered(item.id) ? 'is-answered' : 'is-unanswered');
+      html += '<button type="button" class="overview-button ' + stateClass + '" onclick="return jumpToQuestion(' + item.index + ')">' + item.number + '</button>';
+    }
+    html += '</div>';
+    html += '</section>';
+  }
+
+  html += '</div>';
+  panel.innerHTML = html;
+}
+
+function jumpToQuestion(index) {
+  var activeQuestions = getActiveQuestions();
+  if (index < 0 || index >= activeQuestions.length) {
+    return false;
+  }
+  currentQuestionIndex = index;
+  if (window.innerWidth <= 768) {
+    overviewDrawerOpen = false;
+  }
+  savePageState();
+  build();
+  return false;
+}
+
+function toggleOverviewDrawer(forceOpen) {
+  overviewDrawerOpen = typeof forceOpen === 'boolean' ? forceOpen : !overviewDrawerOpen;
+  savePageState();
+  renderQuestionOverview(getActiveQuestions());
+  return false;
 }
 
 function build() {
@@ -1498,6 +1805,7 @@ function build() {
     container.innerHTML = '<div class="question-empty">' + emptyText + '</div>';
     attachInteractionDelegates();
     refreshStatsNow();
+    renderQuestionOverview(activeQuestions);
     return;
   }
 
@@ -1505,6 +1813,7 @@ function build() {
   attachInteractionDelegates();
   hydrateQuestionCard(currentQuestion);
   refreshStatsNow();
+  renderQuestionOverview(activeQuestions);
   if (window.MathJax && MathJax.typesetPromise) {
     MathJax.typesetPromise([container]).catch(function(err) {
       console.error('MathJax typeset error:', err);
@@ -1593,6 +1902,7 @@ function resetPageState() {
   filterFavoritesOnly = false;
   filterFocusOnly = false;
   focusChapterFilter = '';
+  overviewDrawerOpen = false;
   currentQuestionIndex = 0;
   clearPageState();
   window.location.reload();

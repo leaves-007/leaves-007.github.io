@@ -833,7 +833,7 @@
     shared.clearElement(dom.heroMeta);
     if (pageConfig.pageType === "chapter") {
       dom.heroTitle.textContent = `${pageConfig.chapterTitle} · 章节练习`;
-      dom.heroSubtitle.textContent = "当前页面只保留本章节练习。题目、判分和错题本语义不变，本次只优化移动端交互性能和操作区。";
+      dom.heroSubtitle.remove();
       dom.heroMeta.appendChild(shared.createElement("span", "chip", `章节限定：${pageConfig.chapterTitle}`));
       dom.heroMeta.appendChild(shared.createElement("span", "chip", `本章题数：${scopedQuestions.length}`));
     } else {
@@ -849,6 +849,35 @@
     renderQuestionPanel();
     renderStudyActions();
     renderStats();
+  }
+
+  function renderHero() {
+    shared.clearElement(dom.nav);
+    [
+      { label: "总入口", href: "index.html" },
+      { label: "错题本", href: "wrong_book.html" },
+    ].forEach(function (item) {
+      const link = shared.createElement("a", "", item.label);
+      link.href = item.href;
+      dom.nav.appendChild(link);
+    });
+
+    shared.clearElement(dom.heroMeta);
+    if (dom.heroSubtitle && dom.heroSubtitle.isConnected) {
+      dom.heroSubtitle.remove();
+    }
+
+    if (pageConfig.pageType === "chapter") {
+      dom.heroTitle.textContent = `${pageConfig.chapterTitle} · 章节练习`;
+      dom.heroMeta.appendChild(shared.createElement("span", "chip", `章节限定：${pageConfig.chapterTitle}`));
+      dom.heroMeta.appendChild(shared.createElement("span", "chip", `本章题数：${scopedQuestions.length}`));
+      return;
+    }
+
+    dom.heroTitle.textContent = "毛概交互式题库";
+    dom.heroMeta.appendChild(shared.createElement("span", "chip", `总题数：${bank.totalQuestions}`));
+    dom.heroMeta.appendChild(shared.createElement("span", "chip", `章节数：${bank.chapters.length}`));
+    dom.heroMeta.appendChild(shared.createElement("span", "chip", `题型：${bank.questionTypes.join(" / ")}`));
   }
 
   function attachInteractionDelegates() {
@@ -1434,6 +1463,104 @@
     shared.renderChapterMastery(dom.masteryPanel, stats);
   }
 
+  function renderQuestionPanel() {
+    const panel = dom.questionPanel;
+    shared.clearElement(panel);
+    if (!currentSession || !currentSession.questionIds.length) {
+      delete panel.dataset.questionId;
+      panel.appendChild(shared.createEmptyCard("选择刷题模式后，这里会显示当前题目。"));
+      return;
+    }
+
+    const question = getCurrentQuestion();
+    if (!question) {
+      delete panel.dataset.questionId;
+      panel.appendChild(shared.createEmptyCard("当前题目不存在，请重新开始本轮练习。"));
+      return;
+    }
+
+    const questionState = state.questionStates[question.id];
+    const sessionAnswer = currentSession.answered[question.id];
+    const restoredAnswer = sessionAnswer ? sessionAnswer.userAnswer : getDraftAnswer(question.id);
+
+    panel.dataset.questionId = question.id;
+    panel.appendChild(shared.createQuestionMeta(question));
+    panel.appendChild(shared.createTagChips(question.tags));
+    panel.appendChild(shared.createElement("div", "question-stem", question.stem));
+    if (question.material) {
+      panel.appendChild(shared.createElement("div", "question-material", question.material));
+    }
+
+    const answerHost = shared.createElement("div", "control-stack answer-host");
+    answerHost.dataset.questionId = question.id;
+    buildAnswerInputs(question, answerHost, restoredAnswer);
+    panel.appendChild(answerHost);
+
+    const actionRow = shared.createElement("div", "question-actions");
+    if (question.type !== "简答题") {
+      actionRow.appendChild(createActionButton("primary-button", "提交答案", "submit-answer"));
+    } else {
+      actionRow.appendChild(createActionButton("secondary-button", "显示参考答案", "reveal-short-answer"));
+    }
+    actionRow.appendChild(
+      createActionButton(
+        shared.isFavorite(state, question.id) ? "secondary-button" : "ghost-button",
+        shared.isFavorite(state, question.id) ? "取消收藏" : "收藏本题",
+        "toggle-favorite"
+      )
+    );
+    if (state.wrongBook[question.id]) {
+      actionRow.appendChild(
+        createActionButton(
+          "secondary-button remove-wrongbook-button",
+          "标记掌握并移出错题本",
+          "remove-wrong-entry"
+        )
+      );
+    }
+    actionRow.classList.toggle("has-three-actions", actionRow.childElementCount >= 3);
+    panel.appendChild(actionRow);
+
+    if (question.type === "简答题" && revealedShortAnswerQuestionId === question.id) {
+      panel.appendChild(renderShortAnswerResult(question));
+    }
+
+    if (sessionAnswer || questionState) {
+      panel.appendChild(renderResultSection(question, sessionAnswer || questionState));
+    }
+
+    panel.appendChild(buildSessionSummaryCard());
+  }
+
+  function renderShortAnswerResult(question) {
+    const wrapper = shared.createElement("div", "control-stack");
+    wrapper.appendChild(shared.createRevealableAnswerBlock("参考答案", question.answerRaw || "暂无"));
+    const actionRow = shared.createElement("div", "answer-actions");
+    actionRow.appendChild(createActionButton("secondary-button", "标记已掌握", "mark-short-mastered"));
+    actionRow.appendChild(createActionButton("danger-button", "标记未掌握", "mark-short-wrong"));
+    wrapper.appendChild(actionRow);
+    return wrapper;
+  }
+
+  function renderResultSection(question, answerState) {
+    const wrapper = shared.createElement("div", "control-stack");
+    const resultClass = answerState.result === "correct" || answerState.result === "mastered" ? "result-good" : "result-bad";
+    const resultText = answerState.result === "mastered" ? "已标记为掌握" : answerState.result === "correct" ? "回答正确" : "回答错误";
+    wrapper.appendChild(shared.createElement("div", `result-banner ${resultClass}`, resultText));
+    wrapper.appendChild(shared.createRevealableAnswerBlock("标准答案", shared.describeAnswer(question)));
+    if (question.explanation) {
+      wrapper.appendChild(shared.createElement("div", "answer-detail", `答案解析：${question.explanation}`));
+    }
+    wrapper.appendChild(
+      shared.createElement(
+        "div",
+        "answer-detail",
+        `最近作答时间：${shared.formatDateTime(answerState.judgedAt || answerState.lastAnsweredAt)}`
+      )
+    );
+    return wrapper;
+  }
+
   function startSession(config) {
     const pool = getSessionPool(config);
     const questionIds = buildQuestionIds(pool, config);
@@ -1459,5 +1586,180 @@
   function pageTitlePrefix() {
     return pageConfig.pageType === "chapter" ? `${pageConfig.chapterTitle} · ` : "";
   }
-})();
 
+  let practiceOverviewDrawerOpen = false;
+
+  function getPracticeOverviewStorageKey() {
+    return `maogai-practice-overview:${pageConfig.pageType}:${pageConfig.chapterKey || "all"}`;
+  }
+
+  function loadPracticeOverviewDrawerState() {
+    try {
+      return window.sessionStorage.getItem(getPracticeOverviewStorageKey()) === "open";
+    } catch (error) {
+      return false;
+    }
+  }
+
+  function persistPracticeOverviewDrawerState() {
+    try {
+      window.sessionStorage.setItem(
+        getPracticeOverviewStorageKey(),
+        practiceOverviewDrawerOpen ? "open" : "closed"
+      );
+    } catch (error) {
+      // Ignore storage failures and keep the current in-memory state.
+    }
+  }
+
+  function cachePracticeOverviewDom() {
+    dom.overviewShell = document.getElementById("question-overview-shell");
+    dom.overviewToggle = document.getElementById("overview-mobile-toggle");
+    dom.overviewPanel = document.getElementById("question-overview-panel");
+  }
+
+  function ensurePracticeOverviewShell() {
+    const layout = document.querySelector(".page-shell .layout-two, .page-shell .layout-three");
+    if (!layout) {
+      return;
+    }
+
+    layout.classList.remove("layout-two");
+    layout.classList.add("layout-three");
+
+    if (!document.getElementById("question-overview-shell")) {
+      const shell = shared.createElement("aside", "question-overview-shell");
+      shell.id = "question-overview-shell";
+      const toggle = shared.createElement("button", "overview-mobile-toggle", "题目概览");
+      toggle.type = "button";
+      toggle.id = "overview-mobile-toggle";
+      toggle.addEventListener("click", togglePracticeOverviewDrawer);
+      const panel = shared.createElement("section", "question-overview-panel");
+      panel.id = "question-overview-panel";
+      shell.appendChild(toggle);
+      shell.appendChild(panel);
+      layout.appendChild(shell);
+    }
+
+    cachePracticeOverviewDom();
+    practiceOverviewDrawerOpen = loadPracticeOverviewDrawerState();
+    syncPracticeOverviewShell();
+  }
+
+  function syncPracticeOverviewShell() {
+    if (!dom.overviewShell) {
+      return;
+    }
+    dom.overviewShell.classList.toggle("is-open", practiceOverviewDrawerOpen);
+    if (dom.overviewToggle) {
+      dom.overviewToggle.textContent = practiceOverviewDrawerOpen ? "收起题目概览" : "题目概览";
+    }
+  }
+
+  function togglePracticeOverviewDrawer() {
+    practiceOverviewDrawerOpen = !practiceOverviewDrawerOpen;
+    persistPracticeOverviewDrawerState();
+    syncPracticeOverviewShell();
+  }
+
+  function getPracticeOverviewStatus(questionId, index) {
+    if (!currentSession) {
+      return "unanswered";
+    }
+    if (index === currentSession.currentIndex) {
+      return "current";
+    }
+    if (
+      currentSession.answered[questionId] ||
+      shared.hasMeaningfulOverviewAnswer(getDraftAnswer(questionId))
+    ) {
+      return "answered";
+    }
+    return "unanswered";
+  }
+
+  function jumpToOverviewQuestion(index) {
+    if (!currentSession || !currentSession.questionIds.length) {
+      return;
+    }
+    currentSession.currentIndex = Math.max(
+      0,
+      Math.min(currentSession.questionIds.length - 1, index)
+    );
+    revealedShortAnswerQuestionId = "";
+    shared.persistSession(state, currentSession);
+    renderQuestionPanel();
+    renderStudyActions();
+    if (window.innerWidth <= 820) {
+      practiceOverviewDrawerOpen = false;
+      persistPracticeOverviewDrawerState();
+      syncPracticeOverviewShell();
+      dom.questionPanel.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+  }
+
+  function renderOverviewPanel() {
+    if (!dom.overviewPanel) {
+      return;
+    }
+
+    const legend = [
+      { label: "当前题目", status: "current" },
+      { label: "已作答", status: "answered" },
+      { label: "未作答", status: "unanswered" },
+    ];
+
+    if (!currentSession || !currentSession.questionIds.length) {
+      shared.renderOverviewPanel({
+        panel: dom.overviewPanel,
+        title: "题目概览",
+        caption: "开始任意刷题模式后，这里会按题型展示当前题集题号。",
+        legend: legend,
+        groups: [],
+        emptyMessage: "当前还没有活跃题集。",
+      });
+      syncPracticeOverviewShell();
+      return;
+    }
+
+    shared.renderOverviewPanel({
+      panel: dom.overviewPanel,
+      title: "题目概览",
+      caption: `${currentSession.label} · 共 ${currentSession.questionIds.length} 题`,
+      legend: legend,
+      groups: shared.buildOverviewGroups(currentSession.questionIds, questionMap),
+      getStatus: function (item) {
+        return getPracticeOverviewStatus(item.questionId, item.index);
+      },
+      onJump: function (item) {
+        jumpToOverviewQuestion(item.index);
+      },
+    });
+
+    syncPracticeOverviewShell();
+  }
+
+  const basePracticeInit = init;
+  init = function initWithOverview() {
+    basePracticeInit();
+    ensurePracticeOverviewShell();
+    renderOverviewPanel();
+  };
+
+  const basePracticeRenderQuestionPanel = renderQuestionPanel;
+  renderQuestionPanel = function renderQuestionPanelWithOverview() {
+    basePracticeRenderQuestionPanel();
+    renderOverviewPanel();
+  };
+
+  function activatePracticeOverviewEnhancements() {
+    ensurePracticeOverviewShell();
+    renderOverviewPanel();
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", activatePracticeOverviewEnhancements);
+  } else {
+    window.setTimeout(activatePracticeOverviewEnhancements, 0);
+  }
+})();
