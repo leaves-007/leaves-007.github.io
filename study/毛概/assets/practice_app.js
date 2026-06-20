@@ -323,12 +323,15 @@
   function restoreSession() {
     const pending = shared.consumePendingSession(state);
     if (pending && sessionMatchesScope(pending)) {
-      currentSession = shared.normalizeSession(pending);
+      currentSession = shared.hydrateSessionAnswered(state, pending);
       shared.persistSession(state, currentSession);
+      state = shared.loadState();
       return;
     }
     if (state.lastSession && sessionMatchesScope(state.lastSession)) {
-      currentSession = shared.normalizeSession(state.lastSession);
+      currentSession = shared.hydrateSessionAnswered(state, state.lastSession);
+      shared.persistSession(state, currentSession);
+      state = shared.loadState();
     }
   }
 
@@ -1652,7 +1655,7 @@ function buildAnswerInputs(question, host, restoredAnswer) {
         return;
       }
     }
-    currentSession = {
+    currentSession = shared.hydrateSessionAnswered(state, {
       mode: config.mode,
       label: config.label,
       questionIds: questionIds,
@@ -1660,7 +1663,7 @@ function buildAnswerInputs(question, host, restoredAnswer) {
       answered: {},
       createdAt: new Date().toISOString(),
       scopeChapterKey: scopeChapterKey,
-    };
+    });
     draftAnswers = {};
     revealedShortAnswerQuestionId = "";
     shared.persistSession(state, currentSession);

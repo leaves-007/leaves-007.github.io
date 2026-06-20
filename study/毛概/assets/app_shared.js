@@ -456,6 +456,43 @@
     return JSON.parse(JSON.stringify(normalized));
   }
 
+  function buildHistoricalAnsweredMap(state, questionIds) {
+    if (!state || !Array.isArray(questionIds) || !questionIds.length) {
+      return {};
+    }
+    const questionStates = state.questionStates || {};
+    const answered = {};
+
+    questionIds.forEach(function (questionId) {
+      const questionState = questionStates[questionId];
+      if (!questionState || !questionState.lastResult) {
+        return;
+      }
+      answered[questionId] = {
+        result: questionState.lastResult,
+        userAnswer: Array.isArray(questionState.lastUserAnswer)
+          ? questionState.lastUserAnswer.slice()
+          : questionState.lastUserAnswer,
+        judgedAt: questionState.lastAnsweredAt || "",
+      };
+    });
+
+    return answered;
+  }
+
+  function hydrateSessionAnswered(state, session) {
+    const normalized = cloneSession(session);
+    if (!normalized) {
+      return null;
+    }
+    normalized.answered = Object.assign(
+      {},
+      buildHistoricalAnsweredMap(state, normalized.questionIds || []),
+      normalized.answered || {}
+    );
+    return normalized;
+  }
+
   function getSessionStore(state) {
     if (!state.sessionStore || typeof state.sessionStore !== "object") {
       state.sessionStore = {};
@@ -584,7 +621,7 @@
       if (!sessionQuestionIdsMatch(candidate, expectedQuestionIds)) {
         continue;
       }
-      return cloneSession(candidate);
+      return hydrateSessionAnswered(state, candidate);
     }
 
     return null;
@@ -609,7 +646,7 @@
       return null;
     }
 
-    return {
+    return hydrateSessionAnswered(state, {
       mode: "custom",
       source: "wrongbook",
       label: (options && options.label) || "错题本 · 直接刷题",
@@ -618,7 +655,7 @@
       answered: {},
       createdAt: new Date().toISOString(),
       scopeChapterKey: (options && options.scopeChapterKey) || "",
-    };
+    });
   }
 
   function isWrongbookSession(session) {
@@ -696,6 +733,7 @@
     consumePendingSession: consumePendingSession,
     persistSession: persistSession,
     normalizeSession: normalizeSession,
+    hydrateSessionAnswered: hydrateSessionAnswered,
     findReusableSession: findReusableSession,
     buildWrongbookPracticeSession: buildWrongbookPracticeSession,
     isWrongbookSession: isWrongbookSession,
