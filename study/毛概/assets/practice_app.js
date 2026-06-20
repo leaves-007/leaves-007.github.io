@@ -834,10 +834,13 @@
     shared.clearElement(dom.nav);
     [
       { label: "总入口", href: "index.html" },
-      { label: "错题本", href: "wrong_book.html" },
+      { label: "错题本", href: "wrong_book.html", action: "open-wrongbook" },
     ].forEach(function (item) {
       const link = shared.createElement("a", "", item.label);
       link.href = item.href;
+      if (item.action) {
+        link.dataset.action = item.action;
+      }
       dom.nav.appendChild(link);
     });
 
@@ -876,11 +879,14 @@
   function renderHero() {
     shared.clearElement(dom.nav);
     [
-      { label: "总入口", href: "index.html" },
-      { label: "错题本", href: "wrong_book.html" },
+      { label: "总入口", href: "index.html", action: "go-home" },
+      { label: "错题本", href: "wrong_book.html", action: "open-wrongbook" },
     ].forEach(function (item) {
       const link = shared.createElement("a", "", item.label);
       link.href = item.href;
+      if (item.action) {
+        link.dataset.action = item.action;
+      }
       dom.nav.appendChild(link);
     });
 
@@ -913,6 +919,48 @@
     if (dom.studyActions) {
       dom.studyActions.addEventListener("click", handleStudyActionClick);
     }
+    if (dom.nav) {
+      dom.nav.addEventListener("click", handleNavClick);
+    }
+  }
+
+  function handleNavClick(event) {
+    const link = event.target.closest("a[data-action]");
+    if (!link) {
+      return;
+    }
+    const action = link.dataset.action;
+    if (action === "open-wrongbook") {
+      event.preventDefault();
+      navigateToWrongbook();
+      return;
+    }
+    if (action === "go-home") {
+      state = shared.loadState();
+      if (currentSession && shared.isWrongbookSession(currentSession) && shared.getWrongbookReturnSession(state)) {
+        event.preventDefault();
+        returnToPracticeHome();
+      }
+    }
+  }
+
+  function navigateToWrongbook() {
+    state = shared.loadState();
+    const sessionToRemember = currentSession || state.lastSession;
+    if (sessionToRemember && !shared.isWrongbookSession(sessionToRemember)) {
+      shared.rememberWrongbookReturnSession(state, sessionToRemember);
+      state = shared.loadState();
+    }
+    window.location.href = "wrong_book.html";
+  }
+
+  function returnToPracticeHome() {
+    state = shared.loadState();
+    const returnSession = shared.getWrongbookReturnSession(state);
+    if (returnSession) {
+      shared.setPendingSession(state, returnSession);
+    }
+    window.location.href = "index.html";
   }
 
   function handleQuestionChange(event) {
@@ -1038,7 +1086,11 @@
       return;
     }
     if (action === "study-open-wrongbook") {
-      window.location.href = "wrong_book.html";
+      navigateToWrongbook();
+      return;
+    }
+    if (action === "study-return-home") {
+      returnToPracticeHome();
       return;
     }
     if (action === "study-show-all") {
@@ -1175,6 +1227,8 @@
     shared.clearElement(dom.studyActions);
     const currentQuestion = getCurrentQuestion();
     const wrongCount = shared.getWrongIds(state).length;
+    const wrongbookSessionActive = currentSession && shared.isWrongbookSession(currentSession);
+    const canReturnHome = wrongbookSessionActive && shared.getWrongbookReturnSession(state);
 
     [
       {
@@ -1202,9 +1256,9 @@
         disabled: false,
       },
       {
-        label: "显示全部",
+        label: canReturnHome ? "返回总入口" : "显示全部",
         className: "ghost-button",
-        action: "study-show-all",
+        action: canReturnHome ? "study-return-home" : "study-show-all",
         disabled: false,
       },
       {

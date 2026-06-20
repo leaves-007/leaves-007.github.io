@@ -22,6 +22,7 @@
       practiceLog: [],
       lastSession: null,
       pendingSession: null,
+      wrongbookReturnSession: null,
     };
   }
 
@@ -445,9 +446,71 @@
     );
   }
 
+  function cloneSession(session) {
+    const normalized = normalizeSession(session);
+    if (!normalized) {
+      return null;
+    }
+    return JSON.parse(JSON.stringify(normalized));
+  }
+
+  function buildWrongbookPracticeSession(state, options) {
+    const wrongIds = getWrongIds(state);
+    if (!wrongIds.length) {
+      return null;
+    }
+
+    const wrongIdSet = new Set(wrongIds);
+    const orderedQuestionIds = bank.questions
+      .filter(function (question) {
+        return wrongIdSet.has(question.id);
+      })
+      .map(function (question) {
+        return question.id;
+      });
+
+    if (!orderedQuestionIds.length) {
+      return null;
+    }
+
+    return {
+      mode: "custom",
+      source: "wrongbook",
+      label: (options && options.label) || "错题本 · 直接刷题",
+      questionIds: orderedQuestionIds,
+      currentIndex: 0,
+      answered: {},
+      createdAt: new Date().toISOString(),
+      scopeChapterKey: (options && options.scopeChapterKey) || "",
+    };
+  }
+
+  function isWrongbookSession(session) {
+    return Boolean(
+      session &&
+        (
+          session.source === "wrongbook" ||
+          (typeof session.label === "string" && session.label.indexOf("错题本 ·") === 0)
+        )
+    );
+  }
+
   function persistSession(state, session) {
     state.lastSession = normalizeSession(session);
     saveState(state);
+  }
+
+  function rememberWrongbookReturnSession(state, session) {
+    const snapshot = cloneSession(session);
+    if (!snapshot) {
+      return;
+    }
+    state.wrongbookReturnSession = snapshot;
+    saveState(state);
+  }
+
+  function getWrongbookReturnSession(state) {
+    return cloneSession(state.wrongbookReturnSession);
   }
 
   return {
@@ -489,6 +552,10 @@
     consumePendingSession: consumePendingSession,
     persistSession: persistSession,
     normalizeSession: normalizeSession,
+    buildWrongbookPracticeSession: buildWrongbookPracticeSession,
+    isWrongbookSession: isWrongbookSession,
+    rememberWrongbookReturnSession: rememberWrongbookReturnSession,
+    getWrongbookReturnSession: getWrongbookReturnSession,
   };
 });
 
