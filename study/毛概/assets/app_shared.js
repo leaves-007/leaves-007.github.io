@@ -34,7 +34,7 @@
         return createDefaultState();
       }
       const parsed = JSON.parse(raw);
-      return Object.assign(createDefaultState(), parsed);
+      return hydrateLegacySessionStore(Object.assign(createDefaultState(), parsed));
     } catch (error) {
       console.warn("Failed to load local state", error);
       return createDefaultState();
@@ -505,6 +505,22 @@
       return `${normalized.mode}|${scopeKey}|${labelKey}|${(normalized.questionIds || []).length}`;
     }
     return `${normalized.mode || "custom"}|${scopeKey}|${labelKey}`;
+  }
+
+  function hydrateLegacySessionStore(state) {
+    const sessionStore = getSessionStore(state);
+    [state.lastSession, state.wrongbookReturnSession].forEach(function (session) {
+      const normalized = normalizeSession(session);
+      if (!normalized) {
+        return;
+      }
+      normalized.storageKey = buildSessionStorageKey(normalized);
+      if (!normalized.storageKey || sessionStore[normalized.storageKey]) {
+        return;
+      }
+      sessionStore[normalized.storageKey] = cloneSession(normalized);
+    });
+    return state;
   }
 
   function sessionQuestionIdsMatch(session, questionIds) {
