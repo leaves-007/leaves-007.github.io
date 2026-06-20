@@ -738,21 +738,8 @@
     shared.renderChapterMastery(document.getElementById("mastery-panel"), stats);
   }
   document.addEventListener("DOMContentLoaded", function () {
-    const nav = document.getElementById("nav-row");
-    if (nav) {
-      shared.clearElement(nav);
-      [
-        { label: "总入口", href: "index.html" },
-        { label: "错题本", href: "wrong_book.html" },
-      ].forEach(function (item) {
-        const link = shared.createElement("a", "", item.label);
-        link.href = item.href;
-        nav.appendChild(link);
-      });
-    }
-
-    const subtitle = document.getElementById("hero-subtitle");
-    if (subtitle && pageConfig.pageType !== "chapter") {
+    if (document.getElementById("nav-row")) {
+      renderHero();
     }
   });
   const dom = {};

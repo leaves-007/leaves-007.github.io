@@ -20,6 +20,7 @@
       favorites: {},
       wrongBook: {},
       practiceLog: [],
+      sessionStore: {},
       lastSession: null,
       pendingSession: null,
       wrongbookReturnSession: null,
@@ -441,6 +442,7 @@
       {
         answered: {},
         currentIndex: 0,
+        storageKey: "",
       },
       session
     );
@@ -452,6 +454,57 @@
       return null;
     }
     return JSON.parse(JSON.stringify(normalized));
+  }
+
+  function getSessionStore(state) {
+    if (!state.sessionStore || typeof state.sessionStore !== "object") {
+      state.sessionStore = {};
+    }
+    return state.sessionStore;
+  }
+
+  function sanitizeSessionKeyPart(value) {
+    const baseText =
+      core && typeof core.normalizeText === "function"
+        ? core.normalizeText(value || "")
+        : String(value == null ? "" : value).trim();
+
+    return baseText
+      .replace(/\s+/g, " ")
+      .replace(/[|]/g, "/");
+  }
+
+  function buildSessionStorageKey(session) {
+    const normalized = normalizeSession(session);
+    if (!normalized) {
+      return "";
+    }
+    if (normalized.storageKey) {
+      return normalized.storageKey;
+    }
+
+    const scopeKey = normalized.scopeChapterKey || "all";
+    const labelKey = sanitizeSessionKeyPart(normalized.label || normalized.mode || "session");
+
+    if (isWrongbookSession(normalized)) {
+      return `wrongbook|${scopeKey}`;
+    }
+    if (normalized.mode === "sequential" || normalized.mode === "chapter") {
+      return `sequential|${scopeKey}`;
+    }
+    if (normalized.mode === "wrongs") {
+      return `wrongs|${scopeKey}`;
+    }
+    if (normalized.mode === "favorites") {
+      return `favorites|${scopeKey}`;
+    }
+    if (normalized.mode === "type") {
+      return `type|${scopeKey}|${labelKey}`;
+    }
+    if (normalized.mode === "random" || normalized.mode === "exam") {
+      return `${normalized.mode}|${scopeKey}|${labelKey}|${(normalized.questionIds || []).length}`;
+    }
+    return `${normalized.mode || "custom"}|${scopeKey}|${labelKey}`;
   }
 
   function sessionQuestionIdsMatch(session, questionIds) {
@@ -477,25 +530,45 @@
     }
     const expectedScopeChapterKey = (options && options.scopeChapterKey) || "";
     const candidates = [];
-    if (options && options.currentSession) {
-      candidates.push(options.currentSession);
-    }
-    if (state && state.lastSession) {
-      candidates.push(state.lastSession);
+    const seenStorageKeys = new Set();
+
+    function addCandidate(session) {
+      const normalized = normalizeSession(session);
+      if (!normalized) {
+        return;
+      }
+      const storageKey = buildSessionStorageKey(normalized);
+      if (storageKey && seenStorageKeys.has(storageKey)) {
+        return;
+      }
+      if (storageKey) {
+        seenStorageKeys.add(storageKey);
+      }
+      candidates.push(normalized);
     }
 
+    if (options && options.currentSession) {
+      addCandidate(options.currentSession);
+    }
+    if (state && state.lastSession) {
+      addCandidate(state.lastSession);
+    }
+    const sessionStore = state ? getSessionStore(state) : {};
+    Object.keys(sessionStore).forEach(function (storageKey) {
+      if (seenStorageKeys.has(storageKey)) {
+        return;
+      }
+      addCandidate(sessionStore[storageKey]);
+    });
+
     for (const candidate of candidates) {
-      const normalized = normalizeSession(candidate);
-      if (!normalized) {
+      if ((candidate.scopeChapterKey || "") !== expectedScopeChapterKey) {
         continue;
       }
-      if ((normalized.scopeChapterKey || "") !== expectedScopeChapterKey) {
+      if (!sessionQuestionIdsMatch(candidate, expectedQuestionIds)) {
         continue;
       }
-      if (!sessionQuestionIdsMatch(normalized, expectedQuestionIds)) {
-        continue;
-      }
-      return cloneSession(normalized);
+      return cloneSession(candidate);
     }
 
     return null;
@@ -543,7 +616,15 @@
   }
 
   function persistSession(state, session) {
-    state.lastSession = normalizeSession(session);
+    const normalized = normalizeSession(session);
+    if (!normalized) {
+      state.lastSession = null;
+      saveState(state);
+      return;
+    }
+    normalized.storageKey = buildSessionStorageKey(normalized);
+    state.lastSession = cloneSession(normalized);
+    getSessionStore(state)[normalized.storageKey] = cloneSession(normalized);
     saveState(state);
   }
 
