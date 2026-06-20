@@ -454,6 +454,53 @@
     return JSON.parse(JSON.stringify(normalized));
   }
 
+  function sessionQuestionIdsMatch(session, questionIds) {
+    if (!session || !Array.isArray(questionIds)) {
+      return false;
+    }
+    const sessionQuestionIds = Array.isArray(session.questionIds) ? session.questionIds : [];
+    if (sessionQuestionIds.length !== questionIds.length) {
+      return false;
+    }
+    for (let index = 0; index < questionIds.length; index += 1) {
+      if (sessionQuestionIds[index] !== questionIds[index]) {
+        return false;
+      }
+    }
+    return true;
+  }
+
+  function findReusableSession(state, options) {
+    const expectedQuestionIds = options && Array.isArray(options.questionIds) ? options.questionIds : [];
+    if (!expectedQuestionIds.length) {
+      return null;
+    }
+    const expectedScopeChapterKey = (options && options.scopeChapterKey) || "";
+    const candidates = [];
+    if (options && options.currentSession) {
+      candidates.push(options.currentSession);
+    }
+    if (state && state.lastSession) {
+      candidates.push(state.lastSession);
+    }
+
+    for (const candidate of candidates) {
+      const normalized = normalizeSession(candidate);
+      if (!normalized) {
+        continue;
+      }
+      if ((normalized.scopeChapterKey || "") !== expectedScopeChapterKey) {
+        continue;
+      }
+      if (!sessionQuestionIdsMatch(normalized, expectedQuestionIds)) {
+        continue;
+      }
+      return cloneSession(normalized);
+    }
+
+    return null;
+  }
+
   function buildWrongbookPracticeSession(state, options) {
     const wrongIds = getWrongIds(state);
     if (!wrongIds.length) {
@@ -552,6 +599,7 @@
     consumePendingSession: consumePendingSession,
     persistSession: persistSession,
     normalizeSession: normalizeSession,
+    findReusableSession: findReusableSession,
     buildWrongbookPracticeSession: buildWrongbookPracticeSession,
     isWrongbookSession: isWrongbookSession,
     rememberWrongbookReturnSession: rememberWrongbookReturnSession,

@@ -1640,12 +1640,30 @@ function buildAnswerInputs(question, host, restoredAnswer) {
     return wrapper;
   }
 
+  function shouldReuseSession(config) {
+    return config && (config.mode === "sequential" || config.mode === "chapter");
+  }
+
   function startSession(config) {
     const pool = getSessionPool(config);
     const questionIds = buildQuestionIds(pool, config);
     if (!questionIds.length) {
       window.alert("当前筛选下没有可练习的题目。");
       return;
+    }
+    const scopeChapterKey = pageConfig.chapterKey || config.chapterKey || "";
+    if (shouldReuseSession(config)) {
+      const reusableSession = shared.findReusableSession(state, {
+        currentSession: currentSession,
+        questionIds: questionIds,
+        scopeChapterKey: scopeChapterKey,
+      });
+      if (reusableSession) {
+        currentSession = reusableSession;
+        shared.persistSession(state, currentSession);
+        renderAll();
+        return;
+      }
     }
     currentSession = {
       mode: config.mode,
@@ -1654,7 +1672,7 @@ function buildAnswerInputs(question, host, restoredAnswer) {
       currentIndex: 0,
       answered: {},
       createdAt: new Date().toISOString(),
-      scopeChapterKey: pageConfig.chapterKey || config.chapterKey || "",
+      scopeChapterKey: scopeChapterKey,
     };
     draftAnswers = {};
     revealedShortAnswerQuestionId = "";
