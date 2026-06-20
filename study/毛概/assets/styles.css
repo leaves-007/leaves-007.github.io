@@ -107,8 +107,8 @@ a {
 }
 
 .question-meta .chip {
-  min-height: 42px;
-  padding: 9px 14px;
+  min-height: 38px;
+  padding: 7px 12px;
   border: 1px solid rgba(143, 59, 46, 0.08);
   font-weight: 600;
 }
@@ -493,11 +493,12 @@ textarea {
  display: flex;
  flex-direction: column;
  gap: 0;
+ padding: 18px 18px 14px;
 }
 
 .question-content-scroll {
   display: grid;
-  gap: 14px;
+  gap: 10px;
 }
 
 .question-bottom-bar {
@@ -505,11 +506,11 @@ textarea {
   position: sticky;
   bottom: 0;
   z-index: 20;
-  margin-top: 16px;
-  padding-top: 14px;
+  margin-top: 12px;
+  padding-top: 10px;
   border-top: 1px solid var(--line);
   display: grid;
-  gap: 10px;
+  gap: 8px;
   background: var(--paper);
   border-radius: 0 0 var(--radius-lg) var(--radius-lg);
 }
@@ -550,7 +551,7 @@ textarea {
 .question-footer .nav-progress-row {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 8px;
   flex-wrap: wrap;
 }
 
@@ -589,21 +590,21 @@ textarea {
 .question-meta {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 8px;
 }
 
 .question-stem {
-  font-size: clamp(1.05rem, 2vw, 1.25rem);
-  line-height: 1.8;
+  font-size: clamp(1rem, 1.8vw, 1.16rem);
+  line-height: 1.6;
 }
 
 .question-material {
-  padding: 14px 16px;
+  padding: 12px 14px;
   border-radius: var(--radius-md);
   background: rgba(36, 93, 111, 0.08);
   border-left: 4px solid var(--accent-2);
   color: var(--muted);
-  line-height: 1.8;
+  line-height: 1.65;
 }
 
 .options-list,
@@ -612,7 +613,7 @@ textarea {
 .chapter-links,
 .tag-list {
   display: grid;
-  gap: 10px;
+  gap: 8px;
 }
 
 .option-item,
@@ -627,9 +628,9 @@ textarea {
 
 .option-item {
   display: flex;
-  gap: 10px;
+  gap: 8px;
   align-items: flex-start;
-  padding: 12px 14px;
+  padding: 9px 10px;
   transition: border-color 0.16s ease, background-color 0.16s ease;
 }
 
@@ -970,6 +971,20 @@ details.chapter-card summary::-webkit-details-marker {
   .graph-layout {
     grid-template-columns: 1fr;
   }
+
+  .page-shell.has-active-session .layout-two > main.control-stack,
+  .page-shell.has-active-session .layout-three > main.control-stack {
+    order: 1;
+  }
+
+  .page-shell.has-active-session .layout-two > aside.control-stack,
+  .page-shell.has-active-session .layout-three > aside.control-stack:first-of-type {
+    order: 2;
+  }
+
+  .page-shell.has-active-session .layout-three > .question-overview-shell {
+    order: 3;
+  }
 }
 
 @media (max-width: 640px) {
@@ -986,12 +1001,20 @@ details.chapter-card summary::-webkit-details-marker {
   .empty-card {
     padding: 18px;
   }
+
+  .question-card {
+    padding: 16px 16px 12px;
+  }
 }
 
 @media (max-width: 768px) {
   body {
     background: #f7f3ed;
     padding-bottom: 180px;
+  }
+
+  .question-overview-shell {
+    bottom: calc(74px + env(safe-area-inset-bottom, 0px));
   }
 
   .hero::after {
@@ -1032,15 +1055,15 @@ details.chapter-card summary::-webkit-details-marker {
     position: sticky;
     bottom: 0;
     z-index: 24;
-    padding: 14px 16px 12px;
+    padding: 10px 12px 10px;
     border-radius: 20px 20px 0 0;
     background: rgba(255, 252, 247, 0.96);
     border: 1px solid rgba(121, 91, 53, 0.12);
     box-shadow: 0 8px 20px rgba(83, 52, 28, 0.12);
     backdrop-filter: blur(16px);
-    margin-left: -16px;
-    margin-right: -16px;
-    width: calc(100% + 32px);
+    margin-left: -12px;
+    margin-right: -12px;
+    width: calc(100% + 24px);
   }
 
   .question-actions > button,
@@ -1049,9 +1072,9 @@ details.chapter-card summary::-webkit-details-marker {
   .nav-button-group > button,
   .section-actions > button,
   .section-actions > a {
-    min-height: 48px;
-    padding: 10px 14px;
-    font-size: 0.92rem;
+    min-height: 44px;
+    padding: 9px 12px;
+    font-size: 0.88rem;
   }
 
   .bottom-action-row {
@@ -1089,12 +1112,41 @@ details.chapter-card summary::-webkit-details-marker {
   }
 
   .question-footer {
-    padding-top: 8px;
-    gap: 6px;
+    padding-top: 6px;
+    gap: 4px;
   }
 
   .question-content-scroll {
-    gap: 12px;
+    gap: 8px;
+  }
+
+  .question-meta {
+    gap: 6px;
+  }
+
+  .question-meta .chip {
+    min-height: 34px;
+    padding: 6px 10px;
+    font-size: 0.84rem;
+  }
+
+  .question-stem {
+    font-size: 0.98rem;
+    line-height: 1.5;
+  }
+
+  .question-material {
+    padding: 10px 12px;
+    line-height: 1.55;
+  }
+
+  .options-list {
+    gap: 6px;
+  }
+
+  .option-item {
+    gap: 6px;
+    padding: 8px 9px;
   }
 
   .nav-row {
@@ -1107,5 +1159,11 @@ details.chapter-card summary::-webkit-details-marker {
 
   .answer-reveal-toggle {
     display: inline-flex;
+  }
+
+  .overview-mobile-toggle {
+    min-height: 40px;
+    padding: 10px 14px;
+    font-size: 0.86rem;
   }
 }

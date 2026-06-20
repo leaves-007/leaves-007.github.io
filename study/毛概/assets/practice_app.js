@@ -812,6 +812,7 @@
   }
 
   function cacheDom() {
+    dom.pageShell = document.querySelector(".page-shell");
     dom.nav = document.getElementById("nav-row");
     dom.heroTitle = document.getElementById("hero-title");
     dom.heroSubtitle = document.getElementById("hero-subtitle");
@@ -856,9 +857,20 @@
   }
 
   function renderAll() {
+    syncActiveSessionShell();
     renderQuestionPanel();
     renderStudyActions();
     renderStats();
+  }
+
+  function syncActiveSessionShell() {
+    if (!dom.pageShell) {
+      return;
+    }
+    dom.pageShell.classList.toggle(
+      "has-active-session",
+      Boolean(currentSession && currentSession.questionIds && currentSession.questionIds.length)
+    );
   }
 
   function renderHero() {
@@ -1545,7 +1557,7 @@ function buildAnswerInputs(question, host, restoredAnswer) {
     panel.appendChild(bottomBar);
   }
 
-  function renderShortAnswerResultfunction renderShortAnswerResult(question) {
+  function renderShortAnswerResult(question) {
     const wrapper = shared.createElement("div", "control-stack");
     wrapper.appendChild(shared.createRevealableAnswerBlock("参考答案", question.answerRaw || "暂无"));
     const actionRow = shared.createElement("div", "answer-actions");
