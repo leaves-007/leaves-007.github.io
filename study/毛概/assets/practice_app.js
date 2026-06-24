@@ -13,6 +13,25 @@
   let scopedQuestions = getScopedQuestions();
   let scopedBank = shared.buildScopedBank(pageConfig.chapterKey ? { chapterKey: pageConfig.chapterKey } : null);
   let revealedShortAnswerQuestionId = "";
+  const overviewStatus =
+    window.StudyOverviewStatus || {
+      resolveOverviewQuestionStatus(options) {
+        const config = options || {};
+        if (config.isCurrent && config.isWrong) {
+          return "current-wrong";
+        }
+        if (config.isCurrent) {
+          return "current";
+        }
+        if (config.isWrong) {
+          return "wrong";
+        }
+        if (config.isAnswered) {
+          return "answered";
+        }
+        return "unanswered";
+      },
+    };
 
   document.addEventListener("DOMContentLoaded", init);
 
@@ -1750,19 +1769,14 @@ function buildAnswerInputs(question, host, restoredAnswer) {
   }
 
   function getPracticeOverviewStatus(questionId, index) {
-    if (!currentSession) {
-      return "unanswered";
-    }
-    if (index === currentSession.currentIndex) {
-      return "current";
-    }
-    if (
-      currentSession.answered[questionId] ||
-      shared.hasMeaningfulOverviewAnswer(getDraftAnswer(questionId))
-    ) {
-      return "answered";
-    }
-    return "unanswered";
+    const questionState = state.questionStates[questionId];
+    return overviewStatus.resolveOverviewQuestionStatus({
+      isCurrent: Boolean(currentSession) && index === currentSession.currentIndex,
+      isWrong: Boolean(questionState && questionState.lastResult === "wrong"),
+      isAnswered:
+        Boolean(currentSession && currentSession.answered[questionId]) ||
+        shared.hasMeaningfulOverviewAnswer(getDraftAnswer(questionId)),
+    });
   }
 
   function jumpToOverviewQuestion(index) {
@@ -1795,6 +1809,12 @@ function buildAnswerInputs(question, host, restoredAnswer) {
       { label: "已作答", status: "answered" },
       { label: "未作答", status: "unanswered" },
     ];
+    legend.splice(
+      1,
+      0,
+      { label: "褰撳墠閿欓", status: "current-wrong" },
+      { label: "鍋氶敊棰樼洰", status: "wrong" }
+    );
 
     if (!currentSession || !currentSession.questionIds.length) {
       shared.renderOverviewPanel({

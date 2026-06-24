@@ -13,6 +13,7 @@ MathJax = {
 };
 </script>
 <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"></script>
+<script src="shared/overview_status.js"></script>
 <style>
 /* === ExamPass Shared Styles === */
 /* Paper-like warm background, clean typography, responsive */
@@ -818,6 +819,15 @@ body {
   background: linear-gradient(135deg, #3b82f6, #2563eb);
   border-color: transparent;
 }
+.overview-swatch.is-current-wrong {
+  background: linear-gradient(135deg, #ef4444, #dc2626);
+  border-color: rgba(255, 255, 255, 0.96);
+  box-shadow: 0 0 0 2px rgba(220, 38, 38, 0.16);
+}
+.overview-swatch.is-wrong {
+  background: rgba(239, 68, 68, 0.16);
+  border-color: rgba(220, 38, 38, 0.46);
+}
 .overview-swatch.is-answered {
   background: rgba(59, 130, 246, 0.12);
   border-color: rgba(37, 99, 235, 0.26);
@@ -864,6 +874,19 @@ body {
   color: #fff;
   border-color: transparent;
   box-shadow: 0 12px 24px rgba(37, 99, 235, 0.2);
+}
+.overview-button.is-current-wrong {
+  background: linear-gradient(135deg, #ef4444, #dc2626);
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.96);
+  box-shadow:
+    0 0 0 2px rgba(220, 38, 38, 0.18),
+    0 12px 24px rgba(220, 38, 38, 0.24);
+}
+.overview-button.is-wrong {
+  background: rgba(239, 68, 68, 0.12);
+  color: #b91c1c;
+  border-color: rgba(220, 38, 38, 0.38);
 }
 .overview-button.is-answered {
   background: rgba(59, 130, 246, 0.12);
@@ -1003,6 +1026,41 @@ var questionResults = pageState.questionResults && typeof pageState.questionResu
 var currentQuestionIndex = typeof pageState.currentQuestionIndex === 'number' && isFinite(pageState.currentQuestionIndex)
   ? pageState.currentQuestionIndex
   : 0;
+var overviewStatusHelper = window.StudyOverviewStatus || {
+  resolveOverviewStatusClass: function(status) {
+    switch (status) {
+      case 'current-wrong':
+        return 'is-current-wrong';
+      case 'wrong':
+        return 'is-wrong';
+      case 'current':
+        return 'is-current';
+      case 'answered':
+      case 'viewed':
+        return 'is-answered';
+      case 'unanswered':
+      case 'unviewed':
+      default:
+        return 'is-unanswered';
+    }
+  },
+  resolveOverviewQuestionStatus: function(options) {
+    var config = options || {};
+    if (config.isCurrent && config.isWrong) {
+      return 'current-wrong';
+    }
+    if (config.isCurrent) {
+      return 'current';
+    }
+    if (config.isWrong) {
+      return 'wrong';
+    }
+    if (config.isAnswered) {
+      return 'answered';
+    }
+    return 'unanswered';
+  }
+};
 
 var QUESTION_MAP = {};
 for (var qIndex = 0; qIndex < Q.length; qIndex++) {
@@ -1712,6 +1770,37 @@ function renderOverviewLegend() {
     + '</div>';
 }
 
+function resolveOverviewStatusClass(status) {
+  return overviewStatusHelper.resolveOverviewStatusClass(status);
+}
+
+function isQuestionWrong(questionId) {
+  var resultState = questionResults[questionId];
+  if (resultState && resultState.result) {
+    return resultState.result === 'wrong';
+  }
+  return !!(wrongbook[questionId] && wrongbook[questionId].reason === 'auto');
+}
+
+function getOverviewQuestionStatus(questionId, index) {
+  return overviewStatusHelper.resolveOverviewQuestionStatus({
+    isCurrent: index === currentQuestionIndex,
+    isWrong: isQuestionWrong(questionId),
+    isAnswered: isQuestionAnswered(questionId)
+  });
+}
+
+function renderOverviewLegend() {
+  return ''
+    + '<div class="overview-legend">'
+    + '<span class="overview-legend-item"><span class="overview-swatch ' + resolveOverviewStatusClass('current') + '"></span><span>褰撳墠棰樼洰</span></span>'
+    + '<span class="overview-legend-item"><span class="overview-swatch ' + resolveOverviewStatusClass('current-wrong') + '"></span><span>褰撳墠閿欓</span></span>'
+    + '<span class="overview-legend-item"><span class="overview-swatch ' + resolveOverviewStatusClass('wrong') + '"></span><span>鍋氶敊棰樼洰</span></span>'
+    + '<span class="overview-legend-item"><span class="overview-swatch ' + resolveOverviewStatusClass('answered') + '"></span><span>宸蹭綔绛?/span></span>'
+    + '<span class="overview-legend-item"><span class="overview-swatch ' + resolveOverviewStatusClass('unanswered') + '"></span><span>鏈綔绛?/span></span>'
+    + '</div>';
+}
+
 function renderQuestionOverview(activeQuestions) {
   var shell = document.getElementById('question-overview-shell');
   var panel = document.getElementById('question-overview-panel');
@@ -1752,9 +1841,7 @@ function renderQuestionOverview(activeQuestions) {
     html += '<div class="overview-grid">';
     for (var itemIndex = 0; itemIndex < group.items.length; itemIndex++) {
       var item = group.items[itemIndex];
-      var stateClass = item.index === currentQuestionIndex
-        ? 'is-current'
-        : (isQuestionAnswered(item.id) ? 'is-answered' : 'is-unanswered');
+      var stateClass = resolveOverviewStatusClass(getOverviewQuestionStatus(item.id, item.index));
       html += '<button type="button" class="overview-button ' + stateClass + '" onclick="return jumpToQuestion(' + item.index + ')">' + item.number + '</button>';
     }
     html += '</div>';

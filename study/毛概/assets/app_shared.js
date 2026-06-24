@@ -788,7 +788,18 @@
   }
 
   function resolveOverviewStatusClass(status) {
+    if (
+      typeof window !== "undefined" &&
+      window.StudyOverviewStatus &&
+      typeof window.StudyOverviewStatus.resolveOverviewStatusClass === "function"
+    ) {
+      return window.StudyOverviewStatus.resolveOverviewStatusClass(status);
+    }
     switch (status) {
+      case "current-wrong":
+        return "is-current-wrong";
+      case "wrong":
+        return "is-wrong";
       case "current":
         return "is-current";
       case "answered":
