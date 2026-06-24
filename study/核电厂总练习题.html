@@ -1777,10 +1777,7 @@ function resolveOverviewStatusClass(status) {
 
 function isQuestionWrong(questionId) {
   var resultState = questionResults[questionId];
-  if (resultState && resultState.result) {
-    return resultState.result === 'wrong';
-  }
-  return !!(wrongbook[questionId] && wrongbook[questionId].reason === 'auto');
+  return !!(resultState && resultState.result === 'wrong');
 }
 
 function getOverviewQuestionStatus(questionId, index) {
@@ -1794,11 +1791,11 @@ function getOverviewQuestionStatus(questionId, index) {
 function renderOverviewLegend() {
   return ''
     + '<div class="overview-legend">'
-    + '<span class="overview-legend-item"><span class="overview-swatch ' + resolveOverviewStatusClass('current') + '"></span><span>褰撳墠棰樼洰</span></span>'
-    + '<span class="overview-legend-item"><span class="overview-swatch ' + resolveOverviewStatusClass('current-wrong') + '"></span><span>褰撳墠閿欓</span></span>'
-    + '<span class="overview-legend-item"><span class="overview-swatch ' + resolveOverviewStatusClass('wrong') + '"></span><span>鍋氶敊棰樼洰</span></span>'
-    + '<span class="overview-legend-item"><span class="overview-swatch ' + resolveOverviewStatusClass('answered') + '"></span><span>宸蹭綔绛?/span></span>'
-    + '<span class="overview-legend-item"><span class="overview-swatch ' + resolveOverviewStatusClass('unanswered') + '"></span><span>鏈綔绛?/span></span>'
+    + '<span class="overview-legend-item"><span class="overview-swatch ' + resolveOverviewStatusClass('current') + '"></span><span>当前题目</span></span>'
+    + '<span class="overview-legend-item"><span class="overview-swatch ' + resolveOverviewStatusClass('current-wrong') + '"></span><span>当前错题</span></span>'
+    + '<span class="overview-legend-item"><span class="overview-swatch ' + resolveOverviewStatusClass('wrong') + '"></span><span>做错题目</span></span>'
+    + '<span class="overview-legend-item"><span class="overview-swatch ' + resolveOverviewStatusClass('answered') + '"></span><span>已作答</span></span>'
+    + '<span class="overview-legend-item"><span class="overview-swatch ' + resolveOverviewStatusClass('unanswered') + '"></span><span>未作答</span></span>'
     + '</div>';
 }
 

@@ -1812,8 +1812,8 @@ function buildAnswerInputs(question, host, restoredAnswer) {
     legend.splice(
       1,
       0,
-      { label: "褰撳墠閿欓", status: "current-wrong" },
-      { label: "鍋氶敊棰樼洰", status: "wrong" }
+      { label: "当前错题", status: "current-wrong" },
+      { label: "做错题目", status: "wrong" }
     );
 
     if (!currentSession || !currentSession.questionIds.length) {
