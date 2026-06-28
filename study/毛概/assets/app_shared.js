@@ -432,10 +432,6 @@
   function normalizeExplanationPayload(payload) {
     const normalized = {
       explanation: core.normalizeText(payload && payload.explanation),
-      similarPoints: Array.isArray(payload && payload.similarPoints)
-        ? payload.similarPoints.map(function (item) { return core.normalizeText(item); }).filter(Boolean).slice(0, 2)
-        : [],
-      pitfall: core.normalizeText(payload && payload.pitfall),
     };
     return normalized.explanation ? normalized : null;
   }
@@ -471,12 +467,6 @@
 
     const sections = createElement("div", "explanation-reveal-sections");
     sections.appendChild(createExplanationSection("直白解析", payload.explanation));
-    if (payload.similarPoints.length) {
-      sections.appendChild(createExplanationSection("类似考点", payload.similarPoints.join("；")));
-    }
-    if (payload.pitfall) {
-      sections.appendChild(createExplanationSection("易混点", payload.pitfall));
-    }
     shell.appendChild(sections);
 
     const toggle = createElement("button", "explanation-reveal-toggle", collapsedLabel);
