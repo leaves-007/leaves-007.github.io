@@ -736,7 +736,7 @@ textarea {
 }
 
 .answer-reveal-toggle {
-  display: none;
+  display: inline-flex;
   align-items: center;
   justify-content: center;
   width: fit-content;
@@ -831,16 +831,6 @@ textarea {
 .explanation-reveal-shell:focus .explanation-reveal-sections,
 .explanation-reveal-shell:focus-within .explanation-reveal-sections {
   display: none;
-}
-
-@media (hover: hover) {
-  .answer-reveal-shell:hover .answer-reveal-body,
-  .answer-reveal-shell:focus .answer-reveal-body,
-  .answer-reveal-shell:focus-within .answer-reveal-body {
-    opacity: 1;
-    filter: none;
-    user-select: text;
-  }
 }
 
 .remove-wrongbook-button {
