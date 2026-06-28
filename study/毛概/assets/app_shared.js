@@ -371,10 +371,17 @@
     return card;
   }
 
-  function setRevealableAnswerState(shell, toggle, revealed) {
+  function setRevealableShellState(shell, toggle, revealed, labels) {
     shell.classList.toggle("is-revealed", revealed);
     toggle.setAttribute("aria-pressed", revealed ? "true" : "false");
-    toggle.textContent = revealed ? "收起答案" : "点击查看";
+    toggle.textContent = revealed ? labels.revealed : labels.collapsed;
+  }
+
+  function setRevealableAnswerState(shell, toggle, revealed) {
+    setRevealableShellState(shell, toggle, revealed, {
+      revealed: "收起答案",
+      collapsed: "点击查看",
+    });
   }
 
   function createRevealableAnswerBlock(label, answerText) {
@@ -418,6 +425,74 @@
     });
 
     setRevealableAnswerState(shell, toggle, false);
+    shell.appendChild(toggle);
+    return shell;
+  }
+
+  function normalizeExplanationPayload(payload) {
+    const normalized = {
+      explanation: core.normalizeText(payload && payload.explanation),
+      similarPoints: Array.isArray(payload && payload.similarPoints)
+        ? payload.similarPoints.map(function (item) { return core.normalizeText(item); }).filter(Boolean).slice(0, 2)
+        : [],
+      pitfall: core.normalizeText(payload && payload.pitfall),
+    };
+    return normalized.explanation ? normalized : null;
+  }
+
+  function getQuestionExplanationPayload(question) {
+    return normalizeExplanationPayload(question || {});
+  }
+
+  function hasQuestionExplanation(question) {
+    return Boolean(getQuestionExplanationPayload(question));
+  }
+
+  function createExplanationSection(label, body) {
+    const section = createElement("div", "explanation-reveal-section");
+    section.appendChild(createElement("div", "explanation-reveal-section-title", label));
+    section.appendChild(createElement("div", "explanation-reveal-section-body", body));
+    return section;
+  }
+
+  function createRevealableExplanationBlock(questionOrPayload, options) {
+    const payload = normalizeExplanationPayload(questionOrPayload);
+    if (!payload) {
+      return null;
+    }
+    const collapsedLabel = core.normalizeText(options && options.collapsedLabel) || "查看解析";
+    const revealedLabel = core.normalizeText(options && options.revealedLabel) || "收起解析";
+
+    const shell = createElement("div", "answer-detail answer-reveal-shell explanation-reveal-shell");
+    const header = createElement("div", "explanation-reveal-header");
+    header.appendChild(createElement("span", "answer-reveal-label", "答案解析："));
+    header.appendChild(createElement("span", "explanation-reveal-hint", "点按钮再展开"));
+    shell.appendChild(header);
+
+    const sections = createElement("div", "explanation-reveal-sections");
+    sections.appendChild(createExplanationSection("直白解析", payload.explanation));
+    if (payload.similarPoints.length) {
+      sections.appendChild(createExplanationSection("类似考点", payload.similarPoints.join("；")));
+    }
+    if (payload.pitfall) {
+      sections.appendChild(createExplanationSection("易混点", payload.pitfall));
+    }
+    shell.appendChild(sections);
+
+    const toggle = createElement("button", "answer-reveal-toggle explanation-reveal-toggle", collapsedLabel);
+    toggle.type = "button";
+    toggle.addEventListener("click", function (event) {
+      event.preventDefault();
+      event.stopPropagation();
+      setRevealableShellState(shell, toggle, !shell.classList.contains("is-revealed"), {
+        revealed: revealedLabel,
+        collapsed: collapsedLabel,
+      });
+    });
+    setRevealableShellState(shell, toggle, false, {
+      revealed: revealedLabel,
+      collapsed: collapsedLabel,
+    });
     shell.appendChild(toggle);
     return shell;
   }
@@ -729,6 +804,9 @@
     getQuestionSummary: getQuestionSummary,
     createEmptyCard: createEmptyCard,
     createRevealableAnswerBlock: createRevealableAnswerBlock,
+    getQuestionExplanationPayload: getQuestionExplanationPayload,
+    hasQuestionExplanation: hasQuestionExplanation,
+    createRevealableExplanationBlock: createRevealableExplanationBlock,
     setPendingSession: setPendingSession,
     consumePendingSession: consumePendingSession,
     persistSession: persistSession,

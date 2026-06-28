@@ -752,6 +752,61 @@ textarea {
   cursor: pointer;
 }
 
+.explanation-reveal-shell {
+  gap: 12px;
+}
+
+.explanation-reveal-header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.explanation-reveal-hint {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.explanation-reveal-sections {
+  display: none;
+  gap: 10px;
+}
+
+.explanation-reveal-shell.is-revealed .explanation-reveal-sections {
+  display: grid;
+}
+
+.explanation-reveal-section {
+  display: grid;
+  gap: 6px;
+  padding: 12px 14px;
+  border-radius: var(--radius-md);
+  background: rgba(36, 93, 111, 0.06);
+  border: 1px solid rgba(36, 93, 111, 0.1);
+}
+
+.explanation-reveal-section-title {
+  color: var(--ink);
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.explanation-reveal-section-body {
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.explanation-reveal-toggle {
+  display: inline-flex;
+}
+
+.explanation-reveal-shell:hover .explanation-reveal-sections,
+.explanation-reveal-shell:focus .explanation-reveal-sections,
+.explanation-reveal-shell:focus-within .explanation-reveal-sections {
+  display: none;
+}
+
 @media (hover: hover) {
   .answer-reveal-shell:hover .answer-reveal-body,
   .answer-reveal-shell:focus .answer-reveal-body,
