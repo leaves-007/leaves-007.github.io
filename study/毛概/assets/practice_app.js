@@ -734,12 +734,8 @@
     const resultText = answerState.result === "mastered" ? "已标记为掌握" : answerState.result === "correct" ? "回答正确" : "回答错误";
     wrapper.appendChild(shared.createElement("div", `result-banner ${resultClass}`, resultText));
     wrapper.appendChild(shared.createElement("div", "answer-detail", `标准答案：${shared.describeAnswer(question)}`));
-    const explanationBlock = shared.createRevealableExplanationBlock(question, {
-      collapsedLabel: "查看解析",
-      revealedLabel: "收起解析",
-    });
-    if (explanationBlock) {
-      wrapper.appendChild(explanationBlock);
+    if (question.explanation) {
+      wrapper.appendChild(shared.createElement("div", "answer-detail", `答案解析：${question.explanation}`));
     }
     const meta = shared.createElement("div", "answer-detail", `最近作答时间：${shared.formatDateTime(answerState.judgedAt || answerState.lastAnsweredAt)}`);
     wrapper.appendChild(meta);
@@ -1538,12 +1534,8 @@ function buildAnswerInputs(question, host, restoredAnswer) {
     const resultText = answerState.result === "mastered" ? "已标记为掌握" : answerState.result === "correct" ? "回答正确" : "回答错误";
     wrapper.appendChild(shared.createElement("div", `result-banner ${resultClass}`, resultText));
     wrapper.appendChild(shared.createElement("div", "answer-detail", `标准答案：${shared.describeAnswer(question)}`));
-    const explanationBlock = shared.createRevealableExplanationBlock(question, {
-      collapsedLabel: "查看解析",
-      revealedLabel: "收起解析",
-    });
-    if (explanationBlock) {
-      wrapper.appendChild(explanationBlock);
+    if (question.explanation) {
+      wrapper.appendChild(shared.createElement("div", "answer-detail", `答案解析：${question.explanation}`));
     }
     wrapper.appendChild(shared.createElement("div", "answer-detail", `最近作答时间：${shared.formatDateTime(answerState.judgedAt || answerState.lastAnsweredAt)}`));
     if (question.type !== "简答题" && state.wrongBook[question.id]) {
@@ -1644,12 +1636,8 @@ function buildAnswerInputs(question, host, restoredAnswer) {
     const resultText = answerState.result === "mastered" ? "已标记为掌握" : answerState.result === "correct" ? "回答正确" : "回答错误";
     wrapper.appendChild(shared.createElement("div", `result-banner ${resultClass}`, resultText));
     wrapper.appendChild(shared.createRevealableAnswerBlock("标准答案", shared.describeAnswer(question)));
-    const explanationBlock = shared.createRevealableExplanationBlock(question, {
-      collapsedLabel: "查看解析",
-      revealedLabel: "收起解析",
-    });
-    if (explanationBlock) {
-      wrapper.appendChild(explanationBlock);
+    if (question.explanation) {
+      wrapper.appendChild(shared.createElement("div", "answer-detail", `答案解析：${question.explanation}`));
     }
     wrapper.appendChild(
       shared.createElement(

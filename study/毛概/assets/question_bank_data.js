@@ -80,7 +80,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义理论体系不包括（）。",
       "answerRaw": "A",
-      "explanation": "本题看中国特色社会主义理论体系。A. 毛泽东思想不属于中国特色社会主义理论体系，所以选它。B. 邓小平理论属于中国特色社会主义理论体系，所以不选。C. “三个代表”重要思想属于中国特色社会主义理论体系，所以不选。D. 科学发展观属于中国特色社会主义理论体系，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -99,9 +99,7 @@ window.QUESTION_BANK_DATA = {
           "text": "科学发展观"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-3",
@@ -123,7 +121,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党团结带领人民经过浴血奋战，完成了新民主主义革命，于（）建立了中华人民共和国。",
       "answerRaw": "B",
-      "explanation": "本题看新民主主义革命。B. 1949年符合题干要求，所以选它。A. 1945年不符合题干要求，所以不选。C. 1956年不符合题干要求，所以不选。D. 1979年不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -142,9 +140,7 @@ window.QUESTION_BANK_DATA = {
           "text": "1979年"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-4",
@@ -166,7 +162,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "（）9月至10月，毛泽东领导秋收起义的部队在江西省永新县三湾村完成“三湾改编”。",
       "answerRaw": "B",
-      "explanation": "本题看三湾改编。B. 1927年符合题干要求，所以选它。A. 1917年不符合题干要求，所以不选。C. 1937年不符合题干要求，所以不选。D. 1947年不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -185,9 +181,7 @@ window.QUESTION_BANK_DATA = {
           "text": "1947年"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-5",
@@ -209,7 +203,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "习近平总书记在纪念毛泽东同志诞辰130周年座谈会上的讲话中对毛泽东同志做出评价，他指出，毛泽东同志的一生是为（）而不懈奋斗的一生。",
       "answerRaw": "C",
-      "explanation": "本题看习近平总书记的讲话。C. 国家富强、民族振兴、人民幸福符合题干要求，所以选它。A. 可持续发展不符合题干要求，所以不选。B. 社会主义现代化不符合题干要求，所以不选。D. 巩固发展最广泛的爱国统一战线不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -228,9 +222,7 @@ window.QUESTION_BANK_DATA = {
           "text": "巩固发展最广泛的爱国统一战线"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-6",
@@ -252,7 +244,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国共产党一经诞生，就把（）确立为自己的初心使命。",
       "answerRaw": "A",
-      "explanation": "本题看中国共产党。A. 为中国人民谋幸福、为中华民族谋复兴符合题干要求，所以选它。B. 实现马克思主义中国化的理论飞跃不符合题干要求，所以不选。C. 创造彪炳史册的人间奇迹不符合题干要求，所以不选。D. 把马克思主义同中国优秀传统文化相结合不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -271,9 +263,7 @@ window.QUESTION_BANK_DATA = {
           "text": "把马克思主义同中国优秀传统文化相结合"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-7",
@@ -295,7 +285,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "（）一声炮响给中国送来了马克思列宁主义，帮助中国的先进分子开始用无产阶级的世界观作为观察国家命运的工具，中国革命从此有了科学的指导思想。",
       "answerRaw": "C",
-      "explanation": "本题看毛泽东思想的形成和发展。C. 俄国十月革命符合题干要求，所以选它。A. 辛亥革命不符合题干要求，所以不选。B. 五四运动不符合题干要求，所以不选。D. 新文化运动不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -314,9 +304,7 @@ window.QUESTION_BANK_DATA = {
           "text": "新文化运动"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-8",
@@ -339,7 +327,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "（），毛泽东以马克思列宁主义为指导，深入实际调查研究，提出了新民主主义革命的基本思想。",
       "answerRaw": "A",
-      "explanation": "本题看毛泽东思想的形成和发展。A. 大革命时期符合题干要求，所以选它。B. 土地革命战争时期不符合题干要求，所以不选。C. 抗日战争时期不符合题干要求，所以不选。D. 解放战争时期不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -358,9 +346,7 @@ window.QUESTION_BANK_DATA = {
           "text": "解放战争时期"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-9",
@@ -383,7 +369,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想萌芽的标志是（）。",
       "answerRaw": "A",
-      "explanation": "本题看毛泽东思想的形成和发展。A. 新民主主义革命基本思想的提出符合题干要求，所以选它。B. 中国革命新道路的开辟不符合题干要求，所以不选。C. 过渡时期总路线的提出不符合题干要求，所以不选。D. 马克思主义同中国革命实践相结合不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -402,9 +388,7 @@ window.QUESTION_BANK_DATA = {
           "text": "马克思主义同中国革命实践相结合"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-10",
@@ -427,7 +411,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想初步形成的标志是（）。",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的形成和发展。B. 农村包围城市、武装夺取政权思想的提出与深入阐释符合题干要求，所以选它。A. 新民主主义革命基本思想的提出不符合题干要求，所以不选。C. 新民主主义革命理论的系统阐释不符合题干要求，所以不选。D. 人民民主专政理论的提出不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -446,9 +430,7 @@ window.QUESTION_BANK_DATA = {
           "text": "人民民主专政理论的提出"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-11",
@@ -471,7 +453,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "土地革命战争时期，由于敌我力量悬殊，中国共产党人不可能像俄国十月革命那样通过首先占领（）来取得革命在全国的胜利。",
       "answerRaw": "D",
-      "explanation": "本题看毛泽东思想的形成和发展。D. 中心城市符合题干要求，所以选它。A. 沿海地区不符合题干要求，所以不选。B. 边疆地区不符合题干要求，所以不选。C. 农村地区不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -490,9 +472,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中心城市"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-12",
@@ -515,7 +495,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "土地革命战争时期，党从残酷的现实斗争中认识到、夺取中国革命胜利，就必须坚持（）。",
       "answerRaw": "D",
-      "explanation": "本题看毛泽东思想的形成和发展。D. 以武装的革命反对武装的反革命符合题干要求，所以选它。A. 以绝对平均主义分配土地不符合题干要求，所以不选。B. 放弃无产阶级领导权不符合题干要求，所以不选。C. 依靠国民党势力不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -534,9 +514,7 @@ window.QUESTION_BANK_DATA = {
           "text": "以武装的革命反对武装的反革命"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-13",
@@ -559,7 +537,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国共产党成功开辟农村包围城市、武装夺取政权的革命道路是在（）。这一时期，毛泽东领导秋收起义部队转向井冈山，创建了第一个农村革命根据地，并通过实践逐步形成 “工农武装割据” 思想，为革命道路奠定了基础。",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的形成和发展。B. 土地革命战争时期符合题干要求，所以选它。A. 第一次国内革命战争时期不符合题干要求，所以不选。C. 抗日战争时期不符合题干要求，所以不选。D. 解放战争时期不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -578,9 +556,7 @@ window.QUESTION_BANK_DATA = {
           "text": "解放战争时期"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-14",
@@ -603,7 +579,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1938年，毛泽东在党的六届六中全会上作了《论新阶段》的报告，强调：“没有抽象的马克思主义，只有具体的马克思主义。”这标志着（）。",
       "answerRaw": "A",
-      "explanation": "本题看毛泽东思想的形成和发展。A. 马克思主义中国化这一命题的正式提出符合题干要求，所以选它。B. 毛泽东思想被确立为党的指导思想并写入党章不符合题干要求，所以不选。C. 新民主主义理论的发展成熟不符合题干要求，所以不选。D. 马克思主义中国化第一次飞跃的完成不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -622,9 +598,7 @@ window.QUESTION_BANK_DATA = {
           "text": "马克思主义中国化第一次飞跃的完成"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-15",
@@ -647,7 +621,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在《中国社会各阶级的分析》《湖南农民运动考察报告》等著作中，毛泽东解决了无产阶级领导权的中心问题，即（）。",
       "answerRaw": "D",
-      "explanation": "本题看毛泽东思想的形成和发展。D. 如何领导农民斗争的问题符合题干要求，所以选它。A. 如何建立农村革命根据地的问题不符合题干要求，所以不选。B. 如何在农村开展游击战争的问题不符合题干要求，所以不选。C. 如何完成土地革命的问题不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -666,9 +640,7 @@ window.QUESTION_BANK_DATA = {
           "text": "如何领导农民斗争的问题"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-16",
@@ -691,7 +663,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "土地革命战争时期，为批判党内存在的 “左” 倾教条主义和 “右” 倾经验主义错误，毛泽东以马克思主义认识论和辩证法为武器，深入剖析错误思想的哲学根源。毛泽东的这一思想系统地体现在下列哪个著作中？（）",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的形成和发展。B. 《实践论》和《矛盾论》不属于土地革命战争时期，为批判党内存在的 “左” 倾教条主义和 “右” 倾经验主义，所以选它。A. 《中国革命和中国共产党》属于土地革命战争时期，为批判党内存在的 “左” 倾教条主义和 “右” 倾经验主义，所以不选。C. 《反对本本主义》属于土地革命战争时期，为批判党内存在的 “左” 倾教条主义和 “右” 倾经验主义，所以不选。D. 《新民主主义论》属于土地革命战争时期，为批判党内存在的 “左” 倾教条主义和 “右” 倾经验主义，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -710,9 +682,7 @@ window.QUESTION_BANK_DATA = {
           "text": "《新民主主义论》"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-17",
@@ -735,7 +705,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的六届七中全会通过的（）充分肯定了确立毛泽东在全党领导地位的重大意义，指出：“全党已经空前一致地认识了毛泽东同志的路线的正确性，空前自觉地团结在毛泽东的旗帜下了。”",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的形成和发展。B. 《关于若干历史问题的决议》符合题干要求，所以选它。A. 《九月来信》不符合题干要求，所以不选。C. 《中国共产党党章》不符合题干要求，所以不选。D. 《论人民民主专政》不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -754,9 +724,7 @@ window.QUESTION_BANK_DATA = {
           "text": "《论人民民主专政》"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-18",
@@ -779,7 +747,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在新民主主义革命时期，随着中国革命实践的不断深入与发展，党的理论建设也取得了重大成果。其中，明确把毛泽东思想确立为党的指导思想并写入党章的重要会议是（）。",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的形成和发展。B. 中共第七次全国代表大会符合题干要求，所以选它。A. 中共第六次全国代表大会不符合题干要求，所以不选。C. 中共第八次全国代表大会不符合题干要求，所以不选。D. 中共第二十次全国代表大会不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -798,9 +766,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中共第二十次全国代表大会"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-19",
@@ -823,7 +789,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东从中国的历史和现实出发，深刻研究中国革命的特点和规律， 发展了马克思列宁主义关于无产阶级在民主革命中的领导权思想，创立了无产阶级领导的，工农联盟为基础的，人民大众的，反对帝国主义、封建主义和官僚资本主义的（）。",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。B. 新民主主义革命理论符合题干要求，所以选它。A. 旧民主主义革命理论不符合题干要求，所以不选。C. 社会主义革命和社会主义建设理论不符合题干要求，所以不选。D. 党的建设理论不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -842,9 +808,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党的建设理论"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-20",
@@ -867,7 +831,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "以下著作的主要内容与其蕴含的毛泽东思想对应错误的是（）。",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。B. 《星星之火可以燎原》——党的建设理论不属于以下著作的主要内容与其蕴含的毛泽东思想对应，所以选它。A. 《中国革命和中国共产党》——新民主主义革命理论属于以下著作的主要内容与其蕴含的毛泽东思想对应，所以不选。C. 《论十大关系》——社会主义建设理论属于以下著作的主要内容与其蕴含的毛泽东思想对应，所以不选。D. 《反对本本主义》——反对教条主义属于以下著作的主要内容与其蕴含的毛泽东思想对应，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -886,9 +850,7 @@ window.QUESTION_BANK_DATA = {
           "text": "《反对本本主义》——反对教条主义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-21",
@@ -911,7 +873,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命时期，（）占中国人口的绝大多数，是帝国主义和封建势力的主要压迫对象，因此，中国的武装斗争是以该群（）体为主体的革命战争。",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。B. 农民符合题干要求，所以选它。A. 工人不符合题干要求，所以不选。C. 城市小资产阶级不符合题干要求，所以不选。D. 知识分子不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -930,9 +892,7 @@ window.QUESTION_BANK_DATA = {
           "text": "知识分子"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-22",
@@ -955,7 +915,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命时期，被誉为无产阶级最可靠的同盟军的群体是（）。",
       "answerRaw": "C",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。C. 农民符合题干要求，所以选它。A. 工人不符合题干要求，所以不选。B. 民族资本家不符合题干要求，所以不选。D. 地主不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -974,9 +934,7 @@ window.QUESTION_BANK_DATA = {
           "text": "地主"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-23",
@@ -999,7 +957,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命理论指出，在被迫同资产阶级、主要是同大资产阶级分裂时，要敢于并善于同大资产阶级进行坚决的（）。",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。B. 武装斗争符合题干要求，所以选它。A. 和平谈判不符合题干要求，所以不选。C. 劝导说服不符合题干要求，所以不选。D. 经济合作不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1018,9 +976,7 @@ window.QUESTION_BANK_DATA = {
           "text": "经济合作"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-24",
@@ -1043,7 +999,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "黄炎培说：我生六十多年，耳闻的不说，所亲眼看到的，真所谓“其兴也淳焉”\"其亡也忽焉”，一人，一家，一团体，一地方，乃至一国不少单位都没有能跳出这周期率的支配力。对此，毛泽东表示：我们已经找到新路，我们能跳出这周期率。这条新路，就是（）。",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。B. 民主符合题干要求，所以选它。A. 革命不符合题干要求，所以不选。C. 统一战线不符合题干要求，所以不选。D. 党的领导不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1062,9 +1018,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党的领导"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-25",
@@ -1087,7 +1041,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "被称为 “窑洞对” 的著名对话，其回答的是（）问题。",
       "answerRaw": "D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。D. 中国共产党如何跳出治乱兴衰历史周期律符合题干要求，所以选它。A. 革命根据地的经济建设策略不符合题干要求，所以不选。B. 抗战胜利后政权建设的基本方向不符合题干要求，所以不选。C. 党内思想建设的具体方法不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1106,9 +1060,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国共产党如何跳出治乱兴衰历史周期律"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-26",
@@ -1131,7 +1083,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在领导中国革命的长期实践中，深刻总结历史经验，多次强调政策和策略在革命全局中的重要作用。他指出（），各级领导同志务必充分注意，万万不可粗心大意。",
       "answerRaw": "C",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。C. 政策和策略是党的生命符合题干要求，所以选它。A. 政策极其重要，注意政策的稳定性不符合题干要求，所以不选。B. 策略极其重要，注意策略的稳定性不符合题干要求，所以不选。D. 政策和策略是一成不变的不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1150,9 +1102,7 @@ window.QUESTION_BANK_DATA = {
           "text": "政策和策略是一成不变的"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-27",
@@ -1175,7 +1125,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“理论联系实际、密切联系群众、批评与自我批评”是毛泽东的哪一个理论中的重要思想？（）",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。B. 党的建设理论符合题干要求，所以选它。A. 革命军队建设和军事战略理论不符合题干要求，所以不选。C. 思想政治工作和文化工作的理论不符合题干要求，所以不选。D. 政策和策略理论不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1194,9 +1144,7 @@ window.QUESTION_BANK_DATA = {
           "text": "政策和策略理论"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-28",
@@ -1219,7 +1167,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在毛泽东思想关于党的建设理论中，针对历史上党内斗争中存在过的“残酷斗争、无情打击”的“左”的错误，毛泽东提出（）的正确方针。",
       "answerRaw": "D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。D. 惩前毖后、治病救人不属于在毛泽东思想关于党的建设理论中，针对历史上党内斗争中存在过的“残酷斗争、无情打击”的“左”的，所以选它。A. 统一思想、又红又专属于在毛泽东思想关于党的建设理论中，针对历史上党内斗争中存在过的“残酷斗争、无情打击”的“左”的，所以不选。B. 区别对待、分化瓦解属于在毛泽东思想关于党的建设理论中，针对历史上党内斗争中存在过的“残酷斗争、无情打击”的“左”的，所以不选。C. 独立自主、艰苦奋斗属于在毛泽东思想关于党的建设理论中，针对历史上党内斗争中存在过的“残酷斗争、无情打击”的“左”的，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1238,9 +1186,7 @@ window.QUESTION_BANK_DATA = {
           "text": "惩前毖后、治病救人"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-29",
@@ -1263,7 +1209,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东同志在党的六届六中全会上指出：“我们的原则是党指挥枪，而决不容许枪指挥党。”这体现出毛泽东思想的哪一个理论原则？（）",
       "answerRaw": "A",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 党对军队绝对领导的原则符合题干要求，所以选它。B. 坚持社会主义道路的原则不符合题干要求，所以不选。C. 民主集中制的原则不符合题干要求，所以不选。D. 坚持无产阶级专政的原则不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1282,9 +1228,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持无产阶级专政的原则"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-30",
@@ -1307,7 +1251,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在毛泽东思想革命军队建设和军事战略理论中，毛泽东规定了党对军队绝对领导的原则，强调（）是人民军队的唯一宗旨。",
       "answerRaw": "A",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 全心全意为人民服务符合题干要求，所以选它。B. 走独立自主和平发展道路不符合题干要求，所以不选。C. 向共同的敌人作坚决斗争不符合题干要求，所以不选。D. 服从命令听指挥不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1326,9 +1270,7 @@ window.QUESTION_BANK_DATA = {
           "text": "服从命令听指挥"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-31",
@@ -1351,7 +1293,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东总结了中国长期革命战争的经验，提出了以人民军队为骨干，依靠广大人民群众，建立农村根据地，进行（）的思想。",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。B. 人民战争符合题干要求，所以选它。A. 武装斗争不符合题干要求，所以不选。C. 游击战争不符合题干要求，所以不选。D. 阶级斗争不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1370,9 +1312,7 @@ window.QUESTION_BANK_DATA = {
           "text": "阶级斗争"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-32",
@@ -1395,7 +1335,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在领导中国革命和建设过程中，形成了一系列科学的政策和策略思想，强调要根据不同历史时期的矛盾特点制定针对性策略。以下哪一项不属于毛泽东提出的政策和策略思想？（）",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。B. 惩前毖后，治病救人不属于毛泽东在领导中国革命和建设过程中，形成了一系列科学的政策和策略思想，强调要根据不同历史时期的矛盾特点制定针对性策略。以下哪一项，所以选它。A. 战略上要藐视敌人， 战术上要重视敌人属于毛泽东在领导中国革命和建设过程中，形成了一系列科学的政策和策略思想，强调要根据不同历史时期的矛盾特点制定针对性策略。以下哪一项，所以不选。C. 要掌握斗争的主要方向，不要四面出击属于毛泽东在领导中国革命和建设过程中，形成了一系列科学的政策和策略思想，强调要根据不同历史时期的矛盾特点制定针对性策略。以下哪一项，所以不选。D. 对敌人要 区别对待、分化瓦解，实行利用矛盾、争取多数、反对少数、各个击破 的策略，并做到有理、有利、有节属于毛泽东在领导中国革命和建设过程中，形成了一系列科学的政策和策略思想，强调要根据不同历史时期的矛盾特点制定针对性策略。以下哪一项，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1414,9 +1354,7 @@ window.QUESTION_BANK_DATA = {
           "text": "对敌人要 区别对待、分化瓦解，实行利用矛盾、争取多数、反对少数、各个击破 的策略，并做到有理、有利、有节"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-33",
@@ -1439,7 +1377,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "抗日战争时期，毛泽东的军事理论把（）提到了战略的地位。",
       "answerRaw": "C",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。C. 游击战符合题干要求，所以选它。A. 陆地战不符合题干要求，所以不选。B. 运动战不符合题干要求，所以不选。D. 持久战不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1458,9 +1396,7 @@ window.QUESTION_BANK_DATA = {
           "text": "持久战"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-34",
@@ -1483,7 +1419,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1945年，毛泽东在中共七大上做《论联合政府》的报告时指出，掌握（），是团结全党进行伟大政治斗争的中心环节。",
       "answerRaw": "A",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 思想教育符合题干要求，所以选它。B. 群众路线不符合题干要求，所以不选。C. 党的建设不符合题干要求，所以不选。D. 实事求是不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1502,9 +1438,7 @@ window.QUESTION_BANK_DATA = {
           "text": "实事求是"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-35",
@@ -1527,7 +1461,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "以下哪项不属于毛泽东关于思想政治工作和文化工作的理论（）？",
       "answerRaw": "D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。D. 把思想政治工作贯穿教育教学全过程不属于以下哪项，所以选它。A. 思想政治工作是经济工作和其他一切工作的生命线属于以下哪项，所以不选。B. 要实行政治和经济的统一、政治和技术的统一属于以下哪项，所以不选。C. 坚持又红又专的方针属于以下哪项，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1546,9 +1480,7 @@ window.QUESTION_BANK_DATA = {
           "text": "把思想政治工作贯穿教育教学全过程"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-36",
@@ -1571,7 +1503,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东提出的（）就是人民民主专政的理论，丰富了马克思列宁主义关于无产阶级专政的学说。",
       "answerRaw": "A",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 把对人民内部的民主和对敌人的专政互相结合起来符合题干要求，所以选它。B. 区分民主与专政的辩证统一关系不符合题干要求，所以不选。C. 区分人民内部矛盾不符合题干要求，所以不选。D. 区分敌我矛盾不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1590,9 +1522,7 @@ window.QUESTION_BANK_DATA = {
           "text": "区分敌我矛盾"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-37",
@@ -1615,7 +1545,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想关于社会主义建设的基本思想观点不包括（）。",
       "answerRaw": "D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。D. 使用以阶级斗争为纲的口号不属于毛泽东思想关于社会主义建设的基本思想观点，所以选它。A. 正确认识和处理社会主义社会基本矛盾属于毛泽东思想关于社会主义建设的基本思想观点，所以不选。B. 调动一切积极因素为社会主义事业服务属于毛泽东思想关于社会主义建设的基本思想观点，所以不选。C. 实行百花齐放、百家争鸣的方针属于毛泽东思想关于社会主义建设的基本思想观点，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1634,9 +1564,7 @@ window.QUESTION_BANK_DATA = {
           "text": "使用以阶级斗争为纲的口号"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-38",
@@ -1659,7 +1587,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1956年社会主义制度建立以后，在党与民主党派的关系上，毛泽东主张实行（）的方针。",
       "answerRaw": "D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。D. 长期共存，互相监督符合题干要求，所以选它。A. 古为今用，推陈出新不符合题干要求，所以不选。B. 百花齐放，百家争鸣不符合题干要求，所以不选。C. 肝胆相照，荣辱与共不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1678,9 +1606,7 @@ window.QUESTION_BANK_DATA = {
           "text": "长期共存，互相监督"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-39",
@@ -1703,7 +1629,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1956年社会主义制度建立以后，在经济工作以及其他各项工作中，毛泽东主张实行（）的方针。",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。B. 统筹兼顾，适当安排符合题干要求，所以选它。A. 长期共存，互相监督不符合题干要求，所以不选。C. 团结—批评—团结不符合题干要求，所以不选。D. 两参一改三结合不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1722,9 +1648,7 @@ window.QUESTION_BANK_DATA = {
           "text": "两参一改三结合"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-40",
@@ -1747,7 +1671,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1957年，毛泽东在《关于正确处理人民内部矛盾的问题》的报告中科学地分析了社会主义社会的基本矛盾。以下关于社会主义社会基本矛盾的说法，正确的是（）。",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。B. 社会主义社会基本矛盾是生产关系和生产力之间、上层建筑和经济基础之间的矛盾符合题干要求，所以选它。A. 社会主义社会基本矛盾是人民内部的非对抗性的矛盾不符合题干要求，所以不选。C. 社会主义社会基本矛盾是无产阶级和资产阶级之间、社会主义和资本主义之间的矛盾不符合题干要求，所以不选。D. 社会主义社会基本矛盾是人民日益增长的物质文化需要同落后的社会生产之间的矛盾不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1766,9 +1690,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义社会基本矛盾是人民日益增长的物质文化需要同落后的社会生产之间的矛盾"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-41",
@@ -1790,7 +1712,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想的活的灵魂不包括（）。",
       "answerRaw": "D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。D. 统一战线不属于毛泽东思想的活的灵魂，所以选它。A. 实事求是属于毛泽东思想的活的灵魂，所以不选。B. 群众路线属于毛泽东思想的活的灵魂，所以不选。C. 独立自主属于毛泽东思想的活的灵魂，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1809,9 +1731,7 @@ window.QUESTION_BANK_DATA = {
           "text": "统一战线"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-42",
@@ -1834,7 +1754,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《反对本本主义》一文中指出：“中国革命斗争的胜利要靠中国同志了解中国情况。”这是（）思想的最初的明确表述。",
       "answerRaw": "C",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。C. 独立自主符合题干要求，所以选它。A. 马克思主义中国化不符合题干要求，所以不选。B. 实事求是不符合题干要求，所以不选。D. 群众路线不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1853,9 +1773,7 @@ window.QUESTION_BANK_DATA = {
           "text": "群众路线"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-43",
@@ -1878,7 +1796,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "下列选项中，能够体现中国坚持独立自主的和平外交政策的是（）。",
       "answerRaw": "A",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 中国在平等互利基础上积极开展同各国的交流合作符合题干要求，所以选它。B. 依赖大国援助，在国际事务中随声附和不符合题干要求，所以不选。C. 以意识形态划界，联合部分国家对抗其他国家不符合题干要求，所以不选。D. 在国际争端中放弃原则，无底线妥协退让不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1897,9 +1815,7 @@ window.QUESTION_BANK_DATA = {
           "text": "在国际争端中放弃原则，无底线妥协退让"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-44",
@@ -1922,7 +1838,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "人类历史上没有一个民族、一个国家可以通过依赖外部力量、照搬外国模式、跟在他人后面亦步亦趋实现强大和振兴。因此，我国在处理对外关系时必须做到（）。",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。B. 独立自主符合题干要求，所以选它。A. 公平合理不符合题干要求，所以不选。C. 互惠互利不符合题干要求，所以不选。D. 保持开放不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1941,9 +1857,7 @@ window.QUESTION_BANK_DATA = {
           "text": "保持开放"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-45",
@@ -1966,7 +1880,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国革命的一个重要特点，是革命的敌人异常强大和残暴，而革命力量却比较弱小。在敌我力量十分悬殊的情况下，无产阶级的先锋队要领导革命取得胜利，更需要扎根于群众之中，紧紧地依靠群众，团结群众，和群众同呼吸、共命运。因此，坚持群众路线，就要保持（）。",
       "answerRaw": "D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。D. 党同人民群众的血肉联系符合题干要求，所以选它。A. 党对调查研究的不断落实不符合题干要求，所以不选。B. 党对民主理论的不断创新不符合题干要求，所以不选。C. 党对军队的绝对领导不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -1985,9 +1899,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党同人民群众的血肉联系"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-46",
@@ -2010,7 +1922,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东指出：“我们共产党人好比种子，人民好比土地。我们到了一个地方， 就要同那里的人民结合起来，在人民中间生根、开花。”这一论述体现了毛泽东的什么思想？（）",
       "answerRaw": "A",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 群众路线符合题干要求，所以选它。B. 独立自主不符合题干要求，所以不选。C. 实事求是不符合题干要求，所以不选。D. 惩前毖后不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2029,9 +1941,7 @@ window.QUESTION_BANK_DATA = {
           "text": "惩前毖后"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-47",
@@ -2054,7 +1964,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "对“实事求是”首先作出马克思主义的解释，并把它确立为中国共产党的思想路线的人是（）。",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。B. 毛泽东符合题干要求，所以选它。A. 刘少奇不符合题干要求，所以不选。C. 邓小平不符合题干要求，所以不选。D. 王稼祥不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2073,9 +1983,7 @@ window.QUESTION_BANK_DATA = {
           "text": "王稼祥"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-48",
@@ -2098,7 +2006,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "（），就是一切从实际出发，理论联系实际，坚持在实践中检验真理和发展真理。",
       "answerRaw": "C",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。C. 实事求是符合题干要求，所以选它。A. 有的放矢不符合题干要求，所以不选。B. 量力而行不符合题干要求，所以不选。D. 脚踏实地不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2117,9 +2025,7 @@ window.QUESTION_BANK_DATA = {
           "text": "脚踏实地"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-49",
@@ -2142,7 +2048,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《改造我们的学习》中对 “实事求是” 作出科学解释，其中 “是” 指的是（）。",
       "answerRaw": "C",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。C. 客观事物的内部联系符合毛泽东在《改造我们的学习》中对 “实事求是” 作出科学解释，其中 “是”，所以选它。A. 客观存在的一切事物不符合毛泽东在《改造我们的学习》中对 “实事求是” 作出科学解释，其中 “是”，所以不选。B. 调查研究不符合毛泽东在《改造我们的学习》中对 “实事求是” 作出科学解释，其中 “是”，所以不选。D. 真实的存在不符合毛泽东在《改造我们的学习》中对 “实事求是” 作出科学解释，其中 “是”，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2161,9 +2067,7 @@ window.QUESTION_BANK_DATA = {
           "text": "真实的存在"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-50",
@@ -2186,7 +2090,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持实事求是，就要深入实际了解事物的本来面貌，把握事物内在必然联系，按照客观规律办事。以下选项符合实事求是做法的是（）。",
       "answerRaw": "D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。D. 量力而行符合题干要求，所以选它。A. 因循守旧不符合题干要求，所以不选。B. 照搬照抄不符合题干要求，所以不选。C. 急于求成不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2205,9 +2109,7 @@ window.QUESTION_BANK_DATA = {
           "text": "量力而行"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-51",
@@ -2230,7 +2132,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东把实事求是形象地比喻为“（）”，强调我们要坚持用马克思主义之“矢”去射中国革命之“的”。",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。B. 有的放矢符合题干要求，所以选它。A. 对症下药不符合题干要求，所以不选。C. 量体裁衣不符合题干要求，所以不选。D. 因地制宜不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2249,9 +2151,7 @@ window.QUESTION_BANK_DATA = {
           "text": "因地制宜"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-52",
@@ -2274,7 +2174,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "延安时期，为了解决党内存在的思想分歧、宗派主义等问题，我们党开展了大规模的整风运动，使全党达到了空前的团结和统一，为夺取抗战胜利和全国解放奠定了强大思想政治基础。从此，实事求是的思想路线在全党内确立起来。下列关于“实事求是”的说法正确的是（）。",
       "answerRaw": "B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。B. 实事求是思想路线是我们党的基本思想方法、工作方法、领导方法符合题干要求，所以选它。A. 实事求是思想路线是我们党全部理论和实践的立足点不符合题干要求，所以不选。C. 实事求是思想路线是我们党的生命线和根本工作路线不符合题干要求，所以不选。D. 实事求是思想路线是中国共产党在中国革命中战胜敌人的三大法宝之一不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2293,9 +2193,7 @@ window.QUESTION_BANK_DATA = {
           "text": "实事求是思想路线是中国共产党在中国革命中战胜敌人的三大法宝之一"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-53",
@@ -2318,7 +2216,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "实事求是是马克思主义的根本观点，是中国共产党认识世界和改造世界的根本要求。习近平总书记指出，坚持实事求是，必须从客观实际出发。坚持实事求是，就要清醒认识和正确把握我国的（）。",
       "answerRaw": "A",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 基本国情符合题干要求，所以选它。B. 基本方针不符合题干要求，所以不选。C. 基本形势不符合题干要求，所以不选。D. 基本立足点不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2337,9 +2235,7 @@ window.QUESTION_BANK_DATA = {
           "text": "基本立足点"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-54",
@@ -2361,7 +2257,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "马克思主义中国化是一个不断发展的过程，每一次理论飞跃都紧密结合了当时的时代背景和中国的具体实际，为解决不同历史时期的问题提供了科学的理论指导。马克思主义中国化第一次历史性飞跃的理论成果是（）。",
       "answerRaw": "C",
-      "explanation": "本题看毛泽东思想的历史地位。C. 毛泽东思想符合题干要求，所以选它。A. 三民主义不符合题干要求，所以不选。B. 新三民主义不符合题干要求，所以不选。D. 邓小平理论不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2380,9 +2276,7 @@ window.QUESTION_BANK_DATA = {
           "text": "邓小平理论"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-55",
@@ -2404,7 +2298,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1976年毛泽东逝世后，党内和社会上对毛泽东的评价存在分歧。（）对毛泽东和毛泽东思想的历史地位作了科学的、实事求是的评价，统一了全党的认识。",
       "answerRaw": "D",
-      "explanation": "本题看毛泽东思想的历史地位。D. 《关于建国以来党的若干历史问题的决议》符合题干要求，所以选它。A. 《中国共产党红军第四军第九次代表大会决议案》不符合题干要求，所以不选。B. 《关于目前政治形势与党的任务决议》不符合题干要求，所以不选。C. 《关于若干历史问题的决议》不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2423,9 +2317,7 @@ window.QUESTION_BANK_DATA = {
           "text": "《关于建国以来党的若干历史问题的决议》"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-56",
@@ -2448,7 +2340,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中华人民共和国的建立彻底结束了（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看中国特色社会主义理论体系。A. 旧中国半殖民地半封建社会的历史符合题干要求，所以选它。B. 极少数剥削者统治广大劳动人民的历史符合题干要求，所以选它。C. 旧中国一盘散沙的局面符合题干要求，所以选它。D. 资产阶级剥削无产阶级的历史不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2467,9 +2359,7 @@ window.QUESTION_BANK_DATA = {
           "text": "资产阶级剥削无产阶级的历史"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-57",
@@ -2492,7 +2382,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我们国家的指导思想包括（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看中国特色社会主义理论体系。A. 科学发展观符合我们国家的指导思想，所以选它。B. 习近平新时代中国特色社会主义思想符合我们国家的指导思想，所以选它。C. 邓小平理论、“三个代表”重要思想符合我们国家的指导思想，所以选它。D. 马克思列宁主义、毛泽东思想符合我们国家的指导思想，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2511,9 +2401,7 @@ window.QUESTION_BANK_DATA = {
           "text": "马克思列宁主义、毛泽东思想"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-58",
@@ -2536,7 +2424,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想和中国特色社会主义理论体系，都是（）。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看中国特色社会主义理论体系。B. 中国化的马克思主义符合题干要求，所以选它。C. 中国共产党长期坚持的指导思想符合题干要求，所以选它。D. 全国各族人民团结奋斗的共同思想基础符合题干要求，所以选它。A. 马克思主义中国化的第一个理论成果不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2555,9 +2443,7 @@ window.QUESTION_BANK_DATA = {
           "text": "全国各族人民团结奋斗的共同思想基础"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-59",
@@ -2579,7 +2465,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "恩格斯指出“马克思的整个世界观不是教义，而是方法。他提供的不是现成的教条，而是进一步研究的出发点和供这种研究使用的方法。”这句话对我们正确对待马克思主义具有重要的指导意义，那就是（）。",
       "answerRaw": "C;D",
-      "explanation": "本题看马克思主义。C. 马克思主义只有正确运用于实践并在实践中不断发展才能体现其科学性，彰显其强大力量不属于恩格斯指出“马克思的整个世界观，所以选它。D. 马克思主义只有实现中国化时代化，才能不断发展自身，始终保持蓬勃生机和旺盛活力不属于恩格斯指出“马克思的整个世界观，所以选它。A. 必须严格按照马克思主义的具体结论行事属于恩格斯指出“马克思的整个世界观，所以不选。B. 马克思主义的方法论可以脱离具体实践单独运用属于恩格斯指出“马克思的整个世界观，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2598,9 +2484,7 @@ window.QUESTION_BANK_DATA = {
           "text": "马克思主义只有实现中国化时代化，才能不断发展自身，始终保持蓬勃生机和旺盛活力"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-60",
@@ -2623,7 +2507,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "习近平总书记在党的二十大报告中指出，马克思主义是我们立党立国、兴党兴国的根本指导思想。实践告诉我们，中国共产党为什么能，中国特色社会主义为什么好，归根到底是（）。",
       "answerRaw": "A;D",
-      "explanation": "本题看马克思主义。A. 马克思主义行符合题干要求，所以选它。D. 中国化时代化的马克思主义行符合题干要求，所以选它。B. 中华优秀传统文化行不符合题干要求，所以不选。C. 国际化的科学社会主义行不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2642,9 +2526,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国化时代化的马克思主义行"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-61",
@@ -2666,7 +2548,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新时代坚持和发展马克思主义，必须坚持“两个结合”，即（）。",
       "answerRaw": "B;D",
-      "explanation": "本题看马克思主义中国化。B. 同中国具体实际相结合符合题干要求，所以选它。D. 同中华优秀传统文化相结合符合题干要求，所以选它。A. 同马克思主义经典著作相结合不符合题干要求，所以不选。C. 同世界社会主义国家建设经验相结合不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2685,9 +2567,7 @@ window.QUESTION_BANK_DATA = {
           "text": "同中华优秀传统文化相结合"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-62",
@@ -2709,7 +2589,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想是在我国（）的实践过程中，在总结我国革命和建设正反两方面历史经验的基础上，逐步形成和发展起来的。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看毛泽东思想的形成和发展。A. 新民主主义革命符合题干要求，所以选它。B. 社会主义革命符合题干要求，所以选它。D. 社会主义建设符合题干要求，所以选它。C. 照搬苏联革命和建设模式不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2728,9 +2608,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义建设"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-63",
@@ -2752,7 +2630,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想的形成和发展大体经历了（）几个阶段。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看毛泽东思想的形成和发展。A. 初步形成符合题干要求，所以选它。B. 趋于成熟符合题干要求，所以选它。C. 继续发展符合题干要求，所以选它。D. 逐渐式微不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2771,9 +2649,7 @@ window.QUESTION_BANK_DATA = {
           "text": "逐渐式微"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-64",
@@ -2796,7 +2672,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东指明了中国革命的发展规律，即（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看毛泽东思想的形成和发展。A. 中国革命要分两步走符合题干要求，所以选它。B. 将党的工作重点从城市转入农村，在农村开展游击战争，进行土地革命，建立红色政权，把落后的农村变为先进的革命根据地符合题干要求，所以选它。C. 积累农村革命根据地去反对依靠城市进攻农村的强大敌人,进而以农村包围城市，以便在长期斗争中逐步锻炼、积累、发展革命的力量，逐步削弱敌人的力量符合题干要求，所以选它。D. 直到敌我力量强弱发生转化，再攻占中心城市，夺取全国政权和全国革命的胜利符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2815,9 +2691,7 @@ window.QUESTION_BANK_DATA = {
           "text": "直到敌我力量强弱发生转化，再攻占中心城市，夺取全国政权和全国革命的胜利"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-65",
@@ -2840,7 +2714,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "解放战争时期和新中国成立以后，以毛泽东为主要代表的中国共产党人先后提出了（）理论。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看毛泽东思想的形成和发展。A. 人民民主专政理论符合题干要求，所以选它。B. 社会主义改造理论符合题干要求，所以选它。C. 关于严格区分和正确处理两类矛盾的学说符合题干要求，所以选它。D. 社会主义初级阶段理论不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2859,9 +2733,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义初级阶段理论"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-66",
@@ -2884,7 +2756,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "下列哪些文章是毛泽东在新民主主义革命时期写就的？（）",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 《中国社会各阶级的分析》符合题干要求，所以选它。B. 《湖南农民运动考察报告》符合题干要求，所以选它。C. 《星星之火，可以燎原》符合题干要求，所以选它。D. 《中国的红色政权为什么能够存在？》符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2903,9 +2775,7 @@ window.QUESTION_BANK_DATA = {
           "text": "《中国的红色政权为什么能够存在？》"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-67",
@@ -2928,7 +2798,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在新民主主义革命理论中，中国的资产阶级包括下列哪些群体（）。",
       "answerRaw": "C;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。C. 依附于帝国主义的大资产阶级符合在新民主主义革命理论中，中国的资产阶级，所以选它。D. 既有革命要求又有动摇性的民族资产阶级符合在新民主主义革命理论中，中国的资产阶级，所以选它。A. 手工业者、知识分子等小资产阶级不符合在新民主主义革命理论中，中国的资产阶级，所以不选。B. 科技精英、管理阶层等新资产阶级不符合在新民主主义革命理论中，中国的资产阶级，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2947,9 +2817,7 @@ window.QUESTION_BANK_DATA = {
           "text": "既有革命要求又有动摇性的民族资产阶级"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-68",
@@ -2972,7 +2840,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "统一战线是中国共产党在新民主主义革命时期为团结一切可以团结的力量、争取革命胜利而建立的政治联盟，在建立统一战线时，无产阶级应到做到（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 争取民族资产阶级参加符合题干要求，所以选它。B. 面对外敌侵略的特殊条件下可以把一部分大地主大资产阶级也包括在内符合题干要求，所以选它。C. 争取大地主大资产阶级参加不符合题干要求，所以不选。D. 面对外敌侵略的特殊条件下可以把民族资产阶级也包括在内不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -2991,9 +2859,7 @@ window.QUESTION_BANK_DATA = {
           "text": "面对外敌侵略的特殊条件下可以把民族资产阶级也包括在内"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-69",
@@ -3016,7 +2882,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东科学阐述新民主主义革命的对象、动力、领导力量、性质和前途等基本问题的著作有（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看毛泽东思想的形成和发展。A. 《<共产党人>发刊词》符合题干要求，所以选它。B. 《中国革命和中国共产党》符合题干要求，所以选它。C. 《新民主主义论》符合题干要求，所以选它。D. 《论联合政府》符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3035,9 +2901,7 @@ window.QUESTION_BANK_DATA = {
           "text": "《论联合政府》"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-70",
@@ -3060,7 +2924,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国共产党在中国革命中战胜敌人的三大法宝是（）。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。B. 武装斗争符合题干要求，所以选它。C. 党的建设符合题干要求，所以选它。D. 统一战线符合题干要求，所以选它。A. 实事求是不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3079,9 +2943,7 @@ window.QUESTION_BANK_DATA = {
           "text": "统一战线"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-71",
@@ -3104,7 +2966,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "大革命时期（1924-1927年），毛泽东关于新民主主义革命的基本思想有（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 分析了中国社会各阶级在革命中的地位和作用符合题干要求，所以选它。B. 指出无产阶级有可能和必要通过自己的先锋队用先进思想、组织性和纪律性提高农民群众的觉悟水平符合题干要求，所以选它。C. 指出通过建立农村根据地，进行长期的革命斗争，发展和壮大革命力量，开创出一条以农村包围城市、最后夺取全国胜利的革命道路符合题干要求，所以选它。D. 提出了“工农武装割据”的思想不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3123,9 +2985,7 @@ window.QUESTION_BANK_DATA = {
           "text": "提出了“工农武装割据”的思想"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-72",
@@ -3148,7 +3008,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1925年，毛泽东在《中国社会各阶级的分析》中指出，谁是我们的敌人？谁是我们的朋友？这个问题是革命的首要问题。党在不同时期的革命的主要对象是？（）",
       "answerRaw": "C;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。C. 在抗日战争时期，革命的主要对象是日本帝国主义符合题干要求，所以选它。D. 在解放战争时期，革命的主要对象是美帝国主义支持下的国民党反动派符合题干要求，所以选它。A. 在国共合作的大革命时期，革命的主要对象是美帝国主义不符合题干要求，所以不选。B. 在土地革命战争时期，革命的主要对象是北洋军阀不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3167,9 +3027,7 @@ window.QUESTION_BANK_DATA = {
           "text": "在解放战争时期，革命的主要对象是美帝国主义支持下的国民党反动派"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-73",
@@ -3192,7 +3050,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东建党学说成功地完成了在无产阶级人数很少而战斗力很强、农民和其他小资产阶级占人口大多数的国家，建设一个（）的无产阶级政党的艰巨任务。",
       "answerRaw": "A;B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 具有广泛群众性的符合题干要求，所以选它。B. 马克思主义的符合题干要求，所以选它。C. 具有革命性的不符合题干要求，所以不选。D. 社会主义的不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3211,9 +3069,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义的"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-74",
@@ -3236,7 +3092,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国共产党自创建以来就十分重视加强党的自身建设，其中毛泽东关于党的建设思想包括（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 党员不但要在组织上入党，而且要在思想上入党符合中国共产党自创建以来就十分重视加强党的自身建设，其中毛泽东关于党的建设思想，所以选它。B. 要求全党警惕资产阶级思想的侵蚀，反对脱离群众的官僚主义符合中国共产党自创建以来就十分重视加强党的自身建设，其中毛泽东关于党的建设思想，所以选它。C. 密切联系群众的作风符合中国共产党自创建以来就十分重视加强党的自身建设，其中毛泽东关于党的建设思想，所以选它。D. 批评与自我批评的作风符合中国共产党自创建以来就十分重视加强党的自身建设，其中毛泽东关于党的建设思想，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3255,9 +3111,7 @@ window.QUESTION_BANK_DATA = {
           "text": "批评与自我批评的作风"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-75",
@@ -3280,7 +3134,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国共产党要领导革命取得胜利，必须不断加强党的建设。中国共产党在加强自身建设中积累的丰富的经验包括（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 必须把思想建设始终放在党的建设的首位符合中国共产党要领导革命取得胜利，必须不断加强党的建设。中国共产党在加强自身建设中积累的丰富的经验，所以选它。B. 必须在任何时候都重视党的组织建设符合中国共产党要领导革命取得胜利，必须不断加强党的建设。中国共产党在加强自身建设中积累的丰富的经验，所以选它。C. 必须重视党的作风建设符合中国共产党要领导革命取得胜利，必须不断加强党的建设。中国共产党在加强自身建设中积累的丰富的经验，所以选它。D. 必须联系党的政治路线加强党的建设符合中国共产党要领导革命取得胜利，必须不断加强党的建设。中国共产党在加强自身建设中积累的丰富的经验，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3299,9 +3153,7 @@ window.QUESTION_BANK_DATA = {
           "text": "必须联系党的政治路线加强党的建设"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-76",
@@ -3324,7 +3176,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东领导秋收起义的部队完成“三湾改编”，确立了（）等新的治军方略。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 将支部建在连上符合题干要求，所以选它。B. 成立各级士兵委员会符合题干要求，所以选它。C. 在军队实行民主制度符合题干要求，所以选它。D. 在政治上官兵平等符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3343,9 +3195,7 @@ window.QUESTION_BANK_DATA = {
           "text": "在政治上官兵平等"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-77",
@@ -3368,7 +3218,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东的革命军队建设和军事战略理论系统解决了如何把以农民为主要成分的革命军队建设成为一支（）的新型人民军队的问题。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 无产阶级性质的符合题干要求，所以选它。C. 具有严格纪律的符合题干要求，所以选它。D. 同人民群众保持亲密联系符合题干要求，所以选它。B. 具有强大武器的不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3387,9 +3237,7 @@ window.QUESTION_BANK_DATA = {
           "text": "同人民群众保持亲密联系"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-78",
@@ -3412,7 +3260,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新中国成立后，毛泽东提出的有关于军事的指导思想包括（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 加强国防符合新中国成立后，毛泽东提出的有关于军事的指导思想，所以选它。B. 建设现代化革命武装力量符合新中国成立后，毛泽东提出的有关于军事的指导思想，所以选它。C. 发展用以自卫的核武器符合新中国成立后，毛泽东提出的有关于军事的指导思想，所以选它。D. 建设农村根据地不符合新中国成立后，毛泽东提出的有关于军事的指导思想，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3431,9 +3279,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建设农村根据地"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-79",
@@ -3456,7 +3302,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1956年社会主义制度建立以后，毛泽东又领导全党和全国人民积极探索适合中国国情的社会主义建设道路，提出了（）等一系列具有战略意义的正确思想和方针。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 人民内部要在政治上实行“团结一批评一团结”符合题干要求，所以选它。C. 在党与民主党派的关系上实行“长期共存、互相监督”符合题干要求，所以选它。D. 在科学文化工作中实行“百花齐放、百家争鸣”符合题干要求，所以选它。B. 农村包围城市、武装夺取政权不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3475,9 +3321,7 @@ window.QUESTION_BANK_DATA = {
           "text": "在科学文化工作中实行“百花齐放、百家争鸣”"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-80",
@@ -3500,7 +3344,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在社会主义建设时期，为探索适合中国国情的政治建设道路，提出了关于社会主义政治局面的重要思想。他强调，“要造成一个（），那样一种政治局面”。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 又有集中又有民主符合题干要求，所以选它。B. 又有纪律又有自由符合题干要求，所以选它。C. 又有统一意志、又有个人心情舒畅符合题干要求，所以选它。D. 生动活泼符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3519,9 +3363,7 @@ window.QUESTION_BANK_DATA = {
           "text": "生动活泼"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-81",
@@ -3544,7 +3386,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想中关于社会主义革命和社会主义建设的重要思想与理论集中体现于下列哪些著作中？（）",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 《在中国共产党第七届中央委员会第二次全体会议上的报告》符合题干要求，所以选它。B. 《论人民民主专政》符合题干要求，所以选它。C. 《论十大关系》符合题干要求，所以选它。D. 《关于正确处理人民内部矛盾的问题》符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3563,9 +3405,7 @@ window.QUESTION_BANK_DATA = {
           "text": "《关于正确处理人民内部矛盾的问题》"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-82",
@@ -3588,7 +3428,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在社会主义制度建立以后，毛泽东又领导全党和全国人民积极探索适合中国国情的社会主义建设道路，提出社会主义社会仍然存在着矛盾，即（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 生产关系和生产力的矛盾符合题干要求，所以选它。B. 上层建筑和经济基础之间的矛盾符合题干要求，所以选它。C. 人民内部的矛盾不符合题干要求，所以不选。D. 人民日益增长的物质文化需要同落后的社会生产之间的矛盾不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3607,9 +3447,7 @@ window.QUESTION_BANK_DATA = {
           "text": "人民日益增长的物质文化需要同落后的社会生产之间的矛盾"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-83",
@@ -3632,7 +3470,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在总结实践经验的基础上提出了许多重要的政策和策略思想，如（），这些政策和策略思想凝聚了党在长期实践中积累的丰富经验，及时解决了中国革命和建设进程中一道道极为复杂的难题。",
       "answerRaw": "A;B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 战略上要藐视敌人，战术上要重视敌人符合题干要求，所以选它。B. 对敌人要区别对待、分化瓦解，实行利用矛盾、争取多数、反对少数、各个击破的策略符合题干要求，所以选它。C. 树立无产阶级世界观不符合题干要求，所以不选。D. 学习马克思列宁主义不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3651,9 +3489,7 @@ window.QUESTION_BANK_DATA = {
           "text": "学习马克思列宁主义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-84",
@@ -3676,7 +3512,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东精辟地论证了革命斗争中政策和策略问题的极端重要性，要求必须根据（）及其变化指定党的政策，把原则性和灵活性结合起来。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 政治形势符合题干要求，所以选它。B. 阶级关系符合题干要求，所以选它。C. 实际情况符合题干要求，所以选它。D. 革命热情不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3695,9 +3531,7 @@ window.QUESTION_BANK_DATA = {
           "text": "革命热情"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-85",
@@ -3720,7 +3554,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十八大以来，以习近平同志为核心的党中央高度重视思想政治工作，采取一系列重大举措切实加以推进，思想政治工作有效发挥了统一思想、凝聚共识、鼓舞斗志、团结奋斗的重要作用，全党全社会思想上的团结统一更加巩固，我国意识形态领域形势发生了全局性、根本性的转变。思想政治工作一直是我党的重点工作之一，毛泽东在其思想政治工作理论中指出，思想政治工作是经济工作和其他一切工作的生命线，要实行（）方针。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 政治和经济的统一符合题干要求，所以选它。B. 政治和技术的统一符合题干要求，所以选它。D. 又红又专符合题干要求，所以选它。C. 政治和思想的统一不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3739,9 +3573,7 @@ window.QUESTION_BANK_DATA = {
           "text": "又红又专"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-86",
@@ -3763,7 +3595,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在纪念毛泽东同志诞辰120周年座谈会上的讲话中，习近平总书记提到：“新形势下，我们要坚持和运用好毛泽东思想活的灵魂，把我们党建设好，把中国特色社会主义伟大事业继续推向前进。”毛泽东思想的“活的灵魂”，表现在（）。",
       "answerRaw": "B;C",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。B. 毛泽东的全部科学著作中符合题干要求，所以选它。C. 中国共产党人的革命活动中符合题干要求，所以选它。A. 全体党员的信仰中不符合题干要求，所以不选。D. 一切马克思主义理论者的著述中不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3782,9 +3614,7 @@ window.QUESTION_BANK_DATA = {
           "text": "一切马克思主义理论者的著述中"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-87",
@@ -3807,7 +3637,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "下列对 “没有调查，没有发言权” 这一论断说法正确的是（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 这一论断出自《反对本本主义》符合题干要求，所以选它。B. 这一论断体现了实事求是的思想路线符合题干要求，所以选它。C. 这一论断说明调查研究是一切工作的第一步符合题干要求，所以选它。D. 这一论断是毛泽东在党的六届六中全会上提出的不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3826,9 +3656,7 @@ window.QUESTION_BANK_DATA = {
           "text": "这一论断是毛泽东在党的六届六中全会上提出的"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-88",
@@ -3851,7 +3679,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "习近平总书记指出，坚持一切从实际出发，是我们想问题、作决策、办事情的出发点和落脚点。坚持实事求是，就要（）。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 深入实际了解事物的本来面貌，把握事物的内在必然联系，按照客观规律办事符合题干要求，所以选它。C. 清醒认识和正确把握我国基本国情符合题干要求，所以选它。D. 不断推进实践基础上的理论创新符合题干要求，所以选它。B. 保持党同人民群众的血肉联系不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3870,9 +3698,7 @@ window.QUESTION_BANK_DATA = {
           "text": "不断推进实践基础上的理论创新"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-89",
@@ -3895,7 +3721,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "为了统一全党思想并为制定新民主主义革命的总路线奠定思想基础，毛泽东在延安整风期间又从思想路线的角度，不仅系统阐述了坚持实事求是的重要性，而且对实事求是的科学含义作了马克思主义的界定。他指出:“实事”就是客观存在着的一切事物，“是”就是（），即规律性，“求”就是（）。",
       "answerRaw": "C;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。C. 客观事物的内部联系符合题干要求，所以选它。D. 我们去研究符合题干要求，所以选它。A. 客观事物的本质联系不符合题干要求，所以不选。B. 我们的信仰不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3914,9 +3740,7 @@ window.QUESTION_BANK_DATA = {
           "text": "我们去研究"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-90",
@@ -3939,7 +3763,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "习近平总书记指出：“坚持从实际出发，前提是深入实际、了解实际，只有这样才能做到实事求是。”要想做到“实事求是”，就要（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 清醒认识和正确把握我国基本国情符合题干要求，所以选它。B. 努力避免任何超越现实、超越阶段而急于求成的倾向符合题干要求，所以选它。C. 坚决纠正任何落后于实际、无视深刻变化着的客观事实而因循守旧、故步自封的观念和做法符合题干要求，所以选它。D. 努力避免尊重客观规律的行为不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -3958,9 +3782,7 @@ window.QUESTION_BANK_DATA = {
           "text": "努力避免尊重客观规律的行为"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-91",
@@ -3983,7 +3805,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在延安整风期间，从思想路线的角度，不仅系统阐述了坚持实事求是的重要性，而且对实事求是的科学含义作了马克思主义的界定。下列对于“实事求是”理解正确的有（）。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。B. 实事求是这条思想路线由毛泽东确立于民主革命时期符合题干要求，所以选它。C. 实事求是作为中国共产党的思想路线，始终是马克思主义中国化理论成果的精髓和灵魂符合题干要求，所以选它。D. 共产党员应是实事求是的模范符合题干要求，所以选它。A. 中共八大在全党确立了实事求是的思想路线不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -4002,9 +3824,7 @@ window.QUESTION_BANK_DATA = {
           "text": "共产党员应是实事求是的模范"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-92",
@@ -4027,7 +3847,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《反对本本主义》这一重要著作中，针对党内存在的脱离实际、盲目依赖 “本本”（即教条主义）的错误倾向，深刻阐述了马克思主义的思想路线。他指出（）。",
       "answerRaw": "A;C",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 没有调查就没有发言权不属于毛泽东在《反对本本主义》这一重要著作中，针对党内存在的脱离实际、盲目依赖 “本本”，所以选它。C. 反对教条主义不属于毛泽东在《反对本本主义》这一重要著作中，针对党内存在的脱离实际、盲目依赖 “本本”，所以选它。B. 一切为了群众，一切依靠群众属于毛泽东在《反对本本主义》这一重要著作中，针对党内存在的脱离实际、盲目依赖 “本本”，所以不选。D. 阶级斗争扩大化属于毛泽东在《反对本本主义》这一重要著作中，针对党内存在的脱离实际、盲目依赖 “本本”，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -4046,9 +3866,7 @@ window.QUESTION_BANK_DATA = {
           "text": "阶级斗争扩大化"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-93",
@@ -4071,7 +3889,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "要自觉坚持党的群众路线，就需要（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 坚持人民是推动历史发展的根本力量符合题干要求，所以选它。B. 坚持全心全意为人民服务的根本宗旨符合题干要求，所以选它。C. 保持党同人民群众的血肉联系符合题干要求，所以选它。D. 坚持独立思考，走自己的路不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -4090,9 +3908,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持独立思考，走自己的路"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-94",
@@ -4115,7 +3931,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "全心全意为人民服务，是我们党（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 一切行动的根本出发点符合题干要求，所以选它。B. 一切行动的根本落脚点符合题干要求，所以选它。D. 区别于其他一切政党的根本标志符合题干要求，所以选它。C. 党在特定历史阶段的临时任务不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -4134,9 +3950,7 @@ window.QUESTION_BANK_DATA = {
           "text": "区别于其他一切政党的根本标志"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-95",
@@ -4159,7 +3973,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持群众路线，就要保持党同人民群众的血肉联系。（）是关系党生死存亡的问题。",
       "answerRaw": "C;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。C. 党风问题符合题干要求，所以选它。D. 党同人民群众的联系问题符合题干要求，所以选它。A. 社会制度问题不符合题干要求，所以不选。B. 领导方法问题不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -4178,9 +3992,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党同人民群众的联系问题"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-96",
@@ -4203,7 +4015,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "独立自主是毛泽东思想的活的灵魂之一。坚持独立自主，就是要做到（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 坚持独立思考符合题干要求，所以选它。B. 走自己的路符合题干要求，所以选它。C. 坚定不移地维护民族独立、捍卫国家主权符合题干要求，所以选它。D. 完全依靠自己的力量建设社会主义，不借助其他力量不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -4222,9 +4034,7 @@ window.QUESTION_BANK_DATA = {
           "text": "完全依靠自己的力量建设社会主义，不借助其他力量"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-97",
@@ -4247,7 +4057,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1938年9月至11月，党的六届六中全会在延安召开。毛泽东作会议总结时，着重讲了统一战线及战争和战略问题，批评王明“一切经过统一战线”的口号，是“自己把自己的手脚束缚起来，是完全不应该的”。还论述了民族斗争和阶级斗争的一致性，强调“我们的方针是统一战线中的独立自主，既统一，又独立”。关于独立自主，以下说法正确的是（）。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。B. 坚持独立自主，是毛泽东针对党内存在的“左”倾教条主义倾向提出的正确思想主张符合题干要求，所以选它。C. 坚持独立自主，就要坚持中国的事情必须由中国人民自己做主张、自己来处理符合题干要求，所以选它。D. 坚持独立自主，就要坚持独立自主的和平外交政策，坚定不移走和平发展道路符合题干要求，所以选它。A. 坚持独立自主就是拒绝一切外来思想不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -4266,9 +4076,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持独立自主，就要坚持独立自主的和平外交政策，坚定不移走和平发展道路"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-98",
@@ -4291,7 +4099,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东曾提到，中国革命斗争的胜利要靠中国同志了解中国情况，这体现了“独立自主”在中国革命中的重要性，“独立自主”是（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 中华民族的优良传统符合题干要求，所以选它。B. 中国共产党、中华人民共和国立党立国的重要原则符合题干要求，所以选它。C. 党从中国实际出发、依靠党和人民力量进行革命、建设、改革的必然结论符合题干要求，所以选它。D. 党的生命线和根本工作路线不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -4310,9 +4118,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党的生命线和根本工作路线"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-99",
@@ -4335,7 +4141,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国在坚持独立自主的过程中，始终反对（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 各种形式的霸权主义和强权政治符合题干要求，所以选它。B. 把自己的意志强加于人符合题干要求，所以选它。C. 干涉别国内政符合题干要求，所以选它。D. 以强凌弱符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -4354,9 +4160,7 @@ window.QUESTION_BANK_DATA = {
           "text": "以强凌弱"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-100",
@@ -4379,7 +4183,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "《中共中央关于党的百年奋斗重大成就和历史经验的决议》指出，只要坚持独立自主、自力更生，既（），又（），不信邪、不怕鬼、不怕压，就一定能够把中国发展进步的命运牢牢掌握在自己手中。",
       "answerRaw": "A;B",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。A. 虚心学习借鉴国外的有益经验符合题干要求，所以选它。B. 坚定民族自尊心和自信心符合题干要求，所以选它。C. 坚定不移走自己的路不符合题干要求，所以不选。D. 百折不挠办好自己的事不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -4398,9 +4202,7 @@ window.QUESTION_BANK_DATA = {
           "text": "百折不挠办好自己的事"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-101",
@@ -4422,7 +4224,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在毛泽东思想指引下，我们党领导全国人民，找到了一条新民主主义革命的正确道路，完成了反对（）的任务。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看毛泽东思想的历史地位。A. 帝国主义符合题干要求，所以选它。B. 封建主义符合题干要求，所以选它。C. 官僚资本主义符合题干要求，所以选它。D. 民族资本主义不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -4441,9 +4243,7 @@ window.QUESTION_BANK_DATA = {
           "text": "民族资本主义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-102",
@@ -4465,7 +4265,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想是（），是党必须长期坚持的指导思想。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看毛泽东思想的历史地位。A. 马克思主义中国化的第一个重大理论成果符合题干要求，所以选它。B. 马克思列宁主义在中国的运用和发展符合题干要求，所以选它。C. 被实践证明了的关于中国革命和建设的正确的理论原则和经验总结符合题干要求，所以选它。D. 中国共产党集体智慧的结晶符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -4484,9 +4284,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国共产党集体智慧的结晶"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-103",
@@ -4509,11 +4307,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想是中国特色社会主义理论体系的开篇之作。",
       "answerRaw": "false",
-      "explanation": "本题看毛泽东思想。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-104",
@@ -4535,11 +4331,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想，就是毛泽东同志的思想。",
       "answerRaw": "false",
-      "explanation": "本题看毛泽东思想。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-105",
@@ -4562,11 +4356,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想和中国特色社会主义理论体系都是马克思主义中国化的理论成果。",
       "answerRaw": "true",
-      "explanation": "本题看毛泽东思想。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-106",
@@ -4588,11 +4380,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想对当代中国的马克思主义发展没有影响。",
       "answerRaw": "false",
-      "explanation": "本题看毛泽东思想。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-107",
@@ -4614,11 +4404,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "马克思主义中国化时代化，具体来说就是从马克思主义经典著作中寻找解决中国之问、世界之问、人民之问、时代之问的具体方案和答案。",
       "answerRaw": "false",
-      "explanation": "本题看马克思主义中国化。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-108",
@@ -4640,11 +4428,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想的形成和发展有其独特历史条件，在如今仍然具有重大的指导意义。",
       "answerRaw": "true",
-      "explanation": "本题看毛泽东思想的形成和发展。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-109",
@@ -4666,11 +4452,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想形成的时代背景是战争与发展。",
       "answerRaw": "false",
-      "explanation": "本题看毛泽东思想的形成和发展。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-110",
@@ -4693,11 +4477,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想紧紧围绕中国革命和建设的主题，提出了一系列相互关联的重要理论观点，构成了一个完整的科学思想体系。",
       "answerRaw": "true",
-      "explanation": "本题看毛泽东思想的形成和发展。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-111",
@@ -4720,11 +4502,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "遵义会议上，毛泽东思想被确立为全党的指导思想。",
       "answerRaw": "false",
-      "explanation": "本题看毛泽东思想的形成和发展。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-112",
@@ -4747,11 +4527,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "解放战争时期和新中国成立以后，毛泽东明确提出了把马克思列宁主义基本原理同中国具体实际进行“第二次结合，找出在中国怎样建设社会主义的道路”的任务。",
       "answerRaw": "true",
-      "explanation": "本题看毛泽东思想的形成和发展。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-113",
@@ -4774,11 +4552,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想仅适用于中国革命时期，对社会主义建设时期没有指导意义。",
       "answerRaw": "false",
-      "explanation": "本题看毛泽东思想的形成和发展。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-114",
@@ -4800,11 +4576,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想是毛泽东的全部思想的总和。",
       "answerRaw": "false",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-115",
@@ -4827,11 +4601,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "解决中国革命问题的基本前提是建立统一战线。",
       "answerRaw": "false",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-116",
@@ -4854,11 +4626,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东认为，游击战和带游击性的运动战是中国革命战争在长时期内的主要作战形式。",
       "answerRaw": "true",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-117",
@@ -4881,11 +4651,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东论述了要随着敌我力量对比的变化和战争发展的进程，正确地实行军事战略的转变。",
       "answerRaw": "true",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-118",
@@ -4908,11 +4676,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东指出，党员不但要在组织上入党，而且要在思想上入党，经常注意以无产阶级思想改造和克服各种非无产阶级思想。",
       "answerRaw": "true",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-119",
@@ -4934,11 +4700,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想的“活的灵魂”是实事求是、群众路线、统一战线。",
       "answerRaw": "false",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-120",
@@ -4961,11 +4725,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我们一切路线、方针、政策的制定都应坚持从我国基本国情出发，牢牢立足基本国情这个最大实际。",
       "answerRaw": "true",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-121",
@@ -4988,11 +4750,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“实事求是”既是党的思想路线的核心，也是马克思主义中国化理论成果的精髓。",
       "answerRaw": "true",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-122",
@@ -5015,11 +4775,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“实事求是”这一成语在中国共产党人看来，只是对求实治学态度和方法的赞扬。",
       "answerRaw": "false",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-123",
@@ -5042,11 +4800,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "不论过去、现在和将来，我们都要坚持一切从实际出发，理论联系实际，在实践中检验真理和发展真理。",
       "answerRaw": "true",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-124",
@@ -5069,11 +4825,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "独立自主就是把国家和民族发展的方针放在自己力量的基点上，所以还是应降低对外开放的程度。",
       "answerRaw": "false",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-125",
@@ -5096,11 +4850,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新时代要坚持独立自主，自己国家的事情自己解决，遇到困难不可以寻找外援。",
       "answerRaw": "false",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-126",
@@ -5123,11 +4875,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义理论体系的与时俱进具体体现在提出走和平发展道路，推动构建人类命运共同体，丰富发展了毛泽东思想关于独立自主和平外交的理论。",
       "answerRaw": "true",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-127",
@@ -5150,11 +4900,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "不论过去、现在和将来，群众路线都是我们党的生命线和根本工作路线，是我们党永葆青春活力和战斗力的重要传家宝。",
       "answerRaw": "true",
-      "explanation": "本题看毛泽东思想的主要内容和活的灵魂。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-128",
@@ -5176,11 +4924,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想为中国特色社会主义理论体系的形成奠定了理论基础。",
       "answerRaw": "true",
-      "explanation": "本题看毛泽东思想的历史地位。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-129",
@@ -5202,11 +4948,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东是马克思主义中国化时代化的伟大开拓者。",
       "answerRaw": "true",
-      "explanation": "本题看毛泽东思想的历史地位。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-130",
@@ -5228,11 +4972,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想所体现的独特理论品格，给新时代党的理论创新、进一步推进马克思主义大众化以重要的启迪。",
       "answerRaw": "true",
-      "explanation": "本题看毛泽东思想的历史地位。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-131",
@@ -5254,11 +4996,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想为中华民族伟大复兴根本社会条件的创造、根本政治前提和制度基础的奠定提供了科学指南。",
       "answerRaw": "true",
-      "explanation": "本题看毛泽东思想的历史地位。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-132",
@@ -5280,11 +5020,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想是被实践证明了的关于中国革命和建设的正确理论原则和经验总结。",
       "answerRaw": "true",
-      "explanation": "本题看毛泽东思想的历史地位。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-133",
@@ -5306,11 +5044,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新时代我们面临的形势和任务与建国时有很大的不同，毛泽东思想的科学价值有所减弱和降低。",
       "answerRaw": "false",
-      "explanation": "本题看毛泽东思想的历史地位。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-01-第一章-毛泽东思想及其历史地位-134",
@@ -5784,7 +5520,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "下列属于中国无产阶级领导的政党是（）。",
       "answerRaw": "C",
-      "explanation": "本题看中国共产党。C. 中国共产党符合下列，所以选它。A. 中国同盟会不符合下列，所以不选。B. 中国国民党不符合下列，所以不选。D. 中国民主同盟不符合下列，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -5803,9 +5539,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国民主同盟"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-3",
@@ -5828,7 +5562,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "认清中国（），是解决中国革命问题的基本前提。",
       "answerRaw": "C",
-      "explanation": "本题看新民主主义革命理论形成的依据。C. 国情符合题干要求，所以选它。A. 阶级构成不符合题干要求，所以不选。B. 根本任务不符合题干要求，所以不选。D. 发展动力不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -5847,9 +5581,7 @@ window.QUESTION_BANK_DATA = {
           "text": "发展动力"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-4",
@@ -5872,7 +5604,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在近代中国社会的诸多矛盾中，最主要的是（）。",
       "answerRaw": "C",
-      "explanation": "本题看新民主主义革命理论形成的依据。C. 帝国主义与中华民族的矛盾符合题干要求，所以选它。A. 封建主义与人民大众的矛盾不符合题干要求，所以不选。B. 农民阶级与地主阶级的矛盾不符合题干要求，所以不选。D. 无产阶级与资产阶级的矛盾不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -5891,9 +5623,7 @@ window.QUESTION_BANK_DATA = {
           "text": "无产阶级与资产阶级的矛盾"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-5",
@@ -5916,7 +5646,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "近代中国的社会性质是 （）。",
       "answerRaw": "C",
-      "explanation": "本题看新民主主义革命理论形成的依据。C. 半殖民地半封建社会符合题干要求，所以选它。A. 封建主义社会不符合题干要求，所以不选。B. 资本主义社会不符合题干要求，所以不选。D. 前资本主义社会不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -5935,9 +5665,7 @@ window.QUESTION_BANK_DATA = {
           "text": "前资本主义社会"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-6",
@@ -5960,7 +5688,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "近代中国，尽管推翻了封建专制政权，但并未建立起资产阶级政权，代之而起的先是地主阶级军阀官僚的统治，接着是地主阶级和大资产阶级联盟的专政，整个社会呈现出典型的（）。",
       "answerRaw": "C",
-      "explanation": "本题看新民主主义革命理论形成的依据。C. 半封建性符合题干要求，所以选它。A. 半殖民地性不符合题干要求，所以不选。B. 封建性不符合题干要求，所以不选。D. 殖民地性不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -5979,9 +5707,7 @@ window.QUESTION_BANK_DATA = {
           "text": "殖民地性"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-7",
@@ -6004,7 +5730,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "近代中国实际上受制于帝国主义列强，沦为帝国主义列强的（）。",
       "answerRaw": "A",
-      "explanation": "本题看新民主主义革命理论形成的依据。A. 半殖民地符合题干要求，所以选它。B. 殖民地不符合题干要求，所以不选。C. 附属国不符合题干要求，所以不选。D. 同盟国不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6023,9 +5749,7 @@ window.QUESTION_BANK_DATA = {
           "text": "同盟国"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-8",
@@ -6048,7 +5772,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命是要造成各革命阶级在无产阶级领导之下的联合专政，建立各革命阶级联合专政的民主共和国，为进入（）做准备。",
       "answerRaw": "C",
-      "explanation": "本题看新民主主义革命理论形成的依据。C. 社会主义社会符合题干要求，所以选它。A. 资本主义社会不符合题干要求，所以不选。B. 新民主主义社会不符合题干要求，所以不选。D. 共产主义社会不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6067,9 +5791,7 @@ window.QUESTION_BANK_DATA = {
           "text": "共产主义社会"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-9",
@@ -6092,7 +5814,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命和一般意义上的社会主义革命不同，它不破坏参加反帝反封建的（）成分。",
       "answerRaw": "B",
-      "explanation": "本题看新民主主义革命理论形成的依据。B. 资本主义符合题干要求，所以选它。A. 封建主义不符合题干要求，所以不选。C. 社会主义不符合题干要求，所以不选。D. 民族主义不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6111,9 +5833,7 @@ window.QUESTION_BANK_DATA = {
           "text": "民族主义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-10",
@@ -6136,7 +5856,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "以五四运动为标志，中国无产阶级开始作为独立的政治力量登上历史舞台，成为革命的领导力量，（）逐步成为中国革命的指导思想。",
       "answerRaw": "A",
-      "explanation": "本题看新民主主义革命理论形成的依据。A. 马克思列宁主义符合题干要求，所以选它。B. 三大政策不符合题干要求，所以不选。C. 新三民主义不符合题干要求，所以不选。D. 西方资产阶级民主主义不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6155,9 +5875,7 @@ window.QUESTION_BANK_DATA = {
           "text": "西方资产阶级民主主义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-11",
@@ -6180,7 +5898,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命和历史上欧美各国的民主革命大不相同是因为新民主主义革命的政治目标是建立（）。",
       "answerRaw": "A",
-      "explanation": "本题看新民主主义革命理论形成的依据。A. 各革命阶级联合专政的民主共和国符合题干要求，所以选它。B. 建立资产阶级共和国不符合题干要求，所以不选。C. 工农民主专政的共和国不符合题干要求，所以不选。D. 建立无产阶级专政的社会主义共和国不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6199,9 +5917,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建立无产阶级专政的社会主义共和国"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-12",
@@ -6224,7 +5940,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "遵义会议在（）的历史关头召开。",
       "answerRaw": "C",
-      "explanation": "本题看新民主主义革命理论形成的依据。C. 红军第五次反“围剿”失败和长征初期严重受挫符合题干要求，所以选它。A. 我国革命的重心城市转到农村不符合题干要求，所以不选。B. 第一次国共合作破裂不符合题干要求，所以不选。D. 中国人民解放战争即将取得全国胜利不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6243,9 +5959,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国人民解放战争即将取得全国胜利"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-13",
@@ -6268,7 +5982,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "（），党在革命实践中不断积累丰富的经验，对中国革命的规律性认识趋于成熟，系统化的适合中国国情的新民主主义革命理论逐步形成。",
       "answerRaw": "A",
-      "explanation": "本题看新民主主义革命理论形成的依据。A. 抗日战争时期符合题干要求，所以选它。B. 中国共产党成立时不符合题干要求，所以不选。C. 土地革命战争时期不符合题干要求，所以不选。D. 第一次国共合作时期不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6287,9 +6001,7 @@ window.QUESTION_BANK_DATA = {
           "text": "第一次国共合作时期"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-14",
@@ -6312,7 +6024,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“政权是由枪杆子中取得的” 这一著名论断，是毛泽东同志在（）上提出的。",
       "answerRaw": "B",
-      "explanation": "本题看新民主主义革命理论形成的依据。B. 八七会议符合题干要求，所以选它。A. 三湾改编不符合题干要求，所以不选。C. 古田会议不符合题干要求，所以不选。D. 中共六大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6331,9 +6043,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中共六大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-15",
@@ -6356,7 +6066,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党逐步确立毛泽东同志在党中央和红军的领导地位在（）。",
       "answerRaw": "C",
-      "explanation": "本题看新民主主义革命理论形成的依据。C. 遵义会议符合题干要求，所以选它。A. 八七会议不符合题干要求，所以不选。B. 瓦窑堡会议不符合题干要求，所以不选。D. 中共三大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6375,9 +6085,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中共三大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-16",
@@ -6400,7 +6108,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "抗日战争时期，我国的主要矛盾是（）。",
       "answerRaw": "B",
-      "explanation": "本题看新民主主义革命理论形成的依据。B. 民族矛盾符合题干要求，所以选它。A. 阶级矛盾不符合题干要求，所以不选。C. 帝国主义间的矛盾不符合题干要求，所以不选。D. 敌我矛盾不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6419,9 +6127,7 @@ window.QUESTION_BANK_DATA = {
           "text": "敌我矛盾"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-17",
@@ -6443,7 +6149,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "（），毛泽东在《中国革命和中国共产党》一文中，第一次提出了“新民主主义革命”的科学概念。",
       "answerRaw": "B",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。B. 1939年符合题干要求，所以选它。A. 1938年不符合题干要求，所以不选。C. 1940年不符合题干要求，所以不选。D. 1945年不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6462,9 +6168,7 @@ window.QUESTION_BANK_DATA = {
           "text": "1945年"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-18",
@@ -6487,7 +6191,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "近代中国社会进步和发展的最大障碍是（）。",
       "answerRaw": "A",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 帝国主义符合题干要求，所以选它。B. 封建主义不符合题干要求，所以不选。C. 官僚资本主义不符合题干要求，所以不选。D. 民族资产阶级不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6506,9 +6210,7 @@ window.QUESTION_BANK_DATA = {
           "text": "民族资产阶级"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-19",
@@ -6531,7 +6233,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在国共合作的大革命时期，革命的主要对象是（）。",
       "answerRaw": "B",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。B. 北洋军阀符合题干要求，所以选它。A. 帝国主义不符合题干要求，所以不选。C. 封建政权不符合题干要求，所以不选。D. 黑恶势力不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6550,9 +6252,7 @@ window.QUESTION_BANK_DATA = {
           "text": "黑恶势力"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-20",
@@ -6575,7 +6275,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "解放战争时期，毛泽东对新民主主义革命的总路线做了完整的概括。这里所说的“完整”是指在革命对象中增加了（）。",
       "answerRaw": "D",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。D. 官僚资本主义符合解放战争时期，毛泽东对新民主主义革命的总路线做了完整的概括。这里所说的“完整”，所以选它。A. 帝国主义不符合解放战争时期，毛泽东对新民主主义革命的总路线做了完整的概括。这里所说的“完整”，所以不选。B. 封建主义不符合解放战争时期，毛泽东对新民主主义革命的总路线做了完整的概括。这里所说的“完整”，所以不选。C. 民族资本主义不符合解放战争时期，毛泽东对新民主主义革命的总路线做了完整的概括。这里所说的“完整”，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6594,9 +6294,7 @@ window.QUESTION_BANK_DATA = {
           "text": "官僚资本主义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-21",
@@ -6619,7 +6317,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1926年，随着北伐战争的推进，农民运动在湖南、湖北等省蓬勃发展，农会组织纷纷建立，农民协会会员数量激增，他们开展减租减息、推翻地主政权等斗争。然而，当时党内部分同志对农民运动存在疑虑，甚至指责农民运动“过火”。这体现出，中国革命的基本问题是（）。",
       "answerRaw": "B",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。B. 农民问题符合题干要求，所以选它。A. 工人问题不符合题干要求，所以不选。C. 小资产阶级问题不符合题干要求，所以不选。D. 民族资产阶级的问题不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6638,9 +6336,7 @@ window.QUESTION_BANK_DATA = {
           "text": "民族资产阶级的问题"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-22",
@@ -6663,7 +6359,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命时期，适用又斗争又联合方针的阶级是（）。",
       "answerRaw": "D",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。D. 民族资产阶级符合题干要求，所以选它。A. 无产阶级不符合题干要求，所以不选。B. 农民阶级不符合题干要求，所以不选。C. 城市小资产阶级不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6682,9 +6378,7 @@ window.QUESTION_BANK_DATA = {
           "text": "民族资产阶级"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-23",
@@ -6707,7 +6401,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命的领导者是（），这是中国革命取得胜利的根本保证。",
       "answerRaw": "A",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 无产阶级及其政党的领导符合题干要求，所以选它。B. 农民阶级不符合题干要求，所以不选。C. 小资产阶级不符合题干要求，所以不选。D. 民族资产阶级不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6726,9 +6420,7 @@ window.QUESTION_BANK_DATA = {
           "text": "民族资产阶级"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-24",
@@ -6751,7 +6443,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "以（）为标志，中国无产阶级开始作为独立的政治力量登上历史舞台，成为革命的领导力量。",
       "answerRaw": "A",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 五四运动符合题干要求，所以选它。B. 十月革命不符合题干要求，所以不选。C. 一二·九运动不符合题干要求，所以不选。D. 京汉铁路工人大罢工不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6770,9 +6462,7 @@ window.QUESTION_BANK_DATA = {
           "text": "京汉铁路工人大罢工"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-25",
@@ -6795,7 +6485,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国工人阶级深受帝国主义、封建主义和官僚资本主义的三重压迫，具有最坚决、最彻底的革命性。因此，工人阶级是中国革命的（）。",
       "answerRaw": "C",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。C. 领导力量符合题干要求，所以选它。A. 革命基础不符合题干要求，所以不选。B. 重要同盟不符合题干要求，所以不选。D. 基本动力不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6814,9 +6504,7 @@ window.QUESTION_BANK_DATA = {
           "text": "基本动力"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-26",
@@ -6839,7 +6527,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "近代中国民主主义革命分为旧民主主义革命和新民主主义革命两种性质。区分这两种不同范畴民主主义革命的根本标志是（）。",
       "answerRaw": "A",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 革命的领导权掌握在哪个阶级手里符合题干要求，所以选它。B. 革命的指导思想不同不符合题干要求，所以不选。C. 革命的对象不同不符合题干要求，所以不选。D. 革命的前途不同不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6858,9 +6546,7 @@ window.QUESTION_BANK_DATA = {
           "text": "革命的前途不同"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-27",
@@ -6883,7 +6569,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《中国共产党在民族战争中的地位》中强调：“所谓领导权，不是要一天到晚当作口号去高喊，也不是盛气凌人地要人家服从我们，而是以党的正确政策和自己的模范工作，说服和教育党外人士，使他们愿意接受我们的建议。” 在中国革命和建设进程中，（ ），是实现领导权的根本保证。",
       "answerRaw": "A",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 加强无产阶级政党的建设不属于毛泽东在《中国共产党在民族战争中的地位》中强调：“所谓领导权，所以选它。B. 与资产阶级争夺领导权属于毛泽东在《中国共产党在民族战争中的地位》中强调：“所谓领导权，所以不选。C. 建立以工农联盟为基础的广泛的统一战线属于毛泽东在《中国共产党在民族战争中的地位》中强调：“所谓领导权，所以不选。D. 坚持独立自主的原则属于毛泽东在《中国共产党在民族战争中的地位》中强调：“所谓领导权，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6902,9 +6588,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持独立自主的原则"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-28",
@@ -6927,7 +6611,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“统帅革命的资产阶级，联合革命的无产阶级，实行资产阶级民主革命”这一观点的错误实质在于（）。",
       "answerRaw": "C",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。C. 放弃无产阶级的领导权不属于“统帅革命的资产阶级，联合革命的无产阶级，实行资产阶级民主革命”这一观点的，所以选它。A. 抹杀农民阶级的革命性属于“统帅革命的资产阶级，联合革命的无产阶级，实行资产阶级民主革命”这一观点的，所以不选。B. 夸大资产阶级的作用属于“统帅革命的资产阶级，联合革命的无产阶级，实行资产阶级民主革命”这一观点的，所以不选。D. 忽视武装斗争的重要性属于“统帅革命的资产阶级，联合革命的无产阶级，实行资产阶级民主革命”这一观点的，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6946,9 +6630,7 @@ window.QUESTION_BANK_DATA = {
           "text": "忽视武装斗争的重要性"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-29",
@@ -6971,7 +6653,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命与社会主义革命是互相联系、紧密衔接的，要争取社会主义胜利，就要（）。",
       "answerRaw": "A",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 坚决地领导民主革命符合题干要求，所以选它。B. 拥有先进的武器装备不符合题干要求，所以不选。C. 获得国际援助不符合题干要求，所以不选。D. 让资产阶级妥协退让不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -6990,9 +6672,7 @@ window.QUESTION_BANK_DATA = {
           "text": "让资产阶级妥协退让"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-30",
@@ -7015,7 +6695,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义革命是无产阶级性质的革命，它所要实现的目标是（）。",
       "answerRaw": "D",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。D. 消灭资本主义剥削制度和改造小生产的私有制符合题干要求，所以选它。A. 实现国家的工业化和现代化不符合题干要求，所以不选。B. 解放和发展生产力不符合题干要求，所以不选。C. 建立无产阶级专政的国家政权不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7034,9 +6714,7 @@ window.QUESTION_BANK_DATA = {
           "text": "消灭资本主义剥削制度和改造小生产的私有制"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-31",
@@ -7059,7 +6737,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在民主革命和社会主义革命的关系问题上，中国共产党党内曾经出现过不同的观点和主张，其中属于右倾错误的是（）。",
       "answerRaw": "B",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。B. “二次革命论”不属于在民主革命和社会主义革命的关系问题上，中国共产党党内曾经出现过不同的观点和主张，其中属于右倾，所以选它。A. “毕其功于一役”属于在民主革命和社会主义革命的关系问题上，中国共产党党内曾经出现过不同的观点和主张，其中属于右倾，所以不选。C. “无间断”革命属于在民主革命和社会主义革命的关系问题上，中国共产党党内曾经出现过不同的观点和主张，其中属于右倾，所以不选。D. 中国革命分“两步走”属于在民主革命和社会主义革命的关系问题上，中国共产党党内曾经出现过不同的观点和主张，其中属于右倾，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7078,9 +6756,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国革命分“两步走”"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-32",
@@ -7103,7 +6779,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《新民主主义论》中明确提出：“国体，它只是指的一个问题，就是社会各阶级在国家中的地位。” 基于新民主主义革命理论，新民主主义国家制度的核心内容和基本准则是（）。",
       "answerRaw": "B",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。B. 人民当家作主符合毛泽东在《新民主主义论》中明确提出：“国体，它只，所以选它。A. 无产阶级专政不符合毛泽东在《新民主主义论》中明确提出：“国体，它只，所以不选。C. 资产阶级专政不符合毛泽东在《新民主主义论》中明确提出：“国体，它只，所以不选。D. 工农联盟不符合毛泽东在《新民主主义论》中明确提出：“国体，它只，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7122,9 +6798,7 @@ window.QUESTION_BANK_DATA = {
           "text": "工农联盟"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-33",
@@ -7147,7 +6821,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义的经济纲领要求没收封建地主阶级的土地归（）所有。",
       "answerRaw": "B",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。B. 农民符合题干要求，所以选它。A. 工人不符合题干要求，所以不选。C. 民族资本家不符合题干要求，所以不选。D. 官僚不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7166,9 +6840,7 @@ window.QUESTION_BANK_DATA = {
           "text": "官僚"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-34",
@@ -7191,7 +6863,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《目前形势和我们的任务》中明确提出：“新民主主义革命所要消灭的对象，只是封建主义和垄断资本主义，只是地主阶级和官僚资产阶级（大资产阶级），而不是一般地消灭资本主义，不是消灭上层小资产阶级和中等资产阶级。” 基于新民主主义革命的历史背景，我们能体会到（）是新民主主义革命经济纲领中一项极具特色的内容。",
       "answerRaw": "C",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。C. 保护民族工商业不属于毛泽东在《目前形势和我们的任务》中明确提出：“新民主主义革命所要消灭的对象，只是封建主义和垄断资本主义，只是地主阶级和官僚资产阶级，所以选它。A. 建立一个新民主主义政权属于毛泽东在《目前形势和我们的任务》中明确提出：“新民主主义革命所要消灭的对象，只是封建主义和垄断资本主义，只是地主阶级和官僚资产阶级，所以不选。B. 没收官僚资本主义的垄断资本归新民主主义的国家所有属于毛泽东在《目前形势和我们的任务》中明确提出：“新民主主义革命所要消灭的对象，只是封建主义和垄断资本主义，只是地主阶级和官僚资产阶级，所以不选。D. 发展资本主义属于毛泽东在《目前形势和我们的任务》中明确提出：“新民主主义革命所要消灭的对象，只是封建主义和垄断资本主义，只是地主阶级和官僚资产阶级，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7210,9 +6882,7 @@ window.QUESTION_BANK_DATA = {
           "text": "发展资本主义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-35",
@@ -7235,7 +6905,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义文化就是无产阶级领导的人民大众的反帝反封建的文化，即民族的科学的大众的文化。其中“民族的”，就其内容说，是指（）。",
       "answerRaw": "C",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。C. 反对帝国主义压迫，主张中华民族的尊严和独立符合新民主主义文化就是无产阶级领导的人民大众的反帝反封建的文化，即民族的科学的大众的文化。其中“民族的”，就其内容说，所以选它。A. 具有鲜明的民族风格、民族形式和民族特色不符合新民主主义文化就是无产阶级领导的人民大众的反帝反封建的文化，即民族的科学的大众的文化。其中“民族的”，就其内容说，所以不选。B. 具有中国作风和中国气派不符合新民主主义文化就是无产阶级领导的人民大众的反帝反封建的文化，即民族的科学的大众的文化。其中“民族的”，就其内容说，所以不选。D. 反对封建思想和迷信思想不符合新民主主义文化就是无产阶级领导的人民大众的反帝反封建的文化，即民族的科学的大众的文化。其中“民族的”，就其内容说，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7254,9 +6924,7 @@ window.QUESTION_BANK_DATA = {
           "text": "反对封建思想和迷信思想"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-36",
@@ -7279,7 +6947,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东率领队伍创建了井冈山根据地，把武装斗争的主攻方向首先指向了（）。",
       "answerRaw": "B",
-      "explanation": "本题看新民主主义革命的道路和基本经验。B. 农村符合题干要求，所以选它。A. 城市不符合题干要求，所以不选。C. 工厂不符合题干要求，所以不选。D. 城郊不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7298,9 +6966,7 @@ window.QUESTION_BANK_DATA = {
           "text": "城郊"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-37",
@@ -7323,7 +6989,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国革命必须走农村包围城市、武装夺取政权的道路，是由（）决定的。",
       "answerRaw": "D",
-      "explanation": "本题看新民主主义革命的道路和基本经验。D. 中国所处的时代特点和具体国情符合题干要求，所以选它。A. 中国共产党的主张不符合题干要求，所以不选。B. 毛泽东的主张不符合题干要求，所以不选。C. 共产国际的要求不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7342,9 +7008,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国所处的时代特点和具体国情"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-38",
@@ -7367,7 +7031,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“因为中国资产阶级根本上与剥削农民的豪绅地主相联结相混合，中国革命要推翻豪绅地主阶级，便不能不同时推翻资产阶级。”这一观点属于（）。",
       "answerRaw": "A",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. “毕其功于一役”的观点不属于“因为中国资产阶级根本上与剥削农民的豪绅地主相联结相混合，中国革命要推翻豪绅地主阶级，便，所以选它。B. “二次革命论”的观点属于“因为中国资产阶级根本上与剥削农民的豪绅地主相联结相混合，中国革命要推翻豪绅地主阶级，便，所以不选。C. 民族主义革命是社会主义革命必要准备的观点属于“因为中国资产阶级根本上与剥削农民的豪绅地主相联结相混合，中国革命要推翻豪绅地主阶级，便，所以不选。D. 中国革命分“两步走”的观点属于“因为中国资产阶级根本上与剥削农民的豪绅地主相联结相混合，中国革命要推翻豪绅地主阶级，便，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7386,9 +7050,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国革命分“两步走”的观点"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-39",
@@ -7411,7 +7073,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东曾深刻指出：“在中国，因为它是受帝国主义压迫的国家，所以，无产阶级及其政党，必须采取切实的办法，争取这些中间阶级。” 在抗日民族统一战线和人民民主统一战线的实践中，中国共产党对中间势力坚持的策略方针是（）。",
       "answerRaw": "B",
-      "explanation": "本题看新民主主义革命的道路和基本经验。B. 争取符合题干要求，所以选它。A. 发展不符合题干要求，所以不选。C. 孤立不符合题干要求，所以不选。D. 彻底消灭不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7430,9 +7092,7 @@ window.QUESTION_BANK_DATA = {
           "text": "彻底消灭"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-40",
@@ -7455,7 +7115,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1940年，国民党顽固派掀起第一次反共高潮，胡宗南部进攻陕甘宁边区，阎锡山部在山西制造 “十二月事变”。毛泽东在《目前抗日统一战线中的策略问题》中指出：“顽固势力，即大地主大资产阶级的抗日派，他们采取两面政策，一面尚在主张团结抗日，一面又执行摧残进步势力的极端反动政策。” 针对这类势力，中国共产党在统一战线中坚持的策略方针是（）。",
       "answerRaw": "A",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 孤立符合题干要求，所以选它。B. 争取不符合题干要求，所以不选。C. 彻底消灭不符合题干要求，所以不选。D. 发展不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7474,9 +7134,7 @@ window.QUESTION_BANK_DATA = {
           "text": "发展"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-41",
@@ -7499,7 +7157,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "国民革命时期，省港大罢工中25万工人为反抗帝国主义封锁，坚持罢工长达16个月，有力支援了北伐战争；与此同时，湖南、湖北等地数百万农民组织农会，开展减租减息斗争，捣毁地主政权，成为革命的重要推动力量。抗日战争爆发后，根据地的工人积极生产武器弹药、纺织军服，保障前线供给；农民则踊跃参军，组成民兵队伍，与八路军、新四军并肩作战。毛泽东指出：“中国无产阶级应该懂得：他们自己虽然是一个最有觉悟性和最有组织性的阶级，但是如果单凭自己一个阶级的力量，是不能胜利的。而要胜利，他们就必须在各种不同的情形下团结一切可能的革命的阶级和阶层，组织革命的统一战线。” 新民主主义革命统一战线的基础是（）。",
       "answerRaw": "B",
-      "explanation": "本题看新民主主义革命的道路和基本经验。B. 工农联盟不属于国民革命时期，省港大罢工中25万工人为反抗帝国主义封锁，坚持罢工长达16个月，有力支援了北伐战争；与此同时，湖南、湖北等地数百万农民组织农会，开展减租减息斗争，捣毁地主政权，成为革命的重要推动力量。抗日战争爆发后，根据地的工人积极生产武器弹药、纺织军服，保障前线供给；农民则踊跃参军，组成民兵队伍，与八路军、新四军并肩作战。毛泽东指出：“中国无产阶级应该懂得：他们自己虽然是一个最有觉悟性和最有组织性的阶级，但是如果单凭自己一个阶级的力量，是，所以选它。A. 无产阶级和小资产阶级联盟属于国民革命时期，省港大罢工中25万工人为反抗帝国主义封锁，坚持罢工长达16个月，有力支援了北伐战争；与此同时，湖南、湖北等地数百万农民组织农会，开展减租减息斗争，捣毁地主政权，成为革命的重要推动力量。抗日战争爆发后，根据地的工人积极生产武器弹药、纺织军服，保障前线供给；农民则踊跃参军，组成民兵队伍，与八路军、新四军并肩作战。毛泽东指出：“中国无产阶级应该懂得：他们自己虽然是一个最有觉悟性和最有组织性的阶级，但是如果单凭自己一个阶级的力量，是，所以不选。C. 非劳动者联盟属于国民革命时期，省港大罢工中25万工人为反抗帝国主义封锁，坚持罢工长达16个月，有力支援了北伐战争；与此同时，湖南、湖北等地数百万农民组织农会，开展减租减息斗争，捣毁地主政权，成为革命的重要推动力量。抗日战争爆发后，根据地的工人积极生产武器弹药、纺织军服，保障前线供给；农民则踊跃参军，组成民兵队伍，与八路军、新四军并肩作战。毛泽东指出：“中国无产阶级应该懂得：他们自己虽然是一个最有觉悟性和最有组织性的阶级，但是如果单凭自己一个阶级的力量，是，所以不选。D. 劳动者与非劳动者联盟属于国民革命时期，省港大罢工中25万工人为反抗帝国主义封锁，坚持罢工长达16个月，有力支援了北伐战争；与此同时，湖南、湖北等地数百万农民组织农会，开展减租减息斗争，捣毁地主政权，成为革命的重要推动力量。抗日战争爆发后，根据地的工人积极生产武器弹药、纺织军服，保障前线供给；农民则踊跃参军，组成民兵队伍，与八路军、新四军并肩作战。毛泽东指出：“中国无产阶级应该懂得：他们自己虽然是一个最有觉悟性和最有组织性的阶级，但是如果单凭自己一个阶级的力量，是，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7518,9 +7176,7 @@ window.QUESTION_BANK_DATA = {
           "text": "劳动者与非劳动者联盟"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-42",
@@ -7543,7 +7199,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1937年抗日战争全面爆发后，国共两党形成第二次合作，但国民党始终坚持“溶共、防共、限共” 政策。1938年，毛泽东在中共六届六中全会上尖锐指出：“如果所谓‘一切经过’就是经过蒋介石和阎锡山，那只是片面的服从，无所谓‘经过’。”这告诉我们，党在建立、巩固和发展统一战线的过程中必须坚持要坚持（）的原则。",
       "answerRaw": "D",
-      "explanation": "本题看新民主主义革命的道路和基本经验。D. 独立自主符合题干要求，所以选它。A. 一切经过统一战线不符合题干要求，所以不选。B. 一切服从统一战线不符合题干要求，所以不选。C. 坚决斗争不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7562,9 +7218,7 @@ window.QUESTION_BANK_DATA = {
           "text": "独立自主"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-43",
@@ -7587,7 +7241,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "从长征途中红军战士宁可自己挨饿，也要把口粮分给群众；到抗日战争时期八路军、新四军深入敌后，帮助百姓春耕秋收；再到解放战争中解放军战士严守纪律，不拿群众一针一线。这些历史实践充分彰显了人民军队始终坚守的信念。由此可见，人民军队的唯一宗旨是（）。",
       "answerRaw": "B",
-      "explanation": "本题看新民主主义革命的道路和基本经验。B. 全心全意为人民服务符合题干要求，所以选它。A. 坚持党对军队的绝对领导不符合题干要求，所以不选。C. 坚持民主集中制不符合题干要求，所以不选。D. 坚持正确的战略战术不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7606,9 +7260,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持正确的战略战术"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-44",
@@ -7631,7 +7283,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1949年，毛泽东在《论人民民主专政》一文中，对新民主主义革命的基本经验作了集中概括，丰富和发展了马克思主义关于（）的理论。",
       "answerRaw": "B",
-      "explanation": "本题看新民主主义革命的道路和基本经验。B. 无产阶级领导人民革命符合题干要求，所以选它。A. 地主阶级领导人民革命不符合题干要求，所以不选。C. 城市小资产阶级领导人民革命不符合题干要求，所以不选。D. 官僚资产阶级领导人民革命不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7650,9 +7302,7 @@ window.QUESTION_BANK_DATA = {
           "text": "官僚资产阶级领导人民革命"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-45",
@@ -7675,7 +7325,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国共产党在加强自身建设中积累了丰富的经验，其中，加强党的组织建设，根本在于（），做到个人服从组织，少数服从多数，下级服从上级，全党服从中央。",
       "answerRaw": "C",
-      "explanation": "本题看新民主主义革命的道路和基本经验。C. 贯彻民主集中制符合题干要求，所以选它。A. 建立无产阶级思想不符合题干要求，所以不选。B. 具备优良作风不符合题干要求，所以不选。D. 人民群众支持不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7694,9 +7344,7 @@ window.QUESTION_BANK_DATA = {
           "text": "人民群众支持"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-46",
@@ -7719,7 +7367,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国共产党要领导革命取得胜利，必须不断加强党的思想建设、组织建设和作风建设。就思想建设而言，中国共产党党内思想上的主要矛盾是（）。",
       "answerRaw": "A",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 无产阶级思想和非无产阶级思想之间的矛盾符合题干要求，所以选它。B. 无产阶级思想和资产阶级思想的矛盾不符合题干要求，所以不选。C. 无产阶级思想和封建思想的矛盾不符合题干要求，所以不选。D. 无产阶级思想和剥削阶级思想的矛盾不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7738,9 +7386,7 @@ window.QUESTION_BANK_DATA = {
           "text": "无产阶级思想和剥削阶级思想的矛盾"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-47",
@@ -7762,7 +7408,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1949年中华人民共和国的建立，标志着中国从半殖民地半封建社会进入（）。",
       "answerRaw": "C",
-      "explanation": "本题看新民主主义革命的道路和基本经验。C. 新民主主义社会符合题干要求，所以选它。A. 社会主义社会不符合题干要求，所以不选。B. 资本主义社会不符合题干要求，所以不选。D. 共产主义社会不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7781,9 +7427,7 @@ window.QUESTION_BANK_DATA = {
           "text": "共产主义社会"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-48",
@@ -7805,7 +7449,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党带领人民浴血奋战，完成了新民主主义革命，实现了民族独立和（）。",
       "answerRaw": "C",
-      "explanation": "本题看新民主主义革命的道路和基本经验。C. 人民解放符合题干要求，所以选它。A. 国富民强不符合题干要求，所以不选。B. 经济复苏不符合题干要求，所以不选。D. 社会发展不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7824,9 +7468,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会发展"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-49",
@@ -7849,7 +7491,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "关于近代中国半殖民地半封建社会的主要矛盾，下列说法正确的是（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看新民主主义革命理论形成的依据。A. 帝国主义和中华民族的矛盾符合题干要求，所以选它。B. 封建主义和人民大众的矛盾符合题干要求，所以选它。D. 帝国主义和中华民族的矛盾又是各种矛盾中最主要的矛盾符合题干要求，所以选它。C. 资产阶级与农民阶级的矛盾不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7868,9 +7510,7 @@ window.QUESTION_BANK_DATA = {
           "text": "帝国主义和中华民族的矛盾又是各种矛盾中最主要的矛盾"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-50",
@@ -7893,7 +7533,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "通过一系列不平等条约，在华获取大量政治、经济、军事等特权，操纵中国的财政、经济、外交和军事，扶持代理人对中国实行间接统治的国家主要有（）。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看新民主主义革命理论形成的依据。B. 英国符合题干要求，所以选它。C. 法国符合题干要求，所以选它。D. 日本符合题干要求，所以选它。A. 美国不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7912,9 +7552,7 @@ window.QUESTION_BANK_DATA = {
           "text": "日本"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-51",
@@ -7937,7 +7575,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命理论形成的时代背景包括（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看新民主主义革命理论形成的依据。A. 世界进入帝国主义和无产阶级革命时代符合新民主主义革命理论形成的时代背景，所以选它。B. 俄国十月革命的胜利符合新民主主义革命理论形成的时代背景，所以选它。C. 中国沦为帝国主义的殖民地不符合新民主主义革命理论形成的时代背景，所以不选。D. 世界进入和平与发展的时代不符合新民主主义革命理论形成的时代背景，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -7956,9 +7594,7 @@ window.QUESTION_BANK_DATA = {
           "text": "世界进入和平与发展的时代"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-52",
@@ -7981,7 +7617,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "事实证明，（）不能完成反帝反封建的革命任务，不能为中国找到真正的出路。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看新民主主义革命理论形成的依据。A. 不触动封建根基的自强运动和改良主义不属于事实证明，所以选它。B. 资产阶级革命派领导的民主革命不属于事实证明，所以选它。C. 旧式的农民战争不属于事实证明，所以选它。D. 照搬西方资本主义的其他种种方案不属于事实证明，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8000,9 +7636,7 @@ window.QUESTION_BANK_DATA = {
           "text": "照搬西方资本主义的其他种种方案"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-53",
@@ -8025,7 +7659,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命理论的形成基础是中国革命的实践经验，其主要来源包括（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看新民主主义革命理论形成的依据。A. 革命战争的实践符合新民主主义革命理论的形成基础是中国革命的实践经验，其主要来源，所以选它。B. 两次国共合作的实践符合新民主主义革命理论的形成基础是中国革命的实践经验，其主要来源，所以选它。C. 建立和巩固农村根据地的实践符合新民主主义革命理论的形成基础是中国革命的实践经验，其主要来源，所以选它。D. 在领导新民主主义革命的历程中，党由小到大、由弱到强的实践符合新民主主义革命理论的形成基础是中国革命的实践经验，其主要来源，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8044,9 +7678,7 @@ window.QUESTION_BANK_DATA = {
           "text": "在领导新民主主义革命的历程中，党由小到大、由弱到强的实践"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-54",
@@ -8069,7 +7701,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "理论来源于实践，从新民主主义革命理论的形成和发展来看，下列说法正确的是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看新民主主义革命理论形成的依据。A. 没有在领导新民主主义革命历程中，党由小到大、由弱到强的实践，就不会有党的建设的理论符合题干要求，所以选它。B. 没有两次国共合作的实践，就没有关于统一战线的理论符合题干要求，所以选它。C. 没有建立和巩固农村革命根据地的实践，就不会有关于中国革命道路的理论符合题干要求，所以选它。D. 没有革命战争的实践，就不会有建设人民军队和关于革命战争的理论符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8088,9 +7720,7 @@ window.QUESTION_BANK_DATA = {
           "text": "没有革命战争的实践，就不会有建设人民军队和关于革命战争的理论"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-55",
@@ -8112,7 +7742,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1948年，毛泽东在《在晋绥干部会议上的讲话》中完整地表述了新民主主义革命总路线的内容，即（）的革命。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 无产阶级领导符合题干要求，所以选它。B. 人民大众参与符合题干要求，所以选它。C. 反对帝国主义、封建主义和官僚资本主义符合题干要求，所以选它。D. 反对民族资产阶级不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8131,9 +7761,7 @@ window.QUESTION_BANK_DATA = {
           "text": "反对民族资产阶级"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-56",
@@ -8155,7 +7783,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在新民主主义革命理论体系中，以下关于中国革命的相关说法正确的是（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 帝国主义是中国革命的首要对象符合题干要求，所以选它。B. 无产阶级是中国革命最基本的动力符合题干要求，所以选它。D. 农民是中国革命的主力军符合题干要求，所以选它。C. 农民阶级是中国革命最基本的动力不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8174,9 +7802,7 @@ window.QUESTION_BANK_DATA = {
           "text": "农民是中国革命的主力军"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-57",
@@ -8198,7 +7824,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "以下文章与主要内容匹配正确的有（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 1940年 《新民主主义论》—— 阐述了新民主主义的政治、经济和文化方针政策符合题干要求，所以选它。B. 1945年 《论联合政府》 ——进一步把新民主主义的政治、经济和文化方针政策与党的基本纲领联系起来符合题干要求，所以选它。C. 1939年 《中国革命和中国共产党》 ——第一次提出了“新民主主义革命”的科学概念符合题干要求，所以选它。D. 1948年 《在晋绥干部会议上的讲话》 ——完整地表述了总路线的内容符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8217,9 +7843,7 @@ window.QUESTION_BANK_DATA = {
           "text": "1948年 《在晋绥干部会议上的讲话》 ——完整地表述了总路线的内容"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-58",
@@ -8242,7 +7866,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "无产阶级的领导权问题是（）。",
       "answerRaw": "B;C",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。B. 中国革命的中心问题符合题干要求，所以选它。C. 新民主主义革命理论的核心问题符合题干要求，所以选它。A. 中国革命的首要问题不符合题干要求，所以不选。D. 社会主义革命理论的核心问题不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8261,9 +7885,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义革命理论的核心问题"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-59",
@@ -8286,7 +7908,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "导致无产阶级掌握新民主主义革命领导权的因素有（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 帝国主义不允许中国民族资产阶级建立独立的资产阶级共和国符合题干要求，所以选它。B. 中国民族资产阶级不愿意也不能够彻底推翻帝国主义和封建势力符合题干要求，所以选它。C. 中国无产阶级的强大和革命的彻底性符合题干要求，所以选它。D. 中国官僚资产阶级的软弱无能不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8305,9 +7927,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国官僚资产阶级的软弱无能"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-60",
@@ -8330,7 +7950,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命的对象是（）。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。B. 帝国主义符合题干要求，所以选它。C. 官僚资本主义符合题干要求，所以选它。D. 封建主义符合题干要求，所以选它。A. 民族资产阶级不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8349,9 +7969,7 @@ window.QUESTION_BANK_DATA = {
           "text": "封建主义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-61",
@@ -8374,7 +7992,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在不同历史阶段，随着社会主要矛盾的变化，革命的主要对象有所不同，下列关于各个历史阶段革命的主要对象的说法正确的是（）。",
       "answerRaw": "A;D",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 国共合作的大革命时期，革命的主要对象是帝国主义支持下的北洋军阀符合题干要求，所以选它。D. 抗日战争时期，革命的主要对象是日本帝国主义符合题干要求，所以选它。B. 土地革命战争时期，革命的主要对象是美帝国主义支持下的国民党反动派不符合题干要求，所以不选。C. 解放战争时期，革命的主要对象是国民党新军阀不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8393,9 +8011,7 @@ window.QUESTION_BANK_DATA = {
           "text": "抗日战争时期，革命的主要对象是日本帝国主义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-62",
@@ -8418,7 +8034,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "把官僚资本主义作为民主革命的对象，是因为官僚资本主义（）。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。B. 背靠帝国主义，充当帝国主义的买办，是买办的、封建的国家垄断资本主义符合题干要求，所以选它。C. 同大地主、大资产阶级的反革命国家政权密切结合着，成为国民党统治的经济基础符合题干要求，所以选它。D. 严重束缚了中国社会生产力的发展，对中国社会进步起着严重的阻碍作用符合题干要求，所以选它。A. 是资本主义，党作为中国无产阶级的先锋队必须带领人民消灭资本主义剥削制度不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8437,9 +8053,7 @@ window.QUESTION_BANK_DATA = {
           "text": "严重束缚了中国社会生产力的发展，对中国社会进步起着严重的阻碍作用"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-63",
@@ -8462,7 +8076,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国城市小资产阶级是无产阶级的可靠同盟者，城市小资产阶级包括有（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 知识分子符合中国城市小资产阶级是无产阶级的可靠同盟者，城市小资产阶级，所以选它。B. 手工业者符合中国城市小资产阶级是无产阶级的可靠同盟者，城市小资产阶级，所以选它。C. 小商人符合中国城市小资产阶级是无产阶级的可靠同盟者，城市小资产阶级，所以选它。D. 自由职业者符合中国城市小资产阶级是无产阶级的可靠同盟者，城市小资产阶级，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8481,9 +8095,7 @@ window.QUESTION_BANK_DATA = {
           "text": "自由职业者"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-64",
@@ -8506,7 +8118,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《中国革命和中国共产党》中深刻指出：\"民族资产阶级是带两重性的阶级。一方面，民族资产阶级受帝国主义的压迫，又受封建主义的束缚，所以，他们同帝国主义和封建主义有矛盾。从这一方面说来，他们是革命的力量之一。另一方面，由于他们在经济上和政治上的软弱性，由于他们同帝国主义和封建主义并未完全断绝经济上的联系，所以，他们又没有彻底的反帝反封建的勇气。\" 在中国革命进程中，关于中国民族资产阶级的表述，正确的有（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 是中国革命的动力之一符合题干要求，所以选它。B. 具有一定的反帝反封建的革命性符合题干要求，所以选它。C. 没有彻底的反帝反封建的勇气，具有妥协性和动摇性符合题干要求，所以选它。D. 中国共产党必须对民族资产阶级实行既联合又斗争的政策符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8525,9 +8137,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国共产党必须对民族资产阶级实行既联合又斗争的政策"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-65",
@@ -8550,7 +8160,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "农民问题是中国革命的基本问题。以下关于我国农民阶级说法正确的有（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 农民是中国革命的主力军符合题干要求，所以选它。B. 新民主主义革命实质上就是中国共产党领导下的农民革命符合题干要求，所以选它。C. 中国革命战争实质上就是党领导下的农民战争符合题干要求，所以选它。D. 农民阶级是近代中国最革命最进步的阶级不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8569,9 +8179,7 @@ window.QUESTION_BANK_DATA = {
           "text": "农民阶级是近代中国最革命最进步的阶级"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-66",
@@ -8594,7 +8202,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "与西方无产阶级不同，中国无产阶级生长于被多重压迫的社会环境，有着独特的发展轨迹。中国无产阶级自身的特点和优点有（）。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。B. 在革命斗争中比任何别的阶级都来得坚决和彻底符合题干要求，所以选它。C. 分布集中，有利于无产阶级队伍的组织和团结符合题干要求，所以选它。D. 便于和农民结成亲密的联盟，共同团结战斗符合题干要求，所以选它。A. 新民主主义革命初期人数众多不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8613,9 +8221,7 @@ window.QUESTION_BANK_DATA = {
           "text": "便于和农民结成亲密的联盟，共同团结战斗"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-67",
@@ -8638,7 +8244,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《新民主主义论》中明确指出：“中国革命的历史进程，必须分为两步，其第一步是民主主义的革命，其第二步是社会主义的革命，这是性质不同的两个革命过程。” 这两种革命的关系是（）。",
       "answerRaw": "C;D",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。C. 新民主主义革命是社会主义革命的必要准备符合题干要求，所以选它。D. 社会主义革命是新民主主义革命的必然趋势符合题干要求，所以选它。A. 新民主主义革命与社会主义革命的任务相同不符合题干要求，所以不选。B. 两个革命之间需要有一个资本主义的过渡阶段不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8657,9 +8263,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义革命是新民主主义革命的必然趋势"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-68",
@@ -8682,7 +8286,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命与旧民主主义革命相比有其新的内容和特点，包括（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 中国新民主主义革命处于世界无产阶级社会主义革命的时代，是世界无产阶级社会主义革命的一部分符合新民主主义革命与旧民主主义革命相比有其新的内容和特点，所以选它。B. 革命的领导力量是中国无产阶级及其先锋队——中国共产党符合新民主主义革命与旧民主主义革命相比有其新的内容和特点，所以选它。C. 革命的指导思想是马克思列宁主义符合新民主主义革命与旧民主主义革命相比有其新的内容和特点，所以选它。D. 革命的前途是社会主义而不是资本主义符合新民主主义革命与旧民主主义革命相比有其新的内容和特点，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8701,9 +8305,7 @@ window.QUESTION_BANK_DATA = {
           "text": "革命的前途是社会主义而不是资本主义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-69",
@@ -8726,7 +8328,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命与社会主义革命性质不同，是因为新民主主义革命（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 仍然属于资产阶级民主主义革命的范畴符合题干要求，所以选它。B. 在政治上争取和联合民族资产阶级去反对共同的敌人符合题干要求，所以选它。C. 在经济上保护民族工商业符合题干要求，所以选它。D. 要建立的是无产阶级领导的各革命阶级的联合专政符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8745,9 +8347,7 @@ window.QUESTION_BANK_DATA = {
           "text": "要建立的是无产阶级领导的各革命阶级的联合专政"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-70",
@@ -8770,7 +8370,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《新民主主义论》中鲜明指出：“国体，它只是指的一个问题，就是社会各阶级在国家中的地位。”新民主主义革命时期，中国共产党始终致力于打破旧有的政治秩序，探索符合国情的政权建构模式。新民主主义的政治纲领是（）。",
       "answerRaw": "A;C",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 推翻帝国主义和封建主义的统治符合毛泽东在《新民主主义论》中鲜明指出：“国体，它只，所以选它。C. 建立无产阶级领导的、以工农联盟为基础的、各革命阶级联合专政的新民主主义的共和国符合毛泽东在《新民主主义论》中鲜明指出：“国体，它只，所以选它。B. 推翻资产阶级的统治不符合毛泽东在《新民主主义论》中鲜明指出：“国体，它只，所以不选。D. 建立资产阶级专政的共和国不符合毛泽东在《新民主主义论》中鲜明指出：“国体，它只，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8789,9 +8389,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建立资产阶级专政的共和国"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-71",
@@ -8814,7 +8412,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "以下关于新民主主义革命道路的阐述正确的是（）。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 土地革命是中国革命的基本内容符合题干要求，所以选它。C. 武装斗争是中国革命的主要形式符合题干要求，所以选它。D. 农村革命根据地是中国革命的战略阵地符合题干要求，所以选它。B. 土地革命是中国革命的主要形式不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8833,9 +8431,7 @@ window.QUESTION_BANK_DATA = {
           "text": "农村革命根据地是中国革命的战略阵地"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-72",
@@ -8858,7 +8454,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义的经济纲领是（）。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。B. 没收封建阶级的土地归农民所有符合题干要求，所以选它。C. 保护民族工商业符合题干要求，所以选它。D. 没收垄断资本归新民主主义国家所有符合题干要求，所以选它。A. 发展经济，保障供给不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8877,9 +8473,7 @@ window.QUESTION_BANK_DATA = {
           "text": "没收垄断资本归新民主主义国家所有"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-73",
@@ -8902,7 +8496,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义经济纲领中“没收官僚资产阶级的垄断资本归新民主主义的国家所有”的意义包括（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 具有新民主主义革命和社会主义革命的双重性质符合新民主主义经济纲领中“没收官僚资产阶级的垄断资本归新民主主义的国家所有”的意义，所以选它。B. 削弱了资本主义经济力量符合新民主主义经济纲领中“没收官僚资产阶级的垄断资本归新民主主义的国家所有”的意义，所以选它。C. 壮大了社会主义国营经济符合新民主主义经济纲领中“没收官僚资产阶级的垄断资本归新民主主义的国家所有”的意义，所以选它。D. 为向社会主义过渡奠定了基础符合新民主主义经济纲领中“没收官僚资产阶级的垄断资本归新民主主义的国家所有”的意义，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8921,9 +8515,7 @@ window.QUESTION_BANK_DATA = {
           "text": "为向社会主义过渡奠定了基础"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-74",
@@ -8946,7 +8538,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义的文化纲领提出，文化工作者要做到（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 用革命文化教育和武装人民大众，使它成为人民大众的有力思想武器符合题干要求，所以选它。B. 从人民中汲取营养，以人民群众的实践作为创作的源泉符合题干要求，所以选它。C. 坚持为人民大众服务的方向符合题干要求，所以选它。D. 发展民族的、科学的、大众的文化符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -8965,9 +8557,7 @@ window.QUESTION_BANK_DATA = {
           "text": "发展民族的、科学的、大众的文化"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-75",
@@ -8990,7 +8580,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义文化，就是无产阶级领导的人民大众的反帝反封建的文化，即民族的科学的大众的文化。其中，科学的文化要求我们（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。A. 反对一切封建思想和迷信思想符合题干要求，所以选它。B. 对于封建时代创造的文化，应剔除其封建糟粕，吸收其民主性精华符合题干要求，所以选它。C. 反对民族虚无主义符合题干要求，所以选它。D. 具有鲜明的民族风格、民族形式和民族特色不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9009,9 +8599,7 @@ window.QUESTION_BANK_DATA = {
           "text": "具有鲜明的民族风格、民族形式和民族特色"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-76",
@@ -9034,7 +8622,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1938年11月，毛泽东在《战争和战略问题》中明确指出：“共产党的任务，基本地不是经过长期合法斗争以进入起义和战争，也不是先占城市后取乡村，而是走相反的道路。”中国革命“走相反的道路”的原因有（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 半殖民地半封建的中国社会内无民主外无独立不属于1938年11月，毛泽东在《战争和战略问题》中明确指出：“共产党的任务，基本地，所以选它。B. 近代中国是一个农业大国，农民占全国人口的绝大多数不属于1938年11月，毛泽东在《战争和战略问题》中明确指出：“共产党的任务，基本地，所以选它。C. 近代中国政治经济发展极端不平衡，存在不少的统治薄弱环节不属于1938年11月，毛泽东在《战争和战略问题》中明确指出：“共产党的任务，基本地，所以选它。D. 广大农村深受压迫和剥削，人民革命愿望强烈不属于1938年11月，毛泽东在《战争和战略问题》中明确指出：“共产党的任务，基本地，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9053,9 +8641,7 @@ window.QUESTION_BANK_DATA = {
           "text": "广大农村深受压迫和剥削，人民革命愿望强烈"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-77",
@@ -9078,7 +8664,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国走农村包围城市、武装夺取政权道路的依据是（）。",
       "answerRaw": "B;C",
-      "explanation": "本题看新民主主义革命的道路和基本经验。B. 农民占全国人口的绝大多数，是无产阶级可靠的同盟军和革命的主力军符合题干要求，所以选它。C. 当时的中国内无民主制度而受封建主义的压迫，外无民族独立而受帝国主义的压迫符合题干要求，所以选它。A. 无产阶级是革命的领导阶级不符合题干要求，所以不选。D. 在半殖民地半封建的近代中国，封建主义和人民大众的矛盾是各种矛盾中最主要的矛盾不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9097,9 +8683,7 @@ window.QUESTION_BANK_DATA = {
           "text": "在半殖民地半封建的近代中国，封建主义和人民大众的矛盾是各种矛盾中最主要的矛盾"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-78",
@@ -9122,7 +8706,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国革命走农村包围城市、武装夺取政权的道路，根本在于处理好（）之间的关系。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 土地革命符合题干要求，所以选它。B. 武装斗争符合题干要求，所以选它。C. 农村革命根据地建设符合题干要求，所以选它。D. 文化宣传不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9141,9 +8725,7 @@ window.QUESTION_BANK_DATA = {
           "text": "文化宣传"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-79",
@@ -9165,7 +8747,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "关于统一战线、武装斗争和党的建设三者之间的关系，正确的是（）。",
       "answerRaw": "A;D",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 统一战线是实行武装斗争的统一战线符合题干要求，所以选它。D. 武装斗争是统一战线的中心支柱符合题干要求，所以选它。B. 统一战线和党的建设是战胜敌人的两个基本武器不符合题干要求，所以不选。C. 党的建设是一项艰巨的任务不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9184,9 +8766,7 @@ window.QUESTION_BANK_DATA = {
           "text": "武装斗争是统一战线的中心支柱"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-80",
@@ -9208,7 +8788,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "抗日战争时期，毛泽东系统地论述了统一战线、武装斗争和党的建设三者之间的关系。他指出，（）既是中国革命的基本特点，也是战胜敌人的基本武器。",
       "answerRaw": "A;B",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 统一战线符合题干要求，所以选它。B. 武装斗争符合题干要求，所以选它。C. 党的建设不符合题干要求，所以不选。D. 实事求是不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9227,9 +8807,7 @@ window.QUESTION_BANK_DATA = {
           "text": "实事求是"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-81",
@@ -9252,7 +8830,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "早在国民革命时期，中国共产党就开始探索建立统一战线的路径，到抗日战争和解放战争时期，统一战线的理论与实践愈发成熟。毛泽东曾深刻指出：“中国社会是一个两头小中间大的社会，无产阶级和地主大资产阶级都只占少数，最广大的人民是农民、城市小资产阶级以及其他的中间阶级。” 这种社会结构决定了统一战线必须包含不同的阶级联盟。结合中国革命的历史经验，中国革命统一战线中的两个联盟是（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 工人阶级同农民阶级、广大知识分子及其他劳动者的联盟符合题干要求，所以选它。B. 工人阶级和非劳动人民的联盟符合题干要求，所以选它。C. 农民阶级、小资产阶级的联盟不符合题干要求，所以不选。D. 民族资产阶级和大资产阶级的联盟不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9271,9 +8849,7 @@ window.QUESTION_BANK_DATA = {
           "text": "民族资产阶级和大资产阶级的联盟"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-82",
@@ -9296,7 +8872,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命时期，以国共合作为基础建立的统一战线包括（）。",
       "answerRaw": "A;C",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 第一次国共合作统一战线符合新民主主义革命时期，以国共合作为基础建立的统一战线，所以选它。C. 抗日民族统一战线符合新民主主义革命时期，以国共合作为基础建立的统一战线，所以选它。B. 工农民主统一战线不符合新民主主义革命时期，以国共合作为基础建立的统一战线，所以不选。D. 人民民主统一战线不符合新民主主义革命时期，以国共合作为基础建立的统一战线，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9315,9 +8891,7 @@ window.QUESTION_BANK_DATA = {
           "text": "人民民主统一战线"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-83",
@@ -9340,7 +8914,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命时期，党建立、巩固和发展统一战线的经验主要有（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 建立巩固的工农联盟符合题干要求，所以选它。B. 正确对待资产阶级，尤其是民族资产阶级符合题干要求，所以选它。C. 采取区别对待的方针符合题干要求，所以选它。D. 坚持独立自主的原则符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9359,9 +8933,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持独立自主的原则"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-84",
@@ -9384,7 +8956,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东认为，近代中国社会的阶级结构是“两头小中间大”，那么“两头”是指（）。",
       "answerRaw": "A;D",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 地主大资产阶级符合毛泽东认为，近代中国社会的阶级结构是“两头小中间大”，那么“两头”，所以选它。D. 无产阶级符合毛泽东认为，近代中国社会的阶级结构是“两头小中间大”，那么“两头”，所以选它。B. 城市小资产阶级不符合毛泽东认为，近代中国社会的阶级结构是“两头小中间大”，那么“两头”，所以不选。C. 农民阶级不符合毛泽东认为，近代中国社会的阶级结构是“两头小中间大”，那么“两头”，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9403,9 +8975,7 @@ window.QUESTION_BANK_DATA = {
           "text": "无产阶级"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-85",
@@ -9428,7 +8998,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东提出，无产阶级及其政党要实现对同盟者的领导必须具备的条件有（）。",
       "answerRaw": "A;C",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 率领同盟者向着共同的敌人作坚决斗争并取得胜利符合题干要求，所以选它。C. 对同盟者给以物质福利，至少不损害其利益，同时给以政治教育符合题干要求，所以选它。B. 坚持发展进步势力、争取中间势力、孤立顽固势力的策略方针不符合题干要求，所以不选。D. 对同盟者采取有理、有利、有节的策略原则不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9447,9 +9017,7 @@ window.QUESTION_BANK_DATA = {
           "text": "对同盟者采取有理、有利、有节的策略原则"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-86",
@@ -9472,7 +9040,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国革命必须建立最广泛的统一战线，这是由（）所决定的。",
       "answerRaw": "A;C",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 中国半殖民地半封建社会的阶级状况符合题干要求，所以选它。C. 中国革命的长期性、残酷性及其发展的不平衡性符合题干要求，所以选它。B. 半殖民地半封建的中国社会的交织在一起的诸多矛盾不符合题干要求，所以不选。D. 战争与革命的时代主题不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9491,9 +9059,7 @@ window.QUESTION_BANK_DATA = {
           "text": "战争与革命的时代主题"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-87",
@@ -9516,7 +9082,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "从总体上讲，中国共产党领导的革命统一战线，包含着两个联盟：一个是工人阶级同农民阶级、广大知识分子及其劳动者的联盟，主要是工农联盟；另一个是工人阶级和非劳动人民的联盟，主要是与民族资产阶级的联盟。第二个联盟是非基本的、辅助性的，但又是重要的不可缺少的。因为（）。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 中国民族资产阶级是一个爱国的阶级，在政治上有影响力，在经济上和技术上有重要的作用符合题干要求，所以选它。C. 只有建立这个联盟，联合一切可以联合的力量，壮大自己，孤立主要的敌人，无产阶级及其政党才能掌握中国革命的全部领导权符合题干要求，所以选它。D. 只有建立这个联盟，中国革命的胜利才有完全的保障符合题干要求，所以选它。B. 只有巩固工农联盟，争取农民、知识分子和其他劳动人民，才能实现党对统一战线的领导权不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9535,9 +9101,7 @@ window.QUESTION_BANK_DATA = {
           "text": "只有建立这个联盟，中国革命的胜利才有完全的保障"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-88",
@@ -9560,7 +9124,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "总结党在新民主主义革命时期开展武装斗争的革命经验，建设人民军队必须（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 要坚持党对军队的绝对领导符合题干要求，所以选它。B. 要建设全心全意为人民服务的人民军队符合题干要求，所以选它。C. 要坚持正确的战略战术原则符合题干要求，所以选它。D. 坚持在农村建立革命根据地不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9579,9 +9143,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持在农村建立革命根据地"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-89",
@@ -9604,7 +9166,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命时期，我国人民军队政治工作的基本原则包括（）。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看新民主主义革命的道路和基本经验。B. 官兵一致的原则符合新民主主义革命时期，我国人民军队政治工作的基本原则，所以选它。C. 军民一致的原则符合新民主主义革命时期，我国人民军队政治工作的基本原则，所以选它。D. 瓦解敌军和优待俘虏的原则符合新民主主义革命时期，我国人民军队政治工作的基本原则，所以选它。A. 支部建在连上的原则不符合新民主主义革命时期，我国人民军队政治工作的基本原则，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9623,9 +9185,7 @@ window.QUESTION_BANK_DATA = {
           "text": "瓦解敌军和优待俘虏的原则"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-90",
@@ -9648,7 +9208,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国共产党在加强自身建设中积累了丰富的经验，归纳起来主要有（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 必须把思想建设始终放在党的建设的首位符合题干要求，所以选它。B. 必须在任何时候都重视党的组织建设符合题干要求，所以选它。C. 必须重视党的作风建设符合题干要求，所以选它。D. 必须坚持武装斗争不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9667,9 +9227,7 @@ window.QUESTION_BANK_DATA = {
           "text": "必须坚持武装斗争"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-91",
@@ -9692,7 +9250,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党在领导新民主主义革命的过程中，把党的建设作为一项“伟大的工程”，逐步形成了（）的三大优良作风。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 理论联系实际符合题干要求，所以选它。B. 密切联系群众符合题干要求，所以选它。D. 批评与自我批评相结合符合题干要求，所以选它。C. 不拿群众一针一线不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9711,9 +9269,7 @@ window.QUESTION_BANK_DATA = {
           "text": "批评与自我批评相结合"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-92",
@@ -9736,7 +9292,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1939年，毛泽东在《<共产党人>发刊词》中把建设一个全国范围的、广大群众性的、思想上政治上组织上完全巩固的布尔什维克化的中国共产党称为“伟大的工程”。在分析建设这项工程的有利条件时，他也指出了这项工程面临的特殊困难。其面临的困难包括（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 中国共产党的理论准备不足，理论的学习与研究落后于实践符合1939年，毛泽东在《<共产党人>发刊词》中把建设一个全国范围的、广大群众性的、思想上政治上组织上完全巩固的布尔什维克化的中国共产党称为“伟大的工程”。在分析建设这项工程的有利条件时，他也指出了这项工程面临的特殊困难。其面临的困难，所以选它。B. 农民和小资产阶级出身的革命者大量入党，使党处于小资产阶级思想的包围之中符合1939年，毛泽东在《<共产党人>发刊词》中把建设一个全国范围的、广大群众性的、思想上政治上组织上完全巩固的布尔什维克化的中国共产党称为“伟大的工程”。在分析建设这项工程的有利条件时，他也指出了这项工程面临的特殊困难。其面临的困难，所以选它。C. 中国延续了几千年的封建社会历史，封建主义思想不可避免地会侵入中国共产党内符合1939年，毛泽东在《<共产党人>发刊词》中把建设一个全国范围的、广大群众性的、思想上政治上组织上完全巩固的布尔什维克化的中国共产党称为“伟大的工程”。在分析建设这项工程的有利条件时，他也指出了这项工程面临的特殊困难。其面临的困难，所以选它。D. 共产国际在一段时期内的教条主义倾向和对中国共产党的不适当干预符合1939年，毛泽东在《<共产党人>发刊词》中把建设一个全国范围的、广大群众性的、思想上政治上组织上完全巩固的布尔什维克化的中国共产党称为“伟大的工程”。在分析建设这项工程的有利条件时，他也指出了这项工程面临的特殊困难。其面临的困难，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9755,9 +9311,7 @@ window.QUESTION_BANK_DATA = {
           "text": "共产国际在一段时期内的教条主义倾向和对中国共产党的不适当干预"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-93",
@@ -9779,7 +9333,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国新民主主义革命的伟大胜利，是20世纪继俄国十月革命以后改变世界面貌的伟大历史事件，其重大意义包括（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 开创了中国历史的新纪元符合中国新民主主义革命的伟大胜利，是20世纪继俄国十月革命以后改变世界面貌的伟大历史事件，其重大意义，所以选它。B. 有力鼓舞和推动世界上被压迫民族和人民反抗帝国主义、殖民主义的斗争符合中国新民主主义革命的伟大胜利，是20世纪继俄国十月革命以后改变世界面貌的伟大历史事件，其重大意义，所以选它。C. 极大地增强了世界上被压迫民族和人民反对帝国主义斗争的信心符合中国新民主主义革命的伟大胜利，是20世纪继俄国十月革命以后改变世界面貌的伟大历史事件，其重大意义，所以选它。D. 增强了世界人民争取和平的力量符合中国新民主主义革命的伟大胜利，是20世纪继俄国十月革命以后改变世界面貌的伟大历史事件，其重大意义，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9798,9 +9352,7 @@ window.QUESTION_BANK_DATA = {
           "text": "增强了世界人民争取和平的力量"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-94",
@@ -9822,7 +9374,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命理论解决了在一个（）东方大国里进行革命的一系列理论问题，在当时的历史条件下科学地回答了中国革命向何处去的问题。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 以农民为主体的符合题干要求，所以选它。B. 落后的符合题干要求，所以选它。C. 半殖民地半封建的符合题干要求，所以选它。D. 先进的不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9841,9 +9393,7 @@ window.QUESTION_BANK_DATA = {
           "text": "先进的"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-95",
@@ -9865,7 +9415,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "下列关于新民主主义革命理论说法正确的有（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看新民主主义革命的道路和基本经验。A. 是对中国革命实践经验的概括和总结符合题干要求，所以选它。B. 揭示了近代中国革命发展的客观规律，解决了中国革命的一系列理论问题符合题干要求，所以选它。C. 科学地回答了中国革命向何处去的问题，以及中国革命的发展阶段问题符合题干要求，所以选它。D. 开辟了马克思主义中国化时代化的发展道路符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -9884,9 +9434,7 @@ window.QUESTION_BANK_DATA = {
           "text": "开辟了马克思主义中国化时代化的发展道路"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-96",
@@ -9909,11 +9457,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "鸦片战争后中国逐步沦为半殖民地半封建社会。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命理论形成的依据。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-97",
@@ -9936,11 +9482,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "抗日战争时期，阶级矛盾上升为主要矛盾。",
       "answerRaw": "false",
-      "explanation": "本题看新民主主义革命理论形成的依据。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-98",
@@ -9963,11 +9507,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东指出，认清中国一切革命问题的最基本的依据是认清中国社会的特殊国情。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命理论形成的依据。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-99",
@@ -9990,11 +9532,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命的性质是资产阶级民主革命。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命理论形成的依据。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-100",
@@ -10017,11 +9557,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义社会在社会性质上讲就是社会主义社会。",
       "answerRaw": "false",
-      "explanation": "本题看新民主主义革命理论形成的依据。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-101",
@@ -10044,11 +9582,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "五四运动是一场以先进青年知识分子为先锋、广大人民群众参加的彻底反帝反封建的爱国革命运动。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命理论形成的依据。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-102",
@@ -10071,11 +9607,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义制度在中国确立的标志是中华人民共和国的成立。",
       "answerRaw": "false",
-      "explanation": "本题看新民主主义革命理论形成的依据。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-103",
@@ -10097,11 +9631,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《在晋绥干部会议上的讲话》一文中首次提出“新民主主义革命”的科学概念。",
       "answerRaw": "false",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-104",
@@ -10124,11 +9656,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "农民是中国革命的主力军。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-105",
@@ -10151,11 +9681,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在不同历史阶段，随着社会主要矛盾的变化，革命的主要对象有所不同。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-106",
@@ -10178,11 +9706,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "民主革命属于资产阶级革命范畴，因此，资产阶级始终是民主革命的主要对象。",
       "answerRaw": "false",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-107",
@@ -10205,11 +9731,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "无产阶级及其政党对中国的领导权是自然而然得来的。",
       "answerRaw": "false",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-108",
@@ -10232,11 +9756,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国共产党领导人民开展新民主主义革命，是要建立一个新民主主义政权。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-109",
@@ -10259,11 +9781,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义国家的国体是无产阶级专政。",
       "answerRaw": "false",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-110",
@@ -10286,11 +9806,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命的政治纲领是推翻帝国主义和封建主义的统治，建立一个无产阶级专政的新民主主义的共和国。",
       "answerRaw": "false",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-111",
@@ -10313,11 +9831,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "没收封建地主阶级的土地归农民所有，是新民主主义革命的主要内容。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-112",
@@ -10340,11 +9856,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "没收官僚资本归新民主主义国家所有，是新民主主义革命的题中应有之义。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命的总路线和基本纲领。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-113",
@@ -10367,11 +9881,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党成立初期，首先把工作重心放在乡村。",
       "answerRaw": "false",
-      "explanation": "本题看新民主主义革命的道路和基本经验。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-114",
@@ -10394,11 +9906,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义革命的道路，是一条农村包围城市，武装夺取政权的革命道路。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命的道路和基本经验。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-115",
@@ -10421,11 +9931,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国新民主主义革命实质上是党领导下的农民革命。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命的道路和基本经验。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-116",
@@ -10448,11 +9956,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "农村革命根据地是中国革命的战略阵地，是进行武装斗争和开展土地革命的依托。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命的道路和基本经验。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-117",
@@ -10474,11 +9980,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在新民主主义革命中，中国共产党战胜敌人的三大法宝是武装斗争、统一战线和土地革命。",
       "answerRaw": "false",
-      "explanation": "本题看新民主主义革命的道路和基本经验。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-118",
@@ -10501,11 +10005,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党在领导建立和巩固抗日民族统一战线的实践中，坚持了独立自主的原则，保持党在思想上、政治上和组织上的独立性。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命的道路和基本经验。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-119",
@@ -10528,11 +10030,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "建设新型人民军队的根本原则是坚持党对军队的绝对领导权。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命的道路和基本经验。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-120",
@@ -10555,11 +10055,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党对军队绝对领导的根本原则和制度，是人民军队完全区别于一切旧军队的政治特质和根本优势。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命的道路和基本经验。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-121",
@@ -10582,11 +10080,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "大革命时期，处于幼年时期的党在这一阶段没有能够巩固革命的胜利。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命的道路和基本经验。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-122",
@@ -10609,11 +10105,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "大革命时期，党没有真正掌握自己的武装。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命的道路和基本经验。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-123",
@@ -10636,11 +10130,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的建设是中国共产党取得新民主主义革命胜利的一个重要法宝。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命的道路和基本经验。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-124",
@@ -10662,11 +10154,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国新民主主义革命的伟大胜利极大改变了世界政治格局，鼓舞了被压迫民族和被压迫人民争取解放斗争。",
       "answerRaw": "true",
-      "explanation": "本题看新民主主义革命的道路和基本经验。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-02-第二章-新民主主义革命理论-125",
@@ -11297,7 +10787,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1949年新中国的建立，标志着中国已从半殖民地半封建社会进入（）。",
       "answerRaw": "B",
-      "explanation": "本题看从新民主主义到社会主义的转变。B. 新民主主义社会符合题干要求，所以选它。A. 资本主义社会不符合题干要求，所以不选。C. 社会主义社会不符合题干要求，所以不选。D. 共产主义社会不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -11316,9 +10806,7 @@ window.QUESTION_BANK_DATA = {
           "text": "共产主义社会"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-3",
@@ -11340,7 +10828,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在新民主主义社会的五种经济成分中处于领导地位的是（）。",
       "answerRaw": "A",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. 社会主义性质的国营经济符合题干要求，所以选它。B. 半社会主义性质的合作社经济不符合题干要求，所以不选。C. 私人资本主义经济不符合题干要求，所以不选。D. 国家资本主义经济不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -11359,9 +10847,7 @@ window.QUESTION_BANK_DATA = {
           "text": "国家资本主义经济"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-4",
@@ -11383,7 +10869,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义社会不是一个独立的社会形态，而是（）。",
       "answerRaw": "B",
-      "explanation": "本题看从新民主主义到社会主义的转变。B. 过渡性的社会不属于新民主主义社会，所以选它。A. 社会主义社会的初级阶段属于新民主主义社会，所以不选。C. 独立的社会形态属于新民主主义社会，所以不选。D. 共产主义社会的初级阶段属于新民主主义社会，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -11402,9 +10888,7 @@ window.QUESTION_BANK_DATA = {
           "text": "共产主义社会的初级阶段"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-5",
@@ -11426,7 +10910,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国社会主义改造全面推开到基本结束时期指的是（）。",
       "answerRaw": "C",
-      "explanation": "本题看从新民主主义到社会主义的转变。C. 1953年到1956年符合我国社会主义改造全面推开到基本结束时期，所以选它。A. 1949年到1953年不符合我国社会主义改造全面推开到基本结束时期，所以不选。B. 1949年到1954年不符合我国社会主义改造全面推开到基本结束时期，所以不选。D. 1952年到1956年不符合我国社会主义改造全面推开到基本结束时期，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -11445,9 +10929,7 @@ window.QUESTION_BANK_DATA = {
           "text": "1952年到1956年"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-6",
@@ -11469,7 +10951,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在新民主主义社会中，存在着社会主义性质的国营经济、农民和手工业者的个体经济等（）种经济成分。",
       "answerRaw": "C",
-      "explanation": "本题看从新民主主义到社会主义的转变。C. 五符合题干要求，所以选它。A. 三不符合题干要求，所以不选。B. 四不符合题干要求，所以不选。D. 六不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -11488,9 +10970,7 @@ window.QUESTION_BANK_DATA = {
           "text": "六"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-7",
@@ -11512,7 +10992,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "随着土地改革的基本完成，工人阶级和（）的矛盾逐步成为我国社会的主要矛盾。",
       "answerRaw": "A",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. 资产阶级符合题干要求，所以选它。B. 农民阶级不符合题干要求，所以不选。C. 地主阶级不符合题干要求，所以不选。D. 帝国主义不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -11531,9 +11011,7 @@ window.QUESTION_BANK_DATA = {
           "text": "帝国主义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-8",
@@ -11555,7 +11033,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在新民主主义社会中，国家资本主义经济属于（）。",
       "answerRaw": "B",
-      "explanation": "本题看从新民主主义到社会主义的转变。B. 私人资本主义经济向社会主义国营经济过渡的形式符合在新民主主义社会中，国家资本主义经济，所以选它。A. 完全的社会主义性质不符合在新民主主义社会中，国家资本主义经济，所以不选。C. 完全的资本主义性质不符合在新民主主义社会中，国家资本主义经济，所以不选。D. 社会主义初级阶段的性质不符合在新民主主义社会中，国家资本主义经济，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -11574,9 +11052,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义初级阶段的性质"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-9",
@@ -11599,7 +11075,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "过渡时期总路线中的 “两翼” 是指（）。",
       "answerRaw": "C",
-      "explanation": "本题看从新民主主义到社会主义的转变。C. 三大改造符合过渡时期总路线中的 “两翼”，所以选它。A. 工业化与农业改造不符合过渡时期总路线中的 “两翼”，所以不选。B. 农业改造与手工业改造不符合过渡时期总路线中的 “两翼”，所以不选。D. 工业化与资本主义工商业改造不符合过渡时期总路线中的 “两翼”，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -11618,9 +11094,7 @@ window.QUESTION_BANK_DATA = {
           "text": "工业化与资本主义工商业改造"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-10",
@@ -11643,7 +11117,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1953年6月，毛泽东在中央政治局会议上正式提出过渡时期的总路线和总任务，同年12月形成了关于总路线的完整表述，其中，过渡时期的总任务是（）。",
       "answerRaw": "D",
-      "explanation": "本题看从新民主主义到社会主义的转变。D. 逐步实现对国家的社会主义工业化符合题干要求，所以选它。A. 逐步实现对农业的社会主义改造不符合题干要求，所以不选。B. 逐步实现对手工业的社会主义改造不符合题干要求，所以不选。C. 逐步实现对资本主义工商业的社会主义改造不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -11662,9 +11136,7 @@ window.QUESTION_BANK_DATA = {
           "text": "逐步实现对国家的社会主义工业化"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-11",
@@ -11687,7 +11159,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党在过渡时期总路线的基本内容的简明概括是（）。",
       "answerRaw": "A",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. “一化三改”符合题干要求，所以选它。B. “一个中心，两个基本点”不符合题干要求，所以不选。C. “三大改造”不符合题干要求，所以不选。D. “主体和两翼”不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -11706,9 +11178,7 @@ window.QUESTION_BANK_DATA = {
           "text": "“主体和两翼”"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-12",
@@ -11731,7 +11201,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "马克思、恩格斯在创立科学社会主义理论时，就提出了从资本主义社会向社会主义社会过渡的问题，他们在《共产党宣言》中指出，工人革命的第一步就是使（）上升为统治阶级，争得民主。",
       "answerRaw": "D",
-      "explanation": "本题看从新民主主义到社会主义的转变。D. 无产阶级符合题干要求，所以选它。A. 地主阶级不符合题干要求，所以不选。B. 农民阶级不符合题干要求，所以不选。C. 资产阶级不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -11750,9 +11220,7 @@ window.QUESTION_BANK_DATA = {
           "text": "无产阶级"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-13",
@@ -11775,7 +11243,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党在过渡时期总路线的特点是（）。",
       "answerRaw": "C",
-      "explanation": "本题看从新民主主义到社会主义的转变。C. 一条社会主义建设和社会主义改造同时并举的路线符合题干要求，所以选它。A. 一条社会主义改造的路线不符合题干要求，所以不选。B. 一条社会主义建设的路线不符合题干要求，所以不选。D. 一条社会主义工业化路线不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -11794,9 +11262,7 @@ window.QUESTION_BANK_DATA = {
           "text": "一条社会主义工业化路线"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-14",
@@ -11819,7 +11285,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "建国以后，我国国民经济于（）得以恢复，民主革命遗留任务完成，经济、政治及社会面貌发生巨大变化。",
       "answerRaw": "B",
-      "explanation": "本题看从新民主主义到社会主义的转变。B. 1952年符合题干要求，所以选它。A. 1949年不符合题干要求，所以不选。C. 1956年不符合题干要求，所以不选。D. 1968年不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -11838,9 +11304,7 @@ window.QUESTION_BANK_DATA = {
           "text": "1968年"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-15",
@@ -11863,7 +11327,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "民族资产阶级与工人阶级的矛盾具有（），既有剥削者与被剥削者的阶级利益相互对立的对抗性的一面，又有相互合作、具有相同利益的非对抗性的一面。",
       "answerRaw": "A",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. 两重性符合题干要求，所以选它。B. 转化性不符合题干要求，所以不选。C. 特殊性不符合题干要求，所以不选。D. 对比性不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -11882,9 +11346,7 @@ window.QUESTION_BANK_DATA = {
           "text": "对比性"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-16",
@@ -11907,7 +11369,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "到1952年，我国社会生活中出现和积累了一些新的矛盾，在农村，主要是土地改革以后的分散落后的农民个体经济难以满足（）对粮食和农产品快速增长的需要。",
       "answerRaw": "A",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. 城市和工业发展符合题干要求，所以选它。B. 乡村振兴发展不符合题干要求，所以不选。C. 手工业合作化发展不符合题干要求，所以不选。D. 农业转型发展不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -11926,9 +11388,7 @@ window.QUESTION_BANK_DATA = {
           "text": "农业转型发展"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-17",
@@ -11951,7 +11411,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "从1949年至1952年，党领导人民集中力量恢复国民经济，继续完成民主革命遗留的任务。其中，我国通过（），以建立国营经济。",
       "answerRaw": "B",
-      "explanation": "本题看从新民主主义到社会主义的转变。B. 没收官僚资本符合题干要求，所以选它。A. 没收帝国主义在华企业不符合题干要求，所以不选。C. 赎买民族资产阶级的财产不符合题干要求，所以不选。D. 剥夺地主阶级的财产不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -11970,9 +11430,7 @@ window.QUESTION_BANK_DATA = {
           "text": "剥夺地主阶级的财产"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-18",
@@ -11995,7 +11453,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "从资本主义社会到社会主义社会，需要经历一个从（）到利用国家政权对旧的生产关系进行革命性的改造，逐步消灭私有制、确立公有制并大力发展生产力的过渡时期。",
       "answerRaw": "B",
-      "explanation": "本题看从新民主主义到社会主义的转变。B. 无产阶级夺取政权符合题干要求，所以选它。A. 无产阶级成立政党不符合题干要求，所以不选。C. 全世界无产者的联合不符合题干要求，所以不选。D. 建立工农联盟不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12014,9 +11472,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建立工农联盟"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-19",
@@ -12039,7 +11495,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在国家对农业、手工业的社会主义改造中，农民和手工业者是否入社，何时加入，都取决于（）。",
       "answerRaw": "A",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 农民和手工业者的意愿符合题干要求，所以选它。B. 政策的期限不符合题干要求，所以不选。C. 互助组的规定不符合题干要求，所以不选。D. 合作社的规定不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12058,9 +11514,7 @@ window.QUESTION_BANK_DATA = {
           "text": "合作社的规定"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-20",
@@ -12083,7 +11537,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在初级农业生产合作社中，社员以土地入股，耕畜、农具作价入社，由社实行统一经营，社员参加集体劳动，劳动产品分配采取按劳分配和土地入股分红相结合，在扣除农业税、生产费、公积金、公益金和管理费用之后，按照社员的劳动数量和质量及入社的土地等生产资料的多少进行分配，因此，初级农业生产合作社具有（）性质。",
       "answerRaw": "C",
-      "explanation": "本题看社会主义改造道路和历史经验。C. 半社会主义性质符合题干要求，所以选它。A. 具有社会主义萌芽性质不符合题干要求，所以不选。B. 完全社会主义性质不符合题干要求，所以不选。D. 新民主主义性质不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12102,9 +11556,7 @@ window.QUESTION_BANK_DATA = {
           "text": "新民主主义性质"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-21",
@@ -12127,7 +11579,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在手工业供销合作社中，生产资料归社员个人所有，生产活动由各社员分散独立完成，部分生产资料为公有的，合作社对各户的生产有一定的干预，因而，手工业供销合作社具有（）性质。",
       "answerRaw": "D",
-      "explanation": "本题看社会主义改造道路和历史经验。D. 半社会主义符合题干要求，所以选它。A. 资本主义不符合题干要求，所以不选。B. 半资本主义不符合题干要求，所以不选。C. 社会主义不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12146,9 +11598,7 @@ window.QUESTION_BANK_DATA = {
           "text": "半社会主义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-22",
@@ -12171,7 +11621,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "手工业生产合作社是我国手工业社会主义改造的第三步，是社会主义性质的集体经济组织，它要求生产资料（）。",
       "answerRaw": "C",
-      "explanation": "本题看社会主义改造道路和历史经验。C. 归集体所有符合题干要求，所以选它。A. 归个人所有不符合题干要求，所以不选。B. 一部分归个人、一部分归集体所有不符合题干要求，所以不选。D. 归国家所有不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12190,9 +11640,7 @@ window.QUESTION_BANK_DATA = {
           "text": "归国家所有"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-23",
@@ -12215,7 +11663,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国对农业进行社会主义改造的循序渐进的步骤是（）。",
       "answerRaw": "C",
-      "explanation": "本题看社会主义改造道路和历史经验。C. 互助组、初级社、高级社符合题干要求，所以选它。A. 初级社、互助组、高级社不符合题干要求，所以不选。B. 高级社、初级社、互助组不符合题干要求，所以不选。D. 互助组、高级社、初级社不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12234,9 +11682,7 @@ window.QUESTION_BANK_DATA = {
           "text": "互助组、高级社、初级社"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-24",
@@ -12259,7 +11705,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在农业社会主义改造中成立的高级农业合作社，其性质是（）。",
       "answerRaw": "B",
-      "explanation": "本题看社会主义改造道路和历史经验。B. 具有完全的社会主义性质符合题干要求，所以选它。A. 具有半社会主义性质不符合题干要求，所以不选。C. 具有社会主义萌芽性质不符合题干要求，所以不选。D. 属于私人合作性质不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12278,9 +11724,7 @@ window.QUESTION_BANK_DATA = {
           "text": "属于私人合作性质"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-25",
@@ -12303,7 +11747,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国在对农业社会主义改造的过程中，遵循的原则不包括（）。",
       "answerRaw": "D",
-      "explanation": "本题看社会主义改造道路和历史经验。D. 武力剥夺不属于我国在对农业社会主义改造的过程中，遵循的原则，所以选它。A. 自愿互利属于我国在对农业社会主义改造的过程中，遵循的原则，所以不选。B. 典型示范属于我国在对农业社会主义改造的过程中，遵循的原则，所以不选。C. 国家帮助属于我国在对农业社会主义改造的过程中，遵循的原则，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12322,9 +11766,7 @@ window.QUESTION_BANK_DATA = {
           "text": "武力剥夺"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-26",
@@ -12347,7 +11789,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "手工业供销小组虽然没有改变生产资料的私有制，但已经把个体手工业者组织起来，使之开始脱离资本主义工商业的供销轨道，因而具有（）性质。",
       "answerRaw": "A",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 社会主义萌芽符合题干要求，所以选它。B. 半社会主义不符合题干要求，所以不选。C. 社会主义不符合题干要求，所以不选。D. 半集体经济不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12366,9 +11808,7 @@ window.QUESTION_BANK_DATA = {
           "text": "半集体经济"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-27",
@@ -12391,7 +11831,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国对手工业的社会主义改造所采取的方法步骤是（）。",
       "answerRaw": "A",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 从供销合作入手，逐步发展到走生产合作的道路符合题干要求，所以选它。B. 发展生产互助小组不符合题干要求，所以不选。C. 组织供销小组不符合题干要求，所以不选。D. 把个体手工业者组织起来不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12410,9 +11850,7 @@ window.QUESTION_BANK_DATA = {
           "text": "把个体手工业者组织起来"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-28",
@@ -12435,7 +11873,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "手工业生产合作社是（）的集体经济组织，它的生产资料归社员集体所有，在国家计划指导下，根据市场需要灵活安排，采取集中生产或分散生产，以及流动服务等多种经营方式，独立核算，自负盈亏。",
       "answerRaw": "A",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 社会主义性质符合题干要求，所以选它。B. 半社会主义性质不符合题干要求，所以不选。C. 供销合作性质不符合题干要求，所以不选。D. 社会主义萌芽性质不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12454,9 +11892,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义萌芽性质"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-29",
@@ -12479,7 +11915,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国对手工业进行社会主义改造的组织形式是（）。",
       "answerRaw": "B",
-      "explanation": "本题看社会主义改造道路和历史经验。B. 手工业小组→供销合作社→生产合作社符合题干要求，所以选它。A. 供销合作社→生产合作社→手工业小组不符合题干要求，所以不选。C. 生产合作社→手工业小组→供销合作社不符合题干要求，所以不选。D. 手工业小组→生产合作社→人民公社不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12498,9 +11934,7 @@ window.QUESTION_BANK_DATA = {
           "text": "手工业小组→生产合作社→人民公社"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-30",
@@ -12523,7 +11957,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "对手工业的社会主义改造，党和政府采取了“（）”的方针。",
       "answerRaw": "B",
-      "explanation": "本题看社会主义改造道路和历史经验。B. 积极领导、稳步前进符合题干要求，所以选它。A. 自愿互利、典型示范不符合题干要求，所以不选。C. 全面没收、快速公有化不符合题干要求，所以不选。D. 市场主导、自由联合不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12542,9 +11976,7 @@ window.QUESTION_BANK_DATA = {
           "text": "市场主导、自由联合"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-31",
@@ -12567,7 +11999,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国对资本主义工商业进行社会主义改造的主要方法是（）。",
       "answerRaw": "A",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 和平赎买符合题干要求，所以选它。B. 国家资本主义不符合题干要求，所以不选。C. 利用、限制、改造不符合题干要求，所以不选。D. 团结、批评、团结不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12586,9 +12018,7 @@ window.QUESTION_BANK_DATA = {
           "text": "团结、批评、团结"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-32",
@@ -12611,7 +12041,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "资本主义工商业的社会主义改造基本完成的标志是实现（）。",
       "answerRaw": "B",
-      "explanation": "本题看社会主义改造道路和历史经验。B. 全行业的公私合营符合题干要求，所以选它。A. 和平赎买不符合题干要求，所以不选。C. 个别企业的公私合营不符合题干要求，所以不选。D. 四马分肥不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12630,9 +12060,7 @@ window.QUESTION_BANK_DATA = {
           "text": "四马分肥"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-33",
@@ -12655,7 +12083,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国对资本主义工商业进行社会主义改造的循序渐进的步骤是（）。",
       "answerRaw": "D",
-      "explanation": "本题看社会主义改造道路和历史经验。D. 初级形式国家资本主义、个别行业公私合营、全行业公私合营符合题干要求，所以选它。A. 初级形式国家资本主义、高级社、高级形式国家资本主义不符合题干要求，所以不选。B. 高级社、个别行业公私合营、高级形式国家资本主义不符合题干要求，所以不选。C. 个别行业公私合营、初级形式国家资本主义、高级形式国家资本主义不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12674,9 +12102,7 @@ window.QUESTION_BANK_DATA = {
           "text": "初级形式国家资本主义、个别行业公私合营、全行业公私合营"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-34",
@@ -12699,7 +12125,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "下列有关过渡时期，我国对资本主义工商业进行和平改造原因的认识，不正确的是（）。",
       "answerRaw": "D",
-      "explanation": "本题看社会主义改造道路和历史经验。D. 民族资本实力强大不属于下列有关过渡时期，我国对资本主义工商业进行和平改造原因的认识，所以选它。A. 民族资产阶级具有两面性属于下列有关过渡时期，我国对资本主义工商业进行和平改造原因的认识，所以不选。B. 中国共产党与民族资产阶级长期保持着统一战线关系属于下列有关过渡时期，我国对资本主义工商业进行和平改造原因的认识，所以不选。C. 我国已建立了强大的社会主义国营经济并掌握了国家的经济命脉属于下列有关过渡时期，我国对资本主义工商业进行和平改造原因的认识，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12718,9 +12144,7 @@ window.QUESTION_BANK_DATA = {
           "text": "民族资本实力强大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-35",
@@ -12743,7 +12167,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "下列选项中，关于我国对工商业进行社会主义改造的看法不正确的是（）。",
       "answerRaw": "D",
-      "explanation": "本题看社会主义改造道路和历史经验。D. 改革开放后又允许个体经济和私营经济发展，因此当时的改造是不必要的不属于下列选项中，关于我国对工商业进行社会主义改造的看法，所以选它。A. 用和平方法进行改造属于下列选项中，关于我国对工商业进行社会主义改造的看法，所以不选。B. 为新中国从新民主主义社会向社会主义社会过渡创造了条件属于下列选项中，关于我国对工商业进行社会主义改造的看法，所以不选。C. 在社会主义改造后期出现了工作过急过粗，改变过快等问题属于下列选项中，关于我国对工商业进行社会主义改造的看法，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12762,9 +12186,7 @@ window.QUESTION_BANK_DATA = {
           "text": "改革开放后又允许个体经济和私营经济发展，因此当时的改造是不必要的"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-36",
@@ -12787,7 +12209,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国之所以能够对资本主义工商业进行社会主义改造，是因为（）。",
       "answerRaw": "A",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 民族资产阶级具有两面性符合题干要求，所以选它。B. 民营经济掌握国家经济命脉，具备主导地位不符合题干要求，所以不选。C. 民族资产阶级主动放弃剥削，拥护社会主义制度不符合题干要求，所以不选。D. 资本主义工商业已无法满足国家工业化需求不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12806,9 +12228,7 @@ window.QUESTION_BANK_DATA = {
           "text": "资本主义工商业已无法满足国家工业化需求"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-37",
@@ -12831,7 +12251,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国在对资本主义工商业实行社会主义改造中，在利润分配上采取的政策是（）。",
       "answerRaw": "D",
-      "explanation": "本题看社会主义改造道路和历史经验。D. 四马分肥符合题干要求，所以选它。A. 统筹兼顾不符合题干要求，所以不选。B. 劳资两利不符合题干要求，所以不选。C. 公私兼顾不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12850,9 +12270,7 @@ window.QUESTION_BANK_DATA = {
           "text": "四马分肥"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-38",
@@ -12875,7 +12293,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“新式的国家资本主义经济”，主要不是为了资本家的利润而存在，而是为了（）而存在。",
       "answerRaw": "D",
-      "explanation": "本题看社会主义改造道路和历史经验。D. 供应人民和国家的需要不属于“新式的国家资本主义经济”，主要，所以选它。A. 全行业的公私合营属于“新式的国家资本主义经济”，主要，所以不选。B. 发展社会主义属于“新式的国家资本主义经济”，主要，所以不选。C. 过渡到共产主义社会属于“新式的国家资本主义经济”，主要，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12894,9 +12312,7 @@ window.QUESTION_BANK_DATA = {
           "text": "供应人民和国家的需要"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-39",
@@ -12919,7 +12335,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义改造时期，我国要求把资本主义工商业者改造成为（）。",
       "answerRaw": "A",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 自食其力的社会主义劳动者符合题干要求，所以选它。B. 民族资本家不符合题干要求，所以不选。C. 社会主义接班人不符合题干要求，所以不选。D. 共同富裕的引路人不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12938,9 +12354,7 @@ window.QUESTION_BANK_DATA = {
           "text": "共同富裕的引路人"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-40",
@@ -12963,7 +12377,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“四马分肥”中的企业公积金大体占企业利润的（）。",
       "answerRaw": "C",
-      "explanation": "本题看社会主义改造道路和历史经验。C. 10%-30%符合题干要求，所以选它。A. 10%-15%不符合题干要求，所以不选。B. 10%-20%不符合题干要求，所以不选。D. 15%-30%不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -12982,9 +12396,7 @@ window.QUESTION_BANK_DATA = {
           "text": "15%-30%"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-41",
@@ -13007,7 +12419,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "（）就是国家有偿地将私营企业改变为国营企业，将资本主义私有制改变为社会主义公有制。",
       "answerRaw": "C",
-      "explanation": "本题看社会主义改造道路和历史经验。C. 和平赎买符合题干要求，所以选它。A. 等价交换不符合题干要求，所以不选。B. 自愿捐献不符合题干要求，所以不选。D. 租赁经营不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13026,9 +12438,7 @@ window.QUESTION_BANK_DATA = {
           "text": "租赁经营"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-42",
@@ -13051,7 +12461,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在资本主义工商业的社会主义改造中，国家对资方在职人员和资方代理人采取“（）”的政策，以企业为基地，根据“量才使用，适当照顾”的原则，对他们在政治上适当安排、工作上发挥作用、生活上妥善照顾，改造阶级成分的方式达到从整体上消灭资产阶级的目的。",
       "answerRaw": "D",
-      "explanation": "本题看社会主义改造道路和历史经验。D. 包下来符合题干要求，所以选它。A. 剥夺剥夺者不符合题干要求，所以不选。B. 公私合营不符合题干要求，所以不选。C. 四马分肥不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13070,9 +12480,7 @@ window.QUESTION_BANK_DATA = {
           "text": "包下来"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-43",
@@ -13095,7 +12503,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "国家只有实行（），才能更好地从全局出发有计划地安排生产，保证国家重点建设的顺利进行。",
       "answerRaw": "B",
-      "explanation": "本题看社会主义改造道路和历史经验。B. 全行业公私合营符合题干要求，所以选它。A. 自由放任的市场经济不符合题干要求，所以不选。C. 单一的计划经济体制不符合题干要求，所以不选。D. 平均分配制度不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13114,9 +12522,7 @@ window.QUESTION_BANK_DATA = {
           "text": "平均分配制度"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-44",
@@ -13139,7 +12545,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国社会主义基本制度的确立是在（）。",
       "answerRaw": "C",
-      "explanation": "本题看从新民主主义到社会主义的转变。C. 1956年符合题干要求，所以选它。A. 1945年不符合题干要求，所以不选。B. 1949年不符合题干要求，所以不选。D. 1958年不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13158,9 +12564,7 @@ window.QUESTION_BANK_DATA = {
           "text": "1958年"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-45",
@@ -13183,7 +12587,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "（）9月，第一届全国人民代表大会召开以及《中华人民共和国宪法》制定及颁布施行，为各族人民参与国家政治生活提供了必要条件和保证。",
       "answerRaw": "C",
-      "explanation": "本题看从新民主主义到社会主义的转变。C. 1954年符合题干要求，所以选它。A. 1949年不符合题干要求，所以不选。B. 1953年不符合题干要求，所以不选。D. 1956年不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13202,9 +12606,7 @@ window.QUESTION_BANK_DATA = {
           "text": "1956年"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-46",
@@ -13227,7 +12629,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "经过1949年到1952年三年的努力，我国已经有了相对强大和迅速发展的社会主义（），这为党提出向社会主义过渡的总路线提供了物质基础。",
       "answerRaw": "A",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. 国营经济符合题干要求，所以选它。B. 个体经济不符合题干要求，所以不选。C. 市场经济不符合题干要求，所以不选。D. 计划经济不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13246,9 +12648,7 @@ window.QUESTION_BANK_DATA = {
           "text": "计划经济"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-47",
@@ -13270,7 +12670,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1954年9月颁布的《中华人民共和国宪法》把中国人民行使（）权利的政治制度用根本大法形式确定下来，指明了为建立社会主义社会继续奋斗的正确道路。",
       "answerRaw": "C",
-      "explanation": "本题看社会主义基本制度在中国的确立。C. 当家作主符合题干要求，所以选它。A. 民主监督不符合题干要求，所以不选。B. 协同治理不符合题干要求，所以不选。D. 宏观调控不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13289,9 +12689,7 @@ window.QUESTION_BANK_DATA = {
           "text": "宏观调控"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-48",
@@ -13313,7 +12711,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国工业化、现代化建设取得的辉煌成就，离不开选择了（）这个根本的前提条件。",
       "answerRaw": "B",
-      "explanation": "本题看社会主义基本制度在中国的确立。B. 社会主义道路符合题干要求，所以选它。A. 工业化建设不符合题干要求，所以不选。C. 社会主义改造不符合题干要求，所以不选。D. 新民主主义革命不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13332,9 +12730,7 @@ window.QUESTION_BANK_DATA = {
           "text": "新民主主义革命"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-49",
@@ -13356,7 +12752,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义制度在我国初步确立的标志是（）。",
       "answerRaw": "D",
-      "explanation": "本题看社会主义基本制度在中国的确立。D. 我国对农业、手工业和资本主义工商业的社会主义改造的基本完成符合题干要求，所以选它。A. 中华人民共和国的成立不符合题干要求，所以不选。B. 《中华人民共和国宪法》的颁布和实施不符合题干要求，所以不选。C. 国民经济的基本恢复不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13375,9 +12771,7 @@ window.QUESTION_BANK_DATA = {
           "text": "我国对农业、手工业和资本主义工商业的社会主义改造的基本完成"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-50",
@@ -13399,7 +12793,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义改造完成后，我国社会的主要矛盾是（）。",
       "answerRaw": "B",
-      "explanation": "本题看社会主义基本制度在中国的确立。B. 人民对于经济文化迅速发展的需要同当前经济文化不能满足人民需要的状况之间的矛盾符合题干要求，所以选它。A. 无产阶级与资产阶级的矛盾不符合题干要求，所以不选。C. 社会主义道路与资本主义道路的矛盾不符合题干要求，所以不选。D. 生产力与生产关系的矛盾不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13418,9 +12812,7 @@ window.QUESTION_BANK_DATA = {
           "text": "生产力与生产关系的矛盾"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-51",
@@ -13442,7 +12834,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义改造的胜利完成，使我国的经济结构发生了根本变化，主要表现为（）。",
       "answerRaw": "B",
-      "explanation": "本题看社会主义基本制度在中国的确立。B. 公有制经济占据绝对优势符合题干要求，所以选它。A. 私有制经济完全消失不符合题干要求，所以不选。C. 计划经济体制完全建立不符合题干要求，所以不选。D. 市场经济体制初步形成不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13461,9 +12853,7 @@ window.QUESTION_BANK_DATA = {
           "text": "市场经济体制初步形成"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-52",
@@ -13485,7 +12875,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国对农业、手工业和资本主义工商业的社会主义改造基本完成，实现了由新民主主义向社会主义的转变。这标志着（）。",
       "answerRaw": "A",
-      "explanation": "本题看社会主义基本制度在中国的确立。A. 中国历史上长达数千年的阶级剥削制度的结束符合题干要求，所以选它。B. 中国历史上长达数千年的资本主义制度的结束不符合题干要求，所以不选。C. 中国历史上长达数千年的封建君主专制制度的结束不符合题干要求，所以不选。D. 中国历史上长达数千年的封建地主土地所有制的结束不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13504,9 +12894,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国历史上长达数千年的封建地主土地所有制的结束"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-53",
@@ -13528,7 +12916,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "（）的确立，为当代中国一切发展进步奠定了制度基础。",
       "answerRaw": "D",
-      "explanation": "本题看社会主义基本制度在中国的确立。D. 社会主义基本制度符合题干要求，所以选它。A. 人民代表大会制度不符合题干要求，所以不选。B. 中国共产党领导的多党合作和政治协商制度不符合题干要求，所以不选。C. 民族区域自治制度不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13547,9 +12935,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义基本制度"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-54",
@@ -13571,7 +12957,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在新民主主义社会中，中国社会的阶级构成主要有（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. 工人阶级符合题干要求，所以选它。B. 农民阶级符合题干要求，所以选它。C. 小资产阶级符合题干要求，所以选它。D. 民族资产阶级符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13590,9 +12976,7 @@ window.QUESTION_BANK_DATA = {
           "text": "民族资产阶级"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-55",
@@ -13614,7 +12998,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "下列关于我国社会主义革命和建设时期合作社经济的说法正确的是（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. 合作社经济是劳动群众集体所有制的经济形式符合题干要求，所以选它。B. 手工业生产合作社是改造个体手工业的主要形式之一符合题干要求，所以选它。C. 合作社经济是新民主主义社会向社会主义过渡的重要经济形式之一符合题干要求，所以选它。D. 合作社经济在改革开放后完全退出历史舞台不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13633,9 +13017,7 @@ window.QUESTION_BANK_DATA = {
           "text": "合作社经济在改革开放后完全退出历史舞台"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-56",
@@ -13657,7 +13039,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "从1949年中华人民共和国成立到1956年底社会主义改造基本完成，是我国从新民主主义社会到社会主义过渡的时期，这一时期，我国社会的性质是新民主主义社会。新民主主义社会是（）。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. 近代中国由半殖民地半封建社会走向社会主义社会的中介和桥梁符合题干要求，所以选它。C. 属于社会主义体系的过渡性的社会符合题干要求，所以选它。D. 既有社会主义因素又有资本主义因素存在的社会符合题干要求，所以选它。B. 独立的社会形态不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13676,9 +13058,7 @@ window.QUESTION_BANK_DATA = {
           "text": "既有社会主义因素又有资本主义因素存在的社会"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-57",
@@ -13700,7 +13080,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义时期我国主要的社会矛盾是（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. 社会主义和资本主义两条道路之间的矛盾符合题干要求，所以选它。B. 工人阶级和资产阶级两个阶级之间的矛盾符合题干要求，所以选它。C. 农民阶级和资产阶级之间的矛盾不符合题干要求，所以不选。D. 人民日益增长的物质文化需要和落后的社会生产之间的矛盾不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13719,9 +13099,7 @@ window.QUESTION_BANK_DATA = {
           "text": "人民日益增长的物质文化需要和落后的社会生产之间的矛盾"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-58",
@@ -13743,7 +13121,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义因素与资本主义因素之间，不可避免地存在着（）的斗争。",
       "answerRaw": "A;B",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. 限制与反限制符合题干要求，所以选它。B. 改造与反改造符合题干要求，所以选它。C. 压迫与反压迫不符合题干要求，所以不选。D. 制衡与反制衡不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13762,9 +13140,7 @@ window.QUESTION_BANK_DATA = {
           "text": "制衡与反制衡"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-59",
@@ -13786,7 +13162,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新民主主义社会要继续向前发展，就要（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. 不断扩大国营经济符合题干要求，所以选它。B. 逐步将资本主义经济改变为社会主义经济符合题干要求，所以选它。C. 逐步将个体经济改变为社会主义经济符合题干要求，所以选它。D. 使社会主义经济逐步成为我国的经济基础符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13805,9 +13181,7 @@ window.QUESTION_BANK_DATA = {
           "text": "使社会主义经济逐步成为我国的经济基础"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-60",
@@ -13829,7 +13203,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "下面的说法中，对新民主主义社会的理解准确的是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. 在新民主主义社会中，社会主义的因素不论在经济上还是在政治上都已经居于领导地位符合题干要求，所以选它。B. 在新民主主义社会中，非社会主义因素仍有很大比重符合题干要求，所以选它。C. 新民主主义社会是属于社会主义体系的符合题干要求，所以选它。D. 新民主主义社会是过渡性的社会形态符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13848,9 +13222,7 @@ window.QUESTION_BANK_DATA = {
           "text": "新民主主义社会是过渡性的社会形态"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-61",
@@ -13873,7 +13245,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党在过渡时期的总路线的主要内容被概括为“一化三改”，它的意义在于（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. 社会主义建设和社会主义改造同时并举符合题干要求，所以选它。B. 社会主义工业化和社会主义改造的紧密结合符合题干要求，所以选它。C. 解放生产力与发展生产力的有机统一符合题干要求，所以选它。D. 变革生产关系与发展生产力的有机统一符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13892,9 +13264,7 @@ window.QUESTION_BANK_DATA = {
           "text": "变革生产关系与发展生产力的有机统一"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-62",
@@ -13917,7 +13287,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国共产党在过渡时期的总路线被形象地比喻为鸟的“主体”和“两翼”，两者相辅相成，相互促进。这里的“两翼”指（）。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看从新民主主义到社会主义的转变。B. 实现对农业的社会主义改造符合题干要求，所以选它。C. 实现对手工业的社会主义改造符合题干要求，所以选它。D. 实现对资本主义工商业的社会主义改造符合题干要求，所以选它。A. 实现国家的社会主义工业化不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13936,9 +13306,7 @@ window.QUESTION_BANK_DATA = {
           "text": "实现对资本主义工商业的社会主义改造"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-63",
@@ -13961,7 +13329,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国共产党在过渡时期的总路线和总任务是逐步实现（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. 国家的社会主义工业化符合题干要求，所以选它。B. 对农业的社会主义改造符合题干要求，所以选它。C. 对手工业的社会主义改造符合题干要求，所以选它。D. 对资本主义工商业的社会主义改造符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -13980,9 +13348,7 @@ window.QUESTION_BANK_DATA = {
           "text": "对资本主义工商业的社会主义改造"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-64",
@@ -14005,7 +13371,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "过渡时期总路线的核心内容是（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. 逐步实现社会主义工业化符合题干要求，所以选它。B. 逐步实现对农业、手工业和资本主义工商业的社会主义改造符合题干要求，所以选它。C. 优先发展重工业不符合题干要求，所以不选。D. 巩固新民主主义社会秩序不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14024,9 +13390,7 @@ window.QUESTION_BANK_DATA = {
           "text": "巩固新民主主义社会秩序"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-65",
@@ -14049,7 +13413,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1949年，党提出了“两个转变”同时并举的思想，其中“两个转变”是指（）。",
       "answerRaw": "A;D",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. 稳步地由农业国转变为工业国符合1949年，党提出了“两个转变”同时并举的思想，其中“两个转变”，所以选它。D. 由新民主主义国家转变为社会主义国家符合1949年，党提出了“两个转变”同时并举的思想，其中“两个转变”，所以选它。B. 社会性质转变不符合1949年，党提出了“两个转变”同时并举的思想，其中“两个转变”，所以不选。C. 领导阶级转变不符合1949年，党提出了“两个转变”同时并举的思想，其中“两个转变”，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14068,9 +13432,7 @@ window.QUESTION_BANK_DATA = {
           "text": "由新民主主义国家转变为社会主义国家"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-66",
@@ -14093,7 +13455,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "过渡时期总路线的理论依据包括（）。",
       "answerRaw": "A;D",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. 马克思列宁主义关于过渡时期的理论符合过渡时期总路线的理论依据，所以选它。D. 新民主主义社会的过渡性质符合过渡时期总路线的理论依据，所以选它。B. 苏联社会主义改造的经验不符合过渡时期总路线的理论依据，所以不选。C. 中国民族资产阶级的软弱性不符合过渡时期总路线的理论依据，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14112,9 +13474,7 @@ window.QUESTION_BANK_DATA = {
           "text": "新民主主义社会的过渡性质"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-67",
@@ -14137,7 +13497,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "下列关于我国农业合作化过程中建立的高级社的说法正确的是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看从新民主主义到社会主义的转变。A. 高级社由初级社发展而成，规模比初级社大符合题干要求，所以选它。B. 高级社的土地、耕畜、大型农具等生产资料归集体所有符合题干要求，所以选它。C. 高级社取消了土地报酬符合题干要求，所以选它。D. 高级社实行按劳分配的原则符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14156,9 +13516,7 @@ window.QUESTION_BANK_DATA = {
           "text": "高级社实行按劳分配的原则"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-68",
@@ -14181,7 +13539,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "土地改革完成后，封建土地所有制被彻底废除，我国广大农民的生产积极性大大提高，农民成为土地的主人，表现在（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 个体经济的积极性符合题干要求，所以选它。B. 互助合作的积极性符合题干要求，所以选它。C. 对外开放的积极性不符合题干要求，所以不选。D. 领导革命的积极性不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14200,9 +13558,7 @@ window.QUESTION_BANK_DATA = {
           "text": "领导革命的积极性"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-69",
@@ -14225,7 +13581,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "互助组主要是为了解决农业生产过程中各自的（）的困难，在自愿基础上建立的劳动互助组织。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 劳动力不足符合题干要求，所以选它。B. 畜力不足符合题干要求，所以选它。C. 农具不足符合题干要求，所以选它。D. 生产资料过多不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14244,9 +13600,7 @@ window.QUESTION_BANK_DATA = {
           "text": "生产资料过多"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-70",
@@ -14269,7 +13623,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1953年2月，中共中央正式颁布的《关于农业生产互助合作的决议》指出：在处理互助组和生产合作社存在的任何问题上，有两条原则是必须绝对遵守的，就是（）和（）的原则。",
       "answerRaw": "A;C",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 自愿符合题干要求，所以选它。C. 互利符合题干要求，所以选它。B. 引导不符合题干要求，所以不选。D. 教育不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14288,9 +13642,7 @@ window.QUESTION_BANK_DATA = {
           "text": "教育"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-71",
@@ -14313,7 +13665,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国手工业社会主义改造大体上经历了（）等几个发展阶段。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看社会主义改造道路和历史经验。B. 办手工业供销小组符合题干要求，所以选它。C. 办手工业供销合作社符合题干要求，所以选它。D. 建立手工业生产合作社符合题干要求，所以选它。A. 组织手工业者建立手工作坊不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14332,9 +13684,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建立手工业生产合作社"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-72",
@@ -14357,7 +13707,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国对农业进行社会主义改造的成功经验主要有（）。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 在土地改革基础上，引导个体农民走互助合作道路符合题干要求，所以选它。C. 采取从互助组到初级合作社再到高级合作社的逐步过渡形式符合题干要求，所以选它。D. 遵循自愿互利、典型示范、国家帮助的原则符合题干要求，所以选它。B. 实行“三级所有、队为基础”的农业集体经济体制不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14376,9 +13726,7 @@ window.QUESTION_BANK_DATA = {
           "text": "遵循自愿互利、典型示范、国家帮助的原则"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-73",
@@ -14401,7 +13749,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "关于手工业供销合作社，下列论述正确的有（）。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看社会主义改造道路和历史经验。B. 由供销小组合并起来符合题干要求，所以选它。C. 合作社对各户的生产也有一定的干预符合题干要求，所以选它。D. 具有半社会主义性质符合题干要求，所以选它。A. 生产资料是公有的不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14420,9 +13768,7 @@ window.QUESTION_BANK_DATA = {
           "text": "具有半社会主义性质"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-74",
@@ -14445,7 +13791,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新中国成立初期，党和国家在合理调整工商业的过程中，出现了（）等一系列从低级到高级的国家资本主义形式。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 加工订货符合题干要求，所以选它。B. 经销代销符合题干要求，所以选它。C. 统购包销符合题干要求，所以选它。D. 公私合营符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14464,9 +13810,7 @@ window.QUESTION_BANK_DATA = {
           "text": "公私合营"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-75",
@@ -14489,7 +13833,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国之所以能够对资本主义工商业进行和平改造，其原因在于（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 民族资产阶级具有两面性符合题干要求，所以选它。B. 中国共产党与民族资产阶级长期保持着统一战线的关系符合题干要求，所以选它。C. 人民民主专政的国家政权和强大国营经济造成私人资本主义在政治上经济上对社会主义的依赖符合题干要求，所以选它。D. 国家对粮食和工业原料的统购统销，以及资本主义企业中工人群众对资本家的监督符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14508,9 +13852,7 @@ window.QUESTION_BANK_DATA = {
           "text": "国家对粮食和工业原料的统购统销，以及资本主义企业中工人群众对资本家的监督"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-76",
@@ -14533,7 +13875,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新中国对资本主义工商业实行和平赎买，有利于（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 发挥私营工商业在国计民生方面的积极作用，促进国民经济发展符合题干要求，所以选它。B. 争取和团结民族资产阶级，巩固和发展统一战线符合题干要求，所以选它。C. 发挥民族资产阶级中大多数人的知识、才能、技术专长和管理经验符合题干要求，所以选它。D. 消灭资产阶级反动势力不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14552,9 +13894,7 @@ window.QUESTION_BANK_DATA = {
           "text": "消灭资产阶级反动势力"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-77",
@@ -14577,7 +13917,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "因为（），我们能够采取赎买的方式对资本主义工商业进行和平改造。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 民族资产阶级具有两面性符合题干要求，所以选它。B. 如果处理得当，敌我矛盾可以转变为非对抗性的矛盾符合题干要求，所以选它。C. 中国共产党与民族资产阶级长期保持着统一战线的关系符合题干要求，所以选它。D. 我国已经建立了人民民主专政的国家政权符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14596,9 +13936,7 @@ window.QUESTION_BANK_DATA = {
           "text": "我国已经建立了人民民主专政的国家政权"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-78",
@@ -14621,7 +13959,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在初级形式的国家资本主义中，国家在私营工业中实行委托加工、计划订货等形式，在私营商业中采取（）等形式，既帮助私营企业克服困难，也使其生产和经营开始纳入国家计划的轨道。",
       "answerRaw": "A;B",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 委托经销符合题干要求，所以选它。B. 代销符合题干要求，所以选它。C. 官督商办不符合题干要求，所以不选。D. 统购包销不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14640,9 +13978,7 @@ window.QUESTION_BANK_DATA = {
           "text": "统购包销"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-79",
@@ -14665,7 +14001,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东指出：“关于正确处理人民内部矛盾的问题是社会主义国家政治生活的主题。”这一论断的根本着眼点，在于（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 调动一切积极因素符合题干要求，所以选它。B. 团结一切可以团结的力量符合题干要求，所以选它。D. 把全党的注意力转到社会主义建设上来符合题干要求，所以选它。C. 积蓄一切可以积蓄的财富不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14684,9 +14020,7 @@ window.QUESTION_BANK_DATA = {
           "text": "把全党的注意力转到社会主义建设上来"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-80",
@@ -14709,7 +14043,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "关于我国社会主义改造中出现的国家资本主义，论述正确的有（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 是在国家直接控制和支配下的资本主义经济符合题干要求，所以选它。B. 有初级形式和高级形式之分符合题干要求，所以选它。C. 是在人民政府管理之下的符合题干要求，所以选它。D. 为了供应人民和国家的需要而存在符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14728,9 +14062,7 @@ window.QUESTION_BANK_DATA = {
           "text": "为了供应人民和国家的需要而存在"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-81",
@@ -14752,7 +14084,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在社会主义改造向社会主义过渡的进程中，中国共产党积累了丰富的历史经验，主要有（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 坚持社会主义工业化建设与社会主义改造同时并举符合题干要求，所以选它。B. 采取积极引导、逐步过渡的方式符合题干要求，所以选它。C. 用和平方法进行改造符合题干要求，所以选它。D. 这些方法也适用于其他所有国家不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14771,9 +14103,7 @@ window.QUESTION_BANK_DATA = {
           "text": "这些方法也适用于其他所有国家"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-82",
@@ -14795,7 +14125,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "引导个体农民、个体手工业者走集体化的道路，改造私人资本主义工商业，目的都是为了（）。",
       "answerRaw": "A;C",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 适应社会主义工业化建设的要求符合题干要求，所以选它。C. 更好地发展生产力符合题干要求，所以选它。B. 为社会主义现代化建设奠定物质技术基础不符合题干要求，所以不选。D. 坚持中国共产党的领导不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14814,9 +14144,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持中国共产党的领导"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-83",
@@ -14838,7 +14166,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在进行社会主义改造、向社会主义过渡的进程中，中国共产党积累了丰富的历史经验，如（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 坚持社会主义工业化建设与社会主义改造同时并举符合题干要求，所以选它。B. 积极引导符合题干要求，所以选它。C. 逐步过渡符合题干要求，所以选它。D. 用强制方法进行改造不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14857,9 +14185,7 @@ window.QUESTION_BANK_DATA = {
           "text": "用强制方法进行改造"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-84",
@@ -14881,7 +14207,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国的社会主义改造取得了历史性的胜利，但后期也出现了一些失误和偏差，如（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 改造要求过急符合题干要求，所以选它。B. 工作过粗符合题干要求，所以选它。C. 改变过快符合题干要求，所以选它。D. 形式过于简单划一符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14900,9 +14226,7 @@ window.QUESTION_BANK_DATA = {
           "text": "形式过于简单划一"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-85",
@@ -14924,7 +14248,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在我国社会主义改造的历史上，（）是世界历史上各种革命大变动中罕见的。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 没有引起巨大的社会动荡符合题干要求，所以选它。B. 在人民普遍拥护的情况下完成符合题干要求，所以选它。C. 没有造成生产力的破坏符合题干要求，所以选它。D. 促进工农业和整个国民经济的发展符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14943,9 +14267,7 @@ window.QUESTION_BANK_DATA = {
           "text": "促进工农业和整个国民经济的发展"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-86",
@@ -14967,7 +14289,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义改造完成后，我国生产资料所有制形式的主体是（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看社会主义改造道路和历史经验。A. 全民所有制符合题干要求，所以选它。B. 集体所有制符合题干要求，所以选它。C. 个体所有制不符合题干要求，所以不选。D. 混合所有制不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -14986,9 +14308,7 @@ window.QUESTION_BANK_DATA = {
           "text": "混合所有制"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-87",
@@ -15010,7 +14330,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义改造的基本完成以及（）等制度的确立表明我国由一个新民主主义的国家转变为社会主义国家。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看社会主义基本制度在中国的确立。A. 人民代表大会制度符合题干要求，所以选它。B. 中国共产党领导的多党合作和政治协商制度符合题干要求，所以选它。C. 民族区域自治制度符合题干要求，所以选它。D. 一国两制不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -15029,9 +14349,7 @@ window.QUESTION_BANK_DATA = {
           "text": "一国两制"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-88",
@@ -15053,7 +14371,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "列宁在指导俄国无产阶级革命和世界被压迫民族解放斗争中，进一步发展了马克思、恩格斯的革命转变思想，他认为，过渡时期的根本任务是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看社会主义基本制度在中国的确立。A. 把剥削阶级的生产资料转化为公有财产符合题干要求，所以选它。B. 通过合作社的形式使农民走上集体化道路符合题干要求，所以选它。C. 把创造高于资本主义的劳动生产率的根本任务提到首位符合题干要求，所以选它。D. 建立和发展社会主义的经济基础符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -15072,9 +14390,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建立和发展社会主义的经济基础"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-89",
@@ -15096,7 +14412,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1954年，《中华人民共和国宪法》的制定及颁布施行，（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看社会主义基本制度在中国的确立。A. 为各族人民参与国家政治生活提供了必要条件和保证符合题干要求，所以选它。B. 为逐步健全和完善我国社会主义政治制度奠定了坚实的基础符合题干要求，所以选它。D. 成为我国社会主义民主政治建设的里程碑符合题干要求，所以选它。C. 为社会主义现代化建设奠定了重要的物质技术基础不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -15115,9 +14431,7 @@ window.QUESTION_BANK_DATA = {
           "text": "成为我国社会主义民主政治建设的里程碑"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-90",
@@ -15139,7 +14453,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "随着社会主义改造基本完成，我国社会的阶级关系也发生了根本的变化，比如，（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看社会主义基本制度在中国的确立。A. 帝国主义侵略势力已经被清除出中国大陆符合题干要求，所以选它。B. 官僚资产阶级已经在中国内地被消灭符合题干要求，所以选它。C. 民族资产阶级被改造成自食其力的社会主义劳动者符合题干要求，所以选它。D. 工人阶级已经成为国家的领导阶级符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -15158,9 +14472,7 @@ window.QUESTION_BANK_DATA = {
           "text": "工人阶级已经成为国家的领导阶级"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-91",
@@ -15182,7 +14494,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1956年年底，我国对农业、手工业和资本主义工商业的社会主义改造的基本完成，标志着社会主义基本制度在我国初步确立。其具体表现为（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看社会主义基本制度在中国的确立。A. 社会主义经济成分已占绝对优势符合题干要求，所以选它。B. 广大劳动人民成为国家和社会的主人符合题干要求，所以选它。D. 阶级剥削制度已经被基本消灭符合题干要求，所以选它。C. 民族独立和人民解放的目标最终实现不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -15201,9 +14513,7 @@ window.QUESTION_BANK_DATA = {
           "text": "阶级剥削制度已经被基本消灭"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-92",
@@ -15225,7 +14535,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国社会主义改造基本完成之后，（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看社会主义基本制度在中国的确立。A. 我国社会主义经济结构发生了根本变化符合题干要求，所以选它。B. 社会主义经济成分已占绝对优势符合题干要求，所以选它。C. 社会主义公有制已成为我国社会的经济基础符合题干要求，所以选它。D. 标志着我国社会主义制度的确立符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -15244,9 +14554,7 @@ window.QUESTION_BANK_DATA = {
           "text": "标志着我国社会主义制度的确立"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-93",
@@ -15268,7 +14576,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国建立社会主义基本制度的重要意义有（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看社会主义基本制度在中国的确立。A. 为当代中国一切发展进步奠定了制度基础符合题干要求，所以选它。B. 使广大劳动人民真正成为国家的主人符合题干要求，所以选它。C. 极大地提高了人民的劳动积极性，促进了社会生产力的发展符合题干要求，所以选它。D. 丰富和发展了科学社会主义理论符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -15287,9 +14595,7 @@ window.QUESTION_BANK_DATA = {
           "text": "丰富和发展了科学社会主义理论"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-94",
@@ -15311,7 +14617,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义制度在中国的确立，（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看社会主义基本制度在中国的确立。A. 证明了列宁的远见卓识符合题干要求，所以选它。B. 提高了工人阶级和广大劳动人民的积极性符合题干要求，所以选它。C. 促进了我国社会生产力的发展符合题干要求，所以选它。D. 为发展社会生产力开辟了广阔的道路符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -15330,9 +14636,7 @@ window.QUESTION_BANK_DATA = {
           "text": "为发展社会生产力开辟了广阔的道路"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-95",
@@ -15354,7 +14658,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义改造与改革开放后经济体制改革的联系在于（）。",
       "answerRaw": "A;D",
-      "explanation": "本题看社会主义基本制度在中国的确立。A. 都坚持社会主义方向符合题干要求，所以选它。D. 都涉及所有制结构调整符合题干要求，所以选它。B. 都强调公有制为主体不符合题干要求，所以不选。C. 都利用市场机制发展经济不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -15373,9 +14677,7 @@ window.QUESTION_BANK_DATA = {
           "text": "都涉及所有制结构调整"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-96",
@@ -15397,11 +14699,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中华人民共和国的成立标志着社会主义制度在中国确立。",
       "answerRaw": "false",
-      "explanation": "本题看从新民主主义到社会主义的转变。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-97",
@@ -15423,11 +14723,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "从中华人民共和国成立到社会主义改造基本完成，是我国从新民主主义社会到社会主义的过渡时期，这一时期，我国社会的性质是新民主主义社会。",
       "answerRaw": "true",
-      "explanation": "本题看从新民主主义到社会主义的转变。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-98",
@@ -15449,11 +14747,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党在过渡时期总路线的实质是改变生产资料的私有制。",
       "answerRaw": "true",
-      "explanation": "本题看从新民主主义到社会主义的转变。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-99",
@@ -15476,11 +14772,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "实现国家工业化，是国家独立和富强的必然要求和必要条件。",
       "answerRaw": "true",
-      "explanation": "本题看从新民主主义到社会主义的转变。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-100",
@@ -15503,11 +14797,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "过渡时期的总路线是一条社会主义建设和社会主义改造同时并举的路线。",
       "answerRaw": "true",
-      "explanation": "本题看从新民主主义到社会主义的转变。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-101",
@@ -15530,11 +14822,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“一五计划”是中华人民共和国成立后编制的第一个五年计划，是中国大规模工业化建设的开端。",
       "answerRaw": "true",
-      "explanation": "本题看从新民主主义到社会主义的转变。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-102",
@@ -15557,11 +14847,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党在过渡时期总路线的提出借鉴了苏联经验。",
       "answerRaw": "true",
-      "explanation": "本题看从新民主主义到社会主义的转变。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-103",
@@ -15584,11 +14872,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义改革与改造的目标均是发展生产力。",
       "answerRaw": "true",
-      "explanation": "本题看从新民主主义到社会主义的转变。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-104",
@@ -15611,11 +14897,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义革命和建设时期，中国的一个特点是农民占人口的绝大多数。",
       "answerRaw": "true",
-      "explanation": "本题看社会主义改造道路和历史经验。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-105",
@@ -15638,11 +14922,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "初级农业生产合作社具有完全社会主义性质。",
       "answerRaw": "false",
-      "explanation": "本题看社会主义改造道路和历史经验。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-106",
@@ -15665,11 +14947,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "事实上，与农业互助合作组织相比，个体农业的增产一般比较明显。",
       "answerRaw": "false",
-      "explanation": "本题看社会主义改造道路和历史经验。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-107",
@@ -15692,11 +14972,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1956年，大约有90%的农户加入了合作社。",
       "answerRaw": "true",
-      "explanation": "本题看社会主义改造道路和历史经验。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-108",
@@ -15719,11 +14997,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国对个体农业和手工业实行社会主义改造的方针是“积极领导，稳步前进”。",
       "answerRaw": "true",
-      "explanation": "本题看社会主义改造道路和历史经验。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-109",
@@ -15746,11 +15022,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "手工业的社会主义改造经历了由小到大、由低级到高级的三个步骤，其中办手工业供销合作社是第三步。",
       "answerRaw": "false",
-      "explanation": "本题看社会主义改造道路和历史经验。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-110",
@@ -15773,11 +15047,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国对农业的社会主义改造采取了强制集体化的方式。",
       "answerRaw": "false",
-      "explanation": "本题看社会主义改造道路和历史经验。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-111",
@@ -15800,11 +15072,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "手工业社会主义改造的步骤与农业改造完全一致，均分为三个阶段。",
       "answerRaw": "false",
-      "explanation": "本题看社会主义改造道路和历史经验。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-112",
@@ -15827,11 +15097,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国可以走和其他西方国家一样的资本主义工业化道路。",
       "answerRaw": "false",
-      "explanation": "本题看社会主义改造道路和历史经验。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-113",
@@ -15854,11 +15122,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国对资本主义工商业的改造主要采用剥夺的方式。",
       "answerRaw": "false",
-      "explanation": "本题看社会主义改造道路和历史经验。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-114",
@@ -15881,11 +15147,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在社会主义改造中，中国共产党曾采用过国家资本主义的方式对资本主义工商业进行改造。",
       "answerRaw": "true",
-      "explanation": "本题看社会主义改造道路和历史经验。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-115",
@@ -15908,11 +15172,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "全行业公私合营后，企业的生产关系已经发生了根本的变化，基本上成为社会主义国营性质的企业。",
       "answerRaw": "true",
-      "explanation": "本题看社会主义改造道路和历史经验。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-116",
@@ -15935,11 +15197,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "赎买的具体方式是由国家直接支付一笔巨额补偿金给企业资本家。",
       "answerRaw": "false",
-      "explanation": "本题看社会主义改造道路和历史经验。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-117",
@@ -15961,11 +15221,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国进入社会主义初级阶段的起点及剥削阶级和剥削制度被消灭的标志是社会主义改造的完成。",
       "answerRaw": "true",
-      "explanation": "本题看社会主义基本制度在中国的确立。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-118",
@@ -15987,11 +15245,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义基本制度的确立是马克思列宁主义关于社会主义革命理论在中国的正确运用和创造性发展的结果。",
       "answerRaw": "true",
-      "explanation": "本题看社会主义基本制度在中国的确立。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-119",
@@ -16013,11 +15269,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义改造过程中未出现任何失误和偏差。",
       "answerRaw": "false",
-      "explanation": "本题看社会主义基本制度在中国的确立。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-120",
@@ -16039,11 +15293,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义基本制度的确立是中国历史上最深刻最伟大的社会变革。",
       "answerRaw": "true",
-      "explanation": "本题看社会主义基本制度在中国的确立。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-121",
@@ -16065,11 +15317,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国社会主义基本制度的确立，促进社会生产力的发展，初步显示了社会主义的优越性。",
       "answerRaw": "true",
-      "explanation": "本题看社会主义基本制度在中国的确立。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-122",
@@ -16091,11 +15341,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "过渡时期，社会主义改造的完成标志着我国进入社会主义初级阶段。",
       "answerRaw": "true",
-      "explanation": "本题看社会主义基本制度在中国的确立。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-123",
@@ -16117,11 +15365,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义改造的完成使剥削阶级和剥削现象在中国完全消失。",
       "answerRaw": "false",
-      "explanation": "本题看社会主义基本制度在中国的确立。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-124",
@@ -16143,11 +15389,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义改造的偏差包括要求过急、工作过粗、形式过于单一。",
       "answerRaw": "true",
-      "explanation": "本题看社会主义基本制度在中国的确立。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-125",
@@ -16169,11 +15413,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义改造的理论成果为中国特色社会主义理论体系奠定了基础。",
       "answerRaw": "true",
-      "explanation": "本题看社会主义基本制度在中国的确立。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-03-第三章-社会主义改造理论-126",
@@ -16717,7 +15959,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "关于社会主义发展阶段的思想。毛泽东指出，社会主义又可分为两个阶段，第一个阶段是不发达的社会主义，第二个阶段是（）。",
       "answerRaw": "D",
-      "explanation": "本题看调动一切积极因素。D. 比较发达的社会主义符合题干要求，所以选它。A. 社会主义初级阶段不符合题干要求，所以不选。B. 共产主义初级阶段不符合题干要求，所以不选。C. 社会主义高级阶段不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -16736,9 +15978,7 @@ window.QUESTION_BANK_DATA = {
           "text": "比较发达的社会主义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-3",
@@ -16757,7 +15997,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《关于正确处理人民内部矛盾的问题》的报告中指出，对于科学文化领域里的矛盾，实行（）。",
       "answerRaw": "B",
-      "explanation": "本题看调动一切积极因素。B. 百花齐放、百家争鸣的方针符合题干要求，所以选它。A. 团结——批评——团结的方针不符合题干要求，所以不选。C. 长期共存、互相监督的方针不符合题干要求，所以不选。D. 用民主的方法解决人民内部矛盾不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -16776,9 +16016,7 @@ window.QUESTION_BANK_DATA = {
           "text": "用民主的方法解决人民内部矛盾"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-4",
@@ -16797,7 +16035,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在《关于正确处理人民内部矛盾的问题》中，毛泽东明确提出了中国工业化道路的问题，强调要走一条（）。",
       "answerRaw": "B",
-      "explanation": "本题看中国工业化道路。B. 有别于苏联的中国工业化道路符合题干要求，所以选它。A. 中国特色社会主义道路不符合题干要求，所以不选。C. 社会主义改造道路不符合题干要求，所以不选。D. 多快好省地建设社会主义道路不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -16816,9 +16054,7 @@ window.QUESTION_BANK_DATA = {
           "text": "多快好省地建设社会主义道路"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-5",
@@ -16837,7 +16073,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国共产党在新中国诞生之初，关于台湾问题提出（）方针。",
       "answerRaw": "B",
-      "explanation": "本题看调动一切积极因素。B. 武力解放符合题干要求，所以选它。A. 和平解放不符合题干要求，所以不选。C. “一纲四目”不符合题干要求，所以不选。D. “一国两制”不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -16856,9 +16092,7 @@ window.QUESTION_BANK_DATA = {
           "text": "“一国两制”"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-6",
@@ -16877,7 +16111,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“四个现代化”战略目标的形成有一个历史过程，周恩来在三届全国人大一次会议上正式提出了“四个现代化”的战略步骤：从第三个五年计划开始，第一步建成一个独立的比较完整的（）和国民经济体系，第二步全面实现“四个现代化”，使中国的经济发展走在世界的前列。",
       "answerRaw": "B",
-      "explanation": "本题看调动一切积极因素。B. 工业体系符合题干要求，所以选它。A. 农业体系不符合题干要求，所以不选。C. 教育体系不符合题干要求，所以不选。D. 科技体系不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -16896,9 +16130,7 @@ window.QUESTION_BANK_DATA = {
           "text": "科技体系"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-7",
@@ -16917,7 +16149,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党在社会主义建设时期关于科技工作的探索，明确提出了“向科学进军”的口号，强调实现“四个现代化”，关键在于（）。",
       "answerRaw": "D",
-      "explanation": "本题看调动一切积极因素。D. 科学技术现代化符合题干要求，所以选它。A. 农业现代化不符合题干要求，所以不选。B. 工业现代化不符合题干要求，所以不选。C. 教育现代化不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -16936,9 +16168,7 @@ window.QUESTION_BANK_DATA = {
           "text": "科学技术现代化"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-8",
@@ -16957,7 +16187,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "争取（），发展同亚非拉国家的关系，成为20世纪50年代中期至60年代中期中国对外政策的一个重要组成部分。",
       "answerRaw": "C",
-      "explanation": "本题看调动一切积极因素。C. “中间地带”符合题干要求，所以选它。A. “强强联合”不符合题干要求，所以不选。B. “南南合作”不符合题干要求，所以不选。D. “发展外援”不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -16976,9 +16206,7 @@ window.QUESTION_BANK_DATA = {
           "text": "“发展外援”"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-9",
@@ -16997,7 +16225,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "由于社会主义社会的矛盾不是对抗性的矛盾，因此，毛泽东认为，解决这类矛盾的策略是（）。",
       "answerRaw": "D",
-      "explanation": "本题看调动一切积极因素。D. 可以经过社会主义制度本身，不断地得到解决不属于由于社会主义社会的矛盾，所以选它。A. 通过群众运动的方式迅速解决属于由于社会主义社会的矛盾，所以不选。B. 依靠外部力量进行干预调解属于由于社会主义社会的矛盾，所以不选。C. 对生产资料的所有制进行社会主义改造属于由于社会主义社会的矛盾，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17016,9 +16244,7 @@ window.QUESTION_BANK_DATA = {
           "text": "可以经过社会主义制度本身，不断地得到解决"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-10",
@@ -17040,7 +16266,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《论十大关系》中论述的第一大关系，便是（）。",
       "answerRaw": "A",
-      "explanation": "本题看初步探索的重要理论成果。A. 重工业和轻工业、农业的关系符合题干要求，所以选它。B. 中央和地方的关系不符合题干要求，所以不选。C. 工业现代化和农业现代化的关系不符合题干要求，所以不选。D. 沿海工业和内地工业的关系不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17059,9 +16285,7 @@ window.QUESTION_BANK_DATA = {
           "text": "沿海工业和内地工业的关系"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-11",
@@ -17080,7 +16304,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国在社会主义建设中出现过急躁冒进、急于求成的倾向，其根本原因在于（）。",
       "answerRaw": "B",
-      "explanation": "本题看调动一切积极因素。B. 缺乏科学态度，不尊重客观规律符合题干要求，所以选它。A. 建设社会主义没有经验不符合题干要求，所以不选。C. 有希望中国尽快发展的良好愿望不符合题干要求，所以不选。D. 建设社会主义的任务极为繁重不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17099,9 +16323,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建设社会主义的任务极为繁重"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-12",
@@ -17123,7 +16345,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "《论十大关系》确定了一个基本方针，就是（）。",
       "answerRaw": "D",
-      "explanation": "本题看初步探索的重要理论成果。D. 努力把党内党外、国内国外的一切积极的因素，直接的、间接的积极因素，全部调动起来，为社会主义建设服务符合题干要求，所以选它。A. 把马克思主义与中国实际相结合，探索符合中国特点的社会主义建设道路不符合题干要求，所以不选。B. 必须正确认识社会主义的主要矛盾和根本任务，集中力量发展生产力不符合题干要求，所以不选。C. 从实际出发进行社会主义建设，不能急于求成不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17142,9 +16364,7 @@ window.QUESTION_BANK_DATA = {
           "text": "努力把党内党外、国内国外的一切积极的因素，直接的、间接的积极因素，全部调动起来，为社会主义建设服务"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-13",
@@ -17163,7 +16383,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在《关于正确处理人民内部矛盾的问题》中，毛泽东指出，用（）的方法解决人民内部矛盾，这是一个总方针。",
       "answerRaw": "D",
-      "explanation": "本题看调动一切积极因素。D. 民主符合题干要求，所以选它。A. 中立不符合题干要求，所以不选。B. 专制不符合题干要求，所以不选。C. 集中不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17182,9 +16402,7 @@ window.QUESTION_BANK_DATA = {
           "text": "民主"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-14",
@@ -17203,7 +16421,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党领导人民探索社会主义建设道路，历经艰辛和曲折，在理论和实践上取得了一系列重要成果。这些成果的意义不包括（）。",
       "answerRaw": "B",
-      "explanation": "本题看调动一切积极因素。B. 为实现共产主义奠定了物质基础不属于党领导人民探索社会主义建设道路，历经艰辛和曲折，在理论和实践上取得了一系列重要成果。这些成果的意义，所以选它。A. 巩固和发展了我国的社会主义制度属于党领导人民探索社会主义建设道路，历经艰辛和曲折，在理论和实践上取得了一系列重要成果。这些成果的意义，所以不选。C. 为开创中国特色社会主义提供了宝贵经验、理论准备、物质基础属于党领导人民探索社会主义建设道路，历经艰辛和曲折，在理论和实践上取得了一系列重要成果。这些成果的意义，所以不选。D. 丰富了科学社会主义的理论和实践属于党领导人民探索社会主义建设道路，历经艰辛和曲折，在理论和实践上取得了一系列重要成果。这些成果的意义，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17222,9 +16440,7 @@ window.QUESTION_BANK_DATA = {
           "text": "丰富了科学社会主义的理论和实践"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-15",
@@ -17243,7 +16459,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义制度建立以后，（）成为我们党必须认真研究和解决的一个重大课题。",
       "answerRaw": "A",
-      "explanation": "本题看调动一切积极因素。A. 如何巩固和发展社会主义制度符合题干要求，所以选它。B. 如何深化阶级斗争不符合题干要求，所以不选。C. 如何继续进行革命不符合题干要求，所以不选。D. 如何开展整风运动不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17262,9 +16478,7 @@ window.QUESTION_BANK_DATA = {
           "text": "如何开展整风运动"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-16",
@@ -17283,7 +16497,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东主张企业要建立合理的规章制度和严格的责任制，即“两参一改三结合”，“三结合”指的是（）。",
       "answerRaw": "C",
-      "explanation": "本题看调动一切积极因素。C. 工人、干部、技术人员结合符合毛泽东主张企业要建立合理的规章制度和严格的责任制，即“两参一改三结合”，“三结合”，所以选它。A. 工农兵结合不符合毛泽东主张企业要建立合理的规章制度和严格的责任制，即“两参一改三结合”，“三结合”，所以不选。B. 老中青结合不符合毛泽东主张企业要建立合理的规章制度和严格的责任制，即“两参一改三结合”，“三结合”，所以不选。D. 产学研结合不符合毛泽东主张企业要建立合理的规章制度和严格的责任制，即“两参一改三结合”，“三结合”，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17302,9 +16516,7 @@ window.QUESTION_BANK_DATA = {
           "text": "产学研结合"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-17",
@@ -17323,7 +16535,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "对改革开放前的社会主义实践探索，要坚持（）的思想路线，分清主流和支流，发扬经验，吸取教训。",
       "answerRaw": "D",
-      "explanation": "本题看调动一切积极因素。D. 实事求是符合题干要求，所以选它。A. “两个凡是”不符合题干要求，所以不选。B. 以阶级斗争为纲不符合题干要求，所以不选。C. 一个中心，两个基本点不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17342,9 +16554,7 @@ window.QUESTION_BANK_DATA = {
           "text": "实事求是"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-18",
@@ -17363,7 +16573,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在扩大的最高国务会议上发表《关于正确处理人民内部矛盾的问题》的讲话，强调指出把（）作为国家政治生活的主题。",
       "answerRaw": "B",
-      "explanation": "本题看调动一切积极因素。B. 正确处理人民内部矛盾符合题干要求，所以选它。A. 调动一切积极因素为社会主义事业服务不符合题干要求，所以不选。C. 实现国家工业化不符合题干要求，所以不选。D. 调整和完善所有制结构不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17382,9 +16592,7 @@ window.QUESTION_BANK_DATA = {
           "text": "调整和完善所有制结构"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-19",
@@ -17406,7 +16614,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1956年，毛泽东在《论十大关系》的报告中初步总结了我国社会主义建设的经验，明确提出了（）。",
       "answerRaw": "B",
-      "explanation": "本题看初步探索的重要理论成果。B. 独立自主地探索适合中国情况的社会主义建设道路符合题干要求，所以选它。A. 党在过渡时期的总路线不符合题干要求，所以不选。C. 建设有中国特色的社会主义不符合题干要求，所以不选。D. 多快好省地建设社会主义不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17425,9 +16633,7 @@ window.QUESTION_BANK_DATA = {
           "text": "多快好省地建设社会主义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-20",
@@ -17446,7 +16652,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "为了走中国工业化道路，党的八大提出我国经济建设的方针是（）。",
       "answerRaw": "C",
-      "explanation": "本题看中国工业化道路。C. 既反保守又反冒进、在综合平衡中稳步前进符合题干要求，所以选它。A. 大干快上，赶美超英不符合题干要求，所以不选。B. 力争高速度，压倒一切不符合题干要求，所以不选。D. 慢一点，稳一点不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17465,9 +16671,7 @@ window.QUESTION_BANK_DATA = {
           "text": "慢一点，稳一点"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-21",
@@ -17486,7 +16690,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "人民内部矛盾是在人民根本利益一致基础上的矛盾。因此，它是（）。",
       "answerRaw": "A",
-      "explanation": "本题看调动一切积极因素。A. 非对抗性矛盾符合题干要求，所以选它。B. 对抗性矛盾不符合题干要求，所以不选。C. 非基本方面的矛盾不符合题干要求，所以不选。D. 基本方面的矛盾不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17505,9 +16709,7 @@ window.QUESTION_BANK_DATA = {
           "text": "基本方面的矛盾"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-22",
@@ -17526,7 +16728,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在关于社会主义建设的教育科学文化工作方面，提出实行“两种劳动制度，两种教育制度”的是（）。",
       "answerRaw": "D",
-      "explanation": "本题看调动一切积极因素。D. 刘少奇符合题干要求，所以选它。A. 毛泽东不符合题干要求，所以不选。B. 朱德不符合题干要求，所以不选。C. 陈云不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17545,9 +16747,7 @@ window.QUESTION_BANK_DATA = {
           "text": "刘少奇"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-23",
@@ -17566,7 +16766,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中共八大指出：社会主义制度已经确立，全国人民的主要任务是（）。",
       "answerRaw": "A",
-      "explanation": "本题看调动一切积极因素。A. 集中力量发展社会生产力，实现国家工业化符合题干要求，所以选它。B. 联合一切革命阶级将社会主义革命事业进行到底不符合题干要求，所以不选。C. 把农业发展放在社会主义建设的首要地位，集中力量发展农业现代化不符合题干要求，所以不选。D. 加强社会主义经济建设、政治建设和社会建设不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17585,9 +16785,7 @@ window.QUESTION_BANK_DATA = {
           "text": "加强社会主义经济建设、政治建设和社会建设"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-24",
@@ -17606,7 +16804,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东提出解决人民内部矛盾的具体方法是（）。",
       "answerRaw": "A",
-      "explanation": "本题看调动一切积极因素。A. 批评、讨论、说服教育的方法符合题干要求，所以选它。B. 批判、斗争的方法不符合题干要求，所以不选。C. 循序渐进改造的方法不符合题干要求，所以不选。D. 从根本上消灭主要矛盾的方法不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17625,9 +16823,7 @@ window.QUESTION_BANK_DATA = {
           "text": "从根本上消灭主要矛盾的方法"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-25",
@@ -17646,7 +16842,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1964年周恩来在三届全国人大一次会议上提出建设“四个现代化”的战略步骤，首先第一步目标是（）。",
       "answerRaw": "B",
-      "explanation": "本题看调动一切积极因素。B. 建立一个独立的比较完整的工业体系和国民经济体系符合题干要求，所以选它。A. 实现四个现代化不符合题干要求，所以不选。C. 超越英国工业水平不符合题干要求，所以不选。D. 完成社会主义改造不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17665,9 +16861,7 @@ window.QUESTION_BANK_DATA = {
           "text": "完成社会主义改造"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-26",
@@ -17686,7 +16880,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1957年，毛泽东在《关于正确处理人民内部矛盾的问题》中指出，在我国，工人阶级与民族资产阶级的矛盾属于人民内部的矛盾。如果处理不当，会变成（）。",
       "answerRaw": "A",
-      "explanation": "本题看调动一切积极因素。A. 对抗性的敌我矛盾符合1957年，毛泽东在《关于正确处理人民内部矛盾的问题》中指出，在我国，工人阶级与民族资产阶级的矛盾，所以选它。B. 非对抗性的敌我矛盾不符合1957年，毛泽东在《关于正确处理人民内部矛盾的问题》中指出，在我国，工人阶级与民族资产阶级的矛盾，所以不选。C. 对抗性的人民内部矛盾不符合1957年，毛泽东在《关于正确处理人民内部矛盾的问题》中指出，在我国，工人阶级与民族资产阶级的矛盾，所以不选。D. 非对抗性的人民内部矛盾不符合1957年，毛泽东在《关于正确处理人民内部矛盾的问题》中指出，在我国，工人阶级与民族资产阶级的矛盾，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17705,9 +16899,7 @@ window.QUESTION_BANK_DATA = {
           "text": "非对抗性的人民内部矛盾"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-27",
@@ -17726,7 +16918,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在社会主义建设道路初步探索过程中，毛泽东提出了（）的发展国民经济的总方针。",
       "answerRaw": "A",
-      "explanation": "本题看调动一切积极因素。A. 以农业为基础，以工业为主导，以农轻重为序符合题干要求，所以选它。B. 以农业为基础，以重工业为主导，以农轻重为序不符合题干要求，所以不选。C. 以工业为基础，以农业为主导，以农轻重为序不符合题干要求，所以不选。D. 全面发展，综合平衡不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17745,9 +16937,7 @@ window.QUESTION_BANK_DATA = {
           "text": "全面发展，综合平衡"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-28",
@@ -17766,7 +16956,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "建国以来，我们在社会主义建设中所经历的曲折和失误归根结底在于没有搞清楚（）问题。",
       "answerRaw": "C",
-      "explanation": "本题看调动一切积极因素。C. 什么是社会主义、怎样建设社会主义符合题干要求，所以选它。A. 阶级斗争和经济建设的关系不符合题干要求，所以不选。B. 解放生产力和发展生产力的关系不符合题干要求，所以不选。D. 计划与市场的关系不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17785,9 +16975,7 @@ window.QUESTION_BANK_DATA = {
           "text": "计划与市场的关系"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-29",
@@ -17806,7 +16994,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "走中国工业化道路，必须调整和完善所有制结构。为此，毛泽东、刘少奇、周恩来提出了（）。",
       "answerRaw": "A",
-      "explanation": "本题看中国工业化道路。A. 把资本主义经济作为社会主义经济的补充的思想符合题干要求，所以选它。B. “三个主体，三个补充”的思想不符合题干要求，所以不选。C. 发展手工业和农业多种经营的思想不符合题干要求，所以不选。D. 公有制为主体，多种所有制经济共同发展的思想不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17825,9 +17013,7 @@ window.QUESTION_BANK_DATA = {
           "text": "公有制为主体，多种所有制经济共同发展的思想"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-30",
@@ -17846,7 +17032,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东提出，对于政治思想领域的人民内部矛盾，实行（）。",
       "answerRaw": "C",
-      "explanation": "本题看调动一切积极因素。C. “团结——批评——团结”的方针符合题干要求，所以选它。A. “长期共存、互相监督”的方针不符合题干要求，所以不选。B. “百花齐放、百家争鸣”的方针不符合题干要求，所以不选。D. 民族平等、团结互助的方针不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17865,9 +17051,7 @@ window.QUESTION_BANK_DATA = {
           "text": "民族平等、团结互助的方针"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-31",
@@ -17886,7 +17070,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "鉴于中国生产力落后、经济基础薄弱的情况，毛泽东指出，把（）作为我国经济建设的重点。",
       "answerRaw": "C",
-      "explanation": "本题看调动一切积极因素。C. 重工业符合题干要求，所以选它。A. 农业不符合题干要求，所以不选。B. 轻工业不符合题干要求，所以不选。D. 沿海工业不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17905,9 +17089,7 @@ window.QUESTION_BANK_DATA = {
           "text": "沿海工业"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-32",
@@ -17926,7 +17108,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义要体现出相对资本主义的优势并最终战胜资本主义，必须（）。",
       "answerRaw": "C",
-      "explanation": "本题看调动一切积极因素。C. 大胆借鉴和吸收包括资本主义文明在内的一切人类文明成果符合题干要求，所以选它。A. 完全照搬资本主义国家的政治经济模式不符合题干要求，所以不选。B. 彻底否定资本主义文明成果，建立纯而又纯的公有制不符合题干要求，所以不选。D. 优先发展军事力量以对抗资本主义国家不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17945,9 +17127,7 @@ window.QUESTION_BANK_DATA = {
           "text": "优先发展军事力量以对抗资本主义国家"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-33",
@@ -17966,7 +17146,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东指出：“我们历来就主张，在人民民主专政下面，解决敌我之间和人民内部的这两类不同性质的矛盾，采用（）这样两种不同的方法。”",
       "answerRaw": "A",
-      "explanation": "本题看调动一切积极因素。A. 专政和民主符合题干要求，所以选它。B. 团结和批评不符合题干要求，所以不选。C. 民主和集中不符合题干要求，所以不选。D. 统筹兼顾和适当安排不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -17985,9 +17165,7 @@ window.QUESTION_BANK_DATA = {
           "text": "统筹兼顾和适当安排"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-34",
@@ -18006,7 +17184,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新中国工业化是在苏联影响下起步的，走中国工业化道路，是中国共产党初步探索我国社会主义建设道路的一个重要思想，当时所讲工业化道路问题，主要指（）。",
       "answerRaw": "D",
-      "explanation": "本题看中国工业化道路。D. 重工业、轻工业和农业的发展关系问题符合题干要求，所以选它。A. 经济建设和国防建设关系问题不符合题干要求，所以不选。B. 中央和地方关系问题不符合题干要求，所以不选。C. 沿海工业和内地工业的关系问题不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18025,9 +17203,7 @@ window.QUESTION_BANK_DATA = {
           "text": "重工业、轻工业和农业的发展关系问题"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-35",
@@ -18046,7 +17222,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "陈云提出的“三个主体，三个补充”设想中，关于市场领域的表述是（）。",
       "answerRaw": "A",
-      "explanation": "本题看调动一切积极因素。A. 国家市场为主体，自由市场为补充符合题干要求，所以选它。B. 计划经济为主体，市场经济为补充不符合题干要求，所以不选。C. 国营商业为主体，个体商业为补充不符合题干要求，所以不选。D. 批发市场为主体，零售市场为补充不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18065,9 +17241,7 @@ window.QUESTION_BANK_DATA = {
           "text": "批发市场为主体，零售市场为补充"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-36",
@@ -18086,7 +17260,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东提出正确处理人民内部矛盾，主要是为了（）。",
       "answerRaw": "C",
-      "explanation": "本题看调动一切积极因素。C. 把全党的注意力转到社会主义建设上来符合题干要求，所以选它。A. 开展整风运动，克服官僚主义不符合题干要求，所以不选。B. 维护社会的稳定团结不符合题干要求，所以不选。D. 巩固发展三大改造的成果不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18105,9 +17279,7 @@ window.QUESTION_BANK_DATA = {
           "text": "巩固发展三大改造的成果"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-37",
@@ -18126,7 +17298,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《关于正确处理人民内部矛盾的问题》的报告中指出，社会主义基本矛盾的性质是（）。",
       "answerRaw": "B",
-      "explanation": "本题看调动一切积极因素。B. 非对抗性的符合题干要求，所以选它。A. 对抗性的不符合题干要求，所以不选。C. 不可调和的不符合题干要求，所以不选。D. 针锋相对的不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18145,9 +17317,7 @@ window.QUESTION_BANK_DATA = {
           "text": "针锋相对的"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-38",
@@ -18166,7 +17336,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在探索适合中国国情的社会主义道路问题上，（）提出整顿工业企业，改善和加强企业管理，实行职工代表大会制等观点。",
       "answerRaw": "C",
-      "explanation": "本题看调动一切积极因素。C. 邓小平符合题干要求，所以选它。A. 刘少奇不符合题干要求，所以不选。B. 周恩来不符合题干要求，所以不选。D. 陈云不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18185,9 +17355,7 @@ window.QUESTION_BANK_DATA = {
           "text": "陈云"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-39",
@@ -18206,7 +17374,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在探索适合中国国情的社会主义道路问题上，（）提出我国知识分子绝大多数已经是劳动人民的知识分子，强调知识分子是工人阶级一部分的观点。",
       "answerRaw": "B",
-      "explanation": "本题看调动一切积极因素。B. 周恩来符合题干要求，所以选它。A. 刘少奇不符合题干要求，所以不选。C. 邓小平不符合题干要求，所以不选。D. 陈云不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18225,9 +17393,7 @@ window.QUESTION_BANK_DATA = {
           "text": "陈云"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-40",
@@ -18249,7 +17415,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "《论十大关系》前五条着眼于调动（）领域各个方面的积极因素。",
       "answerRaw": "B",
-      "explanation": "本题看初步探索的重要理论成果。B. 经济符合题干要求，所以选它。A. 政治不符合题干要求，所以不选。C. 文化不符合题干要求，所以不选。D. 军事不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18268,9 +17434,7 @@ window.QUESTION_BANK_DATA = {
           "text": "军事"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-41",
@@ -18292,7 +17456,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义改造基本完成后，我国进入社会主义建设时期。党面临的一个崭新课题是在中国这样一个经济文化比较落后的东方大国如何（）。",
       "answerRaw": "D",
-      "explanation": "本题看初步探索的重要理论成果。D. 建设和巩固社会主义符合题干要求，所以选它。A. 解放生产力不符合题干要求，所以不选。B. 发展生产力不符合题干要求，所以不选。C. 进行社会主义革命不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18311,9 +17475,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建设和巩固社会主义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-42",
@@ -18332,7 +17494,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的八大提出的我国社会主要矛盾是（）。",
       "answerRaw": "B",
-      "explanation": "本题看调动一切积极因素。B. 人民对于经济文化迅速发展的需要同当前经济文化不能满足需要的矛盾符合题干要求，所以选它。A. 无产阶级与资产阶级的矛盾不符合题干要求，所以不选。C. 社会主义道路与资本主义道路的矛盾不符合题干要求，所以不选。D. 帝国主义与中华民族的矛盾不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18351,9 +17513,7 @@ window.QUESTION_BANK_DATA = {
           "text": "帝国主义与中华民族的矛盾"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-43",
@@ -18372,7 +17532,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在关于社会主义建设的教育科学文化工作方面，刘少奇提出的“两种劳动制度”指（）。",
       "answerRaw": "B",
-      "explanation": "本题看调动一切积极因素。B. 固定工与临时工制度符合题干要求，所以选它。A. 体力劳动与脑力劳动不符合题干要求，所以不选。C. 城市与农村劳动力分配不符合题干要求，所以不选。D. 计划与市场结合不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18391,9 +17551,7 @@ window.QUESTION_BANK_DATA = {
           "text": "计划与市场结合"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-44",
@@ -18412,7 +17570,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在社会主义建设道路初步探索过程中，走中国工业化道路，必须调整和完善所有制结构。（）提出了“三个主体，三个补充”设想。",
       "answerRaw": "B",
-      "explanation": "本题看中国工业化道路。B. 陈云符合题干要求，所以选它。A. 毛泽东不符合题干要求，所以不选。C. 周恩来不符合题干要求，所以不选。D. 刘少奇不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18431,9 +17589,7 @@ window.QUESTION_BANK_DATA = {
           "text": "刘少奇"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-45",
@@ -18452,7 +17608,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“长期共存，互相监督”方针针对的是（）矛盾的解决。",
       "answerRaw": "A",
-      "explanation": "本题看调动一切积极因素。A. 中国共产党与民主党派关系符合题干要求，所以选它。B. 民族关系不符合题干要求，所以不选。C. 工农联盟不符合题干要求，所以不选。D. 国际外交关系不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18471,9 +17627,7 @@ window.QUESTION_BANK_DATA = {
           "text": "国际外交关系"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-46",
@@ -18492,7 +17646,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "关于科技工作方面的建设，我们党提出“向科学进军”口号的时期是（）。",
       "answerRaw": "D",
-      "explanation": "本题看调动一切积极因素。D. 社会主义建设初期符合题干要求，所以选它。A. 新中国成立初期不符合题干要求，所以不选。B. 改革开放初期不符合题干要求，所以不选。C. 文革时期不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18511,9 +17665,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义建设初期"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-47",
@@ -18532,7 +17684,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "初步探索为中国特色社会主义提供的物质基础主要指（）。",
       "answerRaw": "B",
-      "explanation": "本题看调动一切积极因素。B. 独立的工业体系和国民经济体系符合题干要求，所以选它。A. 市场经济体制不符合题干要求，所以不选。C. 对外开放政策不符合题干要求，所以不选。D. 农业集体化成果不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18551,9 +17703,7 @@ window.QUESTION_BANK_DATA = {
           "text": "农业集体化成果"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-48",
@@ -18575,7 +17725,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "《论十大关系》前三条讨论的关系不包括（）。",
       "answerRaw": "D",
-      "explanation": "本题看初步探索的重要理论成果。D. 工业和商业的关系不属于《论十大关系》前三条讨论的关系，所以选它。A. 重工业和轻工业、农业的关系属于《论十大关系》前三条讨论的关系，所以不选。B. 沿海工业和内地工业的关系属于《论十大关系》前三条讨论的关系，所以不选。C. 经济建设和国防建设的关系属于《论十大关系》前三条讨论的关系，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18594,9 +17744,7 @@ window.QUESTION_BANK_DATA = {
           "text": "工业和商业的关系"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-49",
@@ -18615,7 +17763,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "20世纪50年代中国争取“中间地带”的外交策略旨在（）。",
       "answerRaw": "B",
-      "explanation": "本题看调动一切积极因素。B. 发展同亚非拉国家关系符合题干要求，所以选它。A. 联合美国对抗苏联不符合题干要求，所以不选。C. 加入社会主义阵营不符合题干要求，所以不选。D. 孤立资本主义国家不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18634,9 +17782,7 @@ window.QUESTION_BANK_DATA = {
           "text": "孤立资本主义国家"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-50",
@@ -18655,7 +17801,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东提出“三个世界划分”战略思想的国际背景是（）。",
       "answerRaw": "B",
-      "explanation": "本题看调动一切积极因素。B. 亚非拉民族解放运动兴起符合题干要求，所以选它。A. 美苏冷战加剧不符合题干要求，所以不选。C. 中国恢复联合国席位不符合题干要求，所以不选。D. 中苏关系破裂不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18674,9 +17820,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中苏关系破裂"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-51",
@@ -18695,7 +17839,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在探索中国社会主义建设道路过程中，毛泽东提出了关于社会主义发展阶段的思想，下列说法正确的有（）。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看调动一切积极因素。B. 可能分为两个阶段，第一个阶段是不发达的社会主义，第二个阶段是比较发达的社会主义符合题干要求，所以选它。C. 后一阶段可能比前一阶段需要更长的时间符合题干要求，所以选它。D. 经过后一阶段，到了物质产品、精神财富都极为丰富和人们的共产主义觉悟极大提高的时候，就可以进入共产主义社会了符合题干要求，所以选它。A. 可能分为两个阶段，第一个阶段是社会主义初级阶段，第二个阶段是社会主义高级阶段不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18714,9 +17858,7 @@ window.QUESTION_BANK_DATA = {
           "text": "经过后一阶段，到了物质产品、精神财富都极为丰富和人们的共产主义觉悟极大提高的时候，就可以进入共产主义社会了"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-52",
@@ -18735,7 +17877,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "20世纪70年代前期，毛泽东针对当时国际形势的变化逐渐形成了关于“三个世界划分”的战略思想。他认为（）。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看调动一切积极因素。B. 苏美两个超级大国属于第一世界符合题干要求，所以选它。C. 亚洲、非洲、拉丁美洲的广大发展中国家属于第三世界符合题干要求，所以选它。D. 我们的主要任务是反对超级大国的霸权主义和战争威胁符合题干要求，所以选它。A. 以美国为首的西方发达资本主义国家属于第一世界不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18754,9 +17896,7 @@ window.QUESTION_BANK_DATA = {
           "text": "我们的主要任务是反对超级大国的霸权主义和战争威胁"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-53",
@@ -18775,7 +17915,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东提出探索马克思主义同中国实际即社会主义建设实际的“第二次结合”，说明中国共产党（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看调动一切积极因素。A. 开始探索适合中国特点的社会主义建设道路符合题干要求，所以选它。B. 开始摆脱单一的苏联模式符合题干要求，所以选它。C. 开始重新认识“什么是社会主义，怎样建设社会主义”不符合题干要求，所以不选。D. 开始进行改革开放的事业不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18794,9 +17934,7 @@ window.QUESTION_BANK_DATA = {
           "text": "开始进行改革开放的事业"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-54",
@@ -18815,7 +17953,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《关于正确处理人民内部矛盾的问题》系统论述了社会主义社会矛盾的理论。关于社会主义社会矛盾，毛泽东指出（）。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看社会主义社会矛盾。A. 矛盾是普遍存在的，社会主义社会同样充满着矛盾符合题干要求，所以选它。C. 社会主义社会的矛盾反映在政治上可以划分为敌我矛盾和人民内部矛盾这两类性质完全不同的矛盾，正确处理人民内部矛盾是国家政治生活的主题符合题干要求，所以选它。D. 社会主义社会的基本矛盾可以通过社会主义制度本身的自我调整和自我完善得到解决符合题干要求，所以选它。B. 社会主义社会的基本矛盾仍然是生产关系和生产力之间、上层建筑和经济基础之间的矛盾，它同旧社会的基本矛盾性质是一样的不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18834,9 +17972,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义社会的基本矛盾可以通过社会主义制度本身的自我调整和自我完善得到解决"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-55",
@@ -18855,7 +17991,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "以毛泽东为核心的第一代中央领导集体在创建新中国和探索适合中国情况的社会主义建设道路过程中，形成了一系列重要的理论，主要有（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看调动一切积极因素。A. 在社会主义经济建设方面，实行以农业为基础、以工业为主导的方针，以农、轻、重为序发展国民经济符合题干要求，所以选它。B. 社会主义可以分为不发达的社会主义和比较发达的社会主义两个阶段，后一阶段可能比前阶段需要更长的时间符合题干要求，所以选它。C. 提出“四个现代化”战略目标，把中国建设成为一个具有现代农业、现代工业、现代国防和现代科学技术的强国符合题干要求，所以选它。D. 发展面向现代化、面向世界、面向未来的，民族的科学的大众的社会主义文化不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18874,9 +18010,7 @@ window.QUESTION_BANK_DATA = {
           "text": "发展面向现代化、面向世界、面向未来的，民族的科学的大众的社会主义文化"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-56",
@@ -18895,7 +18029,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东强调，关于正确处理人民内部矛盾的问题是社会主义国家政治生活的主题。这一论断的着眼点在于（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看调动一切积极因素。A. 调动一切积极因素符合题干要求，所以选它。B. 团结一切可以团结的力量符合题干要求，所以选它。C. 把全党的注意力转到社会主义建设上来符合题干要求，所以选它。D. 以阶级斗争为纲不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18914,9 +18048,7 @@ window.QUESTION_BANK_DATA = {
           "text": "以阶级斗争为纲"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-57",
@@ -18935,7 +18067,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义建设道路初步探索的正反两方面经验，为今天坚持和发展中国特色社会主义提供了重要借鉴，要正确认识改革开放前和改革开放后后两个历史时期的关系，应把握的观点包括（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看调动一切积极因素。A. 改革开放前的社会主义实践探索为改革开放后的社会主义实践探索积累了经验并准备了条件符合社会主义建设道路初步探索的正反两方面经验，为今天坚持和发展中国特色社会主义提供了重要借鉴，要正确认识改革开放前和改革开放后后两个历史时期的关系，应把握的观点，所以选它。B. 改革开放后的社会主义实践探索是对前一个时期探索的坚持、改革、发展符合社会主义建设道路初步探索的正反两方面经验，为今天坚持和发展中国特色社会主义提供了重要借鉴，要正确认识改革开放前和改革开放后后两个历史时期的关系，应把握的观点，所以选它。C. 这是两个相互联系又有重大区别的时期符合社会主义建设道路初步探索的正反两方面经验，为今天坚持和发展中国特色社会主义提供了重要借鉴，要正确认识改革开放前和改革开放后后两个历史时期的关系，应把握的观点，所以选它。D. 这两个时期本质上都是中国共产党领导人民进行社会主义建设的实践探索符合社会主义建设道路初步探索的正反两方面经验，为今天坚持和发展中国特色社会主义提供了重要借鉴，要正确认识改革开放前和改革开放后后两个历史时期的关系，应把握的观点，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18954,9 +18086,7 @@ window.QUESTION_BANK_DATA = {
           "text": "这两个时期本质上都是中国共产党领导人民进行社会主义建设的实践探索"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-58",
@@ -18975,7 +18105,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《关于正确处理人民内部矛盾的问题》中指出，中国共产党和民主党派之间实行“长期共存，互相监督”的方针的两个前提是（）。",
       "answerRaw": "A;D",
-      "explanation": "本题看调动一切积极因素。A. 坚持共产党的领导符合题干要求，所以选它。D. 坚持社会主义道路符合题干要求，所以选它。B. 坚持马克思主义不符合题干要求，所以不选。C. 坚持人民民主专政不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -18994,9 +18124,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持社会主义道路"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-59",
@@ -19015,7 +18143,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国共产党第一代领导集体对社会主义建设道路的初步探索丰富了科学社会主义的理论和实践，探索的成就表明（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看调动一切积极因素。A. 社会主义建设没有一个固定不变的模式符合题干要求，所以选它。B. 各个国家应该根据自己的国情，独立自主地选择适合自己的发展道路符合题干要求，所以选它。C. 为其他国家的社会主义建设提供了经验和借鉴符合题干要求，所以选它。D. 产生了极“左”路线的指导思想不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19034,9 +18162,7 @@ window.QUESTION_BANK_DATA = {
           "text": "产生了极“左”路线的指导思想"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-60",
@@ -19055,7 +18181,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "《论十大关系》确定了一个基本方针，就是“努力把（）的一切积极的因素，直接的、间接的积极因素，全部调动起来”，为社会主义建设服务。",
       "answerRaw": "A;B",
-      "explanation": "本题看调动一切积极因素。A. 党内党外符合题干要求，所以选它。B. 国内国外符合题干要求，所以选它。C. 偶然的不符合题干要求，所以不选。D. 必然的不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19074,9 +18200,7 @@ window.QUESTION_BANK_DATA = {
           "text": "必然的"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-61",
@@ -19095,7 +18219,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "20世纪50年代末60年代初，党在探索社会主义建设道路过程中，提出了一系列重要思想理论观点。主要有（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看调动一切积极因素。A. 既反保守又反冒进、在综合平衡中稳步前进的方针符合题干要求，所以选它。B. 社会主义可以区分为“不发达的社会主义”和“比较发达的社会主义”两个阶段符合题干要求，所以选它。C. 发展商品生产、利用价值规律的思想符合题干要求，所以选它。D. “三个主体，三个补充”的思想符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19114,9 +18238,7 @@ window.QUESTION_BANK_DATA = {
           "text": "“三个主体，三个补充”的思想"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-62",
@@ -19135,7 +18257,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党在探索社会主义建设道路过程中，提出了许多重要思想理论观点，其中陈云提出了“三个主体，三个补充”的思想，其主要内容为（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看调动一切积极因素。A. 在工商业经营方面，国家经济和集体经济是主体，个体经济是补充符合题干要求，所以选它。B. 在生产计划方面，计划生产是主体，自由生产是补充符合题干要求，所以选它。C. 在市场方面，国家市场是主体，自由市场是补充符合题干要求，所以选它。D. 在经济体制方面，计划经济是主体，市场经济为补充不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19154,9 +18276,7 @@ window.QUESTION_BANK_DATA = {
           "text": "在经济体制方面，计划经济是主体，市场经济为补充"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-63",
@@ -19175,7 +18295,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在社会主义改造基本完成后，在各个方面正确处理人民内部矛盾的具体方针是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看调动一切积极因素。A. 经济上实行“统筹兼顾，适当安排”符合题干要求，所以选它。B. 政治上实行“团结——批评——团结”符合题干要求，所以选它。C. 科学文化上实行“百花齐放，百家争鸣”符合题干要求，所以选它。D. 共产党和各民主党派关系上实行“长期共存，互相监督”符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19194,9 +18314,7 @@ window.QUESTION_BANK_DATA = {
           "text": "共产党和各民主党派关系上实行“长期共存，互相监督”"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-64",
@@ -19215,7 +18333,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "20世纪50年代末60年代初，党在探索社会主义建设道路过程中，还提出了其他一些重要的思想理论观点。关于所有制结构的调整与经济体制和运行机制改革，下列表述正确的有（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看调动一切积极因素。A. 把资本主义经济作为社会主义经济的补充符合题干要求，所以选它。B. 提出了“三个主体，三个补充”的设想符合题干要求，所以选它。C. 提出了使社会主义经济既有计划性又有多样性和灵活性的主张符合题干要求，所以选它。D. 关于整顿工业企业，提出了“两参一改三结合”符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19234,9 +18352,7 @@ window.QUESTION_BANK_DATA = {
           "text": "关于整顿工业企业，提出了“两参一改三结合”"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-65",
@@ -19255,7 +18371,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义制度建立以后，党领导人民巩固和发展社会主义制度所面对的严峻复杂的国内外形势有（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看调动一切积极因素。A. 人口多、底子薄、经济文化比较落后符合题干要求，所以选它。B. 社会主义建设的任务艰巨繁重符合题干要求，所以选它。C. 以美国为首的西方国家对中国采取敌视政策符合题干要求，所以选它。D. 西方国家对中国进行封锁和遏制，企图颠覆社会主义制度符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19274,9 +18390,7 @@ window.QUESTION_BANK_DATA = {
           "text": "西方国家对中国进行封锁和遏制，企图颠覆社会主义制度"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-66",
@@ -19295,7 +18409,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义要体现出相对于资本主义的优势并最终战胜资本主义，必须大胆借鉴和吸收包括资本主义文明在内的一切人类文明成果，关于这一理念，在新中国成立后，毛泽东曾多次指出（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看调动一切积极因素。A. 要在平等的基础上开展同一切国家的经济技术交流符合社会主义要体现出相对于资本主义的优势并最终战胜资本主义，必须大胆借鉴和吸收，所以选它。B. 同一些资本主义国家发展经济贸易关系符合社会主义要体现出相对于资本主义的优势并最终战胜资本主义，必须大胆借鉴和吸收，所以选它。D. 要学习一切国家和民族的长处符合社会主义要体现出相对于资本主义的优势并最终战胜资本主义，必须大胆借鉴和吸收，所以选它。C. 坚决不同资本主义国家发展经济贸易关系不符合社会主义要体现出相对于资本主义的优势并最终战胜资本主义，必须大胆借鉴和吸收，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19314,9 +18428,7 @@ window.QUESTION_BANK_DATA = {
           "text": "要学习一切国家和民族的长处"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-67",
@@ -19335,7 +18447,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新中国成立初期，我国主要是学习苏联经验，但实践表明，（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看调动一切积极因素。A. 照抄照搬苏联经验不符合中国国情符合题干要求，所以选它。B. 仍需要实现马克思主义与中国实际的“第二次结合”符合题干要求，所以选它。C. 需要积极探索适合中国特点的社会主义建设道路符合题干要求，所以选它。D. 苏联经验是完全错误的不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19354,9 +18466,7 @@ window.QUESTION_BANK_DATA = {
           "text": "苏联经验是完全错误的"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-68",
@@ -19375,7 +18485,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《关于正确处理人民内部矛盾》中系统阐述的社会主义社会基本矛盾的理论的基本观点是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看调动一切积极因素。A. 社会主义社会的基本矛盾可以通过社会主义制度本身不断地得到解决符合题干要求，所以选它。B. 社会主义社会基本矛盾是在人民利益根本一致基础上的非对抗性矛盾符合题干要求，所以选它。C. 社会主义社会的基本矛盾具有基本适应、部分不适应的特点，又统一又斗争，推动社会主义不断完善巩固符合题干要求，所以选它。D. 社会主义社会的基本矛盾仍然是生产关系和生产力，上层建筑和经济基础之间的矛盾符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19394,9 +18504,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义社会的基本矛盾仍然是生产关系和生产力，上层建筑和经济基础之间的矛盾"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-69",
@@ -19415,7 +18523,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在“走中国工业化道路”的思想中，提出一整套“两条腿走路”的工业化发展思路，即（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看中国工业化道路。A. 重工业和轻工业同时并举符合题干要求，所以选它。B. 中央工业和地方工业同时并举符合题干要求，所以选它。C. 沿海工业与内地工业同时并举符合题干要求，所以选它。D. 大型企业和小型企业同时并举符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19434,9 +18542,7 @@ window.QUESTION_BANK_DATA = {
           "text": "大型企业和小型企业同时并举"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-70",
@@ -19455,7 +18561,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东指出，敌我矛盾和人民内部矛盾的性质和解决方法分别是（）。",
       "answerRaw": "B;C",
-      "explanation": "本题看调动一切积极因素。B. 前者是分清敌我的问题，后者是分清是非的问题符合题干要求，所以选它。C. 前者采用专政方法，后者采用民主方法符合题干要求，所以选它。A. 前者是分清是非的问题，后者是分清敌我的问题不符合题干要求，所以不选。D. 前者采用民主方法，后者采用专政方法不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19474,9 +18580,7 @@ window.QUESTION_BANK_DATA = {
           "text": "前者采用民主方法，后者采用专政方法"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-71",
@@ -19495,7 +18599,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "集中体现毛泽东在探索中国社会主义建设道路时期所取得的理论成果的著作有（）。",
       "answerRaw": "B;C",
-      "explanation": "本题看调动一切积极因素。B. 《论十大关系》符合题干要求，所以选它。C. 《关于正确处理人民内部的矛盾》符合题干要求，所以选它。A. 《论人民民主专政》不符合题干要求，所以不选。D. 《把我国建设成为社会主义的现代化强国》不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19514,9 +18618,7 @@ window.QUESTION_BANK_DATA = {
           "text": "《把我国建设成为社会主义的现代化强国》"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-72",
@@ -19535,7 +18637,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在探索中国社会主义建设道路时期，党的八大提出了一系列重要观点，主要包括（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看调动一切积极因素。A. 国内主要矛盾是人民对于经济文化迅速发展的需要同当前经济文化不能满足人民需要的状况之间的矛盾符合在探索中国社会主义建设道路时期，党的八大提出了一系列重要观点，主要，所以选它。B. 党和国家工作重点应转向社会主义建设符合在探索中国社会主义建设道路时期，党的八大提出了一系列重要观点，主要，所以选它。C. 必须坚持民主集中制和集体领导制度符合在探索中国社会主义建设道路时期，党的八大提出了一系列重要观点，主要，所以选它。D. 共产主义即将在中国实现不符合在探索中国社会主义建设道路时期，党的八大提出了一系列重要观点，主要，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19554,9 +18656,7 @@ window.QUESTION_BANK_DATA = {
           "text": "共产主义即将在中国实现"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-73",
@@ -19575,7 +18675,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "关于社会主义社会基本矛盾的特点，正确的表述是（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看调动一切积极因素。A. 生产关系与生产力既相适应又相矛盾符合题干要求，所以选它。B. 属于非对抗性矛盾符合题干要求，所以选它。D. 可以通过社会主义制度自我完善解决符合题干要求，所以选它。C. 必须通过革命手段解决不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19594,9 +18694,7 @@ window.QUESTION_BANK_DATA = {
           "text": "可以通过社会主义制度自我完善解决"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-74",
@@ -19615,7 +18713,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《关于正确处理人民内部矛盾的问题》中强调，在我们面前有两类社会矛盾，这就是（）。",
       "answerRaw": "C;D",
-      "explanation": "本题看调动一切积极因素。C. 敌我矛盾符合题干要求，所以选它。D. 人民内部矛盾符合题干要求，所以选它。A. 生产关系和生产力的矛盾不符合题干要求，所以不选。B. 上层建筑和经济基础之间的矛盾不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19634,9 +18732,7 @@ window.QUESTION_BANK_DATA = {
           "text": "人民内部矛盾"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-75",
@@ -19655,7 +18751,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "关于社会主义社会两类不同性质的矛盾。下列属于人民内部矛盾的有（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看调动一切积极因素。A. 工人阶级和其他劳动人民同民族资产阶级的矛盾符合关于社会主义社会两类不同性质的矛盾。下列，所以选它。B. 政府和人民群众之间的矛盾符合关于社会主义社会两类不同性质的矛盾。下列，所以选它。C. 领导同被领导之间的矛盾符合关于社会主义社会两类不同性质的矛盾。下列，所以选它。D. 国家机关某些工作人员的官僚主义作风同群众之间的矛盾符合关于社会主义社会两类不同性质的矛盾。下列，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19674,9 +18770,7 @@ window.QUESTION_BANK_DATA = {
           "text": "国家机关某些工作人员的官僚主义作风同群众之间的矛盾"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-76",
@@ -19695,7 +18789,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在社会主义社会，关于两类不同性质的矛盾的观点，错误的有（）。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看调动一切积极因素。A. 敌我矛盾居于主导地位不属于在社会主义社会，关于两类不同性质的矛盾的观点，所以选它。C. 敌我矛盾和人民内部矛盾都居于主导地位不属于在社会主义社会，关于两类不同性质的矛盾的观点，所以选它。D. 敌我矛盾和人民内部矛盾都居于次要地位不属于在社会主义社会，关于两类不同性质的矛盾的观点，所以选它。B. 人民内部矛盾居于主导地位属于在社会主义社会，关于两类不同性质的矛盾的观点，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19714,9 +18808,7 @@ window.QUESTION_BANK_DATA = {
           "text": "敌我矛盾和人民内部矛盾都居于次要地位"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-77",
@@ -19735,7 +18827,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "周恩来在三届全国人大一次会议上提出了“四个现代化”的战略步骤，其内容是（）。",
       "answerRaw": "A;C",
-      "explanation": "本题看调动一切积极因素。A. 第一步，建成一个独立的比较完整的工业体系和国民经济体系符合题干要求，所以选它。C. 第二步，全面实现工业、农业、国防和科学技术现代化，使中国走在世界前列符合题干要求，所以选它。B. 第一步，使中国逐步由农业国转变为工业国不符合题干要求，所以不选。D. 第二步，到本世纪末全面实现现代化，人民生活达到小康水平不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19754,9 +18846,7 @@ window.QUESTION_BANK_DATA = {
           "text": "第二步，到本世纪末全面实现现代化，人民生活达到小康水平"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-78",
@@ -19775,7 +18865,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党在探索中国社会主义建设道路时期，关于教育工作，毛泽东提出了我国的教育方针，要求使受教育者在（）方面都得到发展。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看调动一切积极因素。A. 体育符合题干要求，所以选它。B. 德育符合题干要求，所以选它。D. 智育符合题干要求，所以选它。C. 美育不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19794,9 +18884,7 @@ window.QUESTION_BANK_DATA = {
           "text": "智育"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-79",
@@ -19815,7 +18903,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在探索中国社会主义建设道路过程中，毛泽东提出社会主义阶段，又可能分为（）两个阶段。",
       "answerRaw": "A;B",
-      "explanation": "本题看调动一切积极因素。A. 不发达的社会主义符合题干要求，所以选它。B. 比较发达的社会主义符合题干要求，所以选它。C. 一般发达的社会主义不符合题干要求，所以不选。D. 极度发达的社会主义不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19834,9 +18922,7 @@ window.QUESTION_BANK_DATA = {
           "text": "极度发达的社会主义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-80",
@@ -19855,7 +18941,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1964年底，周恩来在三届全国人大一次会议上所作的政府工作报告中正式宣布，“把我国建设成为一个具有（）的社会主义强国”。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看调动一切积极因素。A. 现代农业符合题干要求，所以选它。B. 现代工业符合题干要求，所以选它。C. 现代国防符合题干要求，所以选它。D. 现代科学技术符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19874,9 +18960,7 @@ window.QUESTION_BANK_DATA = {
           "text": "现代科学技术"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-81",
@@ -19895,7 +18979,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党在探索中国社会主义建设道路时期，毛泽东提出的中国工业化道路的特点包括（）。",
       "answerRaw": "B;D",
-      "explanation": "本题看中国工业化道路。B. 农、轻、重协调发展符合党在探索中国社会主义建设道路时期，毛泽东提出的中国工业化道路的特点，所以选它。D. 兼顾生产与人民生活符合党在探索中国社会主义建设道路时期，毛泽东提出的中国工业化道路的特点，所以选它。A. 以重工业为中心不符合党在探索中国社会主义建设道路时期，毛泽东提出的中国工业化道路的特点，所以不选。C. 完全依赖苏联援助不符合党在探索中国社会主义建设道路时期，毛泽东提出的中国工业化道路的特点，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19914,9 +18998,7 @@ window.QUESTION_BANK_DATA = {
           "text": "兼顾生产与人民生活"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-82",
@@ -19935,7 +19017,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党在探索中国社会主义建设道路时期，在知识分子工作方面，毛泽东提出的观点有（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看调动一切积极因素。A. 知识分子是工人阶级的一部分符合题干要求，所以选它。B. 知识分子需要与工农结合符合题干要求，所以选它。D. 必须培养无产阶级自己的知识分子队伍符合题干要求，所以选它。C. 完全信任并依赖旧社会知识分子不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -19954,9 +19036,7 @@ window.QUESTION_BANK_DATA = {
           "text": "必须培养无产阶级自己的知识分子队伍"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-83",
@@ -19975,11 +19055,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东认为，社会主义建设中的积极因素与消极因素是一对矛盾，这一矛盾呈现出既统一又斗争的关系。",
       "answerRaw": "true",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-84",
@@ -19998,11 +19076,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "调动一切积极因素为社会主义事业服务，必须发展社会主义民主政治。",
       "answerRaw": "true",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-85",
@@ -20021,11 +19097,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "由于社会主义制度刚刚建立，需要有一个不断完善和巩固的过程，在这种情况下，大量人民内部矛盾逐步成为国家政治生活中居于主导地位的矛盾。",
       "answerRaw": "true",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-86",
@@ -20044,11 +19118,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在全党和全国工作重心由革命转向建设的时候，面临着一个如何认识和处理社会主义社会矛盾的问题。",
       "answerRaw": "true",
-      "explanation": "本题看社会主义社会矛盾。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-87",
@@ -20067,11 +19139,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义制度建立以后，如何巩固和发展社会主义制度是我们党必须认真研究和解决的一个重大课题。",
       "answerRaw": "true",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-88",
@@ -20090,11 +19160,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "改革开放以后，我们要吸取经验教训，应当全盘否定改革开放前社会主义实践探索的历史时期，推进我国改革开放进程不断向前发展。",
       "answerRaw": "false",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-89",
@@ -20113,11 +19181,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1959年底至1960年初，毛泽东在探索中国社会主义建设道路过程中指出，社会主义发展阶段要经历一个从社会主义社会向共产主义社会转变的阶段。",
       "answerRaw": "false",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-90",
@@ -20136,11 +19202,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《关于正确处理人民内部的矛盾》中指出，处理人民内部矛盾的性质关键是要分清是非问题，并且要以民主的方法来解决人民内部矛盾。",
       "answerRaw": "true",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-91",
@@ -20159,11 +19223,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《关于正确处理人民内部矛盾的问题》中指出中国工业化道路要照搬苏联模式，这符合我国社会主义初步探索时期的基本国情。",
       "answerRaw": "false",
-      "explanation": "本题看中国工业化道路。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-92",
@@ -20182,11 +19244,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在如何处理人民内部矛盾问题上，毛泽东提出了要实行“团结—批评—团结”的方针，坚持说服教育、讨论的方法处理政治思想领域的人民内部矛盾。",
       "answerRaw": "true",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-93",
@@ -20205,11 +19265,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "一般情况下，人民内部矛盾不是对抗性的，但如果处理不当，也可能发生对抗。",
       "answerRaw": "true",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-94",
@@ -20228,11 +19286,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《论十大关系》中明确提出要以苏为鉴，独立自主地探索适合中国情况的社会主义建设道路。",
       "answerRaw": "true",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-95",
@@ -20251,11 +19307,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1957年，毛泽东在所作的《论十大关系》报告中，明确提出了社会主义现代化的战略目标。",
       "answerRaw": "false",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-96",
@@ -20274,11 +19328,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“四个现代化”战略目标是指把中国建设成为一个具有现代农业、现代工业、现代国防和现代科学技术的社会主义强国。",
       "answerRaw": "true",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-97",
@@ -20297,11 +19349,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《论十大关系》中提出处理共产党和民主党派关系的方针是长期共存、互相监督、肝胆相照、荣辱与共。",
       "answerRaw": "false",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-98",
@@ -20320,11 +19370,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东提出了以农业为基础，工业为主导，以农轻重为序发展国民经济的总方针。",
       "answerRaw": "true",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-99",
@@ -20343,11 +19391,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的八大提出了既反保守又反冒进、大干快上的总方针。",
       "answerRaw": "false",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-100",
@@ -20366,11 +19412,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "走中国工业化道路，必须重视知识分子工作。",
       "answerRaw": "true",
-      "explanation": "本题看中国工业化道路。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-101",
@@ -20389,11 +19433,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三线建设”，是20世纪60-70年代我国以加强经济为中心的战略大后方建设。",
       "answerRaw": "false",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-102",
@@ -20412,11 +19454,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新中国成立初期，我国主要是学习苏联经验，这在当时是必要的，也取得了一定的成效，这证明，照搬照抄苏联模式符合中国国情。",
       "answerRaw": "false",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-103",
@@ -20435,11 +19475,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义代替资本主义，并不意味着社会主义要全盘否定和抛弃资本主义创造的一切成果，也并不意味着社会主义不同资本主义发生任何联系。",
       "answerRaw": "true",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-104",
@@ -20458,11 +19496,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "《论十大关系》中提出的十大关系不包括汉族与少数民族的关系。",
       "answerRaw": "false",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-105",
@@ -20481,11 +19517,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义改造完成后，毛泽东提出中国工业化道路应优先发展重工业，同时注重农业和轻工业的协调发展。",
       "answerRaw": "true",
-      "explanation": "本题看中国工业化道路。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-106",
@@ -20504,11 +19538,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东在《论十大关系》中强调，学习外国经验时必须坚持“一切民族、一切国家的长处都要学”。",
       "answerRaw": "true",
-      "explanation": "本题看调动一切积极因素。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-107",
@@ -20995,7 +20027,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "20世纪70年代前期，毛泽东针对当时国际形势变化逐渐形成了关于“（）”的战略思想。",
       "answerRaw": "B",
-      "explanation": "本题看调动一切积极因素。B. 三个世界划分符合题干要求，所以选它。A. 两个世界划分不符合题干要求，所以不选。C. 四个世界划分不符合题干要求，所以不选。D. 五个世界划分不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21014,9 +20046,7 @@ window.QUESTION_BANK_DATA = {
           "text": "五个世界划分"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-126",
@@ -21038,7 +20068,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“调动一切积极因素，为社会主义事业服务。”是在下列哪篇文章中提出的（）。",
       "answerRaw": "A",
-      "explanation": "本题看初步探索的重要理论成果。A. 《论十大关系》符合题干要求，所以选它。B. 《论人民民主专政》不符合题干要求，所以不选。C. 《不要四面出击》不符合题干要求，所以不选。D. 《关于正确处理人民内部矛盾的问题》不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21057,9 +20087,7 @@ window.QUESTION_BANK_DATA = {
           "text": "《关于正确处理人民内部矛盾的问题》"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-127",
@@ -21081,7 +20109,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新中国成立初期，我国主要是学习苏联经验，这在当时是必要的，也取得了一定的成效。但是在社会主义改造基本完成以后，我们不能继续照抄照搬苏联经验，而是要努力找到（）。",
       "answerRaw": "A",
-      "explanation": "本题看初步探索的重要理论成果。A. 适合中国特点的社会主义建设道路不属于新中国成立初期，我国主要是学习苏联经验，这在当时是必要的，也取得了一定的成效。但是在社会主义改造基本完成以后，我们，所以选它。B. 更快实现工业化的捷径属于新中国成立初期，我国主要是学习苏联经验，这在当时是必要的，也取得了一定的成效。但是在社会主义改造基本完成以后，我们，所以不选。C. 完全不同于苏联的新模式属于新中国成立初期，我国主要是学习苏联经验，这在当时是必要的，也取得了一定的成效。但是在社会主义改造基本完成以后，我们，所以不选。D. 短期内赶超英美的发展战略属于新中国成立初期，我国主要是学习苏联经验，这在当时是必要的，也取得了一定的成效。但是在社会主义改造基本完成以后，我们，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21100,9 +20128,7 @@ window.QUESTION_BANK_DATA = {
           "text": "短期内赶超英美的发展战略"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-128",
@@ -21124,7 +20150,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在社会主义事业发展中，积极因素通常处于（）。​",
       "answerRaw": "B",
-      "explanation": "本题看初步探索的重要理论成果。B. 主导的、统治地位的，占有压倒的优势符合题干要求，所以选它。A. 从属地位，需要不断强化不符合题干要求，所以不选。C. 与消极因素势均力敌不符合题干要求，所以不选。D. 不稳定状态，易被消极因素转化不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21143,9 +20169,7 @@ window.QUESTION_BANK_DATA = {
           "text": "不稳定状态，易被消极因素转化"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-129",
@@ -21167,7 +20191,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "调动一切积极因素为社会主义事业服务，必须发展社会主义民主政治。党的八大提出的关于发展社会主义民主的重要措施不包括（）。",
       "answerRaw": "C",
-      "explanation": "本题看初步探索的重要理论成果。C. 实行多党轮流执政制度不属于调动一切积极因素为社会主义事业服务，必须发展社会主义民主政治。党的八大提出的关于发展社会主义民主的重要措施，所以选它。A. 制定比较完备的法律，健全社会主义法制属于调动一切积极因素为社会主义事业服务，必须发展社会主义民主政治。党的八大提出的关于发展社会主义民主的重要措施，所以不选。B. 加强全国人民代表大会和它的常务委员会对中央一级政府机关的监督属于调动一切积极因素为社会主义事业服务，必须发展社会主义民主政治。党的八大提出的关于发展社会主义民主的重要措施，所以不选。D. 开展反对官僚主义的斗争属于调动一切积极因素为社会主义事业服务，必须发展社会主义民主政治。党的八大提出的关于发展社会主义民主的重要措施，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21186,9 +20210,7 @@ window.QUESTION_BANK_DATA = {
           "text": "开展反对官僚主义的斗争"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-2",
@@ -21207,7 +20229,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义理论体系形成发展过程中，提出建设创新型国家重大战略思想的是（）。",
       "answerRaw": "C",
-      "explanation": "本题看形成发展过程。C. 科学发展观符合题干要求，所以选它。A. 邓小平理论不符合题干要求，所以不选。B. “三个代表” 重要思想不符合题干要求，所以不选。D. 习近平新时代中国特色社会主义思想不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21226,9 +20248,7 @@ window.QUESTION_BANK_DATA = {
           "text": "习近平新时代中国特色社会主义思想"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-3",
@@ -21247,7 +20267,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "20世纪90年代，我国适应经济全球化趋势和加入世界贸易组织的新形势，实施的对外开放战略是（）。",
       "answerRaw": "C",
-      "explanation": "本题看形成发展的社会历史条件。C. “引进来” 和 “走出去” 相结合的战略符合题干要求，所以选它。A. “引进来” 战略不符合题干要求，所以不选。B. “走出去” 战略不符合题干要求，所以不选。D. 全方位对外开放战略不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21266,9 +20286,7 @@ window.QUESTION_BANK_DATA = {
           "text": "全方位对外开放战略"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-4",
@@ -21287,7 +20305,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1982年邓小平在党的十二大开幕词中明确提出：走自己的道路，（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 建设有中国特色的社会主义符合题干要求，所以选它。A. 建设社会主义市场经济不符合题干要求，所以不选。C. 实现马克思主义中国化时代化不符合题干要求，所以不选。D. 建设社会主义初级阶段不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21306,9 +20324,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建设社会主义初级阶段"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-5",
@@ -21327,7 +20343,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表” 重要思想是在（）的严峻考验面前，捍卫了中国特色社会主义而形成的。",
       "answerRaw": "A",
-      "explanation": "本题看形成发展的社会历史条件。A. 国际共产主义运动遭受重大挫折符合题干要求，所以选它。B. 国内经济体制改革困难重重不符合题干要求，所以不选。C. 国际恐怖主义威胁加剧不符合题干要求，所以不选。D. 全球经济危机爆发不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21346,9 +20362,7 @@ window.QUESTION_BANK_DATA = {
           "text": "全球经济危机爆发"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-6",
@@ -21367,7 +20381,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平明确提出社会主义根本任务是（）。",
       "answerRaw": "C",
-      "explanation": "本题看形成发展的社会历史条件。C. 解放和发展生产力符合题干要求，所以选它。A. 阶级斗争不符合题干要求，所以不选。B. 群众运动不符合题干要求，所以不选。D. 意识形态建设不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21386,9 +20400,7 @@ window.QUESTION_BANK_DATA = {
           "text": "意识形态建设"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-7",
@@ -21407,7 +20419,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平在南方谈话中提出的“三个有利于”标准不包括（）。",
       "answerRaw": "C",
-      "explanation": "本题看形成发展的社会历史条件。C. 是否有利于巩固计划经济体制不属于邓小平在南方谈话中提出的“三个有利于”标准，所以选它。A. 是否有利于发展生产力属于邓小平在南方谈话中提出的“三个有利于”标准，所以不选。B. 是否有利于增强综合国力属于邓小平在南方谈话中提出的“三个有利于”标准，所以不选。D. 是否有利于提高人民生活水平属于邓小平在南方谈话中提出的“三个有利于”标准，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21426,9 +20438,7 @@ window.QUESTION_BANK_DATA = {
           "text": "是否有利于提高人民生活水平"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-8",
@@ -21447,7 +20457,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "（）是开辟新时期新道路的宣言书，标志着党重新确立了马克思主义的思想路线、政治路线和组织路线。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 《解放思想，实事求是，团结一致向前看》​符合题干要求，所以选它。A. 《坚持四项基本原则》不符合题干要求，所以不选。C. 《党和国家领导制度的改革》不符合题干要求，所以不选。D. 《在武昌、深圳、珠海、上海等地的谈话要点》不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21466,9 +20476,7 @@ window.QUESTION_BANK_DATA = {
           "text": "《在武昌、深圳、珠海、上海等地的谈话要点》"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-9",
@@ -21487,7 +20495,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国共产党的文件中第一次提出科学发展观是在（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 党的十六届三中全会符合题干要求，所以选它。A. 党的十六大不符合题干要求，所以不选。C. 党的十六届四中全会不符合题干要求，所以不选。D. 党的十七大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21506,9 +20514,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党的十七大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-10",
@@ -21527,7 +20533,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的（）把科学发展观写入党章，科学发展观进一步走向成熟。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 十七大符合题干要求，所以选它。A. 十六大不符合题干要求，所以不选。C. 十八大不符合题干要求，所以不选。D. 十九大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21546,9 +20552,7 @@ window.QUESTION_BANK_DATA = {
           "text": "十九大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-11",
@@ -21567,7 +20571,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "​邓小平提出的“三步走”发展战略中，第二步的目标是（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 人民生活达到小康水平符合题干要求，所以选它。A. 解决人民的温饱问题不符合题干要求，所以不选。C. 基本实现现代化不符合题干要求，所以不选。D. 建成社会主义现代化强国不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21586,9 +20590,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建成社会主义现代化强国"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-12",
@@ -21607,7 +20609,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十一届三中全会以后，以（）同志为主要代表的中国共产党人，领导全党和全国人民果断地纠正了一些错误，深刻地分析了错误出现的原因，同时又坚决地维护和继承了过去在理论上和实践上所取得的一切积极成果。",
       "answerRaw": "A",
-      "explanation": "本题看形成发展的社会历史条件。A. 邓小平不属于党的十一届三中全会以后，以，所以选它。B. 陈云属于党的十一届三中全会以后，以，所以不选。C. 叶剑英属于党的十一届三中全会以后，以，所以不选。D. 胡耀邦属于党的十一届三中全会以后，以，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21626,9 +20628,7 @@ window.QUESTION_BANK_DATA = {
           "text": "胡耀邦"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-13",
@@ -21647,7 +20647,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的思想路线的重新确立是在（）。",
       "answerRaw": "A",
-      "explanation": "本题看形成发展的社会历史条件。A. 党的十一届三中全会符合题干要求，所以选它。B. 党的十二大提出“建设有中国特色社会主义”不符合题干要求，所以不选。C. 党的十四大确立市场经济目标不符合题干要求，所以不选。D. 党的十五大确立邓小平理论不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21666,9 +20666,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党的十五大确立邓小平理论"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-14",
@@ -21687,7 +20685,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义理论体系的世界意义是（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 提供现代化新选择符合题干要求，所以选它。A. 输出革命模式不符合题干要求，所以不选。C. 取代资本主义体系不符合题干要求，所以不选。D. 建立全球治理霸权不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21706,9 +20704,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建立全球治理霸权"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-15",
@@ -21727,7 +20723,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平理论回答的基本问题是（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 什么是社会主义，怎样建设社会主义符合题干要求，所以选它。A. 什么是改革开放，怎样进行改革开放不符合题干要求，所以不选。C. 建设什么样的党，怎样建设党不符合题干要求，所以不选。D. 实现什么样的发展、怎样发展不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21746,9 +20742,7 @@ window.QUESTION_BANK_DATA = {
           "text": "实现什么样的发展、怎样发展"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-16",
@@ -21767,7 +20761,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十八大以来，我国新的历史方位是（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 中国特色社会主义进入新时代符合题干要求，所以选它。A. 和平与发展不符合题干要求，所以不选。C. 社会主义初级阶段不符合题干要求，所以不选。D. 社会主义建设新时期不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21786,9 +20780,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义建设新时期"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-17",
@@ -21807,7 +20799,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "确定把全党工作的着重点转移到社会主义现代化建设上来，作出实行改革开放的重大决策的会议是（）。",
       "answerRaw": "D",
-      "explanation": "本题看形成发展的社会历史条件。D. 党的十一届三中全会符合题干要求，所以选它。A. 党的十三大不符合题干要求，所以不选。B. 党的十二大不符合题干要求，所以不选。C. 南方谈话不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21826,9 +20818,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党的十一届三中全会"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-18",
@@ -21847,7 +20837,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在党的十二大之后，中国共产党的全部理论和实践创新的主题就是（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 中国特色社会主义符合题干要求，所以选它。A. 改革开放不符合题干要求，所以不选。C. 社会主义初级阶段不符合题干要求，所以不选。D. 中国特色社会主义理论体系不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21866,9 +20856,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国特色社会主义理论体系"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-19",
@@ -21887,7 +20875,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义理论体系的开篇之作是（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 邓小平理论符合题干要求，所以选它。A. 毛泽东思想不符合题干要求，所以不选。C. “三个代表”重要思想不符合题干要求，所以不选。D. 科学发展观不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21906,9 +20894,7 @@ window.QUESTION_BANK_DATA = {
           "text": "科学发展观"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-20",
@@ -21927,7 +20913,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义理论体系的跨世纪发展是（）。",
       "answerRaw": "C",
-      "explanation": "本题看形成发展的社会历史条件。C. “三个代表”重要思想符合题干要求，所以选它。A. 毛泽东思想不符合题干要求，所以不选。B. 邓小平理论不符合题干要求，所以不选。D. 科学发展观不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21946,9 +20932,7 @@ window.QUESTION_BANK_DATA = {
           "text": "科学发展观"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-21",
@@ -21967,7 +20951,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想的核心观点是（）。",
       "answerRaw": "C",
-      "explanation": "本题看形成发展的社会历史条件。C. 代表先进生产力、先进文化和最广大人民的根本利益符合题干要求，所以选它。A. 发展是党执政兴国的第一要务不符合题干要求，所以不选。B. 全面建设小康社会不符合题干要求，所以不选。D. 建立社会主义市场经济体制不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -21986,9 +20970,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建立社会主义市场经济体制"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-22",
@@ -22007,7 +20989,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观的基本内涵是（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 促进经济社会全面、协调、可持续发展符合题干要求，所以选它。A. 以阶级斗争为纲不符合题干要求，所以不选。C. 坚持四项基本原则不符合题干要求，所以不选。D. 深化改革开放不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22026,9 +21008,7 @@ window.QUESTION_BANK_DATA = {
           "text": "深化改革开放"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-23",
@@ -22047,7 +21027,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "习近平新时代中国特色社会主义思想被载入宪法的年份是（）。",
       "answerRaw": "C",
-      "explanation": "本题看形成发展的社会历史条件。C. 2018年符合题干要求，所以选它。A. 2012年不符合题干要求，所以不选。B. 2017年不符合题干要求，所以不选。D. 2022年不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22066,9 +21046,7 @@ window.QUESTION_BANK_DATA = {
           "text": "2022年"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-24",
@@ -22087,7 +21065,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想的本质是（）。",
       "answerRaw": "A",
-      "explanation": "本题看形成发展的社会历史条件。A. 立党为公、执政为民符合题干要求，所以选它。B. 发展先进生产力不符合题干要求，所以不选。C. 全面建设小康社会不符合题干要求，所以不选。D. 推进党的建设新的伟大工程不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22106,9 +21084,7 @@ window.QUESTION_BANK_DATA = {
           "text": "推进党的建设新的伟大工程"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-25",
@@ -22127,7 +21103,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观强调的根本方法是（）。",
       "answerRaw": "A",
-      "explanation": "本题看形成发展的社会历史条件。A. 统筹兼顾符合题干要求，所以选它。B. 以人为本不符合题干要求，所以不选。C. 全面协调可持续不符合题干要求，所以不选。D. 发展是第一要义不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22146,9 +21122,7 @@ window.QUESTION_BANK_DATA = {
           "text": "发展是第一要义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-26",
@@ -22167,7 +21141,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义理论体系的实践基础是（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 改革开放和社会主义现代化建设实践符合题干要求，所以选它。A. 新民主主义革命经验不符合题干要求，所以不选。C. 社会主义建设初步探索的教训不符合题干要求，所以不选。D. 国际共产主义运动经验不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22186,9 +21160,7 @@ window.QUESTION_BANK_DATA = {
           "text": "国际共产主义运动经验"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-27",
@@ -22207,7 +21179,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十四大提出，中国特色社会主义理论体系的形成是因为坚持了（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 马克思主义基本原理与中国实际结合符合题干要求，所以选它。A. 毛泽东思想与中国实际结合不符合题干要求，所以不选。C. 四项基本原则与改革开放结合不符合题干要求，所以不选。D. 社会主义本质与市场经济结合不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22226,9 +21198,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义本质与市场经济结合"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-28",
@@ -22247,7 +21217,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "首次系统阐述社会主义初级阶段理论的领导人是（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 邓小平符合题干要求，所以选它。A. 毛泽东不符合题干要求，所以不选。C. 江泽民不符合题干要求，所以不选。D. 胡锦涛不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22266,9 +21236,7 @@ window.QUESTION_BANK_DATA = {
           "text": "胡锦涛"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-29",
@@ -22287,7 +21255,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "提出“发展是党执政兴国第一要务”的领导人是（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 江泽民符合题干要求，所以选它。A. 邓小平不符合题干要求，所以不选。C. 胡锦涛不符合题干要求，所以不选。D. 习近平不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22306,9 +21274,7 @@ window.QUESTION_BANK_DATA = {
           "text": "习近平"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-30",
@@ -22327,7 +21293,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2002年11月，党的（）将“三个代表”重要思想同马克思列宁主义、毛泽东思想和邓小平理论一道确立为党必须长期坚持的指导思想，并写入党章，实现了我们党指导思想的又一次与时俱进。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 十六大符合题干要求，所以选它。A. 十五大不符合题干要求，所以不选。C. 十七大不符合题干要求，所以不选。D. 十八大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22346,9 +21312,7 @@ window.QUESTION_BANK_DATA = {
           "text": "十八大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-31",
@@ -22367,7 +21331,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平理论形成的现实依据是（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 改革开放和现代化建设的实践符合题干要求，所以选它。A. 社会主义建设的历史经验不符合题干要求，所以不选。C. 国际共产主义运动的经验不符合题干要求，所以不选。D. 新民主主义革命的胜利不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22386,9 +21350,7 @@ window.QUESTION_BANK_DATA = {
           "text": "新民主主义革命的胜利"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-32",
@@ -22407,7 +21369,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“一国两制”构想最初是为解决（）提出的。",
       "answerRaw": "C",
-      "explanation": "本题看形成发展的社会历史条件。C. 台湾问题符合题干要求，所以选它。A. 香港问题不符合题干要求，所以不选。B. 澳门问题不符合题干要求，所以不选。D. 西藏问题不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22426,9 +21388,7 @@ window.QUESTION_BANK_DATA = {
           "text": "西藏问题"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-33",
@@ -22447,7 +21407,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想的关键在于（）。",
       "answerRaw": "A",
-      "explanation": "本题看形成发展的社会历史条件。A. 坚持与时俱进符合题干要求，所以选它。B. 保持党的先进性不符合题干要求，所以不选。C. 坚持执政为民不符合题干要求，所以不选。D. 推进理论创新不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22466,9 +21426,7 @@ window.QUESTION_BANK_DATA = {
           "text": "推进理论创新"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-34",
@@ -22487,7 +21445,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观提出的根本依据是（）。",
       "answerRaw": "A",
-      "explanation": "本题看形成发展的社会历史条件。A. 社会主义初级阶段的基本国情符合题干要求，所以选它。B. 我国发展的阶段性特征不符合题干要求，所以不选。C. 世界多极化的国际环境不符合题干要求，所以不选。D. 全面建设小康社会的需要不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22506,9 +21464,7 @@ window.QUESTION_BANK_DATA = {
           "text": "全面建设小康社会的需要"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-35",
@@ -22527,7 +21483,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "（）的宪法修正案正式将邓小平理论载入宪法。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 1999年符合题干要求，所以选它。A. 1998年不符合题干要求，所以不选。C. 2000年不符合题干要求，所以不选。D. 2001年不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22546,9 +21502,7 @@ window.QUESTION_BANK_DATA = {
           "text": "2001年"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-36",
@@ -22567,7 +21521,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义理论体系的精髓是（）。",
       "answerRaw": "A",
-      "explanation": "本题看形成发展的社会历史条件。A. 解放思想、实事求是符合题干要求，所以选它。B. 与时俱进、求真务实不符合题干要求，所以不选。C. 以人为本、科学发展不符合题干要求，所以不选。D. 改革开放、自主创新不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22586,9 +21540,7 @@ window.QUESTION_BANK_DATA = {
           "text": "改革开放、自主创新"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-37",
@@ -22607,7 +21559,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十六大提出21世纪头二十年的奋斗目标是（）。",
       "answerRaw": "A",
-      "explanation": "本题看形成发展的社会历史条件。A. 全面建成小康社会符合题干要求，所以选它。B. 基本实现社会主义现代化不符合题干要求，所以不选。C. 实现共同富裕不符合题干要求，所以不选。D. 构建和谐社会不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22626,9 +21578,7 @@ window.QUESTION_BANK_DATA = {
           "text": "构建和谐社会"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-38",
@@ -22647,7 +21597,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平指出，社会主义的本质是（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 解放和发展生产力，消灭剥削，消除两极分化，最终达到共同富裕符合题干要求，所以选它。A. 公有制和按劳分配不符合题干要求，所以不选。C. 人民民主专政不符合题干要求，所以不选。D. 计划经济与市场经济结合不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22666,9 +21616,7 @@ window.QUESTION_BANK_DATA = {
           "text": "计划经济与市场经济结合"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-39",
@@ -22687,7 +21635,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2008年12月，中央召开经济工作会议，强调科学发展观第一要义是（）。",
       "answerRaw": "A",
-      "explanation": "本题看形成发展的社会历史条件。A. 发展符合题干要求，所以选它。B. 开放不符合题干要求，所以不选。C. 改革不符合题干要求，所以不选。D. 以人为本不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22706,9 +21654,7 @@ window.QUESTION_BANK_DATA = {
           "text": "以人为本"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-40",
@@ -22727,7 +21673,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十七大指出，国家发展战略的核心是（）。",
       "answerRaw": "A",
-      "explanation": "本题看形成发展的社会历史条件。A. 提高自主创新能力，建设创新型国家符合题干要求，所以选它。B. 推进经济结构战略性调整不符合题干要求，所以不选。C. 统筹城乡发展，推进社会主义新农村建设不符合题干要求，所以不选。D. 加强能源资源节约和生态环境保护不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22746,9 +21692,7 @@ window.QUESTION_BANK_DATA = {
           "text": "加强能源资源节约和生态环境保护"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-41",
@@ -22767,7 +21711,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "南方谈话是（）的集大成之作，从理论上深刻地回答了当时困扰和束缚人们思想的一系列重大问题，推动改革开放和社会主义现代化建设进入新阶段。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 邓小平理论符合题干要求，所以选它。A. 毛泽东思想不符合题干要求，所以不选。C. “三个代表”重要思想不符合题干要求，所以不选。D. 科学发展观不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22786,9 +21730,7 @@ window.QUESTION_BANK_DATA = {
           "text": "科学发展观"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-42",
@@ -22807,7 +21749,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义制度的最大优势是（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 中国共产党的领导符合题干要求，所以选它。A. 人民当家作主不符合题干要求，所以不选。C. 社会主义市场经济体制不符合题干要求，所以不选。D. 集中力量办大事不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22826,9 +21768,7 @@ window.QUESTION_BANK_DATA = {
           "text": "集中力量办大事"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-43",
@@ -22847,7 +21787,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2018年，（）通过的宪法修正案，郑重地把习近平新时代中国特色社会主义思想载入宪法，实现了国家指导思想的与时俱进。",
       "answerRaw": "A",
-      "explanation": "本题看形成发展的社会历史条件。A. 十三届全国人大一次会议符合题干要求，所以选它。B. 十三届全国人大二次会议不符合题干要求，所以不选。C. 十四届全国人大一次会议不符合题干要求，所以不选。D. 十四届全国人大二次会议不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22866,9 +21806,7 @@ window.QUESTION_BANK_DATA = {
           "text": "十四届全国人大二次会议"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-44",
@@ -22887,7 +21825,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平理论走向成熟的标志是（）。",
       "answerRaw": "C",
-      "explanation": "本题看形成发展的社会历史条件。C. 南方谈话和党的十四大符合题干要求，所以选它。A. 党的十二大不符合题干要求，所以不选。B. 党的十三大不符合题干要求，所以不选。D. 党的十五大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22906,9 +21844,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党的十五大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-45",
@@ -22927,7 +21863,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "习近平新时代中国特色社会主义思想明确全面深化改革的总目标是（）。",
       "answerRaw": "A",
-      "explanation": "本题看形成发展的社会历史条件。A. 完善和发展中国特色社会主义制度、推进国家治理体系和治理能力现代化符合题干要求，所以选它。B. 建设社会主义现代化强国不符合题干要求，所以不选。C. 实现中华民族伟大复兴不符合题干要求，所以不选。D. 全面建成小康社会不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22946,9 +21882,7 @@ window.QUESTION_BANK_DATA = {
           "text": "全面建成小康社会"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-46",
@@ -22967,7 +21901,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观强调，加快转变经济发展方式的主攻方向是（）。",
       "answerRaw": "A",
-      "explanation": "本题看形成发展的社会历史条件。A. 推进经济结构战略性调整符合题干要求，所以选它。B. 实施创新驱动发展战略不符合题干要求，所以不选。C. 促进区域协调发展不符合题干要求，所以不选。D. 保障和改善民生不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -22986,9 +21920,7 @@ window.QUESTION_BANK_DATA = {
           "text": "保障和改善民生"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-47",
@@ -23007,7 +21939,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十一届三中全会后，我国农村改革的主要形式是（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 家庭联产承包责任制符合题干要求，所以选它。A. 人民公社化运动不符合题干要求，所以不选。C. 农业合作化不符合题干要求，所以不选。D. 土地国有化不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23026,9 +21958,7 @@ window.QUESTION_BANK_DATA = {
           "text": "土地国有化"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-48",
@@ -23047,7 +21977,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义理论体系的世界观和方法论基础是（）。",
       "answerRaw": "A",
-      "explanation": "本题看形成发展的社会历史条件。A. 辩证唯物主义和历史唯物主义符合题干要求，所以选它。B. 阶级斗争理论不符合题干要求，所以不选。C. 实用主义哲学不符合题干要求，所以不选。D. 儒家思想不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23066,9 +21996,7 @@ window.QUESTION_BANK_DATA = {
           "text": "儒家思想"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-49",
@@ -23087,7 +22015,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“解放思想、实事求是、与时俱进、求真务实”集中体现了中国特色社会主义理论体系的（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 精神实质符合题干要求，所以选它。A. 实践要求不符合题干要求，所以不选。C. 核心立场不符合题干要求，所以不选。D. 根本方法不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23106,9 +22034,7 @@ window.QUESTION_BANK_DATA = {
           "text": "根本方法"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-50",
@@ -23127,7 +22053,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十八届五中全会提出的新发展理念是（）。",
       "answerRaw": "A",
-      "explanation": "本题看形成发展的社会历史条件。A. 创新、协调、绿色、开放、共享符合题干要求，所以选它。B. 改革、发展、稳定、和谐、共赢不符合题干要求，所以不选。C. 科技引领、区域协调、生态优先不符合题干要求，所以不选。D. 共同富裕、公平正义、可持续发展不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23146,9 +22072,7 @@ window.QUESTION_BANK_DATA = {
           "text": "共同富裕、公平正义、可持续发展"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-51",
@@ -23167,7 +22091,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义理论体系的开放性主要体现在（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 不断总结实践经验并吸纳人类文明成果符合题干要求，所以选它。A. 吸收借鉴资本主义制度不符合题干要求，所以不选。C. 全盘接受苏联模式不符合题干要求，所以不选。D. 固守传统计划经济模式不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23186,9 +22110,7 @@ window.QUESTION_BANK_DATA = {
           "text": "固守传统计划经济模式"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-52",
@@ -23207,7 +22129,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "明确提出“五位一体”总体布局的会议是（）。",
       "answerRaw": "C",
-      "explanation": "本题看形成发展的社会历史条件。C. 党的十八大符合题干要求，所以选它。A. 党的十六大不符合题干要求，所以不选。B. 党的十七大不符合题干要求，所以不选。D. 党的十九大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23226,9 +22148,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党的十九大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-53",
@@ -23247,7 +22167,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十三大明确概括和全面阐发了党的基本路线，其中“两个基本点”指的是（）。",
       "answerRaw": "A",
-      "explanation": "本题看形成发展的社会历史条件。A. 改革开放和四项基本原则符合党的十三大明确概括和全面阐发了党的基本路线，其中“两个基本点”，所以选它。B. 以经济建设为中心和共同富裕不符合党的十三大明确概括和全面阐发了党的基本路线，其中“两个基本点”，所以不选。C. 物质文明建设和精神文明建设不符合党的十三大明确概括和全面阐发了党的基本路线，其中“两个基本点”，所以不选。D. 发展生产力和改善民生不符合党的十三大明确概括和全面阐发了党的基本路线，其中“两个基本点”，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23266,9 +22186,7 @@ window.QUESTION_BANK_DATA = {
           "text": "发展生产力和改善民生"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-54",
@@ -23287,7 +22205,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国在社会主义建设初期走了不少弯路、犯了不少错误，其深层原因是（）。",
       "answerRaw": "C;D",
-      "explanation": "本题看形成发展的社会历史条件。C. 偏离了党的实事求是的思想路线不属于我国在社会主义建设初期走了不少弯路、犯了不少，所以选它。D. 对什么是社会主义和如何建设社会主义的问题没有完全搞清楚不属于我国在社会主义建设初期走了不少弯路、犯了不少，所以选它。A. 经济上急于求成、盲目求纯和急于过渡属于我国在社会主义建设初期走了不少弯路、犯了不少，所以不选。B. 在政治上坚持以阶级斗争为纲属于我国在社会主义建设初期走了不少弯路、犯了不少，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23306,9 +22224,7 @@ window.QUESTION_BANK_DATA = {
           "text": "对什么是社会主义和如何建设社会主义的问题没有完全搞清楚"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-55",
@@ -23327,7 +22243,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "20世纪70年代，整个世界发生着大变动大调整，最显著的变化是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看形成发展的社会历史条件。A. 和平与发展成为时代主题符合题干要求，所以选它。B. 世界多极化深入发展符合题干要求，所以选它。C. 经济全球化深入发展符合题干要求，所以选它。D. 综合国力竞争日趋激烈符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23346,9 +22262,7 @@ window.QUESTION_BANK_DATA = {
           "text": "综合国力竞争日趋激烈"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-56",
@@ -23367,7 +22281,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在对冷战结束后国际局势进行科学判断的基础上，以江泽民同志为主要代表的中国共产党人明确提出了（）等重大论断。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看形成发展的社会历史条件。A. 和平与发展仍然是当今时代主题符合题干要求，所以选它。C. 科学技术已然成为先进生产力符合题干要求，所以选它。D. 社会主义仍然代表人类未来发展方向符合题干要求，所以选它。B. 经济全球化已经结束不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23386,9 +22300,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义仍然代表人类未来发展方向"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-57",
@@ -23407,7 +22319,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "进入21世纪，世界处在大发展大变革大调整之中，推动（）增长成为各国共同关注的重大问题，各国纷纷反思和调整发展方式、发展战略。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看形成发展的社会历史条件。A. 强劲符合题干要求，所以选它。C. 可持续符合题干要求，所以选它。D. 平衡符合题干要求，所以选它。B. 普遍不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23426,9 +22338,7 @@ window.QUESTION_BANK_DATA = {
           "text": "平衡"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-58",
@@ -23447,7 +22357,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义建设道路的探索过程中，我们也走了不少弯路，这主要是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看形成发展的社会历史条件。A. 在经济上急于求成符合题干要求，所以选它。B. 在经济上盲目求成符合题干要求，所以选它。C. 在经济上急于过渡符合题干要求，所以选它。D. 在政治上以阶级斗争为纲符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23466,9 +22376,7 @@ window.QUESTION_BANK_DATA = {
           "text": "在政治上以阶级斗争为纲"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-59",
@@ -23487,7 +22395,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平理论形成过程中的标志性事件有（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看形成发展的社会历史条件。A. 1978年真理标准问题大讨论符合题干要求，所以选它。B. 1982年党的十二大提出\"建设有中国特色社会主义\"符合题干要求，所以选它。C. 1992年南方谈话符合题干要求，所以选它。D. 2001年中国加入WTO不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23506,9 +22414,7 @@ window.QUESTION_BANK_DATA = {
           "text": "2001年中国加入WTO"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-60",
@@ -23527,7 +22433,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新世纪新阶段，我国进入（），经济社会发展呈现一系列新的阶段性特征。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看形成发展的社会历史条件。A. 发展关键期符合题干要求，所以选它。B. 改革攻坚期符合题干要求，所以选它。D. 矛盾凸显期符合题干要求，所以选它。C. 开放活跃期不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23546,9 +22452,7 @@ window.QUESTION_BANK_DATA = {
           "text": "矛盾凸显期"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-61",
@@ -23567,7 +22471,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义理论体系形成发展过程中，党的重要会议发挥了关键作用，其中（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看形成发展过程。A. 党的十一届三中全会开启了改革开放和社会主义现代化建设新时期符合题干要求，所以选它。B. 党的十四大明确把建立社会主义市场经济体制作为我国经济体制改革的目标符合题干要求，所以选它。C. 党的十六大全面阐述了 “三个代表” 重要思想符合题干要求，所以选它。D. 党的十七大把科学发展观写入党章符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23586,9 +22490,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党的十七大把科学发展观写入党章"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-62",
@@ -23607,7 +22509,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十一届三中全会作出的历史性决策包括（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看形成发展的社会历史条件。A. 重新确立实事求是思想路线符合党的十一届三中全会作出的历史性决策，所以选它。B. 把工作重心转移到经济建设符合党的十一届三中全会作出的历史性决策，所以选它。C. 实行改革开放符合党的十一届三中全会作出的历史性决策，所以选它。D. 确立邓小平理论指导地位不符合党的十一届三中全会作出的历史性决策，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23626,9 +22528,7 @@ window.QUESTION_BANK_DATA = {
           "text": "确立邓小平理论指导地位"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-63",
@@ -23647,7 +22547,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想具体内容为，中国共产党始终代表（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看形成发展的社会历史条件。A. 中国先进生产力的发展要求符合题干要求，所以选它。B. 中国先进文化的前进方向符合题干要求，所以选它。C. 中国最广大人民的根本利益符合题干要求，所以选它。D. 中国工人阶级的共同意志不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23666,9 +22566,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国工人阶级的共同意志"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-64",
@@ -23687,7 +22585,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "胡锦涛在纪念中国共产党十一届三中全会召开30周年大会中系统阐述了中国在改革开放实践中积累的宝贵经验，概括而言就是“十个结合”，以下哪些属于“十个结合”的宝贵经验的是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看形成发展的社会历史条件。A. 把坚持马克思主义基本原理同推进马克思主义中国化结合起来符合胡锦涛在纪念中国共产党十一届三中全会召开30周年大会中系统阐述了中国在改革开放实践中积累的宝贵经验，概括而言就是“十个结合”，以下哪些，所以选它。B. 把坚持社会主义基本制度同发展市场经济结合起来符合胡锦涛在纪念中国共产党十一届三中全会召开30周年大会中系统阐述了中国在改革开放实践中积累的宝贵经验，概括而言就是“十个结合”，以下哪些，所以选它。C. 把发展社会生产力同提高全民族文明素质结合起来符合胡锦涛在纪念中国共产党十一届三中全会召开30周年大会中系统阐述了中国在改革开放实践中积累的宝贵经验，概括而言就是“十个结合”，以下哪些，所以选它。D. 把坚持独立自主同参与经济全球化结合起来符合胡锦涛在纪念中国共产党十一届三中全会召开30周年大会中系统阐述了中国在改革开放实践中积累的宝贵经验，概括而言就是“十个结合”，以下哪些，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23706,9 +22604,7 @@ window.QUESTION_BANK_DATA = {
           "text": "把坚持独立自主同参与经济全球化结合起来"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-65",
@@ -23727,7 +22623,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义理论体系形成发展的实践基础包括（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看形成发展的社会历史条件。A. 改革开放和社会主义现代化建设的实践符合中国特色社会主义理论体系形成发展的实践基础，所以选它。B. 社会主义建设正反两方面历史经验的总结符合中国特色社会主义理论体系形成发展的实践基础，所以选它。C. 其他社会主义国家兴衰成败的经验教训符合中国特色社会主义理论体系形成发展的实践基础，所以选它。D. 中国古代治国理政思想的继承不符合中国特色社会主义理论体系形成发展的实践基础，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23746,9 +22642,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国古代治国理政思想的继承"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-66",
@@ -23767,7 +22661,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十八大以来，中国特色社会主义进入新时代，这个中国特色社会主义新时代是指（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看形成发展的社会历史条件。A. 承前启后、继往开来、在新的历史条件下继续夺取中国特色社会主义伟大胜利的时代符合党的十八大以来，中国特色社会主义进入新时代，这个中国特色社会主义新时代，所以选它。B. 决胜全面建成小康社会、进而全面建设社会主义现代化国家的时代符合党的十八大以来，中国特色社会主义进入新时代，这个中国特色社会主义新时代，所以选它。C. 全国各族人民团结奋斗、不断创造美好生活、逐步实现全体人民共同富裕的时代符合党的十八大以来，中国特色社会主义进入新时代，这个中国特色社会主义新时代，所以选它。D. 全体中华儿女勠力同心、奋力实现中华民族伟大复兴中国梦的时代，是我国不断为人类作出更大贡献的时代符合党的十八大以来，中国特色社会主义进入新时代，这个中国特色社会主义新时代，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23786,9 +22680,7 @@ window.QUESTION_BANK_DATA = {
           "text": "全体中华儿女勠力同心、奋力实现中华民族伟大复兴中国梦的时代，是我国不断为人类作出更大贡献的时代"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-67",
@@ -23807,7 +22699,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "习近平新时代中国特色社会主义思想明确中国特色社会主义事业总体布局是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看形成发展的社会历史条件。A. 经济建设符合题干要求，所以选它。B. 政治建设符合题干要求，所以选它。C. 文化建设符合题干要求，所以选它。D. 社会建设、生态文明建设符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23826,9 +22718,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会建设、生态文明建设"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-68",
@@ -23847,7 +22737,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十一届三中全会后，我国改革开放的突破口是（ ）。",
       "answerRaw": "A;C",
-      "explanation": "本题看形成发展的社会历史条件。A. 农村家庭联产承包责任制符合题干要求，所以选它。C. 设立经济特区符合题干要求，所以选它。B. 城市国有企业改革不符合题干要求，所以不选。D. 加入世界贸易组织不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23866,9 +22756,7 @@ window.QUESTION_BANK_DATA = {
           "text": "加入世界贸易组织"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-69",
@@ -23887,7 +22775,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平南方谈话中提出的“三个有利于”标准包括（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看形成发展的社会历史条件。A. 是否有利于发展社会主义社会的生产力符合邓小平南方谈话中提出的“三个有利于”标准，所以选它。B. 是否有利于增强社会主义国家的综合国力符合邓小平南方谈话中提出的“三个有利于”标准，所以选它。C. 是否有利于提高人民的生活水平符合邓小平南方谈话中提出的“三个有利于”标准，所以选它。D. 是否有利于巩固党的执政地位不符合邓小平南方谈话中提出的“三个有利于”标准，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23906,9 +22794,7 @@ window.QUESTION_BANK_DATA = {
           "text": "是否有利于巩固党的执政地位"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-70",
@@ -23927,7 +22813,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平关于社会主义市场经济理论的主要观点是（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看形成发展的社会历史条件。A. 计划和市场都是经济手段符合题干要求，所以选它。B. 社会主义也可以搞市场经济符合题干要求，所以选它。C. 市场经济是资本主义的本质特征不符合题干要求，所以不选。D. 公有制与市场经济不可兼容不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23946,9 +22832,7 @@ window.QUESTION_BANK_DATA = {
           "text": "公有制与市场经济不可兼容"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-71",
@@ -23967,7 +22851,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "贯彻“三个代表”重要思想，关键在（），核心在（），本质在（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看形成发展的社会历史条件。A. 坚持与时俱进符合题干要求，所以选它。B. 坚持党的先进性符合题干要求，所以选它。C. 坚持执政为民符合题干要求，所以选它。D. 坚持四项基本原则不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -23986,9 +22870,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持四项基本原则"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-72",
@@ -24007,7 +22889,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想对党的建设提出的新要求包括（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看形成发展的社会历史条件。A. 增强党的阶级基础符合“三个代表”重要思想对党的建设提出的新要求，所以选它。B. 扩大党的群众基础符合“三个代表”重要思想对党的建设提出的新要求，所以选它。D. 改革党的领导方式和执政方式符合“三个代表”重要思想对党的建设提出的新要求，所以选它。C. 推进反腐败斗争制度化不符合“三个代表”重要思想对党的建设提出的新要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24026,9 +22908,7 @@ window.QUESTION_BANK_DATA = {
           "text": "改革党的领导方式和执政方式"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-73",
@@ -24047,7 +22927,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十六届三中全会提出了“五个统筹”，下列属于的是（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看形成发展的社会历史条件。A. 统筹城乡发展符合党的十六届三中全会提出了“五个统筹”，下列，所以选它。B. 统筹区域发展符合党的十六届三中全会提出了“五个统筹”，下列，所以选它。C. 统筹经济社会发展符合党的十六届三中全会提出了“五个统筹”，下列，所以选它。D. 统筹国内国际两个大局不符合党的十六届三中全会提出了“五个统筹”，下列，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24066,9 +22946,7 @@ window.QUESTION_BANK_DATA = {
           "text": "统筹国内国际两个大局"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-74",
@@ -24087,7 +22965,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新世纪新阶段，经济社会发展呈现一系列新的阶段性特征，主要表现有（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看形成发展的社会历史条件。A. 国际竞争日趋激烈，风险与考验增多符合题干要求，所以选它。B. 缩小城乡、区域发展差距和促进经济社会协调发展任务艰巨符合题干要求，所以选它。C. 自主创新能力不强符合题干要求，所以选它。D. 收入分配差距拉大趋势还未根本扭转符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24106,9 +22984,7 @@ window.QUESTION_BANK_DATA = {
           "text": "收入分配差距拉大趋势还未根本扭转"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-75",
@@ -24127,7 +23003,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“十个明确”中关于全面深化改革总目标的表述是（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看形成发展的社会历史条件。A. 完善和发展中国特色社会主义制度符合题干要求，所以选它。B. 推进国家治理体系和治理能力现代化符合题干要求，所以选它。C. 建设社会主义现代化强国不符合题干要求，所以不选。D. 实现全体人民共同富裕不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24146,9 +23022,7 @@ window.QUESTION_BANK_DATA = {
           "text": "实现全体人民共同富裕"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-76",
@@ -24167,7 +23041,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "习近平新时代中国特色社会主义思想对全球治理的贡献包括（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看形成发展的社会历史条件。A. 推动构建人类命运共同体符合习近平新时代中国特色社会主义思想对全球治理的贡献，所以选它。B. 倡导共商共建共享的全球治理观符合习近平新时代中国特色社会主义思想对全球治理的贡献，所以选它。C. 提出“一带一路”倡议符合习近平新时代中国特色社会主义思想对全球治理的贡献，所以选它。D. 主张以零和博弈解决国际争端不符合习近平新时代中国特色社会主义思想对全球治理的贡献，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24186,9 +23060,7 @@ window.QUESTION_BANK_DATA = {
           "text": "主张以零和博弈解决国际争端"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-77",
@@ -24207,7 +23079,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "习近平新时代中国特色社会主义思想内涵十分丰富，党的十九大、十九届六中全会提出的（）概括了习近平新时代中国特色社会主义思想的主要内容。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看形成发展的社会历史条件。A. “十个明确”符合题干要求，所以选它。B. “十四个坚持”符合题干要求，所以选它。D. “十三个方面成就”符合题干要求，所以选它。C. “两步走”战略安排不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24226,9 +23098,7 @@ window.QUESTION_BANK_DATA = {
           "text": "“十三个方面成就”"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-78",
@@ -24247,7 +23117,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义进入新时代，意味着（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看形成发展的社会历史条件。A. 中华民族迎来了从站起来、富起来到强起来的伟大飞跃符合题干要求，所以选它。B. 科学社会主义在21世纪的中国焕发出强大生机活力符合题干要求，所以选它。C. 中国特色社会主义道路、理论、制度、文化不断发展符合题干要求，所以选它。D. 建党90周年的伟大胜利不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24266,9 +23136,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建党90周年的伟大胜利"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-79",
@@ -24287,7 +23155,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "构建社会主义和谐社会的总要求包括（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看形成发展的社会历史条件。A. 民主法治、公平正义符合构建社会主义和谐社会的总要求，所以选它。B. 诚信友爱、充满活力符合构建社会主义和谐社会的总要求，所以选它。C. 安定有序、人与自然和谐相处符合构建社会主义和谐社会的总要求，所以选它。D. 共同富裕、同步发展不符合构建社会主义和谐社会的总要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24306,9 +23174,7 @@ window.QUESTION_BANK_DATA = {
           "text": "共同富裕、同步发展"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-80",
@@ -24327,7 +23193,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义理论体系是中国共产党长期探索的伟大理论创造，同（）一脉相承又与时俱进，是马克思主义中国化时代化的重大理论成果。",
       "answerRaw": "C;D",
-      "explanation": "本题看形成发展的社会历史条件。C. 马克思列宁主义符合题干要求，所以选它。D. 毛泽东思想符合题干要求，所以选它。A. 空想社会主义不符合题干要求，所以不选。B. 邓小平理论不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24346,9 +23212,7 @@ window.QUESTION_BANK_DATA = {
           "text": "毛泽东思想"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-81",
@@ -24367,7 +23231,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1989-2002年，国际局势的深刻变动对引领中国改革发展的中国共产党形成前所未有的压力和考验，所面临的国际局势有哪些（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看形成发展的社会历史条件。A. 苏东剧变符合题干要求，所以选它。B. 霸权主义抬头符合题干要求，所以选它。C. 经济全球化纵深推进符合题干要求，所以选它。D. 新科技革命迅猛发展符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24386,9 +23250,7 @@ window.QUESTION_BANK_DATA = {
           "text": "新科技革命迅猛发展"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-82",
@@ -24407,7 +23269,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2004年3月，胡锦涛在中央人口资源环境座谈会上发表重要讲话，深刻阐明了科学发展观提出的背景、意义，明确界定了（）的深刻内涵和基本要求，并对如何树立和落实科学发展观提出了明确的要求，标志着科学发展观的形成。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看形成发展的社会历史条件。A. 以人为本符合题干要求，所以选它。B. 全面发展符合题干要求，所以选它。C. 协调发展符合题干要求，所以选它。D. 可持续发展符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24426,9 +23288,7 @@ window.QUESTION_BANK_DATA = {
           "text": "可持续发展"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-83",
@@ -24447,7 +23307,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“一国两制”方针的实践成果包括（ ）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看形成发展的社会历史条件。A. 中国香港回归符合“一国两制”方针的实践成果，所以选它。B. 中国澳门回归符合“一国两制”方针的实践成果，所以选它。C. 推动两岸关系和平发展符合“一国两制”方针的实践成果，所以选它。D. 实现完全统一不符合“一国两制”方针的实践成果，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24466,9 +23326,7 @@ window.QUESTION_BANK_DATA = {
           "text": "实现完全统一"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-84",
@@ -24487,7 +23345,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "习近平新时代中国特色社会主义思想强调，坚持把马克思主义基本原理同（）相结合。",
       "answerRaw": "A;B",
-      "explanation": "本题看形成发展的社会历史条件。A. 中国具体实际符合题干要求，所以选它。B. 中华优秀传统文化符合题干要求，所以选它。C. 西方现代化理论不符合题干要求，所以不选。D. 国际共产主义运动经验不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24506,9 +23364,7 @@ window.QUESTION_BANK_DATA = {
           "text": "国际共产主义运动经验"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-85",
@@ -24527,7 +23383,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "习近平新时代中国特色社会主义思想是（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看形成发展的社会历史条件。A. 当代中国马克思主义符合题干要求，所以选它。B. 21世纪马克思主义符合题干要求，所以选它。C. 创新的马克思主义不符合题干要求，所以不选。D. 永远的马克思主义不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24546,9 +23402,7 @@ window.QUESTION_BANK_DATA = {
           "text": "永远的马克思主义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-86",
@@ -24567,7 +23421,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "以习近平同志为核心的党中央以伟大的历史主动精神、巨大的政治勇气、强烈的责任担当，统筹国内国际两个大局，统揽（），创立习近平新时代中国特色社会主义思想。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看形成发展的社会历史条件。A. 伟大斗争符合题干要求，所以选它。B. 伟大工程符合题干要求，所以选它。C. 伟大事业符合题干要求，所以选它。D. 伟大梦想符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24586,9 +23440,7 @@ window.QUESTION_BANK_DATA = {
           "text": "伟大梦想"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-87",
@@ -24607,7 +23459,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "以习近平同志为核心的党中央统筹把握“两个大局”，这“两个大局”是指（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看形成发展的社会历史条件。A. 中华民族伟大复兴战略全局符合以习近平同志为核心的党中央统筹把握“两个大局”，这“两个大局”，所以选它。B. 世界百年未有之大变局符合以习近平同志为核心的党中央统筹把握“两个大局”，这“两个大局”，所以选它。C. 改革开放不符合以习近平同志为核心的党中央统筹把握“两个大局”，这“两个大局”，所以不选。D. 国家安全不符合以习近平同志为核心的党中央统筹把握“两个大局”，这“两个大局”，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24626,9 +23478,7 @@ window.QUESTION_BANK_DATA = {
           "text": "国家安全"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-88",
@@ -24647,7 +23497,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "推动区域协调发展的重大战略包括（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看形成发展的社会历史条件。A. 京津冀协同发展符合推动区域协调发展的重大战略，所以选它。B. 长江经济带发展符合推动区域协调发展的重大战略，所以选它。C. 粤港澳大湾区建设符合推动区域协调发展的重大战略，所以选它。D. 黄河流域生态保护和高质量发展符合推动区域协调发展的重大战略，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24666,9 +23516,7 @@ window.QUESTION_BANK_DATA = {
           "text": "黄河流域生态保护和高质量发展"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-89",
@@ -24687,7 +23535,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "习近平总书记指出，培育和践行社会主义核心价值观，要面向全社会做好这项工作，特别要抓好（）等重点群体。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看形成发展的社会历史条件。A. 青少年符合题干要求，所以选它。B. 领导干部符合题干要求，所以选它。C. 公众人物符合题干要求，所以选它。D. 先进模范符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24706,9 +23554,7 @@ window.QUESTION_BANK_DATA = {
           "text": "先进模范"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-90",
@@ -24727,7 +23573,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "推动构建人类命运共同体的丰富内涵包括（）。",
       "answerRaw": "A;B;C;D;E",
-      "explanation": "本题看形成发展的社会历史条件。A. 坚持对话协商，建设一个持久和平的世界符合推动构建人类命运共同体的丰富内涵，所以选它。B. 坚持共建共享，建设一个普遍安全的世界符合推动构建人类命运共同体的丰富内涵，所以选它。C. 坚持合作共赢，建设一个共同繁荣的世界符合推动构建人类命运共同体的丰富内涵，所以选它。D. 坚持交流互鉴，建设一个开放包容的世界符合推动构建人类命运共同体的丰富内涵，所以选它。E. 坚持绿色低碳，建设一个清洁美丽的世界符合推动构建人类命运共同体的丰富内涵，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24750,9 +23596,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持绿色低碳，建设一个清洁美丽的世界"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-91",
@@ -24771,7 +23615,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "面对全球治理赤字和单边主义挑战，中国始终秉持人类命运共同体理念，为完善全球治理体系提出了一系列重要主张。下列选项中，最能全面体现中国参与全球治理体系变革的主张是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看形成发展的社会历史条件。A. 秉持共商共建共享的全球治理观符合题干要求，所以选它。B. 倡导构建人类命运共同体符合题干要求，所以选它。C. 维护多边主义，反对保护主义和霸权主义符合题干要求，所以选它。D. 提出全球发展、安全、文明三大倡议符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24790,9 +23634,7 @@ window.QUESTION_BANK_DATA = {
           "text": "提出全球发展、安全、文明三大倡议"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-92",
@@ -24811,7 +23653,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "习近平新时代中国特色社会主义思想实现了马克思主义中国化新的飞跃，体现在（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看形成发展的社会历史条件。A. 开辟了马克思主义新境界符合题干要求，所以选它。B. 深刻回答了新时代重大时代课题符合题干要求，所以选它。C. 提出一系列原创性治国理政新理念符合题干要求，所以选它。D. 完全取代了传统马克思主义理论不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24830,9 +23672,7 @@ window.QUESTION_BANK_DATA = {
           "text": "完全取代了传统马克思主义理论"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-93",
@@ -24851,7 +23691,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "马克思主义中国化的理论成果共同特点是（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看形成发展的社会历史条件。A. 坚持实事求是符合题干要求，所以选它。B. 立足中国实际符合题干要求，所以选它。C. 吸收人类文明成果符合题干要求，所以选它。D. 固守经典著作教条不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24870,9 +23710,7 @@ window.QUESTION_BANK_DATA = {
           "text": "固守经典著作教条"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-94",
@@ -24891,7 +23729,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "马克思主义中国化第二次历史性飞跃的理论成果是（）。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看形成发展的社会历史条件。B. 邓小平理论符合题干要求，所以选它。C. “三个代表”重要思想符合题干要求，所以选它。D. 科学发展观符合题干要求，所以选它。A. 毛泽东思想不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24910,9 +23748,7 @@ window.QUESTION_BANK_DATA = {
           "text": "科学发展观"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-95",
@@ -24931,7 +23767,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义理论体系的开放性体现在（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看形成发展的社会历史条件。A. 吸收人类文明成果符合题干要求，所以选它。B. 随着实践发展不断丰富符合题干要求，所以选它。C. 固守计划经济模式不变不符合题干要求，所以不选。D. 排斥非社会主义国家经验不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24950,9 +23786,7 @@ window.QUESTION_BANK_DATA = {
           "text": "排斥非社会主义国家经验"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-96",
@@ -24971,7 +23805,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "贯彻“三个代表”重要思想必须（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看形成发展的社会历史条件。A. 使党始终代表先进生产力发展要求符合题干要求，所以选它。B. 把发展作为党执政兴国的第一要务符合题干要求，所以选它。D. 坚持立党为公、执政为民符合题干要求，所以选它。C. 以阶级斗争推动社会发展不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -24990,9 +23824,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持立党为公、执政为民"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-97",
@@ -25011,11 +23843,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新世纪新阶段，经过新中国新成立特别是改革开放以来的不懈努力，我国经济社会发展取得举世瞩目的成就，但我国仍旧处于并将长期处于社会主义初级阶段的国情没有变。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-98",
@@ -25034,11 +23864,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "习近平新时代中国特色社会主义思想在党的十九届六中全会被概括为\"十个明确\"。​",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-99",
@@ -25057,11 +23885,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "毛泽东思想是中国特色社会主义理论体系重要组成部分。",
       "answerRaw": "false",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-100",
@@ -25080,11 +23906,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "江泽民在2001年7月1日庆祝中国共产党成立八十周年大会上全面阐述“三个代表”重要思想的科学内涵和基本内容。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-101",
@@ -25103,11 +23927,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义初级阶段理论认为我国社会主要矛盾是人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾。​",
       "answerRaw": "false",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-102",
@@ -25126,11 +23948,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十八大以来，党面临的主要任务是：实现第一个百年奋斗目标，开启实现第二个百年奋斗目标新征程，朝着实现中华民族伟大复兴的宏伟目标继续前进。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-103",
@@ -25149,11 +23969,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观是中国特色社会主义理论体系在新世纪新阶段的新发展。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-104",
@@ -25172,11 +23990,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "改革开放是中国特色社会主义理论体系形成的实践基础。​",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-105",
@@ -25195,11 +24011,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "\"三个代表\"重要思想强调党的先进性关系党的生死存亡。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-106",
@@ -25218,11 +24032,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "习近平新时代中国特色社会主义思想是马克思主义中国化最新成果。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-107",
@@ -25241,11 +24053,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个有利于”标准是在邓小平南方谈话中首次提出的。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-108",
@@ -25264,11 +24074,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观在抗击非典疫情期间初步形成。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-109",
@@ -25287,11 +24095,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十七大首次将科学发展观写入党章。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-110",
@@ -25310,11 +24116,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十九大将习近平新时代中国特色社会主义思想确立为党的指导思想。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-111",
@@ -25333,11 +24137,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想创造性回答了“建设什么样的党、怎样建设党”的问题。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-112",
@@ -25356,11 +24158,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观着重回答“实现什么样的发展、怎样发展”的问题。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-113",
@@ -25379,11 +24179,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "习近平新时代中国特色社会主义思想的核心要义是坚持和发展中国特色社会主义。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-114",
@@ -25402,11 +24200,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义初级阶段理论认为我国已进入发达社会主义阶段。",
       "answerRaw": "false",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-115",
@@ -25425,11 +24221,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三步走”发展战略的第三步目标是到21世纪中叶基本实现现代化。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-116",
@@ -25448,11 +24242,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“一国两制”构想最初是为解决中国香港问题提出的。",
       "answerRaw": "false",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-117",
@@ -25471,11 +24263,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义理论体系是改革开放以来党的全部理论和实践的主题。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-118",
@@ -25494,11 +24284,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平南方谈话是邓小平理论走向成熟的标志。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-119",
@@ -25517,11 +24305,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观强调统筹兼顾是根本方法。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-120",
@@ -25540,11 +24326,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“四项基本原则”是立国之本，改革开放是强国之路。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-121",
@@ -25563,11 +24347,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十三大系统阐述了社会主义初级阶段理论。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-122",
@@ -25586,11 +24368,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国经济体制改革的目标是建立社会主义市场经济体制。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-123",
@@ -25609,11 +24389,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十八届三中全会提出全面深化改革的总目标。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-124",
@@ -25632,11 +24410,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想强调党的先进性是党的生命线。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-125",
@@ -25655,11 +24431,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观要求加强党的执政能力建设和先进性建设。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-126",
@@ -25678,11 +24452,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的自我革命是跳出治乱兴衰历史周期率的第二个答案。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-127",
@@ -25701,11 +24473,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "习近平新时代中国特色社会主义思想提出构建人类命运共同体。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-128",
@@ -25724,11 +24494,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "习近平新时代中国特色社会主义思想为发展中国家走向现代化提供了全新选择。",
       "answerRaw": "true",
-      "explanation": "本题看形成发展的社会历史条件。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-129",
@@ -25747,11 +24515,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义理论体系是开放发展的理论体系。",
       "answerRaw": "true",
-      "explanation": "本题看开放发展的理论体系。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-130",
@@ -26340,7 +25106,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科技进步日新月异，以（）为核心的高新技术的发展，极大地改变了人们的生产、生活方式和国际经济、政治关系。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 信息技术符合题干要求，所以选它。A. 经济革命不符合题干要求，所以不选。C. 全球化不符合题干要求，所以不选。D. 多极化不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -26359,9 +25125,7 @@ window.QUESTION_BANK_DATA = {
           "text": "多极化"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-153",
@@ -26380,7 +25144,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "20世纪70年代，整个世界发生着大变动大调整，时代主题是（）。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 和平与发展符合题干要求，所以选它。A. 革命与战争不符合题干要求，所以不选。C. 合作与共赢不符合题干要求，所以不选。D. 开放与融通不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -26399,9 +25163,7 @@ window.QUESTION_BANK_DATA = {
           "text": "开放与融通"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-154",
@@ -26420,7 +25182,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国改革从（）率先突破，逐步转向城市经济体制改革并全面铺开，确立社会主义市场经济的改革方向。",
       "answerRaw": "D",
-      "explanation": "本题看形成发展的社会历史条件。D. 农村实行家庭联产承包责任制符合题干要求，所以选它。A. 计划经济为主，市场经济为辅不符合题干要求，所以不选。B. 计划少一点，市场多一点不符合题干要求，所以不选。C. 包干到户不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -26439,9 +25201,7 @@ window.QUESTION_BANK_DATA = {
           "text": "农村实行家庭联产承包责任制"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-155",
@@ -26460,7 +25220,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1997年召开的党的（）正式提出“邓小平理论”这一概念，深刻阐述了邓小平理论的历史地位和指导意义，进一步论述了邓小平对这一理论的创立作出的独创性贡献。",
       "answerRaw": "B",
-      "explanation": "本题看形成发展的社会历史条件。B. 十五大符合题干要求，所以选它。A. 十四大不符合题干要求，所以不选。C. 十六大不符合题干要求，所以不选。D. 十七大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -26479,9 +25239,7 @@ window.QUESTION_BANK_DATA = {
           "text": "十七大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-156",
@@ -26500,7 +25258,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2017年，党的（）把习近平新时代中国特色社会主义思想确立为党必须长期坚持的指导思想并庄严地写入党章，实现了党的指导思想的与时俱进。",
       "answerRaw": "C",
-      "explanation": "本题看形成发展的社会历史条件。C. 十九大符合题干要求，所以选它。A. 十七大不符合题干要求，所以不选。B. 十八大不符合题干要求，所以不选。D. 二十大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -26519,9 +25277,7 @@ window.QUESTION_BANK_DATA = {
           "text": "二十大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-157",
@@ -26540,7 +25296,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2002年5月，江泽民在中共中央党校省部级干部进修班毕业典礼上深刻阐述了“三个代表”重要思想的内在联系，提出贯彻“三个代表”重要思想，（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看形成发展的社会历史条件。A. 关键在坚持与时俱进符合题干要求，所以选它。B. 核心在坚持党的先进性符合题干要求，所以选它。C. 本质在坚持执政为民符合题干要求，所以选它。D. 目标在坚持联系群众不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -26559,9 +25315,7 @@ window.QUESTION_BANK_DATA = {
           "text": "目标在坚持联系群众"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-158",
@@ -26580,7 +25334,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2001年7月1日，江泽民在庆祝中国共产党成立八十周年大会上的讲话中全面阐述了“三个代表”重要思想的科学内涵和基本内容，“三个代表”重要思想具体内容为，中国共产党始终代表（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看形成发展的社会历史条件。A. 中国先进生产力的发展要求符合题干要求，所以选它。B. 中国先进文化的前进方向符合题干要求，所以选它。C. 中国最广大人民的根本利益符合题干要求，所以选它。D. 中国工人阶级的共同意志不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -26599,9 +25353,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国工人阶级的共同意志"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-159",
@@ -26620,7 +25372,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "以胡锦涛同志为主要代表的中国共产党人领导人民紧紧抓住和用好我国发展的重要战略机遇期，在全面建设小康社会实践中推进（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看形成发展的社会历史条件。A. 实践创新符合题干要求，所以选它。B. 理论创新符合题干要求，所以选它。C. 制度创新符合题干要求，所以选它。D. 源头创新不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -26639,9 +25391,7 @@ window.QUESTION_BANK_DATA = {
           "text": "源头创新"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-160",
@@ -26660,7 +25410,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的思想路线的重新确立，解决了一系列重大理论和实践问题，其意义包括（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看形成发展的社会历史条件。A. 有力推动和保证了拨乱反正的进行符合党的思想路线的重新确立，解决了一系列重大理论和实践问题，其意义，所以选它。B. 使人们在探索建设社会主义道路的过程中获得思想上的大解放符合党的思想路线的重新确立，解决了一系列重大理论和实践问题，其意义，所以选它。C. 破除了在改革开放进程中离开发展生产力抽象谈论姓“社”姓“资”的思维定势符合党的思想路线的重新确立，解决了一系列重大理论和实践问题，其意义，所以选它。D. 确立社会主义基本制度不符合党的思想路线的重新确立，解决了一系列重大理论和实践问题，其意义，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -26679,9 +25429,7 @@ window.QUESTION_BANK_DATA = {
           "text": "确立社会主义基本制度"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-2",
@@ -26700,7 +25448,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十一届三中全会确定把全党工作的重点转移到（）上来。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 社会主义现代化建设符合题干要求，所以选它。B. 无产阶级革命不符合题干要求，所以不选。C. 阶级斗争不符合题干要求，所以不选。D. 世界革命不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -26719,9 +25467,7 @@ window.QUESTION_BANK_DATA = {
           "text": "世界革命"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-3",
@@ -26740,7 +25486,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "（）邓小平第一次把社会主义初级阶段作为事关全局的基本国情加以把握，明确了这一基本国情是制定路线方针政策的出发点和根本依据。",
       "answerRaw": "C",
-      "explanation": "本题看首要的基本理论问题。C. 党的十三大召开前夕符合题干要求，所以选它。A. 党的十一届三中全会不符合题干要求，所以不选。B. 党的十二大开幕词不符合题干要求，所以不选。D. 党的十四大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -26759,9 +25505,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党的十四大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-4",
@@ -26780,7 +25524,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平提出的 “三步走” 发展战略，第一步的目标是（）。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 解决人民的温饱问题符合题干要求，所以选它。B. 人民生活达到小康水平不符合题干要求，所以不选。C. 基本实现现代化不符合题干要求，所以不选。D. 建成富强民主文明和谐美丽的社会主义现代化强国不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -26799,9 +25543,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建成富强民主文明和谐美丽的社会主义现代化强国"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-5",
@@ -26820,7 +25562,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "改革开放以来，邓小平反复强调坚持四项基本原则，其实质就是要求我们坚持（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 社会主义基本制度符合题干要求，所以选它。A. 改革开放不符合题干要求，所以不选。C. 社会主义经济制度不符合题干要求，所以不选。D. 社会主义政治制度不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -26839,9 +25581,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义政治制度"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-6",
@@ -26860,7 +25600,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平指出，“贫穷不是社会主义，社会主义要消灭贫穷”。这个判断（）。",
       "answerRaw": "D",
-      "explanation": "本题看首要的基本理论问题。D. 体现了社会主义的本质要求不属于邓小平指出，“贫穷，所以选它。A. 指出了社会主义的根本任务属于邓小平指出，“贫穷，所以不选。B. 概括了社会主义建设的目标属于邓小平指出，“贫穷，所以不选。C. 明确了社会主义的发展方向属于邓小平指出，“贫穷，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -26879,9 +25619,7 @@ window.QUESTION_BANK_DATA = {
           "text": "体现了社会主义的本质要求"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-7",
@@ -26900,7 +25638,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1992年初，邓小平在南方谈话中对社会主义本质作了总结性理论概括：社会主义的本质，是（）。",
       "answerRaw": "D",
-      "explanation": "本题看首要的基本理论问题。D. 解放生产力，发展生产力，消灭剥削，消除两极分化，最终达到共同富裕符合题干要求，所以选它。A. 社会主义公有制和按劳分配不符合题干要求，所以不选。B. 人民当家作主，成为社会的主人不符合题干要求，所以不选。C. 高度的社会主义精神文明和人的全面解放不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -26919,9 +25657,7 @@ window.QUESTION_BANK_DATA = {
           "text": "解放生产力，发展生产力，消灭剥削，消除两极分化，最终达到共同富裕"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-8",
@@ -26940,7 +25676,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "今天强调一切从实际出发，就是要从（）这个最大的实际出发。",
       "answerRaw": "C",
-      "explanation": "本题看首要的基本理论问题。C. 中国处于并将长期处于社会主义初级阶段符合题干要求，所以选它。A. 中国特色社会主义不符合题干要求，所以不选。B. 社会主义市场经济不符合题干要求，所以不选。D. 全面建设小康社会不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -26959,9 +25695,7 @@ window.QUESTION_BANK_DATA = {
           "text": "全面建设小康社会"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-9",
@@ -26980,7 +25714,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义初级阶段，就是（）。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 社会主义社会的不发达阶段符合题干要求，所以选它。B. 社会主义社会的起始阶段不符合题干要求，所以不选。C. 走向社会主义的阶段不符合题干要求，所以不选。D. 向社会主义社会过渡的阶段不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -26999,9 +25733,7 @@ window.QUESTION_BANK_DATA = {
           "text": "向社会主义社会过渡的阶段"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-10",
@@ -27020,7 +25752,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国还处在社会主义初级阶段的论断表明，我国的社会性质是（）。",
       "answerRaw": "C",
-      "explanation": "本题看首要的基本理论问题。C. 社会主义社会符合题干要求，所以选它。A. 旧民主主义社会不符合题干要求，所以不选。B. 新民主主义社会不符合题干要求，所以不选。D. 共产主义社会的高级阶段不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27039,9 +25771,7 @@ window.QUESTION_BANK_DATA = {
           "text": "共产主义社会的高级阶段"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-11",
@@ -27060,7 +25790,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "从社会发展程度上看，我国社会主义社会处于（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 初级阶段符合题干要求，所以选它。A. 准备阶段不符合题干要求，所以不选。C. 建成阶段不符合题干要求，所以不选。D. 高级阶段不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27079,9 +25809,7 @@ window.QUESTION_BANK_DATA = {
           "text": "高级阶段"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-12",
@@ -27100,7 +25828,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义初级阶段是不可逾越的，这主要取决于（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 生产力发展的不可逾越性符合题干要求，所以选它。A. 市场经济的不可逾越性不符合题干要求，所以不选。C. 生产关系发展的不可逾越性不符合题干要求，所以不选。D. 文化传统的不可逾越性不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27119,9 +25847,7 @@ window.QUESTION_BANK_DATA = {
           "text": "文化传统的不可逾越性"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-13",
@@ -27140,7 +25866,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十五大概括的社会主义初级阶段九个方面，充分体现了社会主义初级阶段历史发展的（）。",
       "answerRaw": "C",
-      "explanation": "本题看首要的基本理论问题。C. 过程性特征符合题干要求，所以选它。A. 阶段性特征不符合题干要求，所以不选。B. 总体性特征不符合题干要求，所以不选。D. 决定性特征不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27159,9 +25885,7 @@ window.QUESTION_BANK_DATA = {
           "text": "决定性特征"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-14",
@@ -27180,7 +25904,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持以经济建设为中心，从根本上说，这是由（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 社会主义初级阶段的主要矛盾决定的符合题干要求，所以选它。A. 当前的国情决定的不符合题干要求，所以不选。C. 当前的国际环境决定的不符合题干要求，所以不选。D. 党的方针政策决定的不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27199,9 +25923,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党的方针政策决定的"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-15",
@@ -27220,7 +25942,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1987年召开的党的（），明确概括和全面阐发了党的基本路线。",
       "answerRaw": "C",
-      "explanation": "本题看首要的基本理论问题。C. 十三大符合题干要求，所以选它。A. 十一届三中全会不符合题干要求，所以不选。B. 十二大不符合题干要求，所以不选。D. 十五大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27239,9 +25961,7 @@ window.QUESTION_BANK_DATA = {
           "text": "十五大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-16",
@@ -27260,7 +25980,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持党的基本路线不动摇，是因为（）。",
       "answerRaw": "D",
-      "explanation": "本题看首要的基本理论问题。D. 社会主义初级阶段的长期性符合题干要求，所以选它。A. 现代化建设任务的艰巨性不符合题干要求，所以不选。B. 时代发展的主题不符合题干要求，所以不选。C. 社会主义初级阶段的主要矛盾不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27279,9 +25999,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义初级阶段的长期性"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-17",
@@ -27300,7 +26018,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持四项基本原则，坚持改革开放，都是为了更好地（）。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 解放生产力和发展生产力符合题干要求，所以选它。B. 建设社会主义精神文明不符合题干要求，所以不选。C. 建设社会主义法治国家不符合题干要求，所以不选。D. 巩固人民民主专政不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27319,9 +26037,7 @@ window.QUESTION_BANK_DATA = {
           "text": "巩固人民民主专政"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-18",
@@ -27340,7 +26056,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平“三步走”发展战略正式确立于（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 党的十三大符合题干要求，所以选它。A. 党的十二大不符合题干要求，所以不选。C. 党的十三届六中全会不符合题干要求，所以不选。D. 党的十四大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27359,9 +26075,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党的十四大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-19",
@@ -27380,7 +26094,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "改革开放后，中国的改革首先是从（）开始。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 农村符合题干要求，所以选它。A. 城市不符合题干要求，所以不选。C. 内陆不符合题干要求，所以不选。D. 沿海不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27399,9 +26113,7 @@ window.QUESTION_BANK_DATA = {
           "text": "沿海"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-20",
@@ -27420,7 +26132,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平认为，中国的问题，压倒一切的是需要（）。",
       "answerRaw": "C",
-      "explanation": "本题看首要的基本理论问题。C. 稳定符合题干要求，所以选它。A. 发展不符合题干要求，所以不选。B. 改革不符合题干要求，所以不选。D. 开放不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27439,9 +26151,7 @@ window.QUESTION_BANK_DATA = {
           "text": "开放"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-21",
@@ -27460,7 +26170,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "改革开放开始后的一个很长时期内，我国经济体制改革的核心问题是（）。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 如何正确认识和处理计划与市场的关系符合题干要求，所以选它。B. 如何正确认识和处理公有制与私有制的关系不符合题干要求，所以不选。C. 资源配置不符合题干要求，所以不选。D. 政府协调不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27479,9 +26189,7 @@ window.QUESTION_BANK_DATA = {
           "text": "政府协调"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-22",
@@ -27500,7 +26208,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "实行“一国两制”后，港澳台特别行政区实现（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 高度自治符合题干要求，所以选它。A. 完全自治不符合题干要求，所以不选。C. 可以有自己独立的防务不符合题干要求，所以不选。D. 跟国内其他省份一样不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27519,9 +26227,7 @@ window.QUESTION_BANK_DATA = {
           "text": "跟国内其他省份一样"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-23",
@@ -27540,7 +26246,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义市场经济理论认为，计划经济与市场经济属于（）。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 不同的资源配置方式符合社会主义市场经济理论认为，计划经济与市场经济，所以选它。B. 不同的经济增长方式不符合社会主义市场经济理论认为，计划经济与市场经济，所以不选。C. 不同的经济制度的范畴不符合社会主义市场经济理论认为，计划经济与市场经济，所以不选。D. 不同的生产关系的范畴不符合社会主义市场经济理论认为，计划经济与市场经济，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27559,9 +26265,7 @@ window.QUESTION_BANK_DATA = {
           "text": "不同的生产关系的范畴"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-24",
@@ -27580,7 +26284,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国对外开放的第一个经济特区是（）。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 深圳符合题干要求，所以选它。B. 珠海不符合题干要求，所以不选。C. 汕头不符合题干要求，所以不选。D. 厦门不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27599,9 +26303,7 @@ window.QUESTION_BANK_DATA = {
           "text": "厦门"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-25",
@@ -27620,7 +26322,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平认为，中国解决所有问题的关键在于（）。",
       "answerRaw": "C",
-      "explanation": "本题看首要的基本理论问题。C. 靠自己的发展符合题干要求，所以选它。A. 依靠外援不符合题干要求，所以不选。B. 稳定的政治环境不符合题干要求，所以不选。D. 实行多党制不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27639,9 +26341,7 @@ window.QUESTION_BANK_DATA = {
           "text": "实行多党制"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-26",
@@ -27660,7 +26360,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "（）基于对中国国情的准确把握，揭示了当代中国的历史方位，是建设中国特色社会主义的总依据。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 社会主义初级阶段理论符合题干要求，所以选它。B. 以经济建设为中心论不符合题干要求，所以不选。C. 四项基本原则不符合题干要求，所以不选。D. 党在初级阶段的基本路线不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27679,9 +26379,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党在初级阶段的基本路线"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-27",
@@ -27700,7 +26398,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义理论体系的开篇之作是（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 邓小平理论符合题干要求，所以选它。A. 毛泽东思想不符合题干要求，所以不选。C. “三个代表”重要思想不符合题干要求，所以不选。D. 科学发展观不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27719,9 +26417,7 @@ window.QUESTION_BANK_DATA = {
           "text": "科学发展观"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-28",
@@ -27740,7 +26436,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平理论回答的基本问题是（）。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 什么是社会主义、怎样建设社会主义符合题干要求，所以选它。B. 建设一个什么样的党、怎样建设党不符合题干要求，所以不选。C. 实现什么样的发展、怎样发展不符合题干要求，所以不选。D. 怎样革命、怎样建设不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27759,9 +26455,7 @@ window.QUESTION_BANK_DATA = {
           "text": "怎样革命、怎样建设"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-29",
@@ -27780,7 +26474,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "建设“富强、民主、文明的社会主义现代化国家”，其中，“富强”主要是（）领域的目标和要求。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 经济符合题干要求，所以选它。B. 政治不符合题干要求，所以不选。C. 社会不符合题干要求，所以不选。D. 思想文化不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27799,9 +26493,7 @@ window.QUESTION_BANK_DATA = {
           "text": "思想文化"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-30",
@@ -27820,7 +26512,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "建设“富强、民主、文明的社会主义现代化国家”，其中，“民主”主要是（）领域的目标和要求。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 政治符合题干要求，所以选它。A. 经济不符合题干要求，所以不选。C. 社会不符合题干要求，所以不选。D. 思想文化不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27839,9 +26531,7 @@ window.QUESTION_BANK_DATA = {
           "text": "思想文化"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-31",
@@ -27860,7 +26550,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "建设“富强、民主、文明的社会主义现代化国家”，其中，“文明”主要是（）领域的目标和要求。",
       "answerRaw": "D",
-      "explanation": "本题看首要的基本理论问题。D. 思想文化符合题干要求，所以选它。A. 经济不符合题干要求，所以不选。B. 政治不符合题干要求，所以不选。C. 社会不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27879,9 +26569,7 @@ window.QUESTION_BANK_DATA = {
           "text": "思想文化"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-32",
@@ -27900,7 +26588,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "（）把邓小平理论确立为党的指导思想。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 党的十五大符合题干要求，所以选它。B. 党的十六大不符合题干要求，所以不选。C. 党的十七大不符合题干要求，所以不选。D. 党的十八大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27919,9 +26607,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党的十八大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-33",
@@ -27940,7 +26626,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的（）第一次对中国特色社会主义理论的主要内容作了系统概括。",
       "answerRaw": "A",
-      "explanation": "本题看主要内容。A. 十三大符合题干要求，所以选它。B. 十四大不符合题干要求，所以不选。C. 十五大不符合题干要求，所以不选。D. 十六大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27959,9 +26645,7 @@ window.QUESTION_BANK_DATA = {
           "text": "十六大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-34",
@@ -27980,7 +26664,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1978年5月发表的（）一文，引发了关于真理标准的大讨论，成为了拨乱反正、改革开放的思想先导。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 《实践是检验真理的唯一标准》符合题干要求，所以选它。A. 《中共中央关于经济体制改革的决定》不符合题干要求，所以不选。C. 《解放思想，实事求是，团结一致向前看》不符合题干要求，所以不选。D. 《在武昌、深圳、珠海、上海等地的谈话要点》不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -27999,9 +26683,7 @@ window.QUESTION_BANK_DATA = {
           "text": "《在武昌、深圳、珠海、上海等地的谈话要点》"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-35",
@@ -28020,7 +26702,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "实现四个现代化的根本前提是必须在思想政治上（）。",
       "answerRaw": "D",
-      "explanation": "本题看首要的基本理论问题。D. 坚持四项基本原则符合题干要求，所以选它。A. 坚持社会主义道路不符合题干要求，所以不选。B. 坚持人民民主专政不符合题干要求，所以不选。C. 坚持共产党的领导不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28039,9 +26721,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持四项基本原则"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-36",
@@ -28060,7 +26740,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1979 年3月，邓小平在党的理论工作务虚会上发表（）的讲话。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 《坚持四项基本原则》符合题干要求，所以选它。B. 《解放思想实事求是，团结一致向前看》不符合题干要求，所以不选。C. 《社会主义本质》不符合题干要求，所以不选。D. 《社会主义计划经济与市场经济》不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28079,9 +26759,7 @@ window.QUESTION_BANK_DATA = {
           "text": "《社会主义计划经济与市场经济》"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-37",
@@ -28100,7 +26778,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平理论轮廓的形成标志是（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 党的十三大报告符合题干要求，所以选它。A. 党十一届三中全会公报不符合题干要求，所以不选。C. 党十五大报告不符合题干要求，所以不选。D. 南方谈话不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28119,9 +26797,7 @@ window.QUESTION_BANK_DATA = {
           "text": "南方谈话"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-38",
@@ -28140,7 +26816,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "全面改革进程中，思想解放的科学总结是（）。",
       "answerRaw": "D",
-      "explanation": "本题看首要的基本理论问题。D. 《在武昌，深圳，珠海，上海等地的谈话要点》符合题干要求，所以选它。A. 《坚持四项基本原则》不符合题干要求，所以不选。B. 《解放思想，实事求是，团结一致向前看》不符合题干要求，所以不选。C. 《邓小平文选》二卷不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28159,9 +26835,7 @@ window.QUESTION_BANK_DATA = {
           "text": "《在武昌，深圳，珠海，上海等地的谈话要点》"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-39",
@@ -28180,7 +26854,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“一个党，一个国家，一个民族，如果一切从本本出发，思想僵化，迷信盛行，那它就不能前进，它的生机就停止了，就要亡党亡国。”这句话要表达的是（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 坚持解放思想、实事求是不属于“一个党，一个国家，一个民族，如果一切从本本出发，思想僵化，迷信盛行，那它就，所以选它。A. 坚持走社会主义道路属于“一个党，一个国家，一个民族，如果一切从本本出发，思想僵化，迷信盛行，那它就，所以不选。C. 坚持改革开放属于“一个党，一个国家，一个民族，如果一切从本本出发，思想僵化，迷信盛行，那它就，所以不选。D. 中国还处在社会主义初级阶段属于“一个党，一个国家，一个民族，如果一切从本本出发，思想僵化，迷信盛行，那它就，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28199,9 +26873,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国还处在社会主义初级阶段"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-40",
@@ -28220,7 +26892,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "建设中国特色社会主义，关键在于坚持、加强和改善（）。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 党的领导符合题干要求，所以选它。B. 基层群众自治不符合题干要求，所以不选。C. 社会主义市场经济不符合题干要求，所以不选。D. 国家发展战略不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28239,9 +26911,7 @@ window.QUESTION_BANK_DATA = {
           "text": "国家发展战略"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-41",
@@ -28260,7 +26930,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1981年，（）提出了“计划经济为主，市场调节为辅”的方针，允许市场调节存在和发挥作用，这为形成社会主义市场经济理论开辟了道路。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 党的十一届六中全会符合题干要求，所以选它。B. 党的十二大不符合题干要求，所以不选。C. 党的十二届三中全会不符合题干要求，所以不选。D. 党的十三大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28279,9 +26949,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党的十三大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-42",
@@ -28300,7 +26968,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平关于社会主义本质的概括不包括（）。",
       "answerRaw": "D",
-      "explanation": "本题看首要的基本理论问题。D. 社会主义制度的具体模式不属于邓小平关于社会主义本质的概括，所以选它。A. 社会主义社会的生产力问题属于邓小平关于社会主义本质的概括，所以不选。B. 以社会主义生产关系为基础的社会关系问题属于邓小平关于社会主义本质的概括，所以不选。C. 社会主义制度的发展目标属于邓小平关于社会主义本质的概括，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28319,9 +26987,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义制度的具体模式"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-43",
@@ -28340,7 +27006,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平理论形成的现实依据是（）。",
       "answerRaw": "C",
-      "explanation": "本题看首要的基本理论问题。C. 改革开放和现代化建设的实践符合题干要求，所以选它。A. 马克思列宁主义、毛泽东思想不符合题干要求，所以不选。B. 当今世界的时代特征不符合题干要求，所以不选。D. 社会主义初级阶段理论不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28359,9 +27025,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义初级阶段理论"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-44",
@@ -28380,7 +27044,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平理论中“一国两制”的构想最初是为了解决（）提出的。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 台湾问题符合题干要求，所以选它。B. 香港问题不符合题干要求，所以不选。C. 澳门问题不符合题干要求，所以不选。D. 以上都是不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28399,9 +27063,7 @@ window.QUESTION_BANK_DATA = {
           "text": "以上都是"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-45",
@@ -28420,7 +27082,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义初级阶段理论认为，我国社会的主要矛盾是（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 人民日益增长的物质文化需要同落后的社会生产之间的矛盾符合题干要求，所以选它。A. 无产阶级与资产阶级的矛盾不符合题干要求，所以不选。C. 社会主义道路与资本主义道路的矛盾不符合题干要求，所以不选。D. 改革与开放的矛盾不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28439,9 +27101,7 @@ window.QUESTION_BANK_DATA = {
           "text": "改革与开放的矛盾"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-46",
@@ -28460,7 +27120,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平首次提出“社会主义也可以搞市场经济”的论断是在（）。",
       "answerRaw": "D",
-      "explanation": "本题看首要的基本理论问题。D. 1992年南方谈话符合题干要求，所以选它。A. 1978年十一届三中全会不符合题干要求，所以不选。B. 1982年党的十二大不符合题干要求，所以不选。C. 1987年党的十三大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28479,9 +27139,7 @@ window.QUESTION_BANK_DATA = {
           "text": "1992年南方谈话"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-47",
@@ -28500,7 +27158,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十五大对邓小平理论的历史地位作出的最重要论断是（）。",
       "answerRaw": "A",
-      "explanation": "本题看历史地位。A. 中国特色社会主义理论体系的开篇之作符合题干要求，所以选它。B. 马克思主义中国化的第一次历史性飞跃不符合题干要求，所以不选。C. 新时代治国理政的行动纲领不符合题干要求，所以不选。D. 21世纪马克思主义的核心内容不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28519,9 +27177,7 @@ window.QUESTION_BANK_DATA = {
           "text": "21世纪马克思主义的核心内容"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-48",
@@ -28540,7 +27196,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的基本路线的核心内容是（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 一个中心、两个基本点符合题干要求，所以选它。A. 以阶级斗争为纲不符合题干要求，所以不选。C. 坚持四项基本原则不符合题干要求，所以不选。D. 自力更生、艰苦创业不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28559,9 +27215,7 @@ window.QUESTION_BANK_DATA = {
           "text": "自力更生、艰苦创业"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-49",
@@ -28580,7 +27234,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“科学技术是第一生产力”的论断首次明确提出是在（）。",
       "answerRaw": "C",
-      "explanation": "本题看首要的基本理论问题。C. 1988年会见胡萨克时的谈话符合题干要求，所以选它。A. 1978年全国科学大会不符合题干要求，所以不选。B. 1985年《关于科技体制改革的决定》不符合题干要求，所以不选。D. 1992年南方谈话不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28599,9 +27253,7 @@ window.QUESTION_BANK_DATA = {
           "text": "1992年南方谈话"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-50",
@@ -28620,7 +27272,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平提出“发展才是硬道理”的实质是强调（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 发展是解决中国所有问题的关键符合题干要求，所以选它。A. 经济增长速度必须保持高位不符合题干要求，所以不选。C. 必须优先发展重工业不符合题干要求，所以不选。D. 经济发展要注重数量扩张不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28639,9 +27291,7 @@ window.QUESTION_BANK_DATA = {
           "text": "经济发展要注重数量扩张"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-51",
@@ -28660,7 +27310,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义初级阶段理论认为，我国社会主义初级阶段的长期性根本上取决于（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 生产力不发达的状况符合题干要求，所以选它。A. 人口多、底子薄的基本国情不符合题干要求，所以不选。C. 封建社会的历史影响不符合题干要求，所以不选。D. 资本主义国家的封锁不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28679,9 +27329,7 @@ window.QUESTION_BANK_DATA = {
           "text": "资本主义国家的封锁"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-52",
@@ -28700,7 +27348,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十一届三中全会后，农村改革率先突破的标志是（）。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 家庭联产承包责任制推行符合题干要求，所以选它。B. 乡镇企业的兴起不符合题干要求，所以不选。C. 取消农产品统购统销不符合题干要求，所以不选。D. 建立经济特区不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28719,9 +27367,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建立经济特区"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-53",
@@ -28740,7 +27386,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平理论认为，对外开放的立足点是（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 增强自力更生能力符合题干要求，所以选它。A. 引进国外先进技术不符合题干要求，所以不选。C. 参与国际分工不符合题干要求，所以不选。D. 扩大出口贸易不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28759,9 +27405,7 @@ window.QUESTION_BANK_DATA = {
           "text": "扩大出口贸易"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-54",
@@ -28780,7 +27424,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平提出的“三个面向”教育方针中不包括（）。",
       "answerRaw": "D",
-      "explanation": "本题看首要的基本理论问题。D. 面向基层不属于邓小平提出的“三个面向”教育方针中，所以选它。A. 面向现代化属于邓小平提出的“三个面向”教育方针中，所以不选。B. 面向世界属于邓小平提出的“三个面向”教育方针中，所以不选。C. 面向未来属于邓小平提出的“三个面向”教育方针中，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28799,9 +27443,7 @@ window.QUESTION_BANK_DATA = {
           "text": "面向基层"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-55",
@@ -28820,7 +27462,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平理论认为，加强党的建设的首要任务是（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 思想建设符合题干要求，所以选它。A. 反腐败斗争不符合题干要求，所以不选。C. 组织建设不符合题干要求，所以不选。D. 制度建设不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28839,9 +27481,7 @@ window.QUESTION_BANK_DATA = {
           "text": "制度建设"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-56",
@@ -28860,7 +27500,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国过去40多年的快速发展靠的是改革开放，我国未来发展也必须坚定不移依靠改革开放。以下对改革开放认识正确的是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看首要的基本理论问题。A. 改革开放是决定当代中国命运的关键抉择符合题干要求，所以选它。B. 改革开放是发展中国特色社会主义、实现中华民族伟大复兴的必由之路符合题干要求，所以选它。C. 只有改革开放才能发展中国、发展社会主义、发展马克思主义符合题干要求，所以选它。D. 改革开放符合党心民心、顺应时代潮流符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28879,9 +27519,7 @@ window.QUESTION_BANK_DATA = {
           "text": "改革开放符合党心民心、顺应时代潮流"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-57",
@@ -28900,7 +27538,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义市场经济体制是社会主义基本制度与市场经济的结合，其基本特征是（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看首要的基本理论问题。A. 以公有制为主体，多种所有制经济共同发展的所有制结构符合题干要求，所以选它。B. 以按劳分配为主体，多种分配方式并存的分配结构符合题干要求，所以选它。C. 宏观调控上，能更好地发挥计划和市场两种手段的长处符合题干要求，所以选它。D. 政府不直接干预企业的生产和经营不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28919,9 +27557,7 @@ window.QUESTION_BANK_DATA = {
           "text": "政府不直接干预企业的生产和经营"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-58",
@@ -28940,7 +27576,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十四大报告系统阐释了中国特色社会主义理论的历史地位和指导意义，认为这一理论（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看历史地位。A. 是马克思列宁主义基本原理与当代中国实际和时代特征相结合的产物符合题干要求，所以选它。B. 是对毛泽东思想的继承和发展符合题干要求，所以选它。C. 是全党全国人民集体智慧的结晶符合题干要求，所以选它。D. 是中国共产党和中国人民最可贵的精神财富符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28959,9 +27595,7 @@ window.QUESTION_BANK_DATA = {
           "text": "是中国共产党和中国人民最可贵的精神财富"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-59",
@@ -28980,7 +27614,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“什么是社会主义，怎样建设社会主义”，是（）。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看首要的基本理论问题。A. 社会主义的根本问题符合题干要求，所以选它。C. 社会主义首要的基本理论问题符合题干要求，所以选它。D. 邓小平理论的主题符合题干要求，所以选它。B. 党的思想路线问题不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -28999,9 +27633,7 @@ window.QUESTION_BANK_DATA = {
           "text": "邓小平理论的主题"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-60",
@@ -29020,7 +27652,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平关于社会主义本质的概括，（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看首要的基本理论问题。A. 摆脱了长期以来拘泥于具体模式而忽略社会主义本质的错误倾向符合题干要求，所以选它。B. 反映了人民的利益和时代的要求符合题干要求，所以选它。C. 廓清了不合乎时代进步和社会发展规律的模糊概念符合题干要求，所以选它。D. 把对社会主义的认识提高到新的科学水平符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29039,9 +27671,7 @@ window.QUESTION_BANK_DATA = {
           "text": "把对社会主义的认识提高到新的科学水平"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-61",
@@ -29060,7 +27690,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "解放思想、实事求是的思想路线，（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看首要的基本理论问题。A. 有力地推动和保证了改革开放的进行符合题干要求，所以选它。B. 体现了革命胆略和科学精神的统一符合题干要求，所以选它。C. 是邓小平理论活的灵魂符合题干要求，所以选它。D. 是邓小平理论的精髓符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29079,9 +27709,7 @@ window.QUESTION_BANK_DATA = {
           "text": "是邓小平理论的精髓"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-62",
@@ -29100,7 +27728,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平理论中关于社会主义精神文明建设的重要观点包括（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看首要的基本理论问题。A. 强调物质文明和精神文明 “两手抓，两手都要硬”符合邓小平理论中关于社会主义精神文明建设的重要观点，所以选它。B. 提出培养有理想、有道德、有文化、有纪律的 “四有” 新人目标符合邓小平理论中关于社会主义精神文明建设的重要观点，所以选它。C. 倡导弘扬爱国主义、集体主义、社会主义思想符合邓小平理论中关于社会主义精神文明建设的重要观点，所以选它。D. 认为精神文明建设应服从于物质文明建设，无需单独重视不符合邓小平理论中关于社会主义精神文明建设的重要观点，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29119,9 +27747,7 @@ window.QUESTION_BANK_DATA = {
           "text": "认为精神文明建设应服从于物质文明建设，无需单独重视"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-63",
@@ -29140,7 +27766,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“一国两制”的提出是从中国实际出发，解决（），实现祖国和平统一的伟大构想。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看首要的基本理论问题。A. 台湾问题符合题干要求，所以选它。C. 香港问题符合题干要求，所以选它。D. 澳门问题符合题干要求，所以选它。B. 南海问题不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29159,9 +27785,7 @@ window.QUESTION_BANK_DATA = {
           "text": "澳门问题"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-64",
@@ -29180,7 +27804,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三步走”发展战略中直接体现人民生活水平的目标包括（）。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看首要的基本理论问题。B. 解决温饱符合“三步走”发展战略中直接体现人民生活水平的目标，所以选它。C. 实现小康符合“三步走”发展战略中直接体现人民生活水平的目标，所以选它。D. 达到比较富裕符合“三步走”发展战略中直接体现人民生活水平的目标，所以选它。A. 基本实现现代化不符合“三步走”发展战略中直接体现人民生活水平的目标，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29199,9 +27823,7 @@ window.QUESTION_BANK_DATA = {
           "text": "达到比较富裕"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-65",
@@ -29220,7 +27842,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平反复强调并作为我国立国之本的四项基本原则是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看首要的基本理论问题。A. 坚持社会主义道路符合题干要求，所以选它。B. 坚持中国共产党的领导符合题干要求，所以选它。C. 坚持人民民主专政符合题干要求，所以选它。D. 坚持马列主义、毛泽东思想符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29239,9 +27861,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持马列主义、毛泽东思想"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-66",
@@ -29260,7 +27880,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平关于 “改革是中国的第二次革命” 的论断，其内涵包括（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看首要的基本理论问题。A. 改革的性质同过去的革命一样，都是为了扫除发展社会生产力的障碍符合邓小平关于 “改革是中国的第二次革命” 的论断，其内涵，所以选它。B. 改革是对原有经济体制的根本性变革，而非细枝末节的修补符合邓小平关于 “改革是中国的第二次革命” 的论断，其内涵，所以选它。C. 改革也会引起社会生活和人们思想观念等方面的深刻变化符合邓小平关于 “改革是中国的第二次革命” 的论断，其内涵，所以选它。D. 改革与革命的方式完全相同，都是通过激烈的暴力手段进行不符合邓小平关于 “改革是中国的第二次革命” 的论断，其内涵，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29279,9 +27899,7 @@ window.QUESTION_BANK_DATA = {
           "text": "改革与革命的方式完全相同，都是通过激烈的暴力手段进行"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-67",
@@ -29300,7 +27918,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“一个中心，两个基本点”是对社会主义初级阶段基本路线的简明概括，“两个基本点”是指（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看首要的基本理论问题。A. 坚持四项基本原则符合“一个中心，两个基本点”是对社会主义初级阶段基本路线的简明概括，“两个基本点”，所以选它。B. 坚持改革开放符合“一个中心，两个基本点”是对社会主义初级阶段基本路线的简明概括，“两个基本点”，所以选它。C. 坚持解放发展生产力不符合“一个中心，两个基本点”是对社会主义初级阶段基本路线的简明概括，“两个基本点”，所以不选。D. 坚持自力更生，艰苦创业不符合“一个中心，两个基本点”是对社会主义初级阶段基本路线的简明概括，“两个基本点”，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29319,9 +27937,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持自力更生，艰苦创业"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-68",
@@ -29340,7 +27956,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“一国两制”构想的基本内容，包括（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看首要的基本理论问题。A. 以“一个中国”为基础，实行“两种制度”符合“一国两制”构想的基本内容，所以选它。B. 台、港、澳地区实行高度自治符合“一国两制”构想的基本内容，所以选它。D. 实行“一国两制”长期不变符合“一国两制”构想的基本内容，所以选它。C. 台、港、澳地区实行完全自治不符合“一国两制”构想的基本内容，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29359,9 +27975,7 @@ window.QUESTION_BANK_DATA = {
           "text": "实行“一国两制”长期不变"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-69",
@@ -29380,7 +27994,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "关于对外开放，下列表述正确的有（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看首要的基本理论问题。A. 当今的世界是开放的世界符合题干要求，所以选它。B. 对外开放要正确对待资本主义社会创造的现代文明成果符合题干要求，所以选它。C. 中国的发展离不开世界符合题干要求，所以选它。D. 对外开放是我们国家的基本国策符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29399,9 +28013,7 @@ window.QUESTION_BANK_DATA = {
           "text": "对外开放是我们国家的基本国策"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-70",
@@ -29420,7 +28032,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1987年4月，邓小平第一次提出了分“三步走”基本实现现代化的战略。同年10月，中共十三大把邓小平“三步走”的发展战略构想确定下来，这就是（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看首要的基本理论问题。A. 到1990年，实现国民生产总值比1980年翻一番，解决人民的温饱问题符合题干要求，所以选它。B. 到20世纪末，使国民生产总值再翻一番，人民生活达到小康水平符合题干要求，所以选它。D. 到21世纪中叶，人均国民生产总值达到中等发达国家水平，基本实现现代化符合题干要求，所以选它。C. 到2020年左右，建党100周年时，全面建成小康社会不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29439,9 +28051,7 @@ window.QUESTION_BANK_DATA = {
           "text": "到21世纪中叶，人均国民生产总值达到中等发达国家水平，基本实现现代化"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-71",
@@ -29460,7 +28070,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国社会主义建设造成失误的直接和深层原因包括（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看首要的基本理论问题。A. 在经济上急于求成、盲目求成和急于过渡符合我国社会主义建设造成失误的直接和深层原因，所以选它。B. 在政治上以阶级斗争为纲符合我国社会主义建设造成失误的直接和深层原因，所以选它。C. 偏离了党实事求是的思想路线符合我国社会主义建设造成失误的直接和深层原因，所以选它。D. 没有搞清什么是社会主义和如何建设社会主义的问题符合我国社会主义建设造成失误的直接和深层原因，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29479,9 +28089,7 @@ window.QUESTION_BANK_DATA = {
           "text": "没有搞清什么是社会主义和如何建设社会主义的问题"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-72",
@@ -29500,7 +28108,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平指出，在改革中我们始终要坚持的两条根本原则是（）。",
       "answerRaw": "B;C",
-      "explanation": "本题看首要的基本理论问题。B. 以社会主义公有制经济为主体符合题干要求，所以选它。C. 共同富裕符合题干要求，所以选它。A. 以人为本不符合题干要求，所以不选。D. 坚持马克思主义的指导地位不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29519,9 +28127,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持马克思主义的指导地位"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-73",
@@ -29540,7 +28146,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在《解放思想，实事求是，团结一致向前看》的讲话中，邓小平主要讲了（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看首要的基本理论问题。A. 解放思想是当前的一个重大政治问题符合题干要求，所以选它。B. 民主是解放思想的重要条件符合题干要求，所以选它。C. 处理遗留问题为的是向前看符合题干要求，所以选它。D. 研究新情况，解决新问题符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29559,9 +28165,7 @@ window.QUESTION_BANK_DATA = {
           "text": "研究新情况，解决新问题"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-74",
@@ -29580,7 +28184,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1978年12月召开的党的十一届三中全会，实现了党的历史上具有深远意义的伟大转折，包含（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看首要的基本理论问题。A. 重新确立了解放思想，实事求是的思想路线符合题干要求，所以选它。B. 停止使用“以阶级斗争为纲”的错误提法符合题干要求，所以选它。C. 确定把全党工作的着重点转移到社会主义现代化建设上来符合题干要求，所以选它。D. 作出实行改革开放的重大决策符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29599,9 +28203,7 @@ window.QUESTION_BANK_DATA = {
           "text": "作出实行改革开放的重大决策"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-75",
@@ -29620,7 +28222,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平在南方谈话中提出的“三个有利于”标准是指（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看首要的基本理论问题。A. 是否有利于发展社会主义社会的生产力符合邓小平在南方谈话中提出的“三个有利于”标准，所以选它。B. 是否有利于增强社会主义国家的综合国力符合邓小平在南方谈话中提出的“三个有利于”标准，所以选它。C. 是否有利于提高人民的生活水平符合邓小平在南方谈话中提出的“三个有利于”标准，所以选它。D. 是否有利于融入全球体制不符合邓小平在南方谈话中提出的“三个有利于”标准，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29639,9 +28241,7 @@ window.QUESTION_BANK_DATA = {
           "text": "是否有利于融入全球体制"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-76",
@@ -29660,7 +28260,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平关于社会主义本质的概括，具有重大的政治意义，理论意义和实践意义，促进（）。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看首要的基本理论问题。A. 在坚持社会主义基本制度的基础上推进改革符合题干要求，所以选它。C. 改革沿着合乎社会主义本质要求的方向发展符合题干要求，所以选它。D. 建设有中国特色的社会主义符合题干要求，所以选它。B. 社会主义的市场化、自由化和私有化改革不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29679,9 +28279,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建设有中国特色的社会主义"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-77",
@@ -29700,7 +28298,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十三大系统地阐述了社会主义初级阶段的科学内涵，阐明了社会主义初级阶段这个论断，包括两层含义（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看首要的基本理论问题。A. 我国社会已经是社会主义社会，我们必须坚持而不能离开社会主义符合党的十三大系统地阐述了社会主义初级阶段的科学内涵，阐明了社会主义初级阶段这个论断，所以选它。B. 我国的社会主义社会还处在初级阶段符合党的十三大系统地阐述了社会主义初级阶段的科学内涵，阐明了社会主义初级阶段这个论断，所以选它。C. 社会主义初级阶段是任何社会主义国家都不可逾越的必经阶段不符合党的十三大系统地阐述了社会主义初级阶段的科学内涵，阐明了社会主义初级阶段这个论断，所以不选。D. 社会主义初级阶段和共产主义的初级阶段是同一个阶段不符合党的十三大系统地阐述了社会主义初级阶段的科学内涵，阐明了社会主义初级阶段这个论断，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29719,9 +28317,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义初级阶段和共产主义的初级阶段是同一个阶段"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-78",
@@ -29740,7 +28336,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平对时代主题的判断，其基本点包括（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看首要的基本理论问题。A. 世界大战在一个相当长的时期内可以避免，我们有可能争取较长时期的和平环境符合邓小平对时代主题的判断，其基本点，所以选它。B. 从经济角度来说，和平与发展是当今世界两大带有全球性的战略问题，是东西方之间、发达国家与发展中国家之间矛盾全局的集中体现符合邓小平对时代主题的判断，其基本点，所以选它。C. 和平与发展是相辅相成的，世界和平是促进各国共同发展的前提条件，各国的共同发展则是保持世界和平的重要基础符合邓小平对时代主题的判断，其基本点，所以选它。D. 和平与发展成为时代主题，并不意味着这两个问题已经解决符合邓小平对时代主题的判断，其基本点，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29759,9 +28355,7 @@ window.QUESTION_BANK_DATA = {
           "text": "和平与发展成为时代主题，并不意味着这两个问题已经解决"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-79",
@@ -29780,7 +28374,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1989年以后，国际局势风云变幻，世界社会主义事业出现严重曲折。邓小平纵观全局，高瞻远瞩，对错综复杂的国际形势作出了精辟的判断，对我国对外关系提出了重要的指导方针。邓小平指出：“对于国际局势，概括起来就是三句话（）。”",
       "answerRaw": "A;B;D",
-      "explanation": "本题看首要的基本理论问题。A. 冷静观察符合题干要求，所以选它。B. 稳住阵脚符合题干要求，所以选它。D. 沉着应付符合题干要求，所以选它。C. 韬光养晦不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29799,9 +28393,7 @@ window.QUESTION_BANK_DATA = {
           "text": "沉着应付"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-80",
@@ -29820,7 +28412,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1926-1927年初，邓小平在莫斯科中山大学留学一年。此时正值列宁的新经济政策在莫斯科和整个苏联燎原般发展，国家经济全面开花，市场上商品丰富、品类繁多，商店、饭馆、咖啡馆随处可见。邓小平到中山大学第一天就收到了一大堆日用品，一日三餐也非常丰富。在此期间，邓小平还认真阅读和摘抄了苏联领导人关于新经济政策的许多论述。这一段经历对邓小平后来思考建设“有中国特色的社会主义”具有一定的启示。邓小平与列宁在如何建设社会主义的探索中有许多相通之处，主要有（）。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看首要的基本理论问题。B. 把大力发展生产力、提高劳动生产率放在首要地位符合题干要求，所以选它。C. 学习和利用资本主义的文明成果符合题干要求，所以选它。D. 在多种经济成分并存的条件下，利用商品、货币和市场发展经济符合题干要求，所以选它。A. 优先发展重工业，快速实现从农业国到工业国的转变不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29839,9 +28431,7 @@ window.QUESTION_BANK_DATA = {
           "text": "在多种经济成分并存的条件下，利用商品、货币和市场发展经济"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-81",
@@ -29860,7 +28450,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平理论走向成熟的标志性事件包括（）。",
       "answerRaw": "C;D",
-      "explanation": "本题看首要的基本理论问题。C. 南方谈话提出社会主义本质论和社会主义市场经济理论符合邓小平理论走向成熟的标志性事件，所以选它。D. 党的十四大对建设有中国特色社会主义理论进行系统概括符合邓小平理论走向成熟的标志性事件，所以选它。A. 党的十二大提出“建设有中国特色的社会主义”不符合邓小平理论走向成熟的标志性事件，所以不选。B. 党的十三大系统阐述社会主义初级阶段理论不符合邓小平理论走向成熟的标志性事件，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29879,9 +28469,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党的十四大对建设有中国特色社会主义理论进行系统概括"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-82",
@@ -29900,7 +28488,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平提出的“两手抓”方针包括（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看首要的基本理论问题。A. 一手抓物质文明，一手抓精神文明符合邓小平提出的“两手抓”方针，所以选它。B. 一手抓改革开放，一手抓打击犯罪符合邓小平提出的“两手抓”方针，所以选它。C. 一手抓经济建设，一手抓民主法制符合邓小平提出的“两手抓”方针，所以选它。D. 一手抓发展，一手抓稳定符合邓小平提出的“两手抓”方针，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29919,9 +28507,7 @@ window.QUESTION_BANK_DATA = {
           "text": "一手抓发展，一手抓稳定"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-83",
@@ -29940,7 +28526,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“一国两制”的核心要义是（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看首要的基本理论问题。A. 国家主权统一于中华人民共和国符合题干要求，所以选它。B. 港澳台保持原有资本主义制度不变符合题干要求，所以选它。C. 港澳台享有高度自治权符合题干要求，所以选它。D. 港澳台可以保留军队不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29959,9 +28545,7 @@ window.QUESTION_BANK_DATA = {
           "text": "港澳台可以保留军队"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-84",
@@ -29980,7 +28564,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平理论形成的时代背景包括（）​。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看首要的基本理论问题。A. 和平与发展成为时代主题符合邓小平理论形成的时代背景，所以选它。B. 世界多极化趋势显现符合邓小平理论形成的时代背景，所以选它。C. 新科技革命迅猛发展符合邓小平理论形成的时代背景，所以选它。D. 社会主义阵营完全解体不符合邓小平理论形成的时代背景，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -29999,9 +28583,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义阵营完全解体"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-85",
@@ -30020,7 +28602,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平关于科技与教育的论断包括（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看首要的基本理论问题。A. 科学技术是第一生产力符合邓小平关于科技与教育的论断，所以选它。B. 教育要面向现代化、面向世界、面向未来符合邓小平关于科技与教育的论断，所以选它。C. 知识分子是工人阶级的一部分符合邓小平关于科技与教育的论断，所以选它。D. 尊重知识、尊重人才符合邓小平关于科技与教育的论断，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -30039,9 +28621,7 @@ window.QUESTION_BANK_DATA = {
           "text": "尊重知识、尊重人才"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-86",
@@ -30060,7 +28640,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平关于新时期加强党的建设的主要思想包括（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看首要的基本理论问题。A. 坚持党要管党、从严治党符合邓小平关于新时期加强党的建设的主要思想，所以选它。B. 把党建设成为领导社会主义现代化事业的坚强核心符合邓小平关于新时期加强党的建设的主要思想，所以选它。C. 密切党同人民群众的血肉联系符合邓小平关于新时期加强党的建设的主要思想，所以选它。D. 推进反腐败斗争制度化符合邓小平关于新时期加强党的建设的主要思想，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -30079,9 +28659,7 @@ window.QUESTION_BANK_DATA = {
           "text": "推进反腐败斗争制度化"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-87",
@@ -30100,7 +28678,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平提出的实现共同富裕的路径包括（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看首要的基本理论问题。A. 允许一部分地区、一部分人先富起来符合邓小平提出的实现共同富裕的路径，所以选它。B. 先富带动后富，最终达到共同富裕符合邓小平提出的实现共同富裕的路径，所以选它。C. 通过计划手段平均分配社会财富不符合邓小平提出的实现共同富裕的路径，所以不选。D. 消除一切收入差距不符合邓小平提出的实现共同富裕的路径，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -30119,9 +28697,7 @@ window.QUESTION_BANK_DATA = {
           "text": "消除一切收入差距"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-88",
@@ -30140,7 +28716,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平提出的对外开放基本原则包括（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看首要的基本理论问题。A. 独立自主、自力更生符合邓小平提出的对外开放基本原则，所以选它。B. 平等互利、共同发展符合邓小平提出的对外开放基本原则，所以选它。C. 全面引进西方政治制度不符合邓小平提出的对外开放基本原则，所以不选。D. 以市场换技术不符合邓小平提出的对外开放基本原则，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -30159,9 +28735,7 @@ window.QUESTION_BANK_DATA = {
           "text": "以市场换技术"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-89",
@@ -30180,7 +28754,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "20世纪80年代末90年代初，邓小平应对国际局势提出的方针包括（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看首要的基本理论问题。A. 冷静观察、稳住阵脚符合20世纪80年代末90年代初，邓小平应对国际局势提出的方针，所以选它。B. 韬光养晦、有所作为符合20世纪80年代末90年代初，邓小平应对国际局势提出的方针，所以选它。D. 推动建立国际政治经济新秩序符合20世纪80年代末90年代初，邓小平应对国际局势提出的方针，所以选它。C. 联合第三世界国家对抗霸权不符合20世纪80年代末90年代初，邓小平应对国际局势提出的方针，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -30199,9 +28773,7 @@ window.QUESTION_BANK_DATA = {
           "text": "推动建立国际政治经济新秩序"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-90",
@@ -30220,7 +28792,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "解放思想、实事求是的辩证关系体现在（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看首要的基本理论问题。A. 解放思想是实事求是的前提符合题干要求，所以选它。B. 实事求是是解放思想的目的符合题干要求，所以选它。C. 二者统一于改革开放实践符合题干要求，所以选它。D. 解放思想可以突破客观规律不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -30239,9 +28811,7 @@ window.QUESTION_BANK_DATA = {
           "text": "解放思想可以突破客观规律"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-91",
@@ -30260,7 +28830,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平提出的改革方法论原则包括（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看首要的基本理论问题。A. 胆子要大、步子要稳符合邓小平提出的改革方法论原则，所以选它。B. 先试点后推广符合邓小平提出的改革方法论原则，所以选它。C. 正确处理改革、发展、稳定的关系符合邓小平提出的改革方法论原则，所以选它。D. 全面照搬西方改革经验不符合邓小平提出的改革方法论原则，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -30279,9 +28849,7 @@ window.QUESTION_BANK_DATA = {
           "text": "全面照搬西方改革经验"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-92",
@@ -30300,7 +28868,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平理论在马克思主义中国化进程中的历史地位表现为（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看历史地位。A. 毛泽东思想在新的历史条件下的继承和发展符合题干要求，所以选它。B. 中国特色社会主义理论体系的开篇之作符合题干要求，所以选它。D. 改革开放和现代化建设的科学指南符合题干要求，所以选它。C. 21世纪马克思主义的核心组成部分不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -30319,9 +28887,7 @@ window.QUESTION_BANK_DATA = {
           "text": "改革开放和现代化建设的科学指南"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-93",
@@ -30340,11 +28906,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平提出\"冷静观察、稳住阵脚、沉着应付\"的国际战略方针。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-94",
@@ -30363,11 +28927,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十一届三中全会作出工作重心转移到经济建设上来的战略决策。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-95",
@@ -30386,11 +28948,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "解放思想、实事求是的思想路线，是邓小平理论的活的灵魂，是邓小平理论的精髓。",
       "answerRaw": "true",
-      "explanation": "本题看精髓。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-96",
@@ -30409,11 +28969,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国处在社会主义初级阶段，是邓小平和我们党对当代中国基本国情的科学判断。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-97",
@@ -30432,11 +28990,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十二大系统地论述了社会主义初级阶段理论。",
       "answerRaw": "false",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-98",
@@ -30455,11 +29011,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十一届三中全会以后，邓小平指出：“要发展生产力，经济体制改革是必由之路。”",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-99",
@@ -30478,11 +29032,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "阶级斗争是社会主义初级阶段的主要矛盾。",
       "answerRaw": "false",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-100",
@@ -30501,11 +29053,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义就是搞计划经济，资本主义就是搞市场经济。",
       "answerRaw": "false",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-101",
@@ -30524,11 +29074,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "发展生产力是社会主义本质的内在要求。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-102",
@@ -30547,11 +29095,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "实现共同富裕就是实现全体人民的同步富裕。",
       "answerRaw": "false",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-103",
@@ -30570,11 +29116,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的基本路线中\"两个基本点\"是指改革开放和共同富裕。",
       "answerRaw": "false",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-104",
@@ -30593,11 +29137,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的基本路线是党和国家的生命线、人民的幸福线。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-105",
@@ -30616,11 +29158,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "对外开放只包括对发达国家的开放。",
       "answerRaw": "false",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-106",
@@ -30639,11 +29179,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持一个中国，是“和平统一、一国两制”的核心。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-107",
@@ -30662,11 +29200,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "香港问题和澳门问题是中国国内战争遗留下来的问题。",
       "answerRaw": "false",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-108",
@@ -30685,11 +29221,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "改革是社会主义社会发展的直接动力。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-109",
@@ -30708,11 +29242,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义的本质是人民当家作主。",
       "answerRaw": "false",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-110",
@@ -30731,11 +29263,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平理论回答的基本问题是解放思想。",
       "answerRaw": "false",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-111",
@@ -30754,11 +29284,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "革命是解放生产力，改革也是解放生产力。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-112",
@@ -30777,11 +29305,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国的社会主义社会已经是高级阶段的社会主义社会。",
       "answerRaw": "false",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-113",
@@ -30800,11 +29326,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在我国科学技术还处于相对落后阶段时，“863”计划的实施有力推动了我国高技术的进步。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-114",
@@ -30823,11 +29347,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平理论是中国特色社会主义理论体系的开篇之作，继承和发展了马克思列宁主义、毛泽东思想。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-115",
@@ -30846,11 +29368,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十四大明确提出我国经济体制改革的目标是建立社会主义市场经济体制。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-116",
@@ -30869,11 +29389,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义初级阶段基本路线的完整表述包含“自力更生，艰苦创业”的内容。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-117",
@@ -30892,11 +29410,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平提出的“三步走”发展战略中，第三步目标是到21世纪中叶基本实现现代化。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-118",
@@ -30915,11 +29431,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平认为，改革是动力，发展是目的，稳定是前提，三者必须统筹兼顾。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-119",
@@ -30938,11 +29452,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义本质论强调，在解放和发展生产力的基础上，通过消灭剥削、消除两极分化的制度变革，最终实现共同富裕。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-120",
@@ -30961,11 +29473,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科教兴国战略的理论基础是邓小平提出的“科学技术是第一生产力”论断。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-121",
@@ -30984,11 +29494,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平在南方谈话中明确提出“党的基本路线要管一百年，动摇不得”。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-122",
@@ -31007,11 +29515,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我国社会主义初级阶段至少需要上百年时间，这是由历史起点和现实条件决定的。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-123",
@@ -31030,11 +29536,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "改革开放理论认为，改革是对社会主义制度的根本性变革。",
       "answerRaw": "false",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-124",
@@ -31053,11 +29557,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "到20世纪末，我国初步建立了社会主义市场经济体制。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-125",
@@ -31076,11 +29578,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义初级阶段理论的两层含义是“我国已是社会主义”和“处于不发达阶段”。",
       "answerRaw": "true",
-      "explanation": "本题看首要的基本理论问题。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-126",
@@ -31645,7 +30145,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "什么是社会主义、怎样建设社会主义，是邓小平在领导改革开放和现代化建设过程中，不断提出和反复思考的首要的基本的理论问题。搞清楚这一基本理论问题，关键是要（）。",
       "answerRaw": "D",
-      "explanation": "本题看首要的基本理论问题。D. 在坚持社会主义基本制度的基础上进一步认清社会主义的本质符合题干要求，所以选它。A. 科学分析我国社会的主要矛盾不符合题干要求，所以不选。B. 廓清不合乎时代进步和社会发展规律的模糊观念不符合题干要求，所以不选。C. 系统总结社会主义社会发展的经验不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -31664,9 +30164,7 @@ window.QUESTION_BANK_DATA = {
           "text": "在坚持社会主义基本制度的基础上进一步认清社会主义的本质"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-148",
@@ -31685,7 +30183,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "执政党的党风是关系党生死存亡的重大问题，一定要坚持党的宗旨，继承党的优良传统，发扬（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看首要的基本理论问题。A. 党的理论和实践相结合的作风符合题干要求，所以选它。B. 和人民群众紧密联系在一起的作风符合题干要求，所以选它。C. 自我批评的作风符合题干要求，所以选它。D. 坚持党的宗旨的作风不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -31704,9 +30202,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持党的宗旨的作风"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-149",
@@ -31725,7 +30221,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平指出：“解放思想，就是使思想和实际相符合，使主观和客观相符合，就是（）。”",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 实事求是符合题干要求，所以选它。B. 社会主义本质不符合题干要求，所以不选。C. 自力更生不符合题干要求，所以不选。D. 群众路线不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -31744,9 +30240,7 @@ window.QUESTION_BANK_DATA = {
           "text": "群众路线"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-150",
@@ -31765,7 +30259,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义社会发展生产力的目的不是为少数人谋利益，而是要使全体社会成员过上富裕幸福的生活，是要实现（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 共同富裕不属于社会主义社会发展生产力的目的，所以选它。A. 精神文明属于社会主义社会发展生产力的目的，所以不选。C. 可持续发展属于社会主义社会发展生产力的目的，所以不选。D. 人类命运共同体属于社会主义社会发展生产力的目的，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -31784,9 +30278,7 @@ window.QUESTION_BANK_DATA = {
           "text": "人类命运共同体"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-151",
@@ -31805,7 +30297,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十一届三中全会以后，以邓小平同志为主要代表的中国共产党人重新确立并丰富发展了党的思想路线，即（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 解放思想，实事求是符合题干要求，所以选它。A. 以经济建设为中心不符合题干要求，所以不选。C. 坚持四项基本原则不符合题干要求，所以不选。D. 坚持马克思列宁主义毛泽东思想不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -31824,9 +30316,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持马克思列宁主义毛泽东思想"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-152",
@@ -31845,7 +30335,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义的根本任务是发展生产力，党和国家的工作重点是（），这是党对我国社会主义建设经验教训和社会主义矛盾进行科学分析得出的最重要的结论。",
       "answerRaw": "D",
-      "explanation": "本题看首要的基本理论问题。D. 经济建设符合题干要求，所以选它。A. 政治建设不符合题干要求，所以不选。B. 文化建设不符合题干要求，所以不选。C. 社会建设不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -31864,9 +30354,7 @@ window.QUESTION_BANK_DATA = {
           "text": "经济建设"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-153",
@@ -31885,7 +30373,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在改革中，我们必须坚持的两条根本原则，一是以社会主义公有制经济为主体，一是（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 共同富裕符合题干要求，所以选它。A. 社会主义市场经济不符合题干要求，所以不选。C. 实现人的全面发展不符合题干要求，所以不选。D. 处理好计划与市场的关系不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -31904,9 +30392,7 @@ window.QUESTION_BANK_DATA = {
           "text": "处理好计划与市场的关系"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-154",
@@ -31925,7 +30411,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1979年元旦，全国人大常委会发表（），郑重宣示了争取祖国和平统一的大政方针。",
       "answerRaw": "D",
-      "explanation": "本题看首要的基本理论问题。D. 《告台湾同胞书》符合题干要求，所以选它。A. 《实践是检验真理的唯一标准》不符合题干要求，所以不选。B. 《党和国家领导制度的改革》不符合题干要求，所以不选。C. 《中共中央关于经济体制改革的决定》不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -31944,9 +30430,7 @@ window.QUESTION_BANK_DATA = {
           "text": "《告台湾同胞书》"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-155",
@@ -31965,7 +30449,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平提出：“在整个改革开放过程中都要反对腐败。对干部和共产党员来说，（）要作为大事来抓。”",
       "answerRaw": "C",
-      "explanation": "本题看首要的基本理论问题。C. 廉政建设符合题干要求，所以选它。A. 生态文明建设不符合题干要求，所以不选。B. 精神文明建设不符合题干要求，所以不选。D. 四个现代化不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -31984,9 +30468,7 @@ window.QUESTION_BANK_DATA = {
           "text": "四个现代化"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-156",
@@ -32005,7 +30487,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "建设“富强、民主、文明的社会主义现代化国家”，这是基本路线规定的党在社会主义初级阶段的（）。",
       "answerRaw": "C",
-      "explanation": "本题看首要的基本理论问题。C. 奋斗目标符合题干要求，所以选它。A. 领导力量、依靠力量不符合题干要求，所以不选。B. 根本立足点不符合题干要求，所以不选。D. 基本途径不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32024,9 +30506,7 @@ window.QUESTION_BANK_DATA = {
           "text": "基本途径"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-157",
@@ -32045,7 +30525,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“和平统一、一国两制”的核心是（）。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 坚持一个中国符合题干要求，所以选它。B. 实行两种制度不符合题干要求，所以不选。C. 实现两岸三通不符合题干要求，所以不选。D. 放弃使用武力不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32064,9 +30544,7 @@ window.QUESTION_BANK_DATA = {
           "text": "放弃使用武力"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-158",
@@ -32085,7 +30563,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "建立国际新秩序，需要坚持正确的方向和原则。（）是最经得住考验的。",
       "answerRaw": "D",
-      "explanation": "本题看首要的基本理论问题。D. 和平共处五项原则符合题干要求，所以选它。A. 霸权主义不符合题干要求，所以不选。B. 单边主义不符合题干要求，所以不选。C. 制裁措施不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32104,9 +30582,7 @@ window.QUESTION_BANK_DATA = {
           "text": "和平共处五项原则"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-159",
@@ -32125,7 +30601,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平敏锐地把握了国际形势的重大变化，对时代主题的转换作出了科学判断。他明确指出：“现在世界上真正大的问题，带全球性的战略问题，一个是____问题，一个是经济问题或者说是____问题。”下列选项正确的是（）。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 和平；发展符合题干要求，所以选它。B. 发展；和平不符合题干要求，所以不选。C. 局部战争；发展不符合题干要求，所以不选。D. 局部战争；和平不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32144,9 +30620,7 @@ window.QUESTION_BANK_DATA = {
           "text": "局部战争；和平"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-160",
@@ -32165,7 +30639,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1984年10月，党的十二届三中全会把（）作为基本国策。",
       "answerRaw": "C",
-      "explanation": "本题看首要的基本理论问题。C. 实行对外开放符合题干要求，所以选它。A. 可持续发展不符合题干要求，所以不选。B. “863计划”不符合题干要求，所以不选。D. 新发展格局不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32184,9 +30658,7 @@ window.QUESTION_BANK_DATA = {
           "text": "新发展格局"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-161",
@@ -32205,7 +30677,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "关于地区的“先富”和“共富”，邓小平提出（）思想，即沿海先发展起来，从而带动内地更好地发展，这是一个事关大局的问题。",
       "answerRaw": "C",
-      "explanation": "本题看首要的基本理论问题。C. “两个大局”符合题干要求，所以选它。A. “两手抓”不符合题干要求，所以不选。B. 一国两制不符合题干要求，所以不选。D. 实事求是不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32224,9 +30696,7 @@ window.QUESTION_BANK_DATA = {
           "text": "实事求是"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-162",
@@ -32245,7 +30715,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "王大珩等四位科学家提出要跟踪世界先进水平、发展中国高技术的建议，经过邓小平批示，国务院批准的相关文件被称为（）。",
       "answerRaw": "C",
-      "explanation": "本题看首要的基本理论问题。C. “863计划”符合题干要求，所以选它。A. “211工程”不符合题干要求，所以不选。B. “双一流计划”不符合题干要求，所以不选。D. “985工程”不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32264,9 +30734,7 @@ window.QUESTION_BANK_DATA = {
           "text": "“985工程”"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-163",
@@ -32285,7 +30753,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "依据邓小平理论，改革是从根本上改变束缚生产力发展的（），促进生产力的发展，解决社会主义社会发展动力问题。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 经济体制符合题干要求，所以选它。B. 科技水平不符合题干要求，所以不选。C. 社会观念不符合题干要求，所以不选。D. 国际关系不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32304,9 +30772,7 @@ window.QUESTION_BANK_DATA = {
           "text": "国际关系"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-164",
@@ -32325,7 +30791,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平对哪一重大问题形成了科学的观点（）。",
       "answerRaw": "B",
-      "explanation": "本题看首要的基本理论问题。B. 社会主义发展道路符合题干要求，所以选它。A. 社会主义改造不符合题干要求，所以不选。C. 新民主主义革命道路不符合题干要求，所以不选。D. 过渡时期的总任务不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32344,9 +30810,7 @@ window.QUESTION_BANK_DATA = {
           "text": "过渡时期的总任务"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-165",
@@ -32365,7 +30829,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党在社会主义初级阶段的基本路线的“两个基本点”是（）。",
       "answerRaw": "C",
-      "explanation": "本题看首要的基本理论问题。C. 坚持四项基本原则，坚持改革开放符合题干要求，所以选它。A. 发展社会主义民主，加强社会主义法制不符合题干要求，所以不选。B. 一手抓物质文明，一手抓精神文明不符合题干要求，所以不选。D. 自力更生，艰苦创业不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32384,9 +30848,7 @@ window.QUESTION_BANK_DATA = {
           "text": "自力更生，艰苦创业"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-166",
@@ -32405,7 +30867,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "（）是实现社会主义初级阶段奋斗目标的根本立足点。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 自力更生，艰苦创业符合题干要求，所以选它。B. 自力更生，团结一致不符合题干要求，所以不选。C. 团结一致，奋勇前进不符合题干要求，所以不选。D. 艰苦创业，奋勇前进不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32424,9 +30886,7 @@ window.QUESTION_BANK_DATA = {
           "text": "艰苦创业，奋勇前进"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-167",
@@ -32445,7 +30905,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "能否坚持以（）为中心，是关系到我国社会主义现代化的成败、关系到社会主义的前途和命运的大问题。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 经济建设符合题干要求，所以选它。B. 经济发展不符合题干要求，所以不选。C. 生态建设不符合题干要求，所以不选。D. 民生建设不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32464,9 +30924,7 @@ window.QUESTION_BANK_DATA = {
           "text": "民生建设"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-168",
@@ -32485,7 +30943,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "关于科学技术的极端重要性，邓小平有一著名论断，这就是（）。",
       "answerRaw": "A",
-      "explanation": "本题看首要的基本理论问题。A. 科学技术是第一生产力符合题干要求，所以选它。B. 科技工作要面向经济建设不符合题干要求，所以不选。C. 中国在高科技领域要占有一席之地不符合题干要求，所以不选。D. 中国的农业最终要靠科技解决问题不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32504,9 +30962,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国的农业最终要靠科技解决问题"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-169",
@@ -32525,7 +30981,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平强调，我们要建设的社会主义国家，不但要有高度的物质文明，而且要有高度的（）。",
       "answerRaw": "C",
-      "explanation": "本题看首要的基本理论问题。C. 精神文明符合题干要求，所以选它。A. 科技水平不符合题干要求，所以不选。B. 理论自信不符合题干要求，所以不选。D. 文化自信不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32544,9 +31000,7 @@ window.QUESTION_BANK_DATA = {
           "text": "文化自信"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-170",
@@ -32565,7 +31019,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在改革中，我们始终坚持两条根本原则，一是以（）为主体，一是共同富裕。",
       "answerRaw": "C",
-      "explanation": "本题看首要的基本理论问题。C. 社会主义公有制符合题干要求，所以选它。A. 资本主义私有制不符合题干要求，所以不选。B. 非公有制经济不符合题干要求，所以不选。D. 民营资本不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32584,9 +31038,7 @@ window.QUESTION_BANK_DATA = {
           "text": "民营资本"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-171",
@@ -32605,7 +31057,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平明确指出：“改革是中国的第二次革命。”所谓第二次革命，是与中国共产党领导的第一次革命相对而言的。社会主义改革的性质是（）。",
       "answerRaw": "D",
-      "explanation": "本题看首要的基本理论问题。D. 社会主义制度的自我完善和发展符合题干要求，所以选它。A. 社会主义基本制度的改革不符合题干要求，所以不选。B. 社会主义经济运行方式的改变不符合题干要求，所以不选。C. 社会主义原有体制的修补不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32624,9 +31076,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义制度的自我完善和发展"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-172",
@@ -32645,7 +31095,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的建设理论是邓小平理论的重要组成部分，加强党的建设，应当（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看首要的基本理论问题。A. 重视马克思主义理论学习符合题干要求，所以选它。B. 加强组织建设符合题干要求，所以选它。C. 打好党风建设这场硬仗符合题干要求，所以选它。D. 重视制度建设符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32664,9 +31114,7 @@ window.QUESTION_BANK_DATA = {
           "text": "重视制度建设"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-173",
@@ -32685,7 +31133,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在1992年南方谈话中，邓小平指出，社会主义的本质是（）。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看首要的基本理论问题。B. 解放生产力，发展生产力符合题干要求，所以选它。C. 消灭剥削，消除两极分化符合题干要求，所以选它。D. 最终达到共同富裕符合题干要求，所以选它。A. 以经济建设为中心不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32704,9 +31152,7 @@ window.QUESTION_BANK_DATA = {
           "text": "最终达到共同富裕"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-174",
@@ -32725,7 +31171,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "完善党内监督制度，把（）结合起来，逐步形成强有力的监督体系。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看首要的基本理论问题。A. 党内监督同群众监督符合题干要求，所以选它。B. 民主党派和无党派人士的监督符合题干要求，所以选它。C. 自上而下和自下而上的监督符合题干要求，所以选它。D. 舆论监督符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32744,9 +31190,7 @@ window.QUESTION_BANK_DATA = {
           "text": "舆论监督"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-175",
@@ -32765,7 +31209,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平作的《解放思想，实事求是，团结一致向前看》的重要讲话标志着党重新确立了（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看首要的基本理论问题。A. 思想路线符合题干要求，所以选它。B. 政治路线符合题干要求，所以选它。C. 组织路线符合题干要求，所以选它。D. 文化路线不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32784,9 +31228,7 @@ window.QUESTION_BANK_DATA = {
           "text": "文化路线"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-176",
@@ -32805,7 +31247,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "为了顺利实现“三步走”发展战略，邓小平提出（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看首要的基本理论问题。A. 以重点带动全局的思想符合题干要求，所以选它。B. 允许和鼓励一部分地区、一部分人先富起来逐步实现共同富裕的思想符合题干要求，所以选它。C. “台阶式”发展的思想符合题干要求，所以选它。D. 改革开放的思想不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32824,9 +31266,7 @@ window.QUESTION_BANK_DATA = {
           "text": "改革开放的思想"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-177",
@@ -32845,7 +31285,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "邓小平理论指出，在社会主义的依靠力量问题上，最广泛的统一战线包括（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看首要的基本理论问题。A. 全体社会主义劳动者符合邓小平理论指出，在社会主义的依靠力量问题上，最广泛的统一战线，所以选它。B. 拥护社会主义的爱国者符合邓小平理论指出，在社会主义的依靠力量问题上，最广泛的统一战线，所以选它。D. 拥护祖国统一的爱国者符合邓小平理论指出，在社会主义的依靠力量问题上，最广泛的统一战线，所以选它。C. 要求台湾独立的侨胞不符合邓小平理论指出，在社会主义的依靠力量问题上，最广泛的统一战线，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32864,9 +31304,7 @@ window.QUESTION_BANK_DATA = {
           "text": "拥护祖国统一的爱国者"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-178",
@@ -32885,7 +31323,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "关于“一个中心，两个基本点”所回答的问题，以下说法正确的是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看首要的基本理论问题。A. “以经济建设为中心”回答了社会主义的根本任务问题符合题干要求，所以选它。B. “坚持四项基本原则”，回答了解放和发展生产力的政治保证问题符合题干要求，所以选它。C. “坚持改革开放”，回答了党的发展动力和外部条件问题符合题干要求，所以选它。D. “一个中心，两个基本点”是一个整体，集中体现了我国社会主义现代化建设的战略布局符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32904,9 +31342,7 @@ window.QUESTION_BANK_DATA = {
           "text": "“一个中心，两个基本点”是一个整体，集中体现了我国社会主义现代化建设的战略布局"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-06-第六章-邓小平理论-179",
@@ -32925,7 +31361,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我们坚持以和平共处五项原则作为新的国际政治、经济秩序的准则，在（）的基础上，同所有国家发展友好合作关系。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看首要的基本理论问题。A. 互相尊重主权和领土完整符合题干要求，所以选它。B. 互不侵犯符合题干要求，所以选它。C. 互不干涉内政符合题干要求，所以选它。D. 平等互利符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32944,9 +31380,7 @@ window.QUESTION_BANK_DATA = {
           "text": "平等互利"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-2",
@@ -32968,7 +31402,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "人民当家作主和依法治国的根本保证是（）。",
       "answerRaw": "C",
-      "explanation": "本题看“三个代表”重要思想的主要内容。C. 党的领导符合题干要求，所以选它。A. 法制完备不符合题干要求，所以不选。B. 人民代表大会制度不符合题干要求，所以不选。D. 多党合作不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -32987,9 +31421,7 @@ window.QUESTION_BANK_DATA = {
           "text": "多党合作"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-3",
@@ -33011,7 +31443,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想强调社会主义社会是全面发展、全面进步的社会，衡量党的方针政策的成败得失，必须坚持（）的标准。",
       "answerRaw": "C",
-      "explanation": "本题看“三个代表”重要思想的历史地位。C. 全面性符合题干要求，所以选它。A. 客观性不符合题干要求，所以不选。B. 系统性不符合题干要求，所以不选。D. 规律性不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33030,9 +31462,7 @@ window.QUESTION_BANK_DATA = {
           "text": "规律性"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-4",
@@ -33054,7 +31484,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "江泽民同志在2002年5月31日的中共中央党校省部级干部进修班毕业典礼上提出，贯彻“三个代表”重要思想，关键在（），核心在坚持党的先进性，本质在坚持执政为民。",
       "answerRaw": "C",
-      "explanation": "本题看“三个代表”重要思想的核心观点。C. 坚持与时俱进符合题干要求，所以选它。A. 解放思想、实事求是不符合题干要求，所以不选。B. 坚持以经济建设为中心不符合题干要求，所以不选。D. 发展社会主义民主政治不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33073,9 +31503,7 @@ window.QUESTION_BANK_DATA = {
           "text": "发展社会主义民主政治"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-5",
@@ -33097,7 +31525,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在进入新世纪、面临国内外复杂形势的背景下，“三个代表”重要思想提出了党的建设的新要求：必须使全党始终保持（）的精神状态，不断开拓马克思主义理论发展的新境界；必须把发展作为党执政兴国的第一要务，不断开创现代化建设的新局面；必须 最广泛最充分地调动一切积极因素，不断为中华民族伟大复兴增添新力量；必须以改革的精神推进党的建设，不断为党的肌体注入新活力。",
       "answerRaw": "B",
-      "explanation": "本题看“三个代表”重要思想的历史地位。B. 与时俱进符合题干要求，所以选它。A. 谦虚谨慎不符合题干要求，所以不选。C. 不骄不躁不符合题干要求，所以不选。D. 百折不挠不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33116,9 +31544,7 @@ window.QUESTION_BANK_DATA = {
           "text": "百折不挠"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-6",
@@ -33140,7 +31566,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的（）正式把建立社会主义市场经济体制确立为我国经济体制改革的目标。",
       "answerRaw": "B",
-      "explanation": "本题看“三个代表”重要思想的主要内容。B. 十四大符合题干要求，所以选它。A. 十三大不符合题干要求，所以不选。C. 十五大不符合题干要求，所以不选。D. 十六大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33159,9 +31585,7 @@ window.QUESTION_BANK_DATA = {
           "text": "十六大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-7",
@@ -33183,7 +31607,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的（）通过的《中共中央关于建立社会主义市场经济体制若干问题的决定》，勾画了建立社会主义市场经济体制的蓝图和基本框架。",
       "answerRaw": "B",
-      "explanation": "本题看“三个代表”重要思想的主要内容。B. 十四届三中全会符合题干要求，所以选它。A. 十四大不符合题干要求，所以不选。C. 十五大不符合题干要求，所以不选。D. 十五届五中全会不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33202,9 +31626,7 @@ window.QUESTION_BANK_DATA = {
           "text": "十五届五中全会"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-8",
@@ -33226,7 +31648,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义市场经济体制的本质要求是（）。",
       "answerRaw": "B",
-      "explanation": "本题看“三个代表”重要思想的主要内容。B. 发挥市场机制的作用和国家的宏观调控符合题干要求，所以选它。A. 发挥市场的基础性作用不符合题干要求，所以不选。C. 坚持改革开放不符合题干要求，所以不选。D. 坚持发展生产力不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33245,9 +31667,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持发展生产力"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-9",
@@ -33269,7 +31689,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的（）报告中初步勾画了实现第三步战略目标的蓝图，指出展望下世纪我们的奋斗目标。",
       "answerRaw": "C",
-      "explanation": "本题看“三个代表”重要思想的主要内容。C. 十五大符合题干要求，所以选它。A. 十三大不符合题干要求，所以不选。B. 十四大不符合题干要求，所以不选。D. 十六大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33288,9 +31708,7 @@ window.QUESTION_BANK_DATA = {
           "text": "十六大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-10",
@@ -33312,7 +31730,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "发展社会主义先进文化，必须（），这是发展先进文化的重要内容和中心环节。",
       "answerRaw": "D",
-      "explanation": "本题看“三个代表”重要思想的核心观点。D. 加强社会主义思想道德建设符合题干要求，所以选它。A. 坚持党的领导不符合题干要求，所以不选。B. 以马克思主义为指导不符合题干要求，所以不选。C. 两手抓，两手都硬不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33331,9 +31749,7 @@ window.QUESTION_BANK_DATA = {
           "text": "加强社会主义思想道德建设"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-11",
@@ -33355,7 +31771,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国共产党第十六次全国代表大会的历史性贡献是（）。",
       "answerRaw": "A",
-      "explanation": "本题看“三个代表”重要思想的历史地位。A. 把“三个代表”重要思想确立为党必须长期坚持的指导思想符合题干要求，所以选它。B. 提出在新世纪新阶段全面建设小康社会的奋斗目标不符合题干要求，所以不选。C. 总结了党领导人民建设有中国特色社会主义必须坚持的十条基本经验不符合题干要求，所以不选。D. 提出了全面推进党的建设新的伟大工程不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33374,9 +31790,7 @@ window.QUESTION_BANK_DATA = {
           "text": "提出了全面推进党的建设新的伟大工程"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-12",
@@ -33398,7 +31812,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "江泽民在中共十六大报告中指出，党执政兴国的第一要务是（）。",
       "answerRaw": "A",
-      "explanation": "本题看“三个代表”重要思想的主要内容。A. 发展符合题干要求，所以选它。B. 改革不符合题干要求，所以不选。C. 坚持四项基本原则不符合题干要求，所以不选。D. 稳定不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33417,9 +31831,7 @@ window.QUESTION_BANK_DATA = {
           "text": "稳定"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-13",
@@ -33441,7 +31853,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "下列关于“三个代表”重要思想的叙述，不正确的是（）。",
       "answerRaw": "D",
-      "explanation": "本题看“三个代表”重要思想的历史地位。D. 是中国共产党第二代领导集体的思想结晶不属于下列关于“三个代表”重要思想的叙述，所以选它。A. 涵盖政治、经济、文化和党的建设等多方面属于下列关于“三个代表”重要思想的叙述，所以不选。B. 涉及怎样建设社会主义、怎样建设党的问题属于下列关于“三个代表”重要思想的叙述，所以不选。C. 是国际国内新形势下对邓小平理论的发展属于下列关于“三个代表”重要思想的叙述，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33460,9 +31872,7 @@ window.QUESTION_BANK_DATA = {
           "text": "是中国共产党第二代领导集体的思想结晶"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-14",
@@ -33484,7 +31894,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "1998年长江发大水，解放军官兵为保护人民生命财产，奋力堵截九江大堤决口。这反映了“三个代表”重要思想的哪个方面的内容（）。",
       "answerRaw": "C",
-      "explanation": "本题看“三个代表”重要思想的核心观点。C. 始终代表中国最广大人民的根本利益符合题干要求，所以选它。A. 始终代表中国先进生产力的发展要求不符合题干要求，所以不选。B. 始终代表中国先进文化的前进方向不符合题干要求，所以不选。D. 始终代表社会主义发展方向不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33503,9 +31913,7 @@ window.QUESTION_BANK_DATA = {
           "text": "始终代表社会主义发展方向"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-15",
@@ -33527,7 +31935,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "下列关于“三个代表”重要思想的论述中，说法错误的是（）。",
       "answerRaw": "B",
-      "explanation": "本题看“三个代表”重要思想的历史地位。B. 核心是“什么是社会主义，怎样建设社会主义”不属于下列关于“三个代表”重要思想的论述中，说法，所以选它。A. 它在21世纪初，即党的十五届六中全会审议通过的《中共中央关于加强和改进党的作风建设的决定》中被明确提出并系统阐述属于下列关于“三个代表”重要思想的论述中，说法，所以不选。C. 创造性地运用了马克思列宁主义、毛泽东思想特别是邓小平理论，形成了富有独创性的新的理论成果属于下列关于“三个代表”重要思想的论述中，说法，所以不选。D. 是实现全面建设小康社会宏伟目标的根本指针属于下列关于“三个代表”重要思想的论述中，说法，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33546,9 +31954,7 @@ window.QUESTION_BANK_DATA = {
           "text": "是实现全面建设小康社会宏伟目标的根本指针"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-16",
@@ -33570,7 +31976,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在我国社会主义市场经济体制的探索与确立进程中，1993年11月召开的党的十四届三中全会具有里程碑意义。此次会议审议并通过了（），为我国经济体制改革指明了方向，系统勾勒了建设社会主义市场经济体制的宏伟蓝图与基本框架。",
       "answerRaw": "A",
-      "explanation": "本题看“三个代表”重要思想的主要内容。A. 《关于建立社会主义市场经济体制若干问题的决定》符合题干要求，所以选它。B. 《中共中央关于经济体制改革的若干决定》不符合题干要求，所以不选。C. 《中共中央关于完善社会主义市场经济体制若干重大问题的决定》不符合题干要求，所以不选。D. 《中共中央关于全面深化改革若干重大问题的决定》不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33589,9 +31995,7 @@ window.QUESTION_BANK_DATA = {
           "text": "《中共中央关于全面深化改革若干重大问题的决定》"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-17",
@@ -33613,7 +32017,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2002年5月，江泽民深刻阐述了“三个代表”重要思想的内在联系，提出“贯彻‘三个代表’要求，关键在（），核心在（），本质在（）”。这就深刻揭示了“三个代表”重要思想作为一个完整理论体系的内在的逻辑联系。",
       "answerRaw": "A",
-      "explanation": "本题看“三个代表”重要思想的核心观点。A. 坚持与时俱进；坚持党的先进性；坚持执政为民符合题干要求，所以选它。B. 坚持立党为公；坚持党的先进性；坚持执政为民不符合题干要求，所以不选。C. 坚持党的先进性；坚持执政为民；坚持与时俱进不符合题干要求，所以不选。D. 坚持执政为民；坚持立党为公；坚持党的先进性不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33632,9 +32036,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持执政为民；坚持立党为公；坚持党的先进性"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-18",
@@ -33656,7 +32058,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在我国经济体制改革的关键时期，党的十四届三中全会于1993年审议通过的《中共中央关于建立社会主义市场经济体制若干问题的决定》，不仅为构建新的经济体制勾勒了宏伟蓝图，更在市场经济运行机制方面，首次明确提出了（）的分配原则。",
       "answerRaw": "C",
-      "explanation": "本题看“三个代表”重要思想的主要内容。C. 效率优先、兼顾公平符合题干要求，所以选它。A. 效率与公平并重不符合题干要求，所以不选。B. 公平优先不符合题干要求，所以不选。D. 兼顾效率不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33675,9 +32077,7 @@ window.QUESTION_BANK_DATA = {
           "text": "兼顾效率"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-19",
@@ -33699,7 +32099,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在推进党的建设新的伟大工程中，江泽民同志深刻指出，其重点是加强党的（），不断提高科学判断形势的能力、驾驭市场经济的能力、应对复杂局面的能力、依法执政的能力、总揽全局的能力。",
       "answerRaw": "A",
-      "explanation": "本题看“三个代表”重要思想的主要内容。A. 执政能力建设符合题干要求，所以选它。B. 宣传能力建设不符合题干要求，所以不选。C. 组织能力建设不符合题干要求，所以不选。D. 领导能力建设不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33718,9 +32118,7 @@ window.QUESTION_BANK_DATA = {
           "text": "领导能力建设"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-20",
@@ -33742,7 +32140,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在社会变革中出现的民营科技企业的创业人员和技术人员、受聘于外资企业的管理技术人员、个体户、私营企业主、中介组织的从业人员、自由职业人员等社会阶层，都是中国特色社会主义事业的（）。",
       "answerRaw": "A",
-      "explanation": "本题看“三个代表”重要思想的核心观点。A. 建设者符合题干要求，所以选它。B. 领导者不符合题干要求，所以不选。C. 贡献者不符合题干要求，所以不选。D. 决策者不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33761,9 +32159,7 @@ window.QUESTION_BANK_DATA = {
           "text": "决策者"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-21",
@@ -33785,7 +32181,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国特色社会主义是靠发展来不断巩固和推进的。江泽民反复强调：“发展是硬道理，这是我们必须始终坚持的一个战略思想。”我国这样一个发展中大国，能不能解决好发展问题，直接关系（）、事业兴衰。",
       "answerRaw": "B",
-      "explanation": "本题看“三个代表”重要思想的主要内容。B. 人心向背不属于中国特色社会主义是靠发展来不断巩固和推进的。江泽民反复强调：“发展是硬道理，这是我们必须始终坚持的一个战略思想。”我国这样一个发展中大国，能，所以选它。A. 文化发展属于中国特色社会主义是靠发展来不断巩固和推进的。江泽民反复强调：“发展是硬道理，这是我们必须始终坚持的一个战略思想。”我国这样一个发展中大国，能，所以不选。C. 经济繁荣属于中国特色社会主义是靠发展来不断巩固和推进的。江泽民反复强调：“发展是硬道理，这是我们必须始终坚持的一个战略思想。”我国这样一个发展中大国，能，所以不选。D. 民族昌盛属于中国特色社会主义是靠发展来不断巩固和推进的。江泽民反复强调：“发展是硬道理，这是我们必须始终坚持的一个战略思想。”我国这样一个发展中大国，能，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33804,9 +32200,7 @@ window.QUESTION_BANK_DATA = {
           "text": "民族昌盛"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-22",
@@ -33828,7 +32222,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想提出了党的建设的新要求，必须以（）推进党的建设，不断为党的肌体注入新活力。",
       "answerRaw": "C",
-      "explanation": "本题看“三个代表”重要思想的历史地位。C. 改革的精神符合题干要求，所以选它。A. 自我革新的勇气不符合题干要求，所以不选。B. 发展的眼光不符合题干要求，所以不选。D. 革命的气魄不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33847,9 +32241,7 @@ window.QUESTION_BANK_DATA = {
           "text": "革命的气魄"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-23",
@@ -33871,7 +32263,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十六大报告指出：创新是一个民族进步的灵魂，是一个国家兴旺发达的不竭动力，也是一个政党永葆生机的（）。",
       "answerRaw": "B",
-      "explanation": "本题看“三个代表”重要思想的主要内容。B. 源泉符合题干要求，所以选它。A. 关键不符合题干要求，所以不选。C. 保证不符合题干要求，所以不选。D. 核心不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33890,9 +32282,7 @@ window.QUESTION_BANK_DATA = {
           "text": "核心"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-24",
@@ -33914,7 +32304,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在社会主义条件下发展市场经济，是改革开放新的历史性突破。发挥（）的作用和国家宏观调控，是社会主义市场经济体制的本质要求。",
       "answerRaw": "B",
-      "explanation": "本题看“三个代表”重要思想的主要内容。B. 市场机制符合题干要求，所以选它。A. 竞争机制不符合题干要求，所以不选。C. 合作机制不符合题干要求，所以不选。D. 财税机制不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33933,9 +32323,7 @@ window.QUESTION_BANK_DATA = {
           "text": "财税机制"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-25",
@@ -33957,7 +32345,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在社会主义条件下发展（），实现了改革开放新的历史性突破，打开了我国经济、政治和文化发展的崭新局面，是前无古人的伟大创举，是中国共产党人对马克思主义发展作出的历史性贡献，具有特殊重要的意义。",
       "answerRaw": "C",
-      "explanation": "本题看“三个代表”重要思想的主要内容。C. 市场经济符合题干要求，所以选它。A. 改革开放不符合题干要求，所以不选。B. 开放经济不符合题干要求，所以不选。D. 集体经济不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -33976,9 +32364,7 @@ window.QUESTION_BANK_DATA = {
           "text": "集体经济"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-26",
@@ -34000,7 +32386,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党要承担起推动中国社会进步的历史责任，必须始终紧紧抓住（）。",
       "answerRaw": "C",
-      "explanation": "本题看“三个代表”重要思想的主要内容。C. 发展这个执政兴国的第一要务符合题干要求，所以选它。A. 战略机遇期不符合题干要求，所以不选。B. 科教兴国战略不符合题干要求，所以不选。D. 社会主义政治文明建设不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34019,9 +32405,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义政治文明建设"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-27",
@@ -34043,7 +32427,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "明确提出使用“社会主义市场经济体制”这个提法的是（）。",
       "answerRaw": "B",
-      "explanation": "本题看“三个代表”重要思想的主要内容。B. 江泽民符合题干要求，所以选它。A. 邓小平不符合题干要求，所以不选。C. 胡锦涛不符合题干要求，所以不选。D. 习近平不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34062,9 +32446,7 @@ window.QUESTION_BANK_DATA = {
           "text": "习近平"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-28",
@@ -34086,7 +32468,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持中国共产党的领导，核心是（）。",
       "answerRaw": "B",
-      "explanation": "本题看“三个代表”重要思想的主要内容。B. 坚持党的先进性符合题干要求，所以选它。A. 坚持党要管党不符合题干要求，所以不选。C. 坚持党的优良传统不符合题干要求，所以不选。D. 坚持党的阶级基础不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34105,9 +32487,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持党的阶级基础"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-29",
@@ -34129,7 +32509,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "推进党的建设新的伟大工程，重点是加强（）。",
       "answerRaw": "B",
-      "explanation": "本题看“三个代表”重要思想的主要内容。B. 党的执政能力建设符合题干要求，所以选它。A. 党的群众基础不符合题干要求，所以不选。C. 党的阶级基础不符合题干要求，所以不选。D. 党的组织建设不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34148,9 +32528,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党的组织建设"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-30",
@@ -34172,7 +32550,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "生产力中最活跃的因素是（），开发人力资源，加强人力资源能力建设，是关系我国发展的重大问题。",
       "answerRaw": "C",
-      "explanation": "本题看“三个代表”重要思想的核心观点。C. 人符合题干要求，所以选它。A. 生产资料不符合题干要求，所以不选。B. 科学技术不符合题干要求，所以不选。D. 劳动对象不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34191,9 +32569,7 @@ window.QUESTION_BANK_DATA = {
           "text": "劳动对象"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-31",
@@ -34215,7 +32591,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2000年6月28日，江泽民同志在中央思想政治工作会议上，提出了（），其实际上深刻揭示了“三个代表”重要思想产生的历史起点，反映了“三个代表”重要思想产生的历史起点和逻辑起点，反映了“三个代表”重要思想提出的时代背景和发展的现实依据。",
       "answerRaw": "B",
-      "explanation": "本题看“三个代表”重要思想的历史地位。B. “四个如何认识”符合题干要求，所以选它。A. 四项基本原则不符合题干要求，所以不选。C. 四个全面不符合题干要求，所以不选。D. 四个伟大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34234,9 +32610,7 @@ window.QUESTION_BANK_DATA = {
           "text": "四个伟大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-32",
@@ -34258,7 +32632,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "建设社会主义政治文明，必须坚持依法治国，建设社会主义法治国家。江泽民在党的十五大报告中明确指出：“依法治国，是党领导人民治理国家的（），是发展社会主义市场经济的客观需要，是社会文明进步的重要标志，是国家长治久安的重要保障。”",
       "answerRaw": "A",
-      "explanation": "本题看“三个代表”重要思想的主要内容。A. 基本方略符合题干要求，所以选它。B. 基本路线不符合题干要求，所以不选。C. 基本纲领不符合题干要求，所以不选。D. 基本经验不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34277,9 +32651,7 @@ window.QUESTION_BANK_DATA = {
           "text": "基本经验"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-33",
@@ -34301,7 +32673,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想产生的党情背景指（）。",
       "answerRaw": "A",
-      "explanation": "本题看“三个代表”重要思想的历史地位。A. 党所处的地位和环境、党所肩负的历史任务、党自身状况变化符合题干要求，所以选它。B. 党有了一定私利的特殊集团不符合题干要求，所以不选。C. 党成为了一个选举性竞争性政党不符合题干要求，所以不选。D. 党员有了完全宗教信仰自由的权利不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34320,9 +32692,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党员有了完全宗教信仰自由的权利"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-34",
@@ -34344,7 +32714,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“科学技术是第一生产力，是先进生产力的集中体现和主要标志”。发展生产力的决定要素是（）。",
       "answerRaw": "C",
-      "explanation": "本题看“三个代表”重要思想的核心观点。C. 科技进步和创新符合题干要求，所以选它。A. 劳动资料不符合题干要求，所以不选。B. 劳动对象不符合题干要求，所以不选。D. 劳动者不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34363,9 +32733,7 @@ window.QUESTION_BANK_DATA = {
           "text": "劳动者"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-35",
@@ -34387,7 +32755,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想是中国特色社会主义理论体系的丰富发展，它深化了我们对新的时代条件下（）的认识，以新的思想、观点、论断，继承、丰富和发展了马克思列宁主义、毛泽东思想、邓小平理论，实现了党在指导思想上的又一次与时俱进。",
       "answerRaw": "A",
-      "explanation": "本题看“三个代表”重要思想的历史地位。A. 推进中国特色社会主义事业、加强党的建设的规律符合题干要求，所以选它。B. 阶级斗争规律、市场经济规律不符合题干要求，所以不选。C. 自然规律、军事规律不符合题干要求，所以不选。D. 全球化规律、生态规不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34406,9 +32774,7 @@ window.QUESTION_BANK_DATA = {
           "text": "全球化规律、生态规"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-36",
@@ -34430,7 +32796,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "发展先进文化，就是发展面向现代化、面向世界、面向未来的，民族的科学的大众的社会主义文化。必须坚持马克思主义在意识形态领域的指导地位，坚持（）的方向和百花齐放、百家争鸣的方针。",
       "answerRaw": "B",
-      "explanation": "本题看“三个代表”重要思想的主要内容。B. 为人民服务、为社会主义服务符合题干要求，所以选它。A. 百花齐放、百家争鸣不符合题干要求，所以不选。C. 弘扬主旋律、提倡多样化不符合题干要求，所以不选。D. 贴近实际、贴近生活、贴近群众不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34449,9 +32815,7 @@ window.QUESTION_BANK_DATA = {
           "text": "贴近实际、贴近生活、贴近群众"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-37",
@@ -34473,7 +32837,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "从党的十三届四中全会到党的十六大的十三年中，在复杂多变的国际和国内形势下，以江泽民同志为核心的党中央集体，坚持（），打开外交工作崭新局面，成功把中国特色社会主义推向二十一世纪。",
       "answerRaw": "D",
-      "explanation": "本题看“三个代表”重要思想的历史地位。D. 独立自主的和平外交政策符合题干要求，所以选它。A. 维护世界和平与促进共同发展不符合题干要求，所以不选。B. 推动建立国际政治经济新秩序不符合题干要求，所以不选。C. 反对霸权主义和强权政治不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34492,9 +32856,7 @@ window.QUESTION_BANK_DATA = {
           "text": "独立自主的和平外交政策"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-38",
@@ -34516,7 +32878,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "建设社会主义政治文明，使中国特色社会主义的理论和实践进一步走向成熟和完善，要坚持的社会主义现代化全面发展的三大基本目标是（）。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看“三个代表”重要思想的主要内容。A. 建设社会主义政治文明符合题干要求，所以选它。C. 建设社会主义物质文明符合题干要求，所以选它。D. 建设社会主义精神文明符合题干要求，所以选它。B. 建设社会主义生态文明不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34535,9 +32897,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建设社会主义精神文明"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-39",
@@ -34559,7 +32919,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "人是生产力中最活跃的因素。开发人力资源，加强人力资源能力建设，是关系我国发展的重大问题。必须树立人才资源是第一资源的思想，紧紧抓住（）、（）、（）三个环节，大力实施人才战略，加强人才队伍建设。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看“三个代表”重要思想的核心观点。A. 培养人才符合题干要求，所以选它。B. 吸引人才符合题干要求，所以选它。C. 用好人才符合题干要求，所以选它。D. 发展人才不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34578,9 +32938,7 @@ window.QUESTION_BANK_DATA = {
           "text": "发展人才"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-40",
@@ -34602,7 +32960,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想形成的国际背景是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看“三个代表”重要思想的历史地位。A. 世界政治格局多极化趋势越来越明显符合题干要求，所以选它。B. 经济全球化已成为不可阻挡的历史潮流符合题干要求，所以选它。C. 现代科学技术迅速发展符合题干要求，所以选它。D. 各种思想文化相互激荡符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34621,9 +32979,7 @@ window.QUESTION_BANK_DATA = {
           "text": "各种思想文化相互激荡"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-41",
@@ -34645,7 +33001,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "建立社会主义市场经济体制，必须坚持和完善（）的社会主义基本经济制度。",
       "answerRaw": "A;C",
-      "explanation": "本题看“三个代表”重要思想的主要内容。A. 以公有制为主体符合题干要求，所以选它。C. 多种所有制经济共同发展符合题干要求，所以选它。B. 单一的公有制不符合题干要求，所以不选。D. 多种经济成分共同发展不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34664,9 +33020,7 @@ window.QUESTION_BANK_DATA = {
           "text": "多种经济成分共同发展"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-42",
@@ -34688,7 +33042,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "江泽民说过“我们搞的是社会主义市场经济，‘社会主义’这几个字是不能没有的，这并非多余，并非画蛇添足，而恰恰相反，这是画龙点睛。所谓‘点睛’，就是点明我们的市场经济的性质。”社会主义市场经济体制是社会主义基本制度与市场经济的结合，其基本特征是（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看“三个代表”重要思想的主要内容。A. 以公有制为主体、多种所有制经济共同发展的所有制结构不属于江泽民说过“我们搞的是社会主义市场经济，‘社会主义’这几个字是，所以选它。B. 以按劳分配为主体、多种分配方式并存的分配制度不属于江泽民说过“我们搞的是社会主义市场经济，‘社会主义’这几个字是，所以选它。C. 宏观调控上，以实现最广大劳动人民利益为出发点和归宿不属于江泽民说过“我们搞的是社会主义市场经济，‘社会主义’这几个字是，所以选它。D. 政府不直接干预企业的生产和经营属于江泽民说过“我们搞的是社会主义市场经济，‘社会主义’这几个字是，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34707,9 +33061,7 @@ window.QUESTION_BANK_DATA = {
           "text": "政府不直接干预企业的生产和经营"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-43",
@@ -34731,7 +33083,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十五大报告明确提出坚持依法治国，建设社会主义法治国家。1999年3月15日，第九届全国人民代表大会第二次会议通过了《中华人民共和国宪法修正案》，把“实行依法治国，建设社会主义法治国家”正式写入了宪法。依法治国，是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看“三个代表”重要思想的主要内容。A. 党领导人民治理国家的基本方略符合题干要求，所以选它。B. 发展社会主义市场经济的客观需要符合题干要求，所以选它。C. 社会文明进步的重要标志符合题干要求，所以选它。D. 国家长治久安的重要保障符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34750,9 +33102,7 @@ window.QUESTION_BANK_DATA = {
           "text": "国家长治久安的重要保障"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-44",
@@ -34774,7 +33124,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想，把党的建设同当今世界的发展趋势，同我国社会主义的自我完善和发展，同实现中国特色社会主义的宏伟目标和各项任务联系起来，形成了崭新的马克思主义建党学说。这一重要思想的历史地位和指导意义表现在（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看“三个代表”重要思想的历史地位。A. “三个代表”重要思想是中国特色社会主义理论体系的重要组成部分符合题干要求，所以选它。B. “三个代表”重要思想体现了党的指导思想的与时俱进符合题干要求，所以选它。D. “三个代表”重要思想是加强和改进党的建设、推进中国特色社会主义事业的强大理论武器符合题干要求，所以选它。C. “三个代表”重要思想是马克思主义中国化的最新理论成果不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34793,9 +33143,7 @@ window.QUESTION_BANK_DATA = {
           "text": "“三个代表”重要思想是加强和改进党的建设、推进中国特色社会主义事业的强大理论武器"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-45",
@@ -34817,7 +33165,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "广大（）始终是推动我国先进生产力发展和社会全面进步的根本力量。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看“三个代表”重要思想的核心观点。A. 工人符合题干要求，所以选它。B. 农民符合题干要求，所以选它。C. 知识分子符合题干要求，所以选它。D. 中国共产党员不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34836,9 +33184,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国共产党员"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-46",
@@ -34860,7 +33206,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想从新的高度提出必须不断改进党的领导方式和执政方式。提出我们党要按照（）的原则，进一步加强和完善党的领导体制，改进党的领导方式和执政方式。",
       "answerRaw": "B;D",
-      "explanation": "本题看“三个代表”重要思想的主要内容。B. 总揽全局符合题干要求，所以选它。D. 协调各方符合题干要求，所以选它。A. 实事求是不符合题干要求，所以不选。C. 与时俱进不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34879,9 +33225,7 @@ window.QUESTION_BANK_DATA = {
           "text": "协调各方"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-47",
@@ -34903,7 +33247,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "推进党的建设新的伟大工程，重点是加强党的执政能力建设，进一步解决（）这两大历史性课题。",
       "answerRaw": "B;D",
-      "explanation": "本题看“三个代表”重要思想的主要内容。B. 提高党的领导水平和执政水平符合题干要求，所以选它。D. 提高拒腐防变和抵御风险的能力符合题干要求，所以选它。A. 纠正党的不良作风不符合题干要求，所以不选。C. 防范“四大危险”不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34922,9 +33266,7 @@ window.QUESTION_BANK_DATA = {
           "text": "提高拒腐防变和抵御风险的能力"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-48",
@@ -34946,7 +33288,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“人民，只有人民，才是我们工作价值得最高裁决者。”江泽民强调，我们想事情，做工作，想得对不对，做得好不好，要有一个根本得衡量尺度，这就是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看“三个代表”重要思想的核心观点。A. 人民拥护不拥护符合题干要求，所以选它。B. 人民赞成不赞成符合题干要求，所以选它。C. 人民高兴不高兴符合题干要求，所以选它。D. 人民答应不答应符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -34965,9 +33307,7 @@ window.QUESTION_BANK_DATA = {
           "text": "人民答应不答应"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-49",
@@ -34989,7 +33329,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想作为我们党在新世纪新阶段的指导思想，具有深远的理论意义和实践意义。它是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看“三个代表”重要思想的历史地位。A. 对马克思列宁主义、毛泽东思想和邓小平理论的继承和发展符合题干要求，所以选它。B. 中国特色社会主义理论体系的重要组成部分符合题干要求，所以选它。C. 中国特色社会主义理论体系的接续发展符合题干要求，所以选它。D. 推进中国特色社会主义事业的强大理论武器符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35008,9 +33348,7 @@ window.QUESTION_BANK_DATA = {
           "text": "推进中国特色社会主义事业的强大理论武器"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-50",
@@ -35032,7 +33370,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想产生的最重要的时代背景是指（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看“三个代表”重要思想的历史地位。A. 世界多极化和经济全球化的趋势在曲折中发展符合“三个代表”重要思想产生的最重要的时代背景，所以选它。B. 和平与发展仍是时代的主题符合“三个代表”重要思想产生的最重要的时代背景，所以选它。D. 在千年更迭、世纪交替之际，我们所处的国际环境已经发生并还在经历着前所未有的巨大变化符合“三个代表”重要思想产生的最重要的时代背景，所以选它。C. 大规模争霸战争不断不符合“三个代表”重要思想产生的最重要的时代背景，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35051,9 +33389,7 @@ window.QUESTION_BANK_DATA = {
           "text": "在千年更迭、世纪交替之际，我们所处的国际环境已经发生并还在经历着前所未有的巨大变化"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-51",
@@ -35075,7 +33411,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "贯彻“三个代表”重要思想（）。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看“三个代表”重要思想的核心观点。A. 关键在坚持与时俱进符合题干要求，所以选它。C. 核心在坚持党的先进性符合题干要求，所以选它。D. 本质在坚持执政为民符合题干要求，所以选它。B. 根本在加强党的建设不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35094,9 +33430,7 @@ window.QUESTION_BANK_DATA = {
           "text": "本质在坚持执政为民"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-52",
@@ -35118,7 +33452,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "加强社会主义思想道德建设，是发展先进文化的重要内容和中心环节。弘扬爱国主义精神，以（）为核心、以（）为原则、以（）为重点，加强社会公德、职业道德和家庭美德教育。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看“三个代表”重要思想的核心观点。A. 为人民服务符合题干要求，所以选它。B. 集体主义符合题干要求，所以选它。C. 诚实守信符合题干要求，所以选它。D. 广泛开展群众性精神文明创建活动不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35137,9 +33471,7 @@ window.QUESTION_BANK_DATA = {
           "text": "广泛开展群众性精神文明创建活动"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-53",
@@ -35161,7 +33493,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "江泽民指出，认真总结苏联解体、东欧剧变的教训，以及我们发生“文化大革命”这样严重曲折的教训，深刻分析它们的原因，可以得出两条结论（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看“三个代表”重要思想的历史地位。A. 必须坚持社会主义符合题干要求，所以选它。B. 必须进行社会主义改革，探索符合本国实际的社会主义发展道路符合题干要求，所以选它。C. 要探索符合本国实际的社会主义发展道路符合题干要求，所以选它。D. 社会主义制度本身具有缺陷不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35180,9 +33512,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义制度本身具有缺陷"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-54",
@@ -35204,7 +33534,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想把（）统一起来，从深层次上揭示了社会主义制度不断完善和发展的途径，是加强和改进党的建设、推进中国特色社会主义事业的强大理论武器。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看“三个代表”重要思想的历史地位。A. 发展先进生产力符合题干要求，所以选它。C. 发展先进文化符合题干要求，所以选它。D. 实现最广大人民的根本利益符合题干要求，所以选它。B. 发展社会主义民主政治不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35223,9 +33553,7 @@ window.QUESTION_BANK_DATA = {
           "text": "实现最广大人民的根本利益"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-55",
@@ -35247,7 +33575,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想是马克思主义中国化的最新理论成果。它与马克思列宁主义、毛泽东思想、邓小平理论是一脉相承的统一的科学理论。这种一脉相承具体表现在（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看“三个代表”重要思想的历史地位。A. 都坚持辩证唯物主义和历史唯物主义世界观符合题干要求，所以选它。B. 都具有与时俱进的理论品质符合题干要求，所以选它。D. 都坚持为最广大人民群众的根本利益服务的宗旨符合题干要求，所以选它。C. 都提出物质文明和精神文明并举的原则不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35266,9 +33594,7 @@ window.QUESTION_BANK_DATA = {
           "text": "都坚持为最广大人民群众的根本利益服务的宗旨"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-56",
@@ -35290,7 +33616,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2000年6月28日，江泽民在中央思想政治工作会议上，提出了（）。这几个“如何认识”实际上深刻揭示了“三个代表”重要思想产生的历史起点和逻辑起点，反映了“三个代表”重要思想提出的时代背景和发展的现实依据。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看“三个代表”重要思想的历史地位。A. 如何认识社会主义发展的历史进程符合题干要求，所以选它。B. 如何认识资本主义发展的历史进程符合题干要求，所以选它。C. 如何认识我国社会主义改革实践过程对人们思想的影响符合题干要求，所以选它。D. 如何认识当今的国际环境和国际政治斗争带来的影响符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35309,9 +33635,7 @@ window.QUESTION_BANK_DATA = {
           "text": "如何认识当今的国际环境和国际政治斗争带来的影响"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-57",
@@ -35333,7 +33657,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "发展社会主义先进文化，就是发展面向（），民族的科学的大众的社会主义文化。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看“三个代表”重要思想的核心观点。A. 现代化符合题干要求，所以选它。B. 世界符合题干要求，所以选它。C. 未来符合题干要求，所以选它。D. 全人类不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35352,9 +33676,7 @@ window.QUESTION_BANK_DATA = {
           "text": "全人类"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-58",
@@ -35376,7 +33698,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持中国共产党的领导，就是要（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看“三个代表”重要思想的主要内容。A. 坚持党在建设中国特色社会主义事业中的领导核心地位，发挥党总揽全局、协调各方的作用符合题干要求，所以选它。B. 坚持党对国家大政方针和全局工作的政治领导符合题干要求，所以选它。C. 坚持党管干部的原则符合题干要求，所以选它。D. 坚持党对意识形态领域的领导符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35395,9 +33717,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持党对意识形态领域的领导"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-59",
@@ -35419,7 +33739,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "江泽民指出，之所以要全面建设小康社会，是因为（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看“三个代表”重要思想的主要内容。A. 总体小康社会是低水平的、不全面的、不平衡的符合题干要求，所以选它。B. 我国人均生产的物质产品和物质财富较少，劳动生产率较低符合题干要求，所以选它。C. 总体小康社会偏重于满足物质消费，而文化消费还得不到有效满足符合题干要求，所以选它。D. 存在地区之间、城乡之间的发展不协调、不平衡问题符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35438,9 +33758,7 @@ window.QUESTION_BANK_DATA = {
           "text": "存在地区之间、城乡之间的发展不协调、不平衡问题"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-60",
@@ -35462,7 +33780,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在5000多年的发展中，中华民族形成了以爱国主义为核心的（）的伟大民族精神。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看“三个代表”重要思想的核心观点。A. 团结统一符合题干要求，所以选它。B. 爱好和平符合题干要求，所以选它。C. 勤劳勇敢符合题干要求，所以选它。D. 自强不息符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35481,9 +33799,7 @@ window.QUESTION_BANK_DATA = {
           "text": "自强不息"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-61",
@@ -35505,7 +33821,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想对党的建设提出的新要求包括（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看“三个代表”重要思想的主要内容。A. 始终保持与时俱进的精神状态符合“三个代表”重要思想对党的建设提出的新要求，所以选它。B. 坚持党要管党、从严治党的方针符合“三个代表”重要思想对党的建设提出的新要求，所以选它。C. 扩大党的阶级基础和群众基础符合“三个代表”重要思想对党的建设提出的新要求，所以选它。D. 以阶级斗争为纲加强思想建设不符合“三个代表”重要思想对党的建设提出的新要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35524,9 +33840,7 @@ window.QUESTION_BANK_DATA = {
           "text": "以阶级斗争为纲加强思想建设"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-62",
@@ -35548,7 +33862,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义市场经济体制的基本特征体现在（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看“三个代表”重要思想的主要内容。A. 坚持公有制为主体、多种所有制共同发展符合题干要求，所以选它。B. 市场在资源配置中起决定性作用符合题干要求，所以选它。D. 按劳分配为主体、多种分配方式并存符合题干要求，所以选它。C. 国家实行全面计划经济调控不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35567,9 +33881,7 @@ window.QUESTION_BANK_DATA = {
           "text": "按劳分配为主体、多种分配方式并存"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-63",
@@ -35591,7 +33903,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "江泽民提出的“新的三步走”战略目标包括（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看“三个代表”重要思想的主要内容。A. 2010年实现国民生产总值比2000年翻一番符合江泽民提出的“新的三步走”战略目标，所以选它。B. 2020年全面建成小康社会符合江泽民提出的“新的三步走”战略目标，所以选它。D. 21世纪中叶建成社会主义现代化强国符合江泽民提出的“新的三步走”战略目标，所以选它。C. 2035年基本实现社会主义现代化不符合江泽民提出的“新的三步走”战略目标，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35610,9 +33922,7 @@ window.QUESTION_BANK_DATA = {
           "text": "21世纪中叶建成社会主义现代化强国"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-64",
@@ -35634,7 +33944,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义政治文明建设必须坚持的有机统一是（）三者的统一。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看“三个代表”重要思想的主要内容。A. 党的领导符合题干要求，所以选它。B. 人民当家作主符合题干要求，所以选它。C. 依法治国符合题干要求，所以选它。D. 多党合作制度不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35653,9 +33963,7 @@ window.QUESTION_BANK_DATA = {
           "text": "多党合作制度"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-65",
@@ -35677,7 +33985,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "江泽民提出的“三讲”教育包括（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看“三个代表”重要思想的主要内容。A. 讲学习符合江泽民提出的“三讲”教育，所以选它。B. 讲政治符合江泽民提出的“三讲”教育，所以选它。D. 讲正气符合江泽民提出的“三讲”教育，所以选它。C. 讲纪律不符合江泽民提出的“三讲”教育，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35696,9 +34004,7 @@ window.QUESTION_BANK_DATA = {
           "text": "讲正气"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-66",
@@ -35719,7 +34025,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "江泽民提出的“四个如何认识”包括（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看“三个代表”重要思想的核心观点。A. 如何认识社会主义发展的历史进程符合江泽民提出的“四个如何认识”，所以选它。B. 如何认识资本主义发展的历史进程符合江泽民提出的“四个如何认识”，所以选它。C. 如何认识改革开放对人们思想的影响符合江泽民提出的“四个如何认识”，所以选它。D. 如何认识国际环境和政治斗争的影响符合江泽民提出的“四个如何认识”，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35738,9 +34044,7 @@ window.QUESTION_BANK_DATA = {
           "text": "如何认识国际环境和政治斗争的影响"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-67",
@@ -35762,7 +34066,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想对马克思主义建党学说的创新包括（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看“三个代表”重要思想的主要内容。A. 提出党的历史方位“两个转变”符合“三个代表”重要思想对马克思主义建党学说的创新，所以选它。B. 强调党的先进性是具体的历史的符合“三个代表”重要思想对马克思主义建党学说的创新，所以选它。C. 要求增强党的阶级基础和扩大群众基础符合“三个代表”重要思想对马克思主义建党学说的创新，所以选它。D. 确立民主集中制为根本组织原则不符合“三个代表”重要思想对马克思主义建党学说的创新，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35781,9 +34085,7 @@ window.QUESTION_BANK_DATA = {
           "text": "确立民主集中制为根本组织原则"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-68",
@@ -35805,7 +34107,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想的理论渊源包括（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看“三个代表”重要思想的历史地位。A. 马克思列宁主义符合“三个代表”重要思想的理论渊源，所以选它。B. 毛泽东思想符合“三个代表”重要思想的理论渊源，所以选它。C. 邓小平理论符合“三个代表”重要思想的理论渊源，所以选它。D. 中国传统文化不符合“三个代表”重要思想的理论渊源，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35824,9 +34126,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国传统文化"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-69",
@@ -35848,7 +34148,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想是中国特色社会主义理论体系的重要组成部分，它继承和发展了马克思列宁主义、毛泽东思想和邓小平理论，深刻回答了在新的历史条件下建设什么样的党、怎样建设党，建设什么样的社会主义、怎样建设社会主义等重大问题。其中，在对社会主义本质的认识上，“三个代表”重要思想作出了新的理论概括，体现在（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看“三个代表”重要思想的历史地位。A. 突出先进文化的前进方向符合题干要求，所以选它。B. 强调实现人民根本利益符合题干要求，所以选它。C. 注重人的全面发展符合题干要求，所以选它。D. 强化阶级斗争重要性不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35867,9 +34167,7 @@ window.QUESTION_BANK_DATA = {
           "text": "强化阶级斗争重要性"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-70",
@@ -35891,7 +34189,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在经济全球化深入发展的背景下，为了更好地融入世界经济体系，提升我国在国际分工中的地位，江泽民同志提出了“引进来”与“走出去”相结合的战略。这一战略的提出，标志着我国对外开放进入了一个新的阶段。以下关于“引进来”和“走出去”相结合战略的说法，正确的是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看“三个代表”重要思想的主要内容。A. “引进来”就是吸收和利用外资、引进先进技术和管理经验符合题干要求，所以选它。B. “走出去”就是积极推动有实力的企业到境外投资办厂，开拓国际市场符合题干要求，所以选它。C. 实施“引进来”和“走出去”相结合战略，有利于充分利用国际国内两个市场、两种资源符合题干要求，所以选它。D. 这一战略的实施，有助于我国经济结构调整和优化，增强国际竞争力符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35910,9 +34208,7 @@ window.QUESTION_BANK_DATA = {
           "text": "这一战略的实施，有助于我国经济结构调整和优化，增强国际竞争力"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-71",
@@ -35934,7 +34230,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想深刻阐明了加强和改进党的建设的重大问题，明确提出了在新形势下建设什么样的党、怎样建设党的重大课题，为党的建设指明了方向。根据“三个代表”重要思想，新时期党的建设的总体目标是使我们党（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看“三个代表”重要思想的历史地位。A. 始终成为工人阶级先锋队符合题干要求，所以选它。B. 同时成为中国人民和中华民族先锋队符合题干要求，所以选它。C. 保持纯洁性的马克思主义政党符合题干要求，所以选它。D. 领导核心地位不可动摇符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -35953,9 +34249,7 @@ window.QUESTION_BANK_DATA = {
           "text": "领导核心地位不可动摇"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-72",
@@ -35977,11 +34271,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想是一个完整的思想体系，经历了一个酝酿、形成到逐步深化的过程。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的历史地位。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-73",
@@ -36003,11 +34295,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "经过二十多年的改革开放和社会主义现代化建设，到2000年，人民生活总体上达到了小康，这是一个历史性的飞跃。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-74",
@@ -36029,11 +34319,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "实行依法治国，必须坚持有法可依、有法必依、执法必严、违法必究。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-75",
@@ -36055,11 +34343,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "讲政治是核心。要坚定正确的政治方向、政治立场和政治观点，严守政治纪律，提高政治敏锐性和政治鉴别力。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-76",
@@ -36081,11 +34367,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "发展社会主义先进文化，就是发展面向现代化、面向世界、面向未来的，民族的科学的大众的社会主义文化。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的核心观点。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-77",
@@ -36107,11 +34391,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2000年，我国人民生活总体上达到了小康。但也要看到，这个小康水平是低水平的、不全面的、发展很不平衡的。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-78",
@@ -36133,11 +34415,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我们党作为执政党，面临的最根本的课题是能不能始终代表最广大人民的根本利益。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的核心观点。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-79",
@@ -36158,11 +34438,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2000年，江泽民在广东考察工作时首次对“三个代表”进行了比较全面的阐述。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的核心观点。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-80",
@@ -36184,11 +34462,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "江泽民曾强调指出，马克思主义最重要的理论品质是与时俱进。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的核心观点。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-81",
@@ -36210,11 +34486,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "贯彻“三个代表”重要思想，必须使全党始终保持与时俱进的精神状态，与时俱进就是党的全部理论和工作要体现时代性，把握规律性，富于创造性。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-82",
@@ -36236,11 +34510,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "非公有制经济是社会主义市场经济的重要组成部分，所以，非公有制经济是社会主义经济。",
       "answerRaw": "false",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-83",
@@ -36262,11 +34534,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在我国，政治体制改革是按照西方资产阶级政治文明的模式进行。",
       "answerRaw": "false",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-84",
@@ -36288,11 +34558,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "广大知识分子始终是推动我国先进生产力发展和社会全面进步的根本力量。",
       "answerRaw": "false",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-85",
@@ -36314,11 +34582,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "人民，只有人民，才是我们工作价值的最高裁决者。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的核心观点。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-86",
@@ -36340,11 +34606,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "提出“三个代表”重要思想的领导人是邓小平。",
       "answerRaw": "false",
-      "explanation": "本题看“三个代表”重要思想的历史地位。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-87",
@@ -36366,11 +34630,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "中国共产党仅代表中国工人阶级的根本利益。",
       "answerRaw": "false",
-      "explanation": "本题看“三个代表”重要思想的核心观点。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-88",
@@ -36392,11 +34654,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想是第二代领导人的智慧结晶。",
       "answerRaw": "false",
-      "explanation": "本题看“三个代表”重要思想的历史地位。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-89",
@@ -36418,11 +34678,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义市场经济中的“社会主义”点明了我们市场经济的性质。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-90",
@@ -36444,11 +34702,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "发展社会主义先进文化，就是建设社会主义精神文明。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的核心观点。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-91",
@@ -36470,11 +34726,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想坚持把国家的根本利益作为出发点和归宿。",
       "answerRaw": "false",
-      "explanation": "本题看“三个代表”重要思想的核心观点。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-92",
@@ -36496,11 +34750,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想强调要努力促进人的自由发展。",
       "answerRaw": "false",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-93",
@@ -36522,11 +34774,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想深化了对中国特色社会主义的认识。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的历史地位。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-94",
@@ -36548,11 +34798,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "非公有制经济是社会主义市场经济的组成部分。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-95",
@@ -36574,11 +34822,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "非公有制经济的存在和发展会导致两极分化。",
       "answerRaw": "false",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-96",
@@ -36600,11 +34846,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在我国，推进政治体制改革必须一蹴而就。",
       "answerRaw": "false",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-97",
@@ -36626,11 +34870,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想是在党的十六大上被确立为党的指导思想的。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的历史地位。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-98",
@@ -36652,11 +34894,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "江泽民提出“三个代表”重要思想时强调，党的先进性最终要体现在维护国家安全上。",
       "answerRaw": "false",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-99",
@@ -36678,11 +34918,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "根据“三个代表”要求，党应吸收所有社会阶层中的优秀分子入党。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-100",
@@ -36704,11 +34942,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想认为，发展是党执政兴国的第一要务。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-101",
@@ -36730,11 +34966,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义政治文明建设要求照搬西方多党制模式。",
       "answerRaw": "false",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-102",
@@ -36756,11 +34990,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想提出，党的最高理想和最终目标是实现共同富裕。",
       "answerRaw": "false",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-103",
@@ -36782,11 +35014,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "实施科教兴国战略的核心是加强基础教育的普及。",
       "answerRaw": "false",
-      "explanation": "本题看“三个代表”重要思想的核心观点。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-104",
@@ -36808,11 +35038,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想强调，加强党的执政能力建设的关键是扩大党员数量。",
       "answerRaw": "false",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-105",
@@ -36834,11 +35062,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "江泽民提出的“四个如何认识”包括如何认识社会主义改革实践过程对人们思想的影响。",
       "answerRaw": "true",
-      "explanation": "本题看“三个代表”重要思想的历史地位。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-106",
@@ -36860,11 +35086,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想认为，党的阶级基础是工人阶级，因此不能吸收其他阶层入党。",
       "answerRaw": "false",
-      "explanation": "本题看“三个代表”重要思想的主要内容。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-107",
@@ -37488,7 +35712,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "为了更好地适应时代发展要求，我们必须牢固树立和坚持（）是推动经济社会发展最重要、最活跃的因素，是衡量一个国家或地区发展潜力的核心指标。要高度重视人才的培养、引进和使用，充分发挥人才在国家发展中的引领和支撑作用。",
       "answerRaw": "B",
-      "explanation": "本题看“三个代表”重要思想的核心观点。B. 人才资源符合题干要求，所以选它。A. 物质资源不符合题干要求，所以不选。C. 知识资源不符合题干要求，所以不选。D. 科技资源不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -37507,9 +35731,7 @@ window.QUESTION_BANK_DATA = {
           "text": "科技资源"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-129",
@@ -37531,7 +35753,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想是我们党的立党之本、执政之基、力量之源。“立党之本”指的是党必须始终代表（）。",
       "answerRaw": "C",
-      "explanation": "本题看“三个代表”重要思想的核心观点。C. 中国最广大人民的根本利益符合“三个代表”重要思想是我们党的立党之本、执政之基、力量之源。“立党之本”，所以选它。A. 中国先进生产力的发展要求不符合“三个代表”重要思想是我们党的立党之本、执政之基、力量之源。“立党之本”，所以不选。B. 中国先进文化的前进方向不符合“三个代表”重要思想是我们党的立党之本、执政之基、力量之源。“立党之本”，所以不选。D. 社会和谐稳定的维护者不符合“三个代表”重要思想是我们党的立党之本、执政之基、力量之源。“立党之本”，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -37550,9 +35772,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会和谐稳定的维护者"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-130",
@@ -37573,7 +35793,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "贯彻“三个代表”重要思想，核心是坚持（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看“三个代表”重要思想的核心观点。A. 党的领导符合题干要求，所以选它。B. 人民的主体地位符合题干要求，所以选它。C. 以经济建设为中心不符合题干要求，所以不选。D. 改革开放不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -37592,9 +35812,7 @@ window.QUESTION_BANK_DATA = {
           "text": "改革开放"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-131",
@@ -37615,7 +35833,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“三个代表”重要思想深刻阐明了党在新时期的历史方位和肩负的历史使命，进一步回答了在社会主义条件下建设什么样的政党、怎样建设政党的问题。这体现了“三个代表”重要思想中的（）。",
       "answerRaw": "C",
-      "explanation": "本题看“三个代表”重要思想的核心观点。C. 关于党的建设的重要思想符合题干要求，所以选它。A. 关于发展的重要思想不符合题干要求，所以不选。B. 关于改革开放的重要思想不符合题干要求，所以不选。D. 关于国家治理的重要思想不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -37634,9 +35852,7 @@ window.QUESTION_BANK_DATA = {
           "text": "关于国家治理的重要思想"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-132",
@@ -37658,7 +35874,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "贯彻“三个代表”重要思想，必须牢牢把握先进文化的前进方向。这要求我们（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看“三个代表”重要思想的核心观点。A. 坚持马克思主义在意识形态领域的指导地位符合题干要求，所以选它。B. 大力发展社会主义先进文化符合题干要求，所以选它。C. 弘扬和培育民族精神符合题干要求，所以选它。D. 积极吸收人类文明的一切优秀成果符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -37677,9 +35893,7 @@ window.QUESTION_BANK_DATA = {
           "text": "积极吸收人类文明的一切优秀成果"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-133",
@@ -37701,7 +35915,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持以经济建设为中心，是兴国之要。贯彻“三个代表”重要思想，必须始终扭住经济建设这个中心不放松，这是因为（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看“三个代表”重要思想的核心观点。A. 经济建设是解决我国所有问题的基础符合题干要求，所以选它。B. 经济发展是实现“三个代表”要求的重要物质前提符合题干要求，所以选它。C. 只有发展经济，才能不断满足人民日益增长的物质文化需要符合题干要求，所以选它。D. 经济建设搞好了，其他方面的工作才能顺利开展符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -37720,9 +35934,7 @@ window.QUESTION_BANK_DATA = {
           "text": "经济建设搞好了，其他方面的工作才能顺利开展"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-134",
@@ -37744,7 +35956,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "在新世纪新阶段，全面贯彻“三个代表”重要思想，关键在于坚持与时俱进，解放思想、实事求是。与时俱进的意义在于（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看“三个代表”重要思想的主要内容。A. 使我们的思想认识和工作部署更加符合实际符合题干要求，所以选它。B. 使我们的理论创新和实践创新充满生机活力符合题干要求，所以选它。C. 使我们的党始终走在时代前列符合题干要求，所以选它。D. 使我们的事业不断取得新的更大成就符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -37763,9 +35975,7 @@ window.QUESTION_BANK_DATA = {
           "text": "使我们的事业不断取得新的更大成就"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-2",
@@ -37787,7 +35997,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2004年5月，胡锦涛在（）考察工作中指出，只有贯彻落实好科学发展观，才能确保全面建成小康社会、基本实现现代化。",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的历史地位。B. 江苏符合题干要求，所以选它。A. 安徽不符合题干要求，所以不选。C. 四川不符合题干要求，所以不选。D. 河南不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -37806,9 +36016,7 @@ window.QUESTION_BANK_DATA = {
           "text": "河南"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-3",
@@ -37830,7 +36038,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2004年9月，党的十六届四中全会通过的《中共中央关于加强党的执政能力建设的决定》，把树立和落实科学发展观作为提高党的（）的重要内容。",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的历史地位。B. 执政能力符合题干要求，所以选它。A. 组织建设不符合题干要求，所以不选。C. 统一战线不符合题干要求，所以不选。D. 领导水平不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -37849,9 +36057,7 @@ window.QUESTION_BANK_DATA = {
           "text": "领导水平"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-4",
@@ -37873,7 +36079,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持科学发展，必须加快转变经济发展方式。要正确认识和处理发展“好”和“快”的辩证关系，抓紧解决我国发展面临的突出矛盾和问题，促进经济增长由主要依靠投资、出口拉动向依靠消费、投资、出口协调拉动转变，由主要依靠（ ）带动向依靠第一、第二、第三产业协同带动转变。",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的科学内涵。B. 第二产业符合题干要求，所以选它。A. 第一产业不符合题干要求，所以不选。C. 第三产业不符合题干要求，所以不选。D. 第四产业不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -37892,9 +36098,7 @@ window.QUESTION_BANK_DATA = {
           "text": "第四产业"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-5",
@@ -37916,7 +36120,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "推动经济持续健康发展，必须坚持以科学发展为主题，以加快转变经济发展方式为主线。全面深化（）体制改革是加快转变经济发展方式的关键。",
       "answerRaw": "D",
-      "explanation": "本题看科学发展观的主要内容。D. 经济符合题干要求，所以选它。A. 政治不符合题干要求，所以不选。B. 文化不符合题干要求，所以不选。C. 社会不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -37935,9 +36139,7 @@ window.QUESTION_BANK_DATA = {
           "text": "经济"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-6",
@@ -37959,7 +36161,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "人民民主是社会主义的生命，是我们党始终高扬的光辉旗帜。社会主义民主政治的本质和核心是（）。",
       "answerRaw": "A",
-      "explanation": "本题看科学发展观的主要内容。A. 人民当家作主符合题干要求，所以选它。B. 人民代表大会制度不符合题干要求，所以不选。C. 民主集中制不符合题干要求，所以不选。D. 民主政治不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -37978,9 +36180,7 @@ window.QUESTION_BANK_DATA = {
           "text": "民主政治"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-7",
@@ -38002,7 +36202,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "胡锦涛指出，任何组织或者个人都不得有超越宪法和法律的特权，绝不允许以言代法、以权压法、徇私枉法。坚定不移推进（）基本方略，是国家长治久安的重要保障。",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的主要内容。B. 依法治国符合题干要求，所以选它。A. 基层民主不符合题干要求，所以不选。C. 法治实践不符合题干要求，所以不选。D. 以德治国不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38021,9 +36221,7 @@ window.QUESTION_BANK_DATA = {
           "text": "以德治国"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-8",
@@ -38045,7 +36243,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "（）是兴国之魂，决定着中国特色社会主义发展方向。",
       "answerRaw": "C",
-      "explanation": "本题看科学发展观的主要内容。C. 社会主义核心价值体系符合题干要求，所以选它。A. 社会主义核心价值观不符合题干要求，所以不选。B. 核心价值观不符合题干要求，所以不选。D. 核心价值体系不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38064,9 +36262,7 @@ window.QUESTION_BANK_DATA = {
           "text": "核心价值体系"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-9",
@@ -38088,7 +36284,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "（）是科学发展观的核心立场，集中体现了马克思主义的基本原理，体现了我们党全心全意为人民服务的根本宗旨和推动经济社会发展的根本目的。",
       "answerRaw": "C",
-      "explanation": "本题看科学发展观的科学内涵。C. 以人为本符合题干要求，所以选它。A. 促进经济发展不符合题干要求，所以不选。B. 维护社会公平不符合题干要求，所以不选。D. 促进社会和谐稳定不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38107,9 +36303,7 @@ window.QUESTION_BANK_DATA = {
           "text": "促进社会和谐稳定"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-10",
@@ -38131,7 +36325,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "统筹兼顾是科学发展观的根本方法。党的十七大在强调要坚持“五个统筹”的同时，进一步强调要统筹中央和地方关系，统筹个人利益和集体利益、局部利益和整体利益、当前利益和（），统筹国内国际两个大局。",
       "answerRaw": "D",
-      "explanation": "本题看科学发展观的科学内涵。D. 长远利益符合题干要求，所以选它。A. 当前利益不符合题干要求，所以不选。B. 全局利益不符合题干要求，所以不选。C. 整体利益不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38150,9 +36344,7 @@ window.QUESTION_BANK_DATA = {
           "text": "长远利益"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-11",
@@ -38174,7 +36366,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观站在历史和时代的高度，围绕（）这一主题，深刻回答了我国社会主义经济建设、政治建设、文化建设、社会建设和党的建设等的一系列重大问题。",
       "answerRaw": "A",
-      "explanation": "本题看科学发展观的主要内容。A. 中国特色社会主义符合题干要求，所以选它。B. 发展不符合题干要求，所以不选。C. 改革不符合题干要求，所以不选。D. 经济建设不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38193,9 +36385,7 @@ window.QUESTION_BANK_DATA = {
           "text": "经济建设"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-12",
@@ -38217,7 +36407,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持以人为本，就要坚持发展为了人民，始终把（）放在第一位。",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的科学内涵。B. 最广大人民的根本利益符合题干要求，所以选它。A. 人的发展不符合题干要求，所以不选。C. 维护群众的利益不符合题干要求，所以不选。D. 发展经济不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38236,9 +36426,7 @@ window.QUESTION_BANK_DATA = {
           "text": "发展经济"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-13",
@@ -38260,7 +36448,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "从2008年6月1日起，我国正式实施“限塑令”，在全国范围内实行塑料购物袋有偿使用制度，并禁止生产、销售、使用厚度小于0.025毫米的超薄塑料袋。下面认识不正确的是（）。",
       "answerRaw": "D",
-      "explanation": "本题看科学发展观的主要内容。D. 这样有利于减少购物，节约资金不属于从2008年6月1日起，我国正式实施“限塑令”，在全国范围内实行塑料购物袋有偿使用制度，并禁止生产、销售、使用厚度小于0.025毫米的超薄塑料袋。下面认识，所以选它。A. 保护环境与提高人民生活水平并不矛盾，这样做并不会降低人们的消费欲望属于从2008年6月1日起，我国正式实施“限塑令”，在全国范围内实行塑料购物袋有偿使用制度，并禁止生产、销售、使用厚度小于0.025毫米的超薄塑料袋。下面认识，所以不选。B. 这样可以加强环境保护和环境治理，再造秀美河山属于从2008年6月1日起，我国正式实施“限塑令”，在全国范围内实行塑料购物袋有偿使用制度，并禁止生产、销售、使用厚度小于0.025毫米的超薄塑料袋。下面认识，所以不选。C. 保护环境是每个人的责任，我们要从小事做起来保护环境属于从2008年6月1日起，我国正式实施“限塑令”，在全国范围内实行塑料购物袋有偿使用制度，并禁止生产、销售、使用厚度小于0.025毫米的超薄塑料袋。下面认识，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38279,9 +36467,7 @@ window.QUESTION_BANK_DATA = {
           "text": "这样有利于减少购物，节约资金"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-14",
@@ -38303,7 +36489,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观的第一要义是（）。",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的科学内涵。B. 发展符合题干要求，所以选它。A. 统筹兼顾不符合题干要求，所以不选。C. 以人为本不符合题干要求，所以不选。D. 全面协调可持续不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38322,9 +36508,7 @@ window.QUESTION_BANK_DATA = {
           "text": "全面协调可持续"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-15",
@@ -38346,7 +36530,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持可持续发展，坚定走生产发展、生活富裕、生态良好地文明发展道路。胡锦涛指出，实施可持续发展战略，促进人与自然地和谐，实现经济发展和（）相协调，既是全面建设小康社会的必然要求，也是贯彻落实科学发展观的重要实践。",
       "answerRaw": "C",
-      "explanation": "本题看科学发展观的科学内涵。C. 人口、资源、环境符合题干要求，所以选它。A. 工业、农业、环境不符合题干要求，所以不选。B. 人口、生态、资源不符合题干要求，所以不选。D. 人口、耕地、能源不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38365,9 +36549,7 @@ window.QUESTION_BANK_DATA = {
           "text": "人口、耕地、能源"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-16",
@@ -38388,7 +36570,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观提出的现实依据是（）。",
       "answerRaw": "C",
-      "explanation": "本题看科学发展观。C. 社会主义初级阶段基本国情和新的阶段性特征符合题干要求，所以选它。A. 国外经验的借鉴不符合题干要求，所以不选。B. 领导的价值判断不符合题干要求，所以不选。D. 改革开放不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38407,9 +36589,7 @@ window.QUESTION_BANK_DATA = {
           "text": "改革开放"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-17",
@@ -38431,7 +36611,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2007年，党的（）对科学发展观的理论定位、理论依据、理论内涵作了全面阐述，并将其写入党章，科学发展观进一步走向成熟。",
       "answerRaw": "C",
-      "explanation": "本题看科学发展观的历史地位。C. 十七大符合题干要求，所以选它。A. 十九大不符合题干要求，所以不选。B. 十六大不符合题干要求，所以不选。D. 十八大不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38450,9 +36630,7 @@ window.QUESTION_BANK_DATA = {
           "text": "十八大"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-18",
@@ -38474,7 +36652,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "解决“三农”问题的根本途径是（）。",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的主要内容。B. 推动城乡发展一体化符合题干要求，所以选它。A. 取消农业税不符合题干要求，所以不选。C. 推进城镇化不符合题干要求，所以不选。D. 实行创新驱动发展战略不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38493,9 +36671,7 @@ window.QUESTION_BANK_DATA = {
           "text": "实行创新驱动发展战略"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-19",
@@ -38517,7 +36693,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "以下关于科学发展观的表述，哪一项最准确地反映了2003年7月胡锦涛在总结抗击非典经验时提出的重要思想（）。",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的历史地位。B. 科学发展观的核心立场是以人为本，根本方法是全面、协调、可持续符合题干要求，所以选它。A. 科学发展观强调以经济建设为中心，推动社会全面进步不符合题干要求，所以不选。C. 科学发展观要求推动社会主义经济、政治、文化协调发展不符合题干要求，所以不选。D. 科学发展观强调促进人与自然的和谐共处不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38536,9 +36712,7 @@ window.QUESTION_BANK_DATA = {
           "text": "科学发展观强调促进人与自然的和谐共处"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-20",
@@ -38560,7 +36734,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2004年3月，胡锦涛同志在（）上发表了重要讲话，深刻阐明了科学发展观提出的背景、意义，明确界定了“以人为本”“全面发展”“协调发展”“可持续发展”的深刻内涵和基本要求，并对如何树立和落实科学发展观提出了明确的要求，标志着科学发展观的形成。",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的历史地位。B. 中央人口资源环境座谈会符合题干要求，所以选它。A. 党的十六届三中全会不符合题干要求，所以不选。C. 中央宣传工作会议不符合题干要求，所以不选。D. 中央组织工作会议不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38579,9 +36753,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中央组织工作会议"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-21",
@@ -38603,7 +36775,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2010年10月，党的十七届五中全会强调，在当代中国，坚持发展是硬道理的本质要求，就是坚持（），更加注重以人为本，更加注重全面协调可持续发展，更加注重统筹兼顾，更加注重保障和改善民生，促进社会公平正义。",
       "answerRaw": "A",
-      "explanation": "本题看科学发展观的历史地位。A. 科学发展符合题干要求，所以选它。B. 有序发展不符合题干要求，所以不选。C. 良性发展不符合题干要求，所以不选。D. 高速发展不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38622,9 +36794,7 @@ window.QUESTION_BANK_DATA = {
           "text": "高速发展"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-22",
@@ -38646,7 +36816,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2007年，党的十七大对科学发展观的（）作了全面阐述。",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的历史地位。B. 理论定位、理论依据、理论内涵符合题干要求，所以选它。A. 理论旨趣、理论依据、理论内涵不符合题干要求，所以不选。C. 理论依据、理论内涵、理论渊源不符合题干要求，所以不选。D. 理论依据、理论内涵、理论方法不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38665,9 +36835,7 @@ window.QUESTION_BANK_DATA = {
           "text": "理论依据、理论内涵、理论方法"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-23",
@@ -38689,7 +36857,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2003年10月，党的十六届三中全会通过的《中国共产党关于完善社会主义市场经济体制若干问题的决定》指出，坚持以人为本，树立（）的发展观，对于我们更好坚持发展才是硬道理的战略思想具有重大意义。",
       "answerRaw": "C",
-      "explanation": "本题看科学发展观的历史地位。C. 全面、协调、可持续符合题干要求，所以选它。A. 全面、协调、综合不符合题干要求，所以不选。B. 系统、协调、可持续不符合题干要求，所以不选。D. 系统、全面、可持续不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38708,9 +36876,7 @@ window.QUESTION_BANK_DATA = {
           "text": "系统、全面、可持续"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-24",
@@ -38732,7 +36898,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2004年5月，胡锦涛在江苏考察工作时指出，科学发展观总结了二十多年来我国改革开放和现代化建设的成功经验，揭示了（）的客观规律，反映了我们党对发展问题的新认识。科学发展观对整个改革开放和现代化建设都具有重要指导意义。",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的历史地位。B. 经济社会发展符合题干要求，所以选它。A. 人类历史发展不符合题干要求，所以不选。C. 生态文明发展不符合题干要求，所以不选。D. 政治文明发展不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38751,9 +36917,7 @@ window.QUESTION_BANK_DATA = {
           "text": "政治文明发展"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-25",
@@ -38775,7 +36939,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "“坚持以人为本，就要坚持发展为了人民、发展依靠人民、发展成果由人民共享，着力提高人民物质文化生活水平。”这句话强调了发展过程中，人民的哪个方面的地位和作用（）。",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的科学内涵。B. 作为主体、参与者和分享符合题干要求，所以选它。A. 作为被管理者和受益者不符合题干要求，所以不选。C. 作为监督者和评判者不符合题干要求，所以不选。D. 作为消费者和生产者不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38794,9 +36958,7 @@ window.QUESTION_BANK_DATA = {
           "text": "作为消费者和生产者"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-26",
@@ -38818,7 +36980,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2005年12月29日，十届全国人大常委会第十九次会议决定，自2006年1月1日起废止（）。由此，国家不再针对农业单独征税，一个在我国存在两千多年的古老税种宣告终结。",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的科学内涵。B. 《中华人民共和国农业税条例》符合题干要求，所以选它。A. 《牧业税》不符合题干要求，所以不选。C. 《工商统一税》不符合题干要求，所以不选。D. 《固定资产投资方向调节税》不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38837,9 +36999,7 @@ window.QUESTION_BANK_DATA = {
           "text": "《固定资产投资方向调节税》"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-27",
@@ -38861,7 +37021,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "胡锦涛指出：“（）是马克思主义政党的本质属性，是马克思主义政党的生命所系、力量所在。”",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的主要内容。B. 先进性符合题干要求，所以选它。A. 革命性不符合题干要求，所以不选。C. 群众性不符合题干要求，所以不选。D. 理论性不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38880,9 +37040,7 @@ window.QUESTION_BANK_DATA = {
           "text": "理论性"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-28",
@@ -38904,7 +37062,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观强调坚持以经济建设为中心，把发展生产力作为首要任务，把经济发展作为一切发展的前提，体现了（）的观点。",
       "answerRaw": "A",
-      "explanation": "本题看科学发展观的科学内涵。A. 历史唯物主义关于生产力是人类社会发展的基础符合题干要求，所以选它。B. 历史唯物主义关于人民是历史发展主体和人的全面发展不符合题干要求，所以不选。C. 事物之间普遍联系、辩证统一不符合题干要求，所以不选。D. 人与自然关系不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38923,9 +37081,7 @@ window.QUESTION_BANK_DATA = {
           "text": "人与自然关系"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-29",
@@ -38947,7 +37103,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展和社会和谐是内在统一的。胡锦涛明确指出：“（）是中国特色社会主义的本质属性。” 这个重大判断，深刻总结了国内外社会主义建设的历史经验，深化了对社会主义本质的认识。",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的主要内容。B. 社会和谐符合题干要求，所以选它。A. 自然和谐不符合题干要求，所以不选。C. 人类和谐不符合题干要求，所以不选。D. 发展生产力不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -38966,9 +37122,7 @@ window.QUESTION_BANK_DATA = {
           "text": "发展生产力"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-30",
@@ -38990,7 +37144,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚定不移推进依法治国基本方略，这是国家长治就按的重要保障。依法治国，前提是（），基础是提高全社会的法律意识和法制观念，关键是依法执政、依法行政、依法办事、公正司法。",
       "answerRaw": "A",
-      "explanation": "本题看科学发展观的主要内容。A. 有法可依符合题干要求，所以选它。B. 有法必依不符合题干要求，所以不选。C. 违法必严不符合题干要求，所以不选。D. 违法必究不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39009,9 +37163,7 @@ window.QUESTION_BANK_DATA = {
           "text": "违法必究"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-31",
@@ -39033,7 +37185,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2006年我国废止的税种是（）。",
       "answerRaw": "A",
-      "explanation": "本题看科学发展观的科学内涵。A. 农业税符合题干要求，所以选它。B. 营业税不符合题干要求，所以不选。C. 增值税不符合题干要求，所以不选。D. 个人所得税不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39052,9 +37204,7 @@ window.QUESTION_BANK_DATA = {
           "text": "个人所得税"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-32",
@@ -39076,7 +37226,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2010年10月，党的十七届五中全会强调，在当代中国，坚持发展是硬道理的本质要求是（），更加注重以人为本，更加注重全面协调可持续发展，更加注重统筹兼顾，更加注重保障和改善民生，促进社会公平正义。",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的科学内涵。B. 坚持科学发展符合题干要求，所以选它。A. 加快GDP增速不符合题干要求，所以不选。C. 扩大对外贸易不符合题干要求，所以不选。D. 加强军事建设不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39095,9 +37245,7 @@ window.QUESTION_BANK_DATA = {
           "text": "加强军事建设"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-33",
@@ -39119,7 +37267,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "民生连着民心，民心关系全局，做好保障和改善民生工作，是坚持以人为本、实现（）的必然要求，事关群众复制和社会和谐稳定。",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的主要内容。B. 发展成果由人民共享符合题干要求，所以选它。A. 效率和公平不符合题干要求，所以不选。C. 市场发挥决定性作用不符合题干要求，所以不选。D. 政府有效宏观调控不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39138,9 +37286,7 @@ window.QUESTION_BANK_DATA = {
           "text": "政府有效宏观调控"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-34",
@@ -39162,7 +37308,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2004年9月，党的十六届四中全会通过的《中共中央关于加强党的执政能力建设的决定》，把树立和落实科学发展观作为提高党的（）的重要内容。",
       "answerRaw": "A",
-      "explanation": "本题看科学发展观的历史地位。A. 执政能力符合题干要求，所以选它。B. 军事领导力不符合题干要求，所以不选。C. 经济管理能力不符合题干要求，所以不选。D. 国际影响力不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39181,9 +37327,7 @@ window.QUESTION_BANK_DATA = {
           "text": "国际影响力"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-35",
@@ -39205,7 +37349,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观在基层民主建设中强调的“三自我”不包括（）。",
       "answerRaw": "D",
-      "explanation": "本题看科学发展观的主要内容。D. 自我决策不属于科学发展观在基层民主建设中强调的“三自我”，所以选它。A. 自我管理属于科学发展观在基层民主建设中强调的“三自我”，所以不选。B. 自我服务属于科学发展观在基层民主建设中强调的“三自我”，所以不选。C. 自我监督属于科学发展观在基层民主建设中强调的“三自我”，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39224,9 +37368,7 @@ window.QUESTION_BANK_DATA = {
           "text": "自我决策"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-36",
@@ -39248,7 +37390,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持可持续发展，还必须建设生态文明。（）是经济社会可持续发展的重要条件，也是一个民族生存和发展的根本基础。",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的科学内涵。B. 良好生态环境符合题干要求，所以选它。A. 城乡区域协调发展不符合题干要求，所以不选。C. 良好的国际环境不符合题干要求，所以不选。D. 政府有效的宏观调控不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39267,9 +37409,7 @@ window.QUESTION_BANK_DATA = {
           "text": "政府有效的宏观调控"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-37",
@@ -39291,7 +37431,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "（）是马克思主义政党思想精神上的旗帜，文化建设是中国特色社会主义事业总体布局的重要组成部分。",
       "answerRaw": "A",
-      "explanation": "本题看科学发展观的主要内容。A. 社会主义先进文化符合题干要求，所以选它。B. 传统文化不符合题干要求，所以不选。C. 西方文化不符合题干要求，所以不选。D. 民族文化不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39310,9 +37450,7 @@ window.QUESTION_BANK_DATA = {
           "text": "民族文化"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-38",
@@ -39334,7 +37472,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "以人为本是科学发展观的核心立场，以人为本的“人”，是指（）。",
       "answerRaw": "A",
-      "explanation": "本题看科学发展观的科学内涵。A. 人民群众符合以人为本是科学发展观的核心立场，以人为本的“人”，所以选它。B. 党员干部不符合以人为本是科学发展观的核心立场，以人为本的“人”，所以不选。C. 政府工作人员不符合以人为本是科学发展观的核心立场，以人为本的“人”，所以不选。D. 企业家群体不符合以人为本是科学发展观的核心立场，以人为本的“人”，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39353,9 +37491,7 @@ window.QUESTION_BANK_DATA = {
           "text": "企业家群体"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-39",
@@ -39377,7 +37513,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观强调“统筹国内发展和对外开放”，这要求我们（）。",
       "answerRaw": "C",
-      "explanation": "本题看科学发展观的科学内涵。C. 平衡内外需关系符合题干要求，所以选它。A. 完全依赖国际市场不符合题干要求，所以不选。B. 扩大出口补贴不符合题干要求，所以不选。D. 限制外资进入不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39396,9 +37532,7 @@ window.QUESTION_BANK_DATA = {
           "text": "限制外资进入"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-40",
@@ -39420,7 +37554,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观在发展理念上的创新和突破，主要体现在（）。",
       "answerRaw": "C",
-      "explanation": "本题看科学发展观的科学内涵。C. 从“有没有”转向“好不好”的发展理念符合题干要求，所以选它。A. 将发展简单等同于经济增长不符合题干要求，所以不选。B. 忽视环境保护和社会公平不符合题干要求，所以不选。D. 强调政府在发展中的唯一主导作用不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39439,9 +37573,7 @@ window.QUESTION_BANK_DATA = {
           "text": "强调政府在发展中的唯一主导作用"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-41",
@@ -39463,7 +37595,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观强调“全面深化改革”与“科学发展”的关系是（）。",
       "answerRaw": "B",
-      "explanation": "本题看科学发展观的主要内容。B. 改革是发展的动力符合题干要求，所以选它。A. 相互对立不符合题干要求，所以不选。C. 发展阻碍改革不符合题干要求，所以不选。D. 无直接联系不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39482,9 +37614,7 @@ window.QUESTION_BANK_DATA = {
           "text": "无直接联系"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-42",
@@ -39506,7 +37636,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "人民群众是发展的主体，也应是发展的最大受益者。要把改革发展取得的各方面成果，体现在充分保障人民享有的（）权益上。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观的科学内涵。A. 经济符合题干要求，所以选它。B. 政治符合题干要求，所以选它。C. 文化符合题干要求，所以选它。D. 社会符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39525,9 +37655,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-43",
@@ -39549,7 +37677,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持全面发展，就是要按照中国特色社会主义事业总体布局，正确认识和把握（）是相互联系，相互促进的有机统一体。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观的科学内涵。A. 经济建设符合题干要求，所以选它。B. 政治建设符合题干要求，所以选它。C. 文化建设符合题干要求，所以选它。D. 社会建设符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39568,9 +37696,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会建设"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-44",
@@ -39592,7 +37718,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持协调发展，就是保证中国特色社会主义各个领域协调推进。要协调好消费与投资，供给与需求，发展的（），科技进步与人力资源优势的充分发挥，市场机制与宏观调控等经济发展的重大问题，促进发展的均衡性。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看科学发展观的科学内涵。A. 效益符合题干要求，所以选它。B. 速度和结构符合题干要求，所以选它。D. 质量符合题干要求，所以选它。C. 态势不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39611,9 +37737,7 @@ window.QUESTION_BANK_DATA = {
           "text": "质量"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-45",
@@ -39635,7 +37759,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "关于党的十七大，以下说法正确的是（）。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看科学发展观的历史地位。A. 大会提出了科学发展观的重大战略思想，并将其写入党章符合题干要求，所以选它。C. 大会强调要建设创新型国家符合题干要求，所以选它。D. 大会系统阐述了中国特色社会主义理论体系符合题干要求，所以选它。B. 大会明确了全面建设小康社会的奋斗目标不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39654,9 +37778,7 @@ window.QUESTION_BANK_DATA = {
           "text": "大会系统阐述了中国特色社会主义理论体系"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-46",
@@ -39678,7 +37800,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观是马克思主义关于发展的（）的集中体现。",
       "answerRaw": "C;D",
-      "explanation": "本题看科学发展观的历史地位。C. 方法论符合题干要求，所以选它。D. 世界观符合题干要求，所以选它。A. 人生观不符合题干要求，所以不选。B. 价值观不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39697,9 +37819,7 @@ window.QUESTION_BANK_DATA = {
           "text": "世界观"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-47",
@@ -39721,7 +37841,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观体现了历史唯物主义关于（）的观点。",
       "answerRaw": "B;C",
-      "explanation": "本题看科学发展观的科学内涵。B. 人民是历史发展主体符合题干要求，所以选它。C. 人的全面发展符合题干要求，所以选它。A. 人的自由发展不符合题干要求，所以不选。D. 领导者是历史发展主体不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39740,9 +37860,7 @@ window.QUESTION_BANK_DATA = {
           "text": "领导者是历史发展主体"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-48",
@@ -39764,7 +37882,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观在（）、发展目的和发展要求等方面提出了一系列新的思想观点，初步形成了马克思主义关于社会主义发展的系统理论。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观的历史地位。A. 发展道路符合题干要求，所以选它。B. 发展模式符合题干要求，所以选它。C. 发展战略符合题干要求，所以选它。D. 发展动力符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39783,9 +37901,7 @@ window.QUESTION_BANK_DATA = {
           "text": "发展动力"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-49",
@@ -39806,7 +37922,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "关于科学发展观的历史地位，以下表述正确的是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观的历史地位。A. 科学发展观是中国特色社会主义理论体系的重要组成部分符合题干要求，所以选它。B. 科学发展观是对党的三代中央领导集体关于发展思想的继承和发展符合题干要求，所以选它。C. 科学发展观是指导中国全面建设小康社会和实现中华民族伟大复兴的强大思想武器符合题干要求，所以选它。D. 科学发展观是马克思主义关于发展的世界观和方法论的集中体现符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39825,9 +37941,7 @@ window.QUESTION_BANK_DATA = {
           "text": "科学发展观是马克思主义关于发展的世界观和方法论的集中体现"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-50",
@@ -39849,7 +37963,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持以人为本的根本含义主要有（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观的科学内涵。A. 坚持全心全意为人民服务，始终把最广大人民的根本利益作为党和国家工作的根本出发点和落脚点符合题干要求，所以选它。B. 坚持尊重社会发展规律与尊重人民历史主体地位的一致性符合题干要求，所以选它。C. 坚持发展为了人民、发展依靠人民、发展成果由人民共享符合题干要求，所以选它。D. 坚持为崇高理想奋斗与为最广大人民谋利益的一致性符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39868,9 +37982,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持为崇高理想奋斗与为最广大人民谋利益的一致性"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-51",
@@ -39892,7 +38004,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "关于党的十六届三中全会，以下说法正确的是（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看科学发展观的主要内容。A. 本次会议明确提出了科学发展观符合题干要求，所以选它。B. 本次会议的主题是完善社会主义市场经济体制符合题干要求，所以选它。C. 本次会议通过了《中共中央关于完善社会主义市场经济体制若干问题的决定》符合题干要求，所以选它。D. 本次会议提出了构建社会主义和谐社会的战略任务不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39911,9 +38023,7 @@ window.QUESTION_BANK_DATA = {
           "text": "本次会议提出了构建社会主义和谐社会的战略任务"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-52",
@@ -39935,7 +38045,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "构建社会主义和谐社会是党中央提出的一项重大战略任务，其主要特征包括（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看科学发展观的主要内容。A. 民主法治、公平正义符合构建社会主义和谐社会是党中央提出的一项重大战略任务，其主要特征，所以选它。B. 诚信友爱、充满活力符合构建社会主义和谐社会是党中央提出的一项重大战略任务，其主要特征，所以选它。C. 安定有序、人与自然和谐相处符合构建社会主义和谐社会是党中央提出的一项重大战略任务，其主要特征，所以选它。D. 以经济发展为唯一目标不符合构建社会主义和谐社会是党中央提出的一项重大战略任务，其主要特征，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39954,9 +38064,7 @@ window.QUESTION_BANK_DATA = {
           "text": "以经济发展为唯一目标"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-53",
@@ -39978,7 +38086,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "建设生态文明，实质上就是要建设以资源环境承载力为基础、以自然规律为准则、以可持续发展为目标的资源节约型、环境友好型社会。要坚持节约资源和保护环境的基本国策，坚持（）的方针，着力推进绿色发展、循环发展、低碳发展。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看科学发展观的主要内容。A. 保护优先符合题干要求，所以选它。B. 节约优先符合题干要求，所以选它。D. 自然恢复为主符合题干要求，所以选它。C. 发展优先不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -39997,9 +38105,7 @@ window.QUESTION_BANK_DATA = {
           "text": "自然恢复为主"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-54",
@@ -40021,7 +38127,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义和谐社会就是要按照（）、充满活力、 安定有序、人与自然和谐相处的总要求，努力实现全体人民共同建设、共同享有的和谐社会的目标。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看科学发展观的主要内容。A. 民主法治符合题干要求，所以选它。B. 公平正义符合题干要求，所以选它。D. 诚信友爱符合题干要求，所以选它。C. 经济发展不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40040,9 +38146,7 @@ window.QUESTION_BANK_DATA = {
           "text": "诚信友爱"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-55",
@@ -40063,7 +38167,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "根据党的十六届三中全会明确提出的科学发展观，以下哪些是其核心要义的体现？（）",
       "answerRaw": "B;C",
-      "explanation": "本题看科学发展观。B. 强调以人为本，把人民的根本利益作为发展的出发点和落脚点符合题干要求，所以选它。C. 注重发展的全面性、协调性和可持续性，实现经济、社会、环境的协调发展符合题干要求，所以选它。A. 经济建设为中心，以牺牲环境为代价追求快速发展不符合题干要求，所以不选。D. 片面追求GDP增长，忽视社会公平和民生改善不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40082,9 +38186,7 @@ window.QUESTION_BANK_DATA = {
           "text": "片面追求GDP增长，忽视社会公平和民生改善"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-56",
@@ -40106,7 +38208,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观的根本方法是统筹兼顾，下列属于这一方法的有（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观的科学内涵。A. 统筹城乡发展符合科学发展观的根本方法是统筹兼顾，下列，所以选它。B. 统筹区域发展符合科学发展观的根本方法是统筹兼顾，下列，所以选它。C. 统筹经济社会发展符合科学发展观的根本方法是统筹兼顾，下列，所以选它。D. 统筹人与自然和谐发展符合科学发展观的根本方法是统筹兼顾，下列，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40125,9 +38227,7 @@ window.QUESTION_BANK_DATA = {
           "text": "统筹人与自然和谐发展"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-57",
@@ -40148,7 +38248,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "以胡锦涛同志为主要代表的中国共产党人，团结带领全党全国各族人民，深刻认识和回答了新形势下（）等重大问题，形成了科学发展观。",
       "answerRaw": "B;C",
-      "explanation": "本题看科学发展观。B. 实现什么样的发展符合题干要求，所以选它。C. 怎样发展符合题干要求，所以选它。A. 建设什么样的党不符合题干要求，所以不选。D. 怎样建设党不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40167,9 +38267,7 @@ window.QUESTION_BANK_DATA = {
           "text": "怎样建设党"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-58",
@@ -40191,7 +38289,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "建设资源节约型和环境友好型城市是实现可持续发展的重要途径。以下哪些选项是推进资源节约型和环境友好型城市建设的重要举措和要求（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观的科学内涵。A. 优化城市空间布局，提高土地利用效率符合题干要求，所以选它。B. 大力发展循环经济，提高资源利用效率符合题干要求，所以选它。C. 推广绿色建筑和节能技术，降低能源消耗符合题干要求，所以选它。D. 加强污染治理和生态保护，改善环境质量符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40210,9 +38308,7 @@ window.QUESTION_BANK_DATA = {
           "text": "加强污染治理和生态保护，改善环境质量"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-59",
@@ -40233,7 +38329,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "下列属于科学发展观的主要内容的有（） 。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观。A. 发展社会主义民主政治符合下列，所以选它。B. 推进社会主义文化强国建设符合下列，所以选它。C. 构建社会主义和谐社会符合下列，所以选它。D. 加快转变经济发展方式符合下列，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40252,9 +38348,7 @@ window.QUESTION_BANK_DATA = {
           "text": "加快转变经济发展方式"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-60",
@@ -40275,7 +38369,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观是在（）的国际分析基础上形成和发展的。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看科学发展观。B. 深刻分析国际形势符合题干要求，所以选它。C. 顺应世界发展趋势符合题干要求，所以选它。D. 借鉴国外发展经验符合题干要求，所以选它。A. 顺应历史发展进程不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40294,9 +38388,7 @@ window.QUESTION_BANK_DATA = {
           "text": "借鉴国外发展经验"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-61",
@@ -40318,7 +38410,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "2005年10月，十六届五中全会通过的《中共中央关于制定国民经济和社会发展第十一个五年规划的建议》强调，要坚定不移地以科学发展观统领经济社会发展全局，（），把经济社会发展切实转入全面协调可持续发展的轨道。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观的科学内涵。A. 坚持以人为本符合题干要求，所以选它。B. 转变发展观念符合题干要求，所以选它。C. 创新发展模式符合题干要求，所以选它。D. 提高发展质量符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40337,9 +38429,7 @@ window.QUESTION_BANK_DATA = {
           "text": "提高发展质量"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-62",
@@ -40361,7 +38451,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "胡锦涛指出，我们必须始终把人民利益放在第一位，把实现好、维护好、发展好最广大人民根本利益作为一切工作的出发点和落脚点，做到（），使我们的工作获得最广泛最可靠最牢固的群众基础和力量源泉。",
       "answerRaw": "B;C;D",
-      "explanation": "本题看科学发展观的科学内涵。B. 权为民所用符合题干要求，所以选它。C. 情为民所系符合题干要求，所以选它。D. 利为民所谋符合题干要求，所以选它。A. 心为民所想不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40380,9 +38470,7 @@ window.QUESTION_BANK_DATA = {
           "text": "利为民所谋"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-63",
@@ -40404,7 +38492,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "全面协调可持续中的“协调”是指发展要有（）,各个方面、各个环节的发展要相互适应、相互促进。",
       "answerRaw": "A;D",
-      "explanation": "本题看科学发展观的科学内涵。A. 协调性符合全面协调可持续中的“协调”，所以选它。D. 均衡性符合全面协调可持续中的“协调”，所以选它。B. 平衡性不符合全面协调可持续中的“协调”，所以不选。C. 适应性不符合全面协调可持续中的“协调”，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40423,9 +38511,7 @@ window.QUESTION_BANK_DATA = {
           "text": "均衡性"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-64",
@@ -40447,7 +38533,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "全面协调可持续中的“可持续”是指发展要有（），不仅当前要发展，而且要保证长远发展。",
       "answerRaw": "B;C",
-      "explanation": "本题看科学发展观的科学内涵。B. 持久性符合全面协调可持续中的“可持续”，所以选它。C. 连续性符合全面协调可持续中的“可持续”，所以选它。A. 长期性不符合全面协调可持续中的“可持续”，所以不选。D. 阶段性不符合全面协调可持续中的“可持续”，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40466,9 +38552,7 @@ window.QUESTION_BANK_DATA = {
           "text": "阶段性"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-65",
@@ -40490,7 +38574,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持统筹兼顾，要牢牢掌握统筹兼顾的科学思想方法，努力提高（）能力，不断增强统筹兼顾的本领，更好地推动科学发展。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看科学发展观的科学内涵。A. 战略思维符合题干要求，所以选它。B. 创新思维符合题干要求，所以选它。D. 辩证思维符合题干要求，所以选它。C. 底线思维不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40509,9 +38593,7 @@ window.QUESTION_BANK_DATA = {
           "text": "辩证思维"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-66",
@@ -40533,7 +38615,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "实现（），是我国社会主义现代化建设的战略任务，也是加快形成新的经济发展方式、促进经济持续健康发展的重要动力。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观的主要内容。A. 工业化符合题干要求，所以选它。B. 信息化符合题干要求，所以选它。C. 城镇化符合题干要求，所以选它。D. 农业现代化符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40552,9 +38634,7 @@ window.QUESTION_BANK_DATA = {
           "text": "农业现代化"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-67",
@@ -40576,7 +38656,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我们党领导人民在长期革命、建设、改革实践中，经过反复探索、不断总结，逐步建立起一套适合中国国情的社会主义政治制度。包括以下（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观的历史地位。A. 人民代表大会制度符合我们党领导人民在长期革命、建设、改革实践中，经过反复探索、不断总结，逐步建立起一套适合中国国情的社会主义政治制度，所以选它。B. 中国共产党领导的多党合作和政治协商制度符合我们党领导人民在长期革命、建设、改革实践中，经过反复探索、不断总结，逐步建立起一套适合中国国情的社会主义政治制度，所以选它。C. 民族区域自治制度符合我们党领导人民在长期革命、建设、改革实践中，经过反复探索、不断总结，逐步建立起一套适合中国国情的社会主义政治制度，所以选它。D. 基层群众自治制度符合我们党领导人民在长期革命、建设、改革实践中，经过反复探索、不断总结，逐步建立起一套适合中国国情的社会主义政治制度，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40595,9 +38675,7 @@ window.QUESTION_BANK_DATA = {
           "text": "基层群众自治制度"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-68",
@@ -40619,7 +38697,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观将生态文明建设纳入中国特色社会主义事业总体布局。以下哪些选项体现了科学发展观关于生态文明建设的理念和要求（）",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观的主要内容。A. 树立尊重自然、顺应自然、保护自然的生态文明理念符合题干要求，所以选它。B. 坚持节约资源和保护环境的基本国策符合题干要求，所以选它。C. 把生态文明建设融入经济建设、政治建设、文化建设、社会建设各方面和全过程符合题干要求，所以选它。D. 推动形成绿色发展方式和生活方式符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40638,9 +38716,7 @@ window.QUESTION_BANK_DATA = {
           "text": "推动形成绿色发展方式和生活方式"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-69",
@@ -40662,7 +38738,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "建设生态文明，实质上就是要建设（ ）的资源节约型、环境友好型社会。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看科学发展观的主要内容。A. 以资源环境承载力为基础符合题干要求，所以选它。B. 以自然规律为准则符合题干要求，所以选它。C. 以可持续发展为目标符合题干要求，所以选它。D. 以人与自然和谐相处为宗旨不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40681,9 +38757,7 @@ window.QUESTION_BANK_DATA = {
           "text": "以人与自然和谐相处为宗旨"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-70",
@@ -40705,7 +38779,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "要加强生态文明宣传教育，增强全民（），形成合理消费的社会风尚，营造爱护生态环境的良好风气，努力走向社会主义生态文明新时代。",
       "answerRaw": "A;C;D",
-      "explanation": "本题看科学发展观的主要内容。A. 节约意识符合题干要求，所以选它。C. 环保意识符合题干要求，所以选它。D. 生态意识符合题干要求，所以选它。B. 消费意识不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40724,9 +38798,7 @@ window.QUESTION_BANK_DATA = {
           "text": "生态意识"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-71",
@@ -40748,7 +38820,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观同邓小平理论、“三个代表”重要思想，面对着共同的时代课题，面临着共同的历史任务，在（）上一以贯之。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观的历史地位。A. 理论主题符合题干要求，所以选它。B. 思想基础符合题干要求，所以选它。C. 政治理想符合题干要求，所以选它。D. 根本立场符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40767,9 +38839,7 @@ window.QUESTION_BANK_DATA = {
           "text": "根本立场"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-72",
@@ -40791,7 +38861,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观是中国特色社会主义理论体系的重要组成部分，其指导意义体现在哪些方面？（）",
       "answerRaw": "A;B;C;D;E",
-      "explanation": "本题看科学发展观的历史地位。A. 它是指导中国经济社会发展的根本指针符合题干要求，所以选它。B. 它是推进社会主义现代化建设的强大思想武器符合题干要求，所以选它。C. 它是应对复杂国际国内形势、战胜各种风险挑战的根本保证符合题干要求，所以选它。D. 它是全面建成小康社会、实现中华民族伟大复兴中国梦的行动指南符合题干要求，所以选它。E. 它是坚持和发展中国特色社会主义的最新理论成果符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40814,9 +38884,7 @@ window.QUESTION_BANK_DATA = {
           "text": "它是坚持和发展中国特色社会主义的最新理论成果"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-73",
@@ -40838,7 +38906,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观提出统筹兼顾的根本要求，把发展看作是相互推进、系统协调的过程，强调（），使各个方面、各个环节协调一致地运转。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观的科学内涵。A. 总揽全局符合题干要求，所以选它。B. 科学筹划符合题干要求，所以选它。C. 协调发展符合题干要求，所以选它。D. 兼顾各方符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40857,9 +38925,7 @@ window.QUESTION_BANK_DATA = {
           "text": "兼顾各方"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-74",
@@ -40881,7 +38947,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "我们要构建的社会主义和谐社会是经济建设、政治建设、文化建设、社会建设、生态文明建设协调发展的社会，是（）整体和谐的社会。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看科学发展观的主要内容。A. 人与人符合题干要求，所以选它。B. 人与社会符合题干要求，所以选它。D. 人与自然符合题干要求，所以选它。C. 人与历史不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40900,9 +38966,7 @@ window.QUESTION_BANK_DATA = {
           "text": "人与自然"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-75",
@@ -40924,7 +38988,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义协商民主是中国共产党和中国人民在社会主义民主形式方面的伟大创造，是对马克思主义民主理论的丰富和发展，充分体现了社会主义民主的（ ）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看科学发展观的主要内容。A. 真实性符合题干要求，所以选它。B. 广泛性符合题干要求，所以选它。D. 包容性符合题干要求，所以选它。C. 基础性不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40943,9 +39007,7 @@ window.QUESTION_BANK_DATA = {
           "text": "包容性"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-76",
@@ -40967,7 +39029,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观强调实现经济发展方式转变的核心是从粗放型增长转向集约型增长，具体来说，这意味着（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观的主要内容。A. 从主要依靠增加物质资源消耗转向主要依靠科技进步、劳动者素质提高、管理创新符合题干要求，所以选它。B. 从片面追求经济增长速度转向更加注重经济增长的质量和效益符合题干要求，所以选它。C. 从主要依靠投资和出口拉动转向更加依靠消费、投资、出口协调拉动符合题干要求，所以选它。D. 从高投入、高消耗、高排放转向低投入、低消耗、低排放、高产出符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -40986,9 +39048,7 @@ window.QUESTION_BANK_DATA = {
           "text": "从高投入、高消耗、高排放转向低投入、低消耗、低排放、高产出"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-77",
@@ -41010,7 +39070,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观的核心立场是以人为本。以下选项中体现了以人为本理念的具体要求的是（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观的科学内涵。A. 解决好人民最关心、最直接、最现实的利益问题符合题干要求，所以选它。B. 不断满足人民日益增长的物质文化需要符合题干要求，所以选它。C. 促进人的全面发展符合题干要求，所以选它。D. 尊重人民主体地位，发挥人民首创精神符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -41029,9 +39089,7 @@ window.QUESTION_BANK_DATA = {
           "text": "尊重人民主体地位，发挥人民首创精神"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-78",
@@ -41053,7 +39111,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观强调统筹国内国际两个大局的内涵包括（）。",
       "answerRaw": "A;B",
-      "explanation": "本题看科学发展观的科学内涵。A. 利用国际资源服务国内发展符合科学发展观强调统筹国内国际两个大局的内涵，所以选它。B. 通过国内发展促进世界和平符合科学发展观强调统筹国内国际两个大局的内涵，所以选它。C. 完全依赖国际市场不符合科学发展观强调统筹国内国际两个大局的内涵，所以不选。D. 限制外资进入关键领域不符合科学发展观强调统筹国内国际两个大局的内涵，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -41072,9 +39130,7 @@ window.QUESTION_BANK_DATA = {
           "text": "限制外资进入关键领域"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-79",
@@ -41096,7 +39152,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观指导区域协调发展的战略包括（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观的主要内容。A. 西部大开发符合科学发展观指导区域协调发展的战略，所以选它。B. 东北振兴符合科学发展观指导区域协调发展的战略，所以选它。C. 中部崛起符合科学发展观指导区域协调发展的战略，所以选它。D. 东部率先发展符合科学发展观指导区域协调发展的战略，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -41115,9 +39171,7 @@ window.QUESTION_BANK_DATA = {
           "text": "东部率先发展"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-80",
@@ -41139,7 +39193,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义核心价值体系的基本内容包括（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观的主要内容。A. 马克思主义指导思想符合社会主义核心价值体系的基本内容，所以选它。B. 中国特色社会主义共同理想符合社会主义核心价值体系的基本内容，所以选它。C. 民族精神和时代精神符合社会主义核心价值体系的基本内容，所以选它。D. 社会主义荣辱观符合社会主义核心价值体系的基本内容，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -41158,9 +39212,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义荣辱观"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-81",
@@ -41182,7 +39234,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观在政治建设领域的实践要求包括（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看科学发展观的主要内容。A. 扩大公民有序政治参与符合科学发展观在政治建设领域的实践要求，所以选它。B. 完善基层群众自治制度符合科学发展观在政治建设领域的实践要求，所以选它。D. 加强权力监督制约符合科学发展观在政治建设领域的实践要求，所以选它。C. 实行多党轮流执政不符合科学发展观在政治建设领域的实践要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -41201,9 +39253,7 @@ window.QUESTION_BANK_DATA = {
           "text": "加强权力监督制约"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-82",
@@ -41225,7 +39275,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观指导生态文明建设的核心理念包括（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看科学发展观的主要内容。A. 尊重自然符合科学发展观指导生态文明建设的核心理念，所以选它。B. 顺应自然符合科学发展观指导生态文明建设的核心理念，所以选它。C. 保护自然符合科学发展观指导生态文明建设的核心理念，所以选它。D. 改造自然不符合科学发展观指导生态文明建设的核心理念，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -41244,9 +39294,7 @@ window.QUESTION_BANK_DATA = {
           "text": "改造自然"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-83",
@@ -41268,7 +39316,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观强调增强自主创新能力的具体路径包括（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看科学发展观的主要内容。A. 建设创新型国家符合科学发展观强调增强自主创新能力的具体路径，所以选它。B. 强化企业创新主体地位符合科学发展观强调增强自主创新能力的具体路径，所以选它。D. 加大科研经费投入符合科学发展观强调增强自主创新能力的具体路径，所以选它。C. 引进国外先进技术不符合科学发展观强调增强自主创新能力的具体路径，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -41287,9 +39335,7 @@ window.QUESTION_BANK_DATA = {
           "text": "加大科研经费投入"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-84",
@@ -41311,7 +39357,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十七大提出的“生态文明”建设要求包括（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看科学发展观的主要内容。A. 基本形成节约能源资源格局符合党的十七大提出的“生态文明”建设要求，所以选它。B. 主要污染物排放得到有效控制符合党的十七大提出的“生态文明”建设要求，所以选它。D. 生态文明观念在全社会牢固树立符合党的十七大提出的“生态文明”建设要求，所以选它。C. 全面实现碳达峰目标不符合党的十七大提出的“生态文明”建设要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -41330,9 +39376,7 @@ window.QUESTION_BANK_DATA = {
           "text": "生态文明观念在全社会牢固树立"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-85",
@@ -41354,7 +39398,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观强调的“统筹兼顾”包括（）。",
       "answerRaw": "A;B;C;D;E",
-      "explanation": "本题看科学发展观的科学内涵。A. 统筹城乡发展符合科学发展观强调的“统筹兼顾”，所以选它。B. 统筹区域发展符合科学发展观强调的“统筹兼顾”，所以选它。C. 统筹经济社会发展符合科学发展观强调的“统筹兼顾”，所以选它。D. 统筹人与自然和谐发展符合科学发展观强调的“统筹兼顾”，所以选它。E. 统筹国内发展和对外开放符合科学发展观强调的“统筹兼顾”，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -41377,9 +39421,7 @@ window.QUESTION_BANK_DATA = {
           "text": "统筹国内发展和对外开放"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-86",
@@ -41401,7 +39443,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "实施人才强国战略的具体措施包括（）。",
       "answerRaw": "A;B;C",
-      "explanation": "本题看科学发展观的科学内涵。A. 完善人才评价机制符合实施人才强国战略的具体措施，所以选它。B. 加大海外人才引进符合实施人才强国战略的具体措施，所以选它。C. 建立终身教育体系符合实施人才强国战略的具体措施，所以选它。D. 实行平均主义分配不符合实施人才强国战略的具体措施，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -41420,9 +39462,7 @@ window.QUESTION_BANK_DATA = {
           "text": "实行平均主义分配"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-87",
@@ -41444,7 +39484,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "构建社会主义和谐社会，必须以保障和改善民生为重点，从解决关系人民群众切身利益的现实问题入手，（）。",
       "answerRaw": "A;B;C;D",
-      "explanation": "本题看科学发展观的主要内容。A. 优先发展教育符合题干要求，所以选它。B. 扩大就业规模符合题干要求，所以选它。C. 深化收入分配改革符合题干要求，所以选它。D. 建立全覆盖城乡居民的社会保障体系符合题干要求，所以选它。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -41463,9 +39503,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建立全覆盖城乡居民的社会保障体系"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-88",
@@ -41486,7 +39524,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观形成的实践基础包括（）。",
       "answerRaw": "A;B;D",
-      "explanation": "本题看科学发展观。A. 抗击非典疫情的经验总结符合科学发展观形成的实践基础，所以选它。B. 社会主义初级阶段基本国情符合科学发展观形成的实践基础，所以选它。D. 全面建成小康社会目标符合科学发展观形成的实践基础，所以选它。C. 国际金融危机冲击不符合科学发展观形成的实践基础，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -41505,9 +39543,7 @@ window.QUESTION_BANK_DATA = {
           "text": "全面建成小康社会目标"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-89",
@@ -41528,11 +39564,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观强调坚持以政治建设为中心。",
       "answerRaw": "false",
-      "explanation": "本题看科学发展观。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-90",
@@ -41554,11 +39588,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观是中国特色社会主义理论体系的接续发展。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的历史地位。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-91",
@@ -41580,11 +39612,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "没有社会主义文化繁荣发展，就没有社会主义现代化。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的主要内容。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-92",
@@ -41606,11 +39636,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "政治建设是中心和基础，经济建设是方向和保障。",
       "answerRaw": "false",
-      "explanation": "本题看科学发展观的主要内容。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-93",
@@ -41632,11 +39660,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "胡锦涛曾指出，我们推进发展的根本目的就是造福人民。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的科学内涵。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-94",
@@ -41658,11 +39684,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持科学发展，必须加快转变经济发展方式。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的主要内容。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-95",
@@ -41684,11 +39708,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "开展深入学习实践科学发展观活动要高举一面旗帜，就是高举邓小平理论伟大旗帜。",
       "answerRaw": "false",
-      "explanation": "本题看科学发展观的主要内容。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-96",
@@ -41710,11 +39732,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持可持续发展，强调要实现经济发展与人口、资源、环境相协调，保证一代接一代地永续发展。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的科学内涵。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-97",
@@ -41736,11 +39756,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观与经济建设为中心是相互矛盾的。",
       "answerRaw": "false",
-      "explanation": "本题看科学发展观的科学内涵。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-98",
@@ -41761,11 +39779,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "树立和落实科学发展观，关键是要结合自己的实际情况来落实科学发展观，不能强求一律，搞齐步走、一刀切。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-99",
@@ -41787,11 +39803,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "对我国来说，抓好资源的节约和综合利用尤为重要，其原因一是总体资源紧缺。二是资源压力增大。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的科学内涵。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-100",
@@ -41813,11 +39827,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持以人为本，就要坚持发展的成果由人民共享。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的科学内涵。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-101",
@@ -41839,11 +39851,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观最鲜明的精神实质是解放思想、实事求是、与时俱进、求真务实。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的主要内容。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-102",
@@ -41865,11 +39875,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观强调必须把“统筹兼顾”作为发展的根本方法。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的科学内涵。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-103",
@@ -41891,11 +39899,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十七大将“生态文明建设”纳入中国特色社会主义事业总体布局。",
       "answerRaw": "false",
-      "explanation": "本题看科学发展观的主要内容。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-104",
@@ -41917,11 +39923,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观要求始终把实现好、维护好、发展好最广大人民的根本利益作为党和国家一切工作的出发点和落脚点。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的科学内涵。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-105",
@@ -41943,11 +39947,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十六届三中全会提出“坚持以人为本，树立全面、协调、可持续的发展观”标志着科学发展观正式形成。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的科学内涵。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-106",
@@ -41969,11 +39971,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观强调，“创新型国家”建设的核心是扩大技术引进规模。",
       "answerRaw": "false",
-      "explanation": "本题看科学发展观的主要内容。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-107",
@@ -41995,11 +39995,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "社会主义核心价值体系是文化建设的根本任务，决定着中国特色社会主义发展方向。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的主要内容。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-108",
@@ -42021,11 +40019,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观认为，解决“三农”问题的根本途径是推进农村土地私有化。",
       "answerRaw": "false",
-      "explanation": "本题看科学发展观的科学内涵。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-109",
@@ -42047,11 +40043,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观强调，推进生态文明建设的实质是追求经济高速增长。",
       "answerRaw": "false",
-      "explanation": "本题看科学发展观的主要内容。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-110",
@@ -42073,11 +40067,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观认为，缩小区域发展差距的关键是加大对东部地区的政策倾斜。",
       "answerRaw": "false",
-      "explanation": "本题看科学发展观的科学内涵。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-111",
@@ -42099,11 +40091,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持可持续发展必须走生产发展、生活富裕、生态良好的文明发展道路。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的科学内涵。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-112",
@@ -42125,11 +40115,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "统筹中央和地方关系，要求坚决维护中央权威，同时赋予地方更多自主权。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的科学内涵。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-113",
@@ -42151,11 +40139,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "推动经济结构战略性调整的主攻方向是扩大出口规模。",
       "answerRaw": "false",
-      "explanation": "本题看科学发展观的主要内容。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-114",
@@ -42176,11 +40162,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观的形成与应对2008年国际金融危机的实践密切相关。",
       "answerRaw": "false",
-      "explanation": "本题看科学发展观。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-115",
@@ -42202,11 +40186,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十六届五中全会上提出了“建设资源节约型、环境友好型社会”的战略任务。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的科学内涵。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-116",
@@ -42228,11 +40210,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观强调，政治建设的根本是坚持人民代表大会制度。",
       "answerRaw": "false",
-      "explanation": "本题看科学发展观的主要内容。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-117",
@@ -42254,11 +40234,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观认为，扩大就业是保障和改善民生的头等大事。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的主要内容。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-118",
@@ -42280,11 +40258,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "坚持全面协调可持续，要求把改革的力度、发展的速度和社会可承受的程度统一起来。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的科学内涵。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-119",
@@ -42306,11 +40282,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "党的十七大提出，初次分配和再分配都要处理好效率和公平的关系。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的科学内涵。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-120",
@@ -42332,11 +40306,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "推动形成绿色发展方式和生活方式是生态文明建设的治本之策。",
       "answerRaw": "true",
-      "explanation": "本题看科学发展观的主要内容。题干说法与教材表述一致，所以判断正确。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-121",
@@ -42358,11 +40330,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观的历史地位在于实现了马克思主义中国化的第二次历史性飞跃。",
       "answerRaw": "false",
-      "explanation": "本题看科学发展观的历史地位。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-122",
@@ -42957,7 +40927,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "新中国成立以来我国经济社会发展取得了举世瞩目的成就，但仍处于并将长期处于（ ）的基本国情没有变。",
       "answerRaw": "D",
-      "explanation": "本题看科学发展观的科学内涵。D. 社会主义初级阶段符合题干要求，所以选它。A. 共产主义第一阶段不符合题干要求，所以不选。B. 社会主义高级阶段不符合题干要求，所以不选。C. 共产主义高级阶段不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -42976,9 +40946,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义初级阶段"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-143",
@@ -43000,7 +40968,7 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "科学发展观是在深入总结改革开放以来特别是党的（ ）大以来实践经验的基础上形成和发展的。",
       "answerRaw": "C",
-      "explanation": "本题看科学发展观的历史地位。C. 十六符合题干要求，所以选它。A. 十四不符合题干要求，所以不选。B. 十五不符合题干要求，所以不选。D. 十七不符合题干要求，所以不选。",
+      "explanation": "",
       "options": [
         {
           "key": "A",
@@ -43019,9 +40987,7 @@ window.QUESTION_BANK_DATA = {
           "text": "十七"
         }
       ],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-144",
@@ -43043,11 +41009,9 @@ window.QUESTION_BANK_DATA = {
       "material": "",
       "stem": "经济发展是社会发展的唯一目标，其他方面的进步都应服从于经济增长。",
       "answerRaw": "false",
-      "explanation": "本题看科学发展观的科学内涵。题干说法与教材表述不一致，所以判断错误。",
+      "explanation": "",
       "options": [],
-      "fillBlanks": [],
-      "similarPoints": [],
-      "pitfall": ""
+      "fillBlanks": []
     },
     {
       "id": "chapter-08-第八章-科学发展观-145",
