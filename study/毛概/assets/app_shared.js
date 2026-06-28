@@ -463,9 +463,9 @@
     const collapsedLabel = core.normalizeText(options && options.collapsedLabel) || "查看解析";
     const revealedLabel = core.normalizeText(options && options.revealedLabel) || "收起解析";
 
-    const shell = createElement("div", "answer-detail answer-reveal-shell explanation-reveal-shell");
+    const shell = createElement("div", "explanation-reveal-shell");
     const header = createElement("div", "explanation-reveal-header");
-    header.appendChild(createElement("span", "answer-reveal-label", "答案解析："));
+    header.appendChild(createElement("span", "explanation-reveal-title", "答案解析："));
     header.appendChild(createElement("span", "explanation-reveal-hint", "点按钮再展开"));
     shell.appendChild(header);
 
@@ -479,7 +479,7 @@
     }
     shell.appendChild(sections);
 
-    const toggle = createElement("button", "answer-reveal-toggle explanation-reveal-toggle", collapsedLabel);
+    const toggle = createElement("button", "explanation-reveal-toggle", collapsedLabel);
     toggle.type = "button";
     toggle.addEventListener("click", function (event) {
       event.preventDefault();

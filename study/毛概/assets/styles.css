@@ -753,7 +753,15 @@ textarea {
 }
 
 .explanation-reveal-shell {
+  display: grid;
   gap: 12px;
+  padding: 14px 16px;
+  border-radius: var(--radius-md);
+  border: 1px solid rgba(36, 93, 111, 0.12);
+  background:
+    linear-gradient(180deg, rgba(248, 252, 253, 0.96), rgba(241, 248, 249, 0.92));
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.85);
+  line-height: 1.7;
 }
 
 .explanation-reveal-header {
@@ -761,6 +769,11 @@ textarea {
   flex-wrap: wrap;
   gap: 8px;
   align-items: center;
+}
+
+.explanation-reveal-title {
+  color: var(--ink);
+  font-weight: 700;
 }
 
 .explanation-reveal-hint {
@@ -799,6 +812,19 @@ textarea {
 
 .explanation-reveal-toggle {
   display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  min-height: 36px;
+  padding: 0 14px;
+  border: 1px solid rgba(79, 138, 159, 0.2);
+  border-radius: 999px;
+  background: rgba(79, 138, 159, 0.1);
+  color: var(--accent-2);
+  font: inherit;
+  font-size: 0.9rem;
+  font-weight: 700;
+  cursor: pointer;
 }
 
 .explanation-reveal-shell:hover .explanation-reveal-sections,
