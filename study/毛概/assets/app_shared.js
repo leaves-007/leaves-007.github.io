@@ -300,6 +300,72 @@
     container.appendChild(stack);
   }
 
+  function renderTrendChartLine(container, stats) {
+    clearElement(container);
+    const stack = createElement("div", "chart-stack");
+    stack.appendChild(createElement("h3", "section-title", "?? 7 ?????"));
+
+    const chart = createElement("div", "trend-line-chart");
+    const plot = createElement("div", "trend-line-plot");
+    const svgNamespace = "http://www.w3.org/2000/svg";
+    const svg = document.createElementNS(svgNamespace, "svg");
+    svg.className = "trend-line-svg";
+    svg.setAttribute("viewBox", "0 0 600 160");
+    svg.setAttribute("aria-hidden", "true");
+
+    const guidePath = document.createElementNS(svgNamespace, "path");
+    guidePath.className = "trend-line-guide";
+    guidePath.setAttribute("d", "M 24 136 L 576 136");
+    svg.appendChild(guidePath);
+
+    const maxTotal = Math.max(1, ...stats.recent7Days.map(function (item) { return item.total; }));
+    const plotWidth = 552;
+    const plotHeight = 112;
+    const startX = 24;
+    const baseY = 136;
+    const points = stats.recent7Days.map(function (item, index) {
+      const x = startX + (plotWidth * index) / Math.max(1, stats.recent7Days.length - 1);
+      const y = baseY - (item.total / maxTotal) * plotHeight;
+      return { item: item, x: x, y: y };
+    });
+
+    const polyline = document.createElementNS(svgNamespace, "polyline");
+    polyline.className = "trend-line-path";
+    polyline.setAttribute(
+      "points",
+      points
+        .map(function (point) {
+          return `${point.x},${point.y}`;
+        })
+        .join(" ")
+    );
+    svg.appendChild(polyline);
+
+    points.forEach(function (point) {
+      const marker = document.createElementNS(svgNamespace, "circle");
+      marker.className = point.item.total > 0 ? "trend-line-point" : "trend-line-point is-zero";
+      marker.setAttribute("cx", String(point.x));
+      marker.setAttribute("cy", String(point.y));
+      marker.setAttribute("r", point.item.total > 0 ? "5.5" : "4.5");
+      svg.appendChild(marker);
+    });
+
+    plot.appendChild(svg);
+    chart.appendChild(plot);
+
+    const labels = createElement("div", "trend-line-labels");
+    stats.recent7Days.forEach(function (item) {
+      const column = createElement("div", "trend-line-label-group");
+      column.appendChild(createElement("div", "bar-label", item.date.slice(5)));
+      column.appendChild(createElement("div", "muted", `${item.total} ?`));
+      labels.appendChild(column);
+    });
+
+    chart.appendChild(labels);
+    stack.appendChild(chart);
+    container.appendChild(stack);
+  }
+
   function renderChapterMastery(container, stats) {
     clearElement(container);
     const shell = createElement("div", "chart-stack");
@@ -724,7 +790,7 @@
     formatDateTime: formatDateTime,
     describeAnswer: describeAnswer,
     renderStatsGrid: renderStatsGrid,
-    renderTrendChart: renderTrendChart,
+    renderTrendChart: renderTrendChartLine,
     renderChapterMastery: renderChapterMastery,
     createMetricCard: createMetricCard,
     createQuestionMeta: createQuestionMeta,

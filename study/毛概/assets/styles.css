@@ -921,6 +921,71 @@ details.chapter-card summary::-webkit-details-marker {
   color: var(--muted);
 }
 
+.trend-line-chart {
+  display: grid;
+  gap: 14px;
+}
+
+.trend-line-plot {
+  padding: 10px 6px 4px;
+  border-radius: 24px;
+  background:
+    radial-gradient(circle at top, rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 0.18)),
+    linear-gradient(180deg, rgba(36, 93, 111, 0.06), rgba(36, 93, 111, 0.02));
+  border: 1px solid rgba(36, 93, 111, 0.12);
+}
+
+.trend-line-svg {
+  display: block;
+  width: 100%;
+  height: 180px;
+}
+
+.trend-line-guide {
+  fill: none;
+  stroke: rgba(36, 93, 111, 0.18);
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-dasharray: 6 6;
+}
+
+.trend-line-path {
+  fill: none;
+  stroke: var(--accent-2);
+  stroke-width: 4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.trend-line-point {
+  fill: var(--accent);
+  stroke: white;
+  stroke-width: 3;
+}
+
+.trend-line-point.is-zero {
+  fill: var(--accent-2);
+  opacity: 0.58;
+}
+
+.trend-line-labels {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.trend-line-label-group {
+  display: grid;
+  gap: 8px;
+  justify-items: center;
+  text-align: center;
+}
+
+.trend-line-label-group .muted {
+  color: #445567;
+  font-weight: 600;
+}
+
 .mastery-list {
   display: grid;
   gap: 12px;
