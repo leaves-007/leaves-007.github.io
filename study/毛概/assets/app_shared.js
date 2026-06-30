@@ -303,61 +303,32 @@
   function renderTrendChartLine(container, stats) {
     clearElement(container);
     const stack = createElement("div", "chart-stack");
-    stack.appendChild(createElement("h3", "section-title", "?? 7 ?????"));
+    stack.appendChild(createElement("h3", "section-title", "最近 7 天练习情况"));
 
-    const chart = createElement("div", "trend-line-chart");
-    const plot = createElement("div", "trend-line-plot");
-    const svgNamespace = "http://www.w3.org/2000/svg";
-    const svg = document.createElementNS(svgNamespace, "svg");
-    svg.className = "trend-line-svg";
-    svg.setAttribute("viewBox", "0 0 600 160");
-    svg.setAttribute("aria-hidden", "true");
-
-    const guidePath = document.createElementNS(svgNamespace, "path");
-    guidePath.className = "trend-line-guide";
-    guidePath.setAttribute("d", "M 24 136 L 576 136");
-    svg.appendChild(guidePath);
-
+    const chart = createElement("div", "trend-bar-chart");
+    const plot = createElement("div", "trend-bar-plot");
     const maxTotal = Math.max(1, ...stats.recent7Days.map(function (item) { return item.total; }));
-    const plotWidth = 552;
-    const plotHeight = 112;
-    const startX = 24;
-    const baseY = 136;
-    const points = stats.recent7Days.map(function (item, index) {
-      const x = startX + (plotWidth * index) / Math.max(1, stats.recent7Days.length - 1);
-      const y = baseY - (item.total / maxTotal) * plotHeight;
-      return { item: item, x: x, y: y };
+    const maxBarHeight = 108;
+    const minBarHeight = 8;
+
+    stats.recent7Days.forEach(function (item) {
+      const column = createElement("div", "trend-bar-column");
+      const bar = createElement("div", item.total > 0 ? "trend-bar-fill" : "trend-bar-fill is-zero");
+      const scaledHeight = item.total > 0
+        ? Math.max(minBarHeight, Math.round((item.total / maxTotal) * maxBarHeight))
+        : minBarHeight;
+      bar.style.height = `${scaledHeight}px`;
+      column.appendChild(bar);
+      plot.appendChild(column);
     });
 
-    const polyline = document.createElementNS(svgNamespace, "polyline");
-    polyline.className = "trend-line-path";
-    polyline.setAttribute(
-      "points",
-      points
-        .map(function (point) {
-          return `${point.x},${point.y}`;
-        })
-        .join(" ")
-    );
-    svg.appendChild(polyline);
-
-    points.forEach(function (point) {
-      const marker = document.createElementNS(svgNamespace, "circle");
-      marker.className = point.item.total > 0 ? "trend-line-point" : "trend-line-point is-zero";
-      marker.setAttribute("cx", String(point.x));
-      marker.setAttribute("cy", String(point.y));
-      marker.setAttribute("r", point.item.total > 0 ? "5.5" : "4.5");
-      svg.appendChild(marker);
-    });
-
-    plot.appendChild(svg);
     chart.appendChild(plot);
 
-    const labels = createElement("div", "trend-line-labels");
+    const labels = createElement("div", "trend-bar-labels");
     stats.recent7Days.forEach(function (item) {
-      const column = createElement("div", "trend-line-label-group");
+      const column = createElement("div", "trend-bar-label-group");
       column.appendChild(createElement("div", "bar-label", item.date.slice(5)));
-      column.appendChild(createElement("div", "muted", `${item.total} ?`));
+      column.appendChild(createElement("div", "muted", `${item.total} 次`));
       labels.appendChild(column);
     });
 
@@ -645,6 +616,96 @@
     return true;
   }
 
+  function getRestorableSessionPool(session) {
+    const normalized = normalizeSession(session);
+    if (!normalized) {
+      return [];
+    }
+    if (normalized.scopeChapterKey) {
+      return bank.questions.filter(function (question) {
+        return question.chapterKey === normalized.scopeChapterKey;
+      });
+    }
+    return bank.questions.slice();
+  }
+
+  function getCanonicalQuestionIdsForSession(state, session) {
+    const normalized = normalizeSession(session);
+    if (!normalized) {
+      return null;
+    }
+
+    if (isWrongbookSession(normalized)) {
+      const wrongIdSet = new Set(getWrongIds(state));
+      return bank.questions
+        .filter(function (question) {
+          return wrongIdSet.has(question.id);
+        })
+        .map(function (question) {
+          return question.id;
+        });
+    }
+
+    const pool = getRestorableSessionPool(normalized);
+    if (normalized.mode === "sequential" || normalized.mode === "chapter") {
+      return pool.map(function (question) {
+        return question.id;
+      });
+    }
+    if (normalized.mode === "wrongs") {
+      const wrongIdSet = new Set(getWrongIds(state));
+      return pool
+        .filter(function (question) {
+          return wrongIdSet.has(question.id);
+        })
+        .map(function (question) {
+          return question.id;
+        });
+    }
+    if (normalized.mode === "favorites") {
+      const favoriteIdSet = new Set(getFavoriteIds(state));
+      return pool
+        .filter(function (question) {
+          return favoriteIdSet.has(question.id);
+        })
+        .map(function (question) {
+          return question.id;
+        });
+    }
+    return null;
+  }
+
+  function reconcileRestorableSession(state, session) {
+    const normalized = normalizeSession(session);
+    if (!normalized) {
+      return null;
+    }
+
+    const canonicalQuestionIds = getCanonicalQuestionIdsForSession(state, normalized);
+    if (canonicalQuestionIds === null) {
+      return hydrateSessionAnswered(state, normalized);
+    }
+    if (!canonicalQuestionIds.length) {
+      return null;
+    }
+    if (sessionQuestionIdsMatch(normalized, canonicalQuestionIds)) {
+      return hydrateSessionAnswered(state, normalized);
+    }
+
+    const sessionQuestionIds = Array.isArray(normalized.questionIds) ? normalized.questionIds : [];
+    const currentQuestionId = sessionQuestionIds[normalized.currentIndex] || "";
+    const currentIndex = currentQuestionId ? canonicalQuestionIds.indexOf(currentQuestionId) : -1;
+
+    return hydrateSessionAnswered(
+      state,
+      Object.assign({}, normalized, {
+        questionIds: canonicalQuestionIds,
+        currentIndex: currentIndex >= 0 ? currentIndex : 0,
+        storageKey: "",
+      })
+    );
+  }
+
   function findReusableSession(state, options) {
     const expectedQuestionIds = options && Array.isArray(options.questionIds) ? options.questionIds : [];
     if (!expectedQuestionIds.length) {
@@ -804,6 +865,7 @@
     normalizeSession: normalizeSession,
     hydrateSessionAnswered: hydrateSessionAnswered,
     findReusableSession: findReusableSession,
+    reconcileRestorableSession: reconcileRestorableSession,
     buildWrongbookPracticeSession: buildWrongbookPracticeSession,
     isWrongbookSession: isWrongbookSession,
     rememberWrongbookReturnSession: rememberWrongbookReturnSession,

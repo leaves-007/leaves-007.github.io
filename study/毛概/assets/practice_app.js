@@ -341,14 +341,18 @@
 
   function restoreSession() {
     const pending = shared.consumePendingSession(state);
-    if (pending && sessionMatchesScope(pending)) {
-      currentSession = shared.hydrateSessionAnswered(state, pending);
+    const restoredPending = pending ? shared.reconcileRestorableSession(state, pending) : null;
+    if (restoredPending && sessionMatchesScope(restoredPending)) {
+      currentSession = restoredPending;
       shared.persistSession(state, currentSession);
       state = shared.loadState();
       return;
     }
-    if (state.lastSession && sessionMatchesScope(state.lastSession)) {
-      currentSession = shared.hydrateSessionAnswered(state, state.lastSession);
+    const restoredLastSession = state.lastSession
+      ? shared.reconcileRestorableSession(state, state.lastSession)
+      : null;
+    if (restoredLastSession && sessionMatchesScope(restoredLastSession)) {
+      currentSession = restoredLastSession;
       shared.persistSession(state, currentSession);
       state = shared.loadState();
     }

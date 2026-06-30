@@ -250,6 +250,7 @@ a {
 .control-stack {
   display: grid;
   gap: 16px;
+  align-items: start;
 }
 
 .control-group {
@@ -921,69 +922,93 @@ details.chapter-card summary::-webkit-details-marker {
   color: var(--muted);
 }
 
-.trend-line-chart {
+.trend-bar-chart {
   display: grid;
   gap: 14px;
 }
 
-.trend-line-plot {
-  padding: 10px 6px 4px;
-  border-radius: 24px;
-  background:
-    radial-gradient(circle at top, rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 0.18)),
-    linear-gradient(180deg, rgba(36, 93, 111, 0.06), rgba(36, 93, 111, 0.02));
-  border: 1px solid rgba(36, 93, 111, 0.12);
-}
-
-.trend-line-svg {
-  display: block;
-  width: 100%;
-  height: 180px;
-}
-
-.trend-line-guide {
-  fill: none;
-  stroke: rgba(36, 93, 111, 0.18);
-  stroke-width: 2;
-  stroke-linecap: round;
-  stroke-dasharray: 6 6;
-}
-
-.trend-line-path {
-  fill: none;
-  stroke: var(--accent-2);
-  stroke-width: 4;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-}
-
-.trend-line-point {
-  fill: var(--accent);
-  stroke: white;
-  stroke-width: 3;
-}
-
-.trend-line-point.is-zero {
-  fill: var(--accent-2);
-  opacity: 0.58;
-}
-
-.trend-line-labels {
+.trend-bar-plot {
   display: grid;
   grid-template-columns: repeat(7, minmax(0, 1fr));
-  gap: 10px;
+  gap: 14px;
+  align-items: end;
+  min-height: 156px;
+  padding: 8px 6px 2px;
+  border-radius: 24px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.86), rgba(255, 248, 244, 0.7)),
+    rgba(255, 255, 255, 0.72);
+  border: 1px solid rgba(227, 75, 55, 0.12);
+  overflow: hidden;
 }
 
-.trend-line-label-group {
+.trend-bar-column {
+  position: relative;
+  min-height: 146px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.trend-bar-column::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 10px;
+  left: 50%;
+  width: 1px;
+  transform: translateX(-50%);
+  background: linear-gradient(180deg, rgba(227, 75, 55, 0.08), rgba(227, 75, 55, 0.22), rgba(227, 75, 55, 0.06));
+}
+
+.trend-bar-fill {
+  position: relative;
+  z-index: 1;
+  width: 28px;
+  min-height: 8px;
+  border-radius: 999px;
+  background: linear-gradient(180deg, #ff8f6b 0%, #e34b37 58%, #a8281f 100%);
+  box-shadow: 0 12px 24px rgba(168, 40, 31, 0.18);
+}
+
+.trend-bar-fill::after {
+  content: "";
+  position: absolute;
+  inset: 2px auto 2px 3px;
+  width: 42%;
+  border-radius: inherit;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.34), rgba(255, 255, 255, 0));
+  opacity: 0.85;
+}
+
+.trend-bar-fill.is-zero {
+  width: 22px;
+  min-height: 8px;
+  background: linear-gradient(180deg, #f9b39e 0%, #ee7659 60%, #c33a2a 100%);
+  box-shadow: 0 8px 18px rgba(195, 58, 42, 0.14);
+}
+
+.trend-bar-labels {
   display: grid;
-  gap: 8px;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.trend-bar-label-group {
+  display: grid;
+  gap: 6px;
   justify-items: center;
   text-align: center;
 }
 
-.trend-line-label-group .muted {
+.trend-bar-label-group .bar-label {
+  color: var(--muted);
+}
+
+.trend-bar-label-group .muted {
   color: #445567;
   font-weight: 600;
+  white-space: nowrap;
 }
 
 .mastery-list {
@@ -1107,6 +1132,36 @@ details.chapter-card summary::-webkit-details-marker {
   body {
     background: #f7f3ed;
     padding-bottom: 180px;
+  }
+
+  .trend-bar-plot {
+    min-height: 138px;
+    gap: 10px;
+    padding: 8px 4px 2px;
+  }
+
+  .trend-bar-column {
+    min-height: 128px;
+  }
+
+  .trend-bar-fill {
+    width: 22px;
+  }
+
+  .trend-bar-fill.is-zero {
+    width: 18px;
+  }
+
+  .trend-bar-labels {
+    gap: 10px;
+  }
+
+  .trend-bar-label-group .bar-label {
+    font-size: 0.84rem;
+  }
+
+  .trend-bar-label-group .muted {
+    font-size: 0.82rem;
   }
 
   .question-overview-shell {
