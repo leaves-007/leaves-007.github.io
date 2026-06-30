@@ -754,7 +754,7 @@
   }
 
   function renderStats() {
-    const stats = shared.core.computeStats(scopedBank, state, new Date().toISOString().slice(0, 10));
+    const stats = shared.core.computeStats(scopedBank, state, shared.core.getTodayDateText());
     shared.renderStatsGrid(document.getElementById("stats-grid"), stats);
     shared.renderTrendChart(document.getElementById("trend-panel"), stats);
     shared.renderChapterMastery(document.getElementById("mastery-panel"), stats);
@@ -1547,7 +1547,7 @@ function buildAnswerInputs(question, host, restoredAnswer) {
   }
 
   function renderStats() {
-    const stats = shared.core.computeStats(scopedBank, state, new Date().toISOString().slice(0, 10));
+    const stats = shared.core.computeStats(scopedBank, state, shared.core.getTodayDateText());
     shared.renderStatsGrid(dom.statsGrid, stats);
     shared.renderTrendChart(dom.trendPanel, stats);
     shared.renderChapterMastery(dom.masteryPanel, stats);

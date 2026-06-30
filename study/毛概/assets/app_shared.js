@@ -175,7 +175,7 @@
     }
 
     state.practiceLog.push({
-      date: questionState.lastAnsweredAt.slice(0, 10),
+      date: core.getTodayDateText(),
       result: result,
       questionId: question.id,
       chapterKey: question.chapterKey,
@@ -284,10 +284,13 @@
     const maxTotal = Math.max(1, ...stats.recent7Days.map(function (item) { return item.total; }));
     stats.recent7Days.forEach(function (item) {
       const column = createElement("div", "bar-column");
-      const track = createElement("div", "bar-track");
-      const fill = createElement("div", "bar-fill");
-      fill.style.height = `${Math.round((item.total / maxTotal) * 100)}%`;
-      track.appendChild(fill);
+      const hasData = item.total > 0;
+      const track = createElement("div", hasData ? "bar-track" : "bar-track is-empty");
+      if (hasData) {
+        const fill = createElement("div", "bar-fill");
+        fill.style.height = `${Math.round((item.total / maxTotal) * 100)}%`;
+        track.appendChild(fill);
+      }
       column.appendChild(track);
       column.appendChild(createElement("div", "bar-label", item.date.slice(5)));
       column.appendChild(createElement("div", "muted", `${item.total} 次`));
@@ -777,11 +780,12 @@
         groupMap.set(groupKey, group);
         groups.push(group);
       }
-      groupMap.get(groupKey).items.push({
+      const group = groupMap.get(groupKey);
+      group.items.push({
         questionId: questionId,
         question: question,
         index: index,
-        number: index + 1,
+        number: group.items.length + 1,
       });
     });
     return groups;

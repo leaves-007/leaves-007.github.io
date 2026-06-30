@@ -115,6 +115,27 @@
     return source;
   }
 
+  function formatLocalDate(value) {
+    const date = value instanceof Date ? value : new Date(value);
+    if (Number.isNaN(date.getTime())) {
+      return "";
+    }
+    return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`;
+  }
+
+  function getTodayDateText() {
+    return formatLocalDate(new Date());
+  }
+
+  function parseLocalDateText(value) {
+    const text = normalizeText(value);
+    const match = text.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+    if (!match) {
+      return new Date(text);
+    }
+    return new Date(Number(match[1]), Number(match[2]) - 1, Number(match[3]));
+  }
+
   function buildSessionQuestionIds(questions, config, rng) {
     const mode = (config && config.mode) || "sequential";
     const list = Array.isArray(questions) ? questions.slice() : [];
@@ -147,12 +168,12 @@
   }
 
   function createDateRange(todayText, count) {
-    const today = new Date(todayText + "T00:00:00");
+    const today = parseLocalDateText(todayText || getTodayDateText());
     const dates = [];
     for (let offset = count - 1; offset >= 0; offset -= 1) {
       const date = new Date(today);
       date.setDate(today.getDate() - offset);
-      dates.push(date.toISOString().slice(0, 10));
+      dates.push(formatLocalDate(date));
     }
     return dates;
   }
@@ -196,7 +217,7 @@
       });
     });
 
-    const dateRange = createDateRange(todayText || new Date().toISOString().slice(0, 10), 7);
+    const dateRange = createDateRange(todayText || getTodayDateText(), 7);
     const dateMap = new Map();
     dateRange.forEach(function (date) {
       dateMap.set(date, { date: date, total: 0, correct: 0, wrong: 0, mastered: 0 });
@@ -239,6 +260,8 @@
   return {
     normalizeText: normalizeText,
     normalizeCompact: normalizeCompact,
+    formatLocalDate: formatLocalDate,
+    getTodayDateText: getTodayDateText,
     judgeObjectiveAnswer: judgeObjectiveAnswer,
     judgeQuestion: judgeQuestion,
     buildSessionQuestionIds: buildSessionQuestionIds,
