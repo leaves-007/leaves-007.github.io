@@ -17823,2196 +17823,8 @@ window.QUESTION_BANK_DATA = {
       "fillBlanks": []
     },
     {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-51",
-      "sequence": 482,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 51,
-      "sourceNo": 68,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "在探索中国社会主义建设道路过程中，毛泽东提出了关于社会主义发展阶段的思想，下列说法正确的有（）。",
-      "answerRaw": "B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "可能分为两个阶段，第一个阶段是社会主义初级阶段，第二个阶段是社会主义高级阶段"
-        },
-        {
-          "key": "B",
-          "text": "可能分为两个阶段，第一个阶段是不发达的社会主义，第二个阶段是比较发达的社会主义"
-        },
-        {
-          "key": "C",
-          "text": "后一阶段可能比前一阶段需要更长的时间"
-        },
-        {
-          "key": "D",
-          "text": "经过后一阶段，到了物质产品、精神财富都极为丰富和人们的共产主义觉悟极大提高的时候，就可以进入共产主义社会了"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-52",
-      "sequence": 483,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 52,
-      "sourceNo": 69,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "20世纪70年代前期，毛泽东针对当时国际形势的变化逐渐形成了关于“三个世界划分”的战略思想。他认为（）。",
-      "answerRaw": "B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "以美国为首的西方发达资本主义国家属于第一世界"
-        },
-        {
-          "key": "B",
-          "text": "苏美两个超级大国属于第一世界"
-        },
-        {
-          "key": "C",
-          "text": "亚洲、非洲、拉丁美洲的广大发展中国家属于第三世界"
-        },
-        {
-          "key": "D",
-          "text": "我们的主要任务是反对超级大国的霸权主义和战争威胁"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-53",
-      "sequence": 484,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 53,
-      "sourceNo": 71,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东提出探索马克思主义同中国实际即社会主义建设实际的“第二次结合”，说明中国共产党（）。",
-      "answerRaw": "A;B",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "开始探索适合中国特点的社会主义建设道路"
-        },
-        {
-          "key": "B",
-          "text": "开始摆脱单一的苏联模式"
-        },
-        {
-          "key": "C",
-          "text": "开始重新认识“什么是社会主义，怎样建设社会主义”"
-        },
-        {
-          "key": "D",
-          "text": "开始进行改革开放的事业"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-54",
-      "sequence": 485,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 54,
-      "sourceNo": 72,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东在《关于正确处理人民内部矛盾的问题》系统论述了社会主义社会矛盾的理论。关于社会主义社会矛盾，毛泽东指出（）。",
-      "answerRaw": "A;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "矛盾是普遍存在的，社会主义社会同样充满着矛盾"
-        },
-        {
-          "key": "B",
-          "text": "社会主义社会的基本矛盾仍然是生产关系和生产力之间、上层建筑和经济基础之间的矛盾，它同旧社会的基本矛盾性质是一样的"
-        },
-        {
-          "key": "C",
-          "text": "社会主义社会的矛盾反映在政治上可以划分为敌我矛盾和人民内部矛盾这两类性质完全不同的矛盾，正确处理人民内部矛盾是国家政治生活的主题"
-        },
-        {
-          "key": "D",
-          "text": "社会主义社会的基本矛盾可以通过社会主义制度本身的自我调整和自我完善得到解决"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-55",
-      "sequence": 486,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 55,
-      "sourceNo": 73,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "以毛泽东为核心的第一代中央领导集体在创建新中国和探索适合中国情况的社会主义建设道路过程中，形成了一系列重要的理论，主要有（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "在社会主义经济建设方面，实行以农业为基础、以工业为主导的方针，以农、轻、重为序发展国民经济"
-        },
-        {
-          "key": "B",
-          "text": "社会主义可以分为不发达的社会主义和比较发达的社会主义两个阶段，后一阶段可能比前阶段需要更长的时间"
-        },
-        {
-          "key": "C",
-          "text": "提出“四个现代化”战略目标，把中国建设成为一个具有现代农业、现代工业、现代国防和现代科学技术的强国"
-        },
-        {
-          "key": "D",
-          "text": "发展面向现代化、面向世界、面向未来的，民族的科学的大众的社会主义文化"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-56",
-      "sequence": 487,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 56,
-      "sourceNo": 74,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东强调，关于正确处理人民内部矛盾的问题是社会主义国家政治生活的主题。这一论断的着眼点在于（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "调动一切积极因素"
-        },
-        {
-          "key": "B",
-          "text": "团结一切可以团结的力量"
-        },
-        {
-          "key": "C",
-          "text": "把全党的注意力转到社会主义建设上来"
-        },
-        {
-          "key": "D",
-          "text": "以阶级斗争为纲"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-57",
-      "sequence": 488,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 57,
-      "sourceNo": 75,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义建设道路初步探索的正反两方面经验，为今天坚持和发展中国特色社会主义提供了重要借鉴，要正确认识改革开放前和改革开放后后两个历史时期的关系，应把握的观点包括（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "改革开放前的社会主义实践探索为改革开放后的社会主义实践探索积累了经验并准备了条件"
-        },
-        {
-          "key": "B",
-          "text": "改革开放后的社会主义实践探索是对前一个时期探索的坚持、改革、发展"
-        },
-        {
-          "key": "C",
-          "text": "这是两个相互联系又有重大区别的时期"
-        },
-        {
-          "key": "D",
-          "text": "这两个时期本质上都是中国共产党领导人民进行社会主义建设的实践探索"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-58",
-      "sequence": 489,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 58,
-      "sourceNo": 77,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东在《关于正确处理人民内部矛盾的问题》中指出，中国共产党和民主党派之间实行“长期共存，互相监督”的方针的两个前提是（）。",
-      "answerRaw": "A;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "坚持共产党的领导"
-        },
-        {
-          "key": "B",
-          "text": "坚持马克思主义"
-        },
-        {
-          "key": "C",
-          "text": "坚持人民民主专政"
-        },
-        {
-          "key": "D",
-          "text": "坚持社会主义道路"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-59",
-      "sequence": 490,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 59,
-      "sourceNo": 78,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "中国共产党第一代领导集体对社会主义建设道路的初步探索丰富了科学社会主义的理论和实践，探索的成就表明（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "社会主义建设没有一个固定不变的模式"
-        },
-        {
-          "key": "B",
-          "text": "各个国家应该根据自己的国情，独立自主地选择适合自己的发展道路"
-        },
-        {
-          "key": "C",
-          "text": "为其他国家的社会主义建设提供了经验和借鉴"
-        },
-        {
-          "key": "D",
-          "text": "产生了极“左”路线的指导思想"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-60",
-      "sequence": 491,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 60,
-      "sourceNo": 80,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "《论十大关系》确定了一个基本方针，就是“努力把（）的一切积极的因素，直接的、间接的积极因素，全部调动起来”，为社会主义建设服务。",
-      "answerRaw": "A;B",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "党内党外"
-        },
-        {
-          "key": "B",
-          "text": "国内国外"
-        },
-        {
-          "key": "C",
-          "text": "偶然的"
-        },
-        {
-          "key": "D",
-          "text": "必然的"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-61",
-      "sequence": 492,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 61,
-      "sourceNo": 83,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "20世纪50年代末60年代初，党在探索社会主义建设道路过程中，提出了一系列重要思想理论观点。主要有（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "既反保守又反冒进、在综合平衡中稳步前进的方针"
-        },
-        {
-          "key": "B",
-          "text": "社会主义可以区分为“不发达的社会主义”和“比较发达的社会主义”两个阶段"
-        },
-        {
-          "key": "C",
-          "text": "发展商品生产、利用价值规律的思想"
-        },
-        {
-          "key": "D",
-          "text": "“三个主体，三个补充”的思想"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-62",
-      "sequence": 493,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 62,
-      "sourceNo": 84,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党在探索社会主义建设道路过程中，提出了许多重要思想理论观点，其中陈云提出了“三个主体，三个补充”的思想，其主要内容为（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "在工商业经营方面，国家经济和集体经济是主体，个体经济是补充"
-        },
-        {
-          "key": "B",
-          "text": "在生产计划方面，计划生产是主体，自由生产是补充"
-        },
-        {
-          "key": "C",
-          "text": "在市场方面，国家市场是主体，自由市场是补充"
-        },
-        {
-          "key": "D",
-          "text": "在经济体制方面，计划经济是主体，市场经济为补充"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-63",
-      "sequence": 494,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 63,
-      "sourceNo": 85,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "在社会主义改造基本完成后，在各个方面正确处理人民内部矛盾的具体方针是（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "经济上实行“统筹兼顾，适当安排”"
-        },
-        {
-          "key": "B",
-          "text": "政治上实行“团结——批评——团结”"
-        },
-        {
-          "key": "C",
-          "text": "科学文化上实行“百花齐放，百家争鸣”"
-        },
-        {
-          "key": "D",
-          "text": "共产党和各民主党派关系上实行“长期共存，互相监督”"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-64",
-      "sequence": 495,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 64,
-      "sourceNo": 86,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "20世纪50年代末60年代初，党在探索社会主义建设道路过程中，还提出了其他一些重要的思想理论观点。关于所有制结构的调整与经济体制和运行机制改革，下列表述正确的有（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "把资本主义经济作为社会主义经济的补充"
-        },
-        {
-          "key": "B",
-          "text": "提出了“三个主体，三个补充”的设想"
-        },
-        {
-          "key": "C",
-          "text": "提出了使社会主义经济既有计划性又有多样性和灵活性的主张"
-        },
-        {
-          "key": "D",
-          "text": "关于整顿工业企业，提出了“两参一改三结合”"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-65",
-      "sequence": 496,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 65,
-      "sourceNo": 87,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义制度建立以后，党领导人民巩固和发展社会主义制度所面对的严峻复杂的国内外形势有（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "人口多、底子薄、经济文化比较落后"
-        },
-        {
-          "key": "B",
-          "text": "社会主义建设的任务艰巨繁重"
-        },
-        {
-          "key": "C",
-          "text": "以美国为首的西方国家对中国采取敌视政策"
-        },
-        {
-          "key": "D",
-          "text": "西方国家对中国进行封锁和遏制，企图颠覆社会主义制度"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-66",
-      "sequence": 497,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 66,
-      "sourceNo": 88,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义要体现出相对于资本主义的优势并最终战胜资本主义，必须大胆借鉴和吸收包括资本主义文明在内的一切人类文明成果，关于这一理念，在新中国成立后，毛泽东曾多次指出（）。",
-      "answerRaw": "A;B;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "要在平等的基础上开展同一切国家的经济技术交流"
-        },
-        {
-          "key": "B",
-          "text": "同一些资本主义国家发展经济贸易关系"
-        },
-        {
-          "key": "C",
-          "text": "坚决不同资本主义国家发展经济贸易关系"
-        },
-        {
-          "key": "D",
-          "text": "要学习一切国家和民族的长处"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-67",
-      "sequence": 498,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 67,
-      "sourceNo": 89,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "新中国成立初期，我国主要是学习苏联经验，但实践表明，（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "照抄照搬苏联经验不符合中国国情"
-        },
-        {
-          "key": "B",
-          "text": "仍需要实现马克思主义与中国实际的“第二次结合”"
-        },
-        {
-          "key": "C",
-          "text": "需要积极探索适合中国特点的社会主义建设道路"
-        },
-        {
-          "key": "D",
-          "text": "苏联经验是完全错误的"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-68",
-      "sequence": 499,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 68,
-      "sourceNo": 91,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东在《关于正确处理人民内部矛盾》中系统阐述的社会主义社会基本矛盾的理论的基本观点是（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "社会主义社会的基本矛盾可以通过社会主义制度本身不断地得到解决"
-        },
-        {
-          "key": "B",
-          "text": "社会主义社会基本矛盾是在人民利益根本一致基础上的非对抗性矛盾"
-        },
-        {
-          "key": "C",
-          "text": "社会主义社会的基本矛盾具有基本适应、部分不适应的特点，又统一又斗争，推动社会主义不断完善巩固"
-        },
-        {
-          "key": "D",
-          "text": "社会主义社会的基本矛盾仍然是生产关系和生产力，上层建筑和经济基础之间的矛盾"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-69",
-      "sequence": 500,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 69,
-      "sourceNo": 92,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东在“走中国工业化道路”的思想中，提出一整套“两条腿走路”的工业化发展思路，即（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "重工业和轻工业同时并举"
-        },
-        {
-          "key": "B",
-          "text": "中央工业和地方工业同时并举"
-        },
-        {
-          "key": "C",
-          "text": "沿海工业与内地工业同时并举"
-        },
-        {
-          "key": "D",
-          "text": "大型企业和小型企业同时并举"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-70",
-      "sequence": 501,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 70,
-      "sourceNo": 93,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东指出，敌我矛盾和人民内部矛盾的性质和解决方法分别是（）。",
-      "answerRaw": "B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "前者是分清是非的问题，后者是分清敌我的问题"
-        },
-        {
-          "key": "B",
-          "text": "前者是分清敌我的问题，后者是分清是非的问题"
-        },
-        {
-          "key": "C",
-          "text": "前者采用专政方法，后者采用民主方法"
-        },
-        {
-          "key": "D",
-          "text": "前者采用民主方法，后者采用专政方法"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-71",
-      "sequence": 502,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 71,
-      "sourceNo": 96,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "集中体现毛泽东在探索中国社会主义建设道路时期所取得的理论成果的著作有（）。",
-      "answerRaw": "B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "《论人民民主专政》"
-        },
-        {
-          "key": "B",
-          "text": "《论十大关系》"
-        },
-        {
-          "key": "C",
-          "text": "《关于正确处理人民内部的矛盾》"
-        },
-        {
-          "key": "D",
-          "text": "《把我国建设成为社会主义的现代化强国》"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-72",
-      "sequence": 503,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 72,
-      "sourceNo": 97,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "在探索中国社会主义建设道路时期，党的八大提出了一系列重要观点，主要包括（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "国内主要矛盾是人民对于经济文化迅速发展的需要同当前经济文化不能满足人民需要的状况之间的矛盾"
-        },
-        {
-          "key": "B",
-          "text": "党和国家工作重点应转向社会主义建设"
-        },
-        {
-          "key": "C",
-          "text": "必须坚持民主集中制和集体领导制度"
-        },
-        {
-          "key": "D",
-          "text": "共产主义即将在中国实现"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-73",
-      "sequence": 504,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 73,
-      "sourceNo": 98,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "关于社会主义社会基本矛盾的特点，正确的表述是（）。",
-      "answerRaw": "A;B;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "生产关系与生产力既相适应又相矛盾"
-        },
-        {
-          "key": "B",
-          "text": "属于非对抗性矛盾"
-        },
-        {
-          "key": "C",
-          "text": "必须通过革命手段解决"
-        },
-        {
-          "key": "D",
-          "text": "可以通过社会主义制度自我完善解决"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-74",
-      "sequence": 505,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 74,
-      "sourceNo": 99,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东在《关于正确处理人民内部矛盾的问题》中强调，在我们面前有两类社会矛盾，这就是（）。",
-      "answerRaw": "C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "生产关系和生产力的矛盾"
-        },
-        {
-          "key": "B",
-          "text": "上层建筑和经济基础之间的矛盾"
-        },
-        {
-          "key": "C",
-          "text": "敌我矛盾"
-        },
-        {
-          "key": "D",
-          "text": "人民内部矛盾"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-75",
-      "sequence": 506,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 75,
-      "sourceNo": 101,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "关于社会主义社会两类不同性质的矛盾。下列属于人民内部矛盾的有（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "工人阶级和其他劳动人民同民族资产阶级的矛盾"
-        },
-        {
-          "key": "B",
-          "text": "政府和人民群众之间的矛盾"
-        },
-        {
-          "key": "C",
-          "text": "领导同被领导之间的矛盾"
-        },
-        {
-          "key": "D",
-          "text": "国家机关某些工作人员的官僚主义作风同群众之间的矛盾"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-76",
-      "sequence": 507,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 76,
-      "sourceNo": 103,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "在社会主义社会，关于两类不同性质的矛盾的观点，错误的有（）。",
-      "answerRaw": "A;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "敌我矛盾居于主导地位"
-        },
-        {
-          "key": "B",
-          "text": "人民内部矛盾居于主导地位"
-        },
-        {
-          "key": "C",
-          "text": "敌我矛盾和人民内部矛盾都居于主导地位"
-        },
-        {
-          "key": "D",
-          "text": "敌我矛盾和人民内部矛盾都居于次要地位"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-77",
-      "sequence": 508,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 77,
-      "sourceNo": 105,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "周恩来在三届全国人大一次会议上提出了“四个现代化”的战略步骤，其内容是（）。",
-      "answerRaw": "A;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "第一步，建成一个独立的比较完整的工业体系和国民经济体系"
-        },
-        {
-          "key": "B",
-          "text": "第一步，使中国逐步由农业国转变为工业国"
-        },
-        {
-          "key": "C",
-          "text": "第二步，全面实现工业、农业、国防和科学技术现代化，使中国走在世界前列"
-        },
-        {
-          "key": "D",
-          "text": "第二步，到本世纪末全面实现现代化，人民生活达到小康水平"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-78",
-      "sequence": 509,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 78,
-      "sourceNo": 106,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党在探索中国社会主义建设道路时期，关于教育工作，毛泽东提出了我国的教育方针，要求使受教育者在（）方面都得到发展。",
-      "answerRaw": "A;B;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "体育"
-        },
-        {
-          "key": "B",
-          "text": "德育"
-        },
-        {
-          "key": "C",
-          "text": "美育"
-        },
-        {
-          "key": "D",
-          "text": "智育"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-79",
-      "sequence": 510,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 79,
-      "sourceNo": 107,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "在探索中国社会主义建设道路过程中，毛泽东提出社会主义阶段，又可能分为（）两个阶段。",
-      "answerRaw": "A;B",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "不发达的社会主义"
-        },
-        {
-          "key": "B",
-          "text": "比较发达的社会主义"
-        },
-        {
-          "key": "C",
-          "text": "一般发达的社会主义"
-        },
-        {
-          "key": "D",
-          "text": "极度发达的社会主义"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-80",
-      "sequence": 511,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 80,
-      "sourceNo": 108,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "1964年底，周恩来在三届全国人大一次会议上所作的政府工作报告中正式宣布，“把我国建设成为一个具有（）的社会主义强国”。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "现代农业"
-        },
-        {
-          "key": "B",
-          "text": "现代工业"
-        },
-        {
-          "key": "C",
-          "text": "现代国防"
-        },
-        {
-          "key": "D",
-          "text": "现代科学技术"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-81",
-      "sequence": 512,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 81,
-      "sourceNo": 110,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党在探索中国社会主义建设道路时期，毛泽东提出的中国工业化道路的特点包括（）。",
-      "answerRaw": "B;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "以重工业为中心"
-        },
-        {
-          "key": "B",
-          "text": "农、轻、重协调发展"
-        },
-        {
-          "key": "C",
-          "text": "完全依赖苏联援助"
-        },
-        {
-          "key": "D",
-          "text": "兼顾生产与人民生活"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-82",
-      "sequence": 513,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 82,
-      "sourceNo": 111,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党在探索中国社会主义建设道路时期，在知识分子工作方面，毛泽东提出的观点有（）。",
-      "answerRaw": "A;B;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "知识分子是工人阶级的一部分"
-        },
-        {
-          "key": "B",
-          "text": "知识分子需要与工农结合"
-        },
-        {
-          "key": "C",
-          "text": "完全信任并依赖旧社会知识分子"
-        },
-        {
-          "key": "D",
-          "text": "必须培养无产阶级自己的知识分子队伍"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-83",
-      "sequence": 514,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 83,
-      "sourceNo": 113,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东认为，社会主义建设中的积极因素与消极因素是一对矛盾，这一矛盾呈现出既统一又斗争的关系。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-84",
-      "sequence": 515,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 84,
-      "sourceNo": 114,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "调动一切积极因素为社会主义事业服务，必须发展社会主义民主政治。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-85",
-      "sequence": 516,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 85,
-      "sourceNo": 116,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "由于社会主义制度刚刚建立，需要有一个不断完善和巩固的过程，在这种情况下，大量人民内部矛盾逐步成为国家政治生活中居于主导地位的矛盾。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-86",
-      "sequence": 517,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 86,
-      "sourceNo": 117,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "在全党和全国工作重心由革命转向建设的时候，面临着一个如何认识和处理社会主义社会矛盾的问题。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-87",
-      "sequence": 518,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 87,
-      "sourceNo": 119,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义制度建立以后，如何巩固和发展社会主义制度是我们党必须认真研究和解决的一个重大课题。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-88",
-      "sequence": 519,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 88,
-      "sourceNo": 121,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "改革开放以后，我们要吸取经验教训，应当全盘否定改革开放前社会主义实践探索的历史时期，推进我国改革开放进程不断向前发展。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-89",
-      "sequence": 520,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 89,
-      "sourceNo": 122,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "1959年底至1960年初，毛泽东在探索中国社会主义建设道路过程中指出，社会主义发展阶段要经历一个从社会主义社会向共产主义社会转变的阶段。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-90",
-      "sequence": 521,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 90,
-      "sourceNo": 123,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东在《关于正确处理人民内部的矛盾》中指出，处理人民内部矛盾的性质关键是要分清是非问题，并且要以民主的方法来解决人民内部矛盾。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-91",
-      "sequence": 522,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 91,
-      "sourceNo": 124,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东在《关于正确处理人民内部矛盾的问题》中指出中国工业化道路要照搬苏联模式，这符合我国社会主义初步探索时期的基本国情。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-92",
-      "sequence": 523,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 92,
-      "sourceNo": 125,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "在如何处理人民内部矛盾问题上，毛泽东提出了要实行“团结—批评—团结”的方针，坚持说服教育、讨论的方法处理政治思想领域的人民内部矛盾。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-93",
-      "sequence": 524,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 93,
-      "sourceNo": 126,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "一般情况下，人民内部矛盾不是对抗性的，但如果处理不当，也可能发生对抗。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-94",
-      "sequence": 525,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 94,
-      "sourceNo": 127,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东在《论十大关系》中明确提出要以苏为鉴，独立自主地探索适合中国情况的社会主义建设道路。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-95",
-      "sequence": 526,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 95,
-      "sourceNo": 129,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "1957年，毛泽东在所作的《论十大关系》报告中，明确提出了社会主义现代化的战略目标。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-96",
-      "sequence": 527,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 96,
-      "sourceNo": 131,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "“四个现代化”战略目标是指把中国建设成为一个具有现代农业、现代工业、现代国防和现代科学技术的社会主义强国。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-97",
-      "sequence": 528,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 97,
-      "sourceNo": 132,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东在《论十大关系》中提出处理共产党和民主党派关系的方针是长期共存、互相监督、肝胆相照、荣辱与共。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-98",
-      "sequence": 529,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 98,
-      "sourceNo": 133,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东提出了以农业为基础，工业为主导，以农轻重为序发展国民经济的总方针。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-99",
-      "sequence": 530,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 99,
-      "sourceNo": 134,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的八大提出了既反保守又反冒进、大干快上的总方针。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-100",
-      "sequence": 531,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 100,
-      "sourceNo": 135,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "走中国工业化道路，必须重视知识分子工作。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-101",
-      "sequence": 532,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 101,
-      "sourceNo": 136,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "“三线建设”，是20世纪60-70年代我国以加强经济为中心的战略大后方建设。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-102",
-      "sequence": 533,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 102,
-      "sourceNo": 138,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "新中国成立初期，我国主要是学习苏联经验，这在当时是必要的，也取得了一定的成效，这证明，照搬照抄苏联模式符合中国国情。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-103",
-      "sequence": 534,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 103,
-      "sourceNo": 139,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义代替资本主义，并不意味着社会主义要全盘否定和抛弃资本主义创造的一切成果，也并不意味着社会主义不同资本主义发生任何联系。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-104",
-      "sequence": 535,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 104,
-      "sourceNo": 142,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "《论十大关系》中提出的十大关系不包括汉族与少数民族的关系。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-105",
-      "sequence": 536,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 105,
-      "sourceNo": 143,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义改造完成后，毛泽东提出中国工业化道路应优先发展重工业，同时注重农业和轻工业的协调发展。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-106",
-      "sequence": 537,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 106,
-      "sourceNo": 144,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东在《论十大关系》中强调，学习外国经验时必须坚持“一切民族、一切国家的长处都要学”。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-107",
-      "sequence": 538,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 107,
-      "sourceNo": 146,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东指出：对于建设社会主义的规律的认识，必须有一个过程。必须从建设社会主义这个未被认识的必然王国，到逐步地克服盲目性、认识客观规律、从而获得自由，在认识上出现一个飞跃，到达( )。",
-      "answerRaw": "自由王国",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "自由王国"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-108",
-      "sequence": 539,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 108,
-      "sourceNo": 147,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东在《关于正确处理人民内部矛盾的问题》中提出，社会主义社会的基本矛盾仍然是( )、( )之间的矛盾。",
-      "answerRaw": "生产关系和生产力;上层建筑和经济基础",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "生产关系和生产力"
-          ]
-        },
-        {
-          "acceptedAnswers": [
-            "上层建筑和经济基础"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-109",
-      "sequence": 540,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 109,
-      "sourceNo": 149,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义建设道路初步探索时期，毛泽东提出了发展商品生产、( )的思想，认为商品生产在社会主义条件下，还是一个不可缺少的、有利的工具，要有计划地大大地发展社会主义的商品生产。",
-      "answerRaw": "利用价值规律",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "利用价值规律"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-110",
-      "sequence": 541,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 110,
-      "sourceNo": 150,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "标志着党探索中国社会主义建设道路的良好开端的是 ( )的发表。",
-      "answerRaw": "论十大关系//《论十大关系》",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "论十大关系",
-            "《论十大关系》"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-111",
-      "sequence": 542,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 111,
-      "sourceNo": 152,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东指出，正确解决人民内部矛盾的总方针是( )的方法。",
-      "answerRaw": "民主",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "民主"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-112",
-      "sequence": 543,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 112,
-      "sourceNo": 154,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "《论十大关系》中提出的经济建设方针强调要处理好( )、国家与生产单位、中央与地方等十大关系。",
-      "answerRaw": "沿海工业与内地工业",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "沿海工业与内地工业"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-113",
-      "sequence": 544,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 113,
-      "sourceNo": 155,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义社会的基本矛盾是生产力和生产关系、经济基础和上层建筑之间的矛盾，其特点是既( )又相矛盾。",
-      "answerRaw": "相适应",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "相适应"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-114",
-      "sequence": 545,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 114,
-      "sourceNo": 157,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "在工业化道路探索中，毛泽东提出以( )为序，注重农业、轻工业和重工业的协调发展。",
-      "answerRaw": "农轻重",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "农轻重"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-115",
-      "sequence": 546,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 115,
-      "sourceNo": 158,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党在初步探索中提出的( )方针，主张重工业和轻工业同时并举，中央工业和地方工业、大型企业和中小型企业同时并举等。",
-      "answerRaw": "两条腿走路",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "两条腿走路"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-116",
-      "sequence": 547,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 116,
-      "sourceNo": 160,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "初步探索的经验教训指出，必须坚持( )制度，防止个人专断和权力集中。",
-      "answerRaw": "民主集中制",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "民主集中制"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-117",
-      "sequence": 548,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 117,
-      "sourceNo": 161,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义建设初期，由于忽视( )，导致经济政策缺乏科学论证和实际效果。",
-      "answerRaw": "经济规律",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "经济规律"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-118",
-      "sequence": 549,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 118,
-      "sourceNo": 162,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党在探索中认识到，必须正确区分社会主义社会的( )和根本任务，即人民需要与落后生产的矛盾。",
-      "answerRaw": "主要矛盾",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "主要矛盾"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-119",
-      "sequence": 550,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 119,
-      "sourceNo": 163,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东提出的( )思想，强调要团结国内外一切积极力量为社会主义建设服务。",
-      "answerRaw": "调动一切积极因素",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "调动一切积极因素"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-120",
-      "sequence": 551,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 120,
-      "sourceNo": 164,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "初步探索时期形成的独立工业体系和国民经济体系，为改革开放提供了重要的( )基础。",
-      "answerRaw": "物质技术",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "物质技术"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-121",
-      "sequence": 552,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 121,
-      "sourceNo": 166,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "简述毛泽东关于正确处理两类社会矛盾的思想。",
-      "answerRaw": "两类不同性质的矛盾为:敌我矛盾和人民内部矛盾。(1)对敌我矛盾:采用专政方法，运用人民民主专政的国家机器，对于国家内部那些反抗社会主义改造、破坏社会主义建设的敌对分子和严重犯罪分子依法治罪，剥夺他们的政治权利，强迫他们从事劳动，并在劳动中尽量使他们改造成为新人。(2)对人民内部矛盾:采用民主方法，就是讨论的方法、批评的方法、说服教育的方法。这是解决人民内部矛盾的总方针。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-122",
-      "sequence": 553,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 122,
-      "sourceNo": 167,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "简述党对社会主义建设道路初步探索的意义。",
-      "answerRaw": "第一，巩固和发展了我国的社会主义制度；第二，为开创中国特色社会主义提供了宝贵经验、理论准备、物质基础；第三，丰富了科学社会主义的理论和实践。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-123",
-      "sequence": 554,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 123,
-      "sourceNo": 168,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "简述党对社会主义建设道路初步探索的经验教训。",
-      "answerRaw": "第一，必须把马克思主义与中国实际相结合，探索符合中国特点的社会主义建设道路;第二，必须正确认识社会主义社会的主要矛盾和根本任务，集中力量发展生产力;第三，必须从实际出发进行社会主义建设，建设规模和速度要和国力相适应，不能急于求成;第四，必须发展社会主义民主，健全社会主义法制;第五，必须坚持党的民主集中制和集体领导制度，加强执政党建设;第六，必须坚持对外开放，借鉴和吸收人类文明成果建设社会主义，不能关起门来搞建设。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-124",
-      "sequence": 555,
-      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 124,
-      "sourceNo": 169,
-      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
-      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "请结合毛泽东《论十大关系》的核心思想，论述社会主义建设初期党在经济建设领域提出的“统筹兼顾”原则及其现实启示。",
-      "answerRaw": "一、统筹兼顾原则的内涵1.提出背景：苏联模式片面发展重工业、忽视综合平衡。2.核心内容：推动农业、轻工业与重工业协调发展；平衡中央与地方权力，调动地方积极性；优化沿海与内地工业布局，促进资源合理配置。二、现实启示1.区域协调发展：新时代坚持“京津冀协同发展”“西部大开发”等战略，缩小区域差距。2.产业结构优化：深化供给侧结构性改革，推动传统产业升级与新兴产业发展并重。3.体制机制创新：完善社会主义市场经济体制，激发政府、企业、社会多元主体活力，实现效率与公平统一。“统筹兼顾”原则体现了党对经济规律的深刻认识，为新时代贯彻新发展理念、构建新发展格局提供了历史经验。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-125",
-      "sequence": 556,
+      "sequence": 482,
       "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 125,
@@ -20050,7 +17862,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-126",
-      "sequence": 557,
+      "sequence": 483,
       "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 126,
@@ -20091,7 +17903,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-127",
-      "sequence": 558,
+      "sequence": 484,
       "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 127,
@@ -20132,7 +17944,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-128",
-      "sequence": 559,
+      "sequence": 485,
       "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 128,
@@ -20173,7 +17985,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-129",
-      "sequence": 560,
+      "sequence": 486,
       "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 129,
@@ -20210,6 +18022,2194 @@ window.QUESTION_BANK_DATA = {
           "text": "开展反对官僚主义的斗争"
         }
       ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-51",
+      "sequence": 487,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 51,
+      "sourceNo": 68,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "在探索中国社会主义建设道路过程中，毛泽东提出了关于社会主义发展阶段的思想，下列说法正确的有（）。",
+      "answerRaw": "B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "可能分为两个阶段，第一个阶段是社会主义初级阶段，第二个阶段是社会主义高级阶段"
+        },
+        {
+          "key": "B",
+          "text": "可能分为两个阶段，第一个阶段是不发达的社会主义，第二个阶段是比较发达的社会主义"
+        },
+        {
+          "key": "C",
+          "text": "后一阶段可能比前一阶段需要更长的时间"
+        },
+        {
+          "key": "D",
+          "text": "经过后一阶段，到了物质产品、精神财富都极为丰富和人们的共产主义觉悟极大提高的时候，就可以进入共产主义社会了"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-52",
+      "sequence": 488,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 52,
+      "sourceNo": 69,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "20世纪70年代前期，毛泽东针对当时国际形势的变化逐渐形成了关于“三个世界划分”的战略思想。他认为（）。",
+      "answerRaw": "B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "以美国为首的西方发达资本主义国家属于第一世界"
+        },
+        {
+          "key": "B",
+          "text": "苏美两个超级大国属于第一世界"
+        },
+        {
+          "key": "C",
+          "text": "亚洲、非洲、拉丁美洲的广大发展中国家属于第三世界"
+        },
+        {
+          "key": "D",
+          "text": "我们的主要任务是反对超级大国的霸权主义和战争威胁"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-53",
+      "sequence": 489,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 53,
+      "sourceNo": 71,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东提出探索马克思主义同中国实际即社会主义建设实际的“第二次结合”，说明中国共产党（）。",
+      "answerRaw": "A;B",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "开始探索适合中国特点的社会主义建设道路"
+        },
+        {
+          "key": "B",
+          "text": "开始摆脱单一的苏联模式"
+        },
+        {
+          "key": "C",
+          "text": "开始重新认识“什么是社会主义，怎样建设社会主义”"
+        },
+        {
+          "key": "D",
+          "text": "开始进行改革开放的事业"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-54",
+      "sequence": 490,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 54,
+      "sourceNo": 72,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东在《关于正确处理人民内部矛盾的问题》系统论述了社会主义社会矛盾的理论。关于社会主义社会矛盾，毛泽东指出（）。",
+      "answerRaw": "A;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "矛盾是普遍存在的，社会主义社会同样充满着矛盾"
+        },
+        {
+          "key": "B",
+          "text": "社会主义社会的基本矛盾仍然是生产关系和生产力之间、上层建筑和经济基础之间的矛盾，它同旧社会的基本矛盾性质是一样的"
+        },
+        {
+          "key": "C",
+          "text": "社会主义社会的矛盾反映在政治上可以划分为敌我矛盾和人民内部矛盾这两类性质完全不同的矛盾，正确处理人民内部矛盾是国家政治生活的主题"
+        },
+        {
+          "key": "D",
+          "text": "社会主义社会的基本矛盾可以通过社会主义制度本身的自我调整和自我完善得到解决"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-55",
+      "sequence": 491,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 55,
+      "sourceNo": 73,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "以毛泽东为核心的第一代中央领导集体在创建新中国和探索适合中国情况的社会主义建设道路过程中，形成了一系列重要的理论，主要有（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "在社会主义经济建设方面，实行以农业为基础、以工业为主导的方针，以农、轻、重为序发展国民经济"
+        },
+        {
+          "key": "B",
+          "text": "社会主义可以分为不发达的社会主义和比较发达的社会主义两个阶段，后一阶段可能比前阶段需要更长的时间"
+        },
+        {
+          "key": "C",
+          "text": "提出“四个现代化”战略目标，把中国建设成为一个具有现代农业、现代工业、现代国防和现代科学技术的强国"
+        },
+        {
+          "key": "D",
+          "text": "发展面向现代化、面向世界、面向未来的，民族的科学的大众的社会主义文化"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-56",
+      "sequence": 492,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 56,
+      "sourceNo": 74,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东强调，关于正确处理人民内部矛盾的问题是社会主义国家政治生活的主题。这一论断的着眼点在于（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "调动一切积极因素"
+        },
+        {
+          "key": "B",
+          "text": "团结一切可以团结的力量"
+        },
+        {
+          "key": "C",
+          "text": "把全党的注意力转到社会主义建设上来"
+        },
+        {
+          "key": "D",
+          "text": "以阶级斗争为纲"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-57",
+      "sequence": 493,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 57,
+      "sourceNo": 75,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义建设道路初步探索的正反两方面经验，为今天坚持和发展中国特色社会主义提供了重要借鉴，要正确认识改革开放前和改革开放后后两个历史时期的关系，应把握的观点包括（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "改革开放前的社会主义实践探索为改革开放后的社会主义实践探索积累了经验并准备了条件"
+        },
+        {
+          "key": "B",
+          "text": "改革开放后的社会主义实践探索是对前一个时期探索的坚持、改革、发展"
+        },
+        {
+          "key": "C",
+          "text": "这是两个相互联系又有重大区别的时期"
+        },
+        {
+          "key": "D",
+          "text": "这两个时期本质上都是中国共产党领导人民进行社会主义建设的实践探索"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-58",
+      "sequence": 494,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 58,
+      "sourceNo": 77,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东在《关于正确处理人民内部矛盾的问题》中指出，中国共产党和民主党派之间实行“长期共存，互相监督”的方针的两个前提是（）。",
+      "answerRaw": "A;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持共产党的领导"
+        },
+        {
+          "key": "B",
+          "text": "坚持马克思主义"
+        },
+        {
+          "key": "C",
+          "text": "坚持人民民主专政"
+        },
+        {
+          "key": "D",
+          "text": "坚持社会主义道路"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-59",
+      "sequence": 495,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 59,
+      "sourceNo": 78,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "中国共产党第一代领导集体对社会主义建设道路的初步探索丰富了科学社会主义的理论和实践，探索的成就表明（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会主义建设没有一个固定不变的模式"
+        },
+        {
+          "key": "B",
+          "text": "各个国家应该根据自己的国情，独立自主地选择适合自己的发展道路"
+        },
+        {
+          "key": "C",
+          "text": "为其他国家的社会主义建设提供了经验和借鉴"
+        },
+        {
+          "key": "D",
+          "text": "产生了极“左”路线的指导思想"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-60",
+      "sequence": 496,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 60,
+      "sourceNo": 80,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "《论十大关系》确定了一个基本方针，就是“努力把（）的一切积极的因素，直接的、间接的积极因素，全部调动起来”，为社会主义建设服务。",
+      "answerRaw": "A;B",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "党内党外"
+        },
+        {
+          "key": "B",
+          "text": "国内国外"
+        },
+        {
+          "key": "C",
+          "text": "偶然的"
+        },
+        {
+          "key": "D",
+          "text": "必然的"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-61",
+      "sequence": 497,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 61,
+      "sourceNo": 83,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "20世纪50年代末60年代初，党在探索社会主义建设道路过程中，提出了一系列重要思想理论观点。主要有（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "既反保守又反冒进、在综合平衡中稳步前进的方针"
+        },
+        {
+          "key": "B",
+          "text": "社会主义可以区分为“不发达的社会主义”和“比较发达的社会主义”两个阶段"
+        },
+        {
+          "key": "C",
+          "text": "发展商品生产、利用价值规律的思想"
+        },
+        {
+          "key": "D",
+          "text": "“三个主体，三个补充”的思想"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-62",
+      "sequence": 498,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 62,
+      "sourceNo": 84,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党在探索社会主义建设道路过程中，提出了许多重要思想理论观点，其中陈云提出了“三个主体，三个补充”的思想，其主要内容为（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "在工商业经营方面，国家经济和集体经济是主体，个体经济是补充"
+        },
+        {
+          "key": "B",
+          "text": "在生产计划方面，计划生产是主体，自由生产是补充"
+        },
+        {
+          "key": "C",
+          "text": "在市场方面，国家市场是主体，自由市场是补充"
+        },
+        {
+          "key": "D",
+          "text": "在经济体制方面，计划经济是主体，市场经济为补充"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-63",
+      "sequence": 499,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 63,
+      "sourceNo": 85,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "在社会主义改造基本完成后，在各个方面正确处理人民内部矛盾的具体方针是（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "经济上实行“统筹兼顾，适当安排”"
+        },
+        {
+          "key": "B",
+          "text": "政治上实行“团结——批评——团结”"
+        },
+        {
+          "key": "C",
+          "text": "科学文化上实行“百花齐放，百家争鸣”"
+        },
+        {
+          "key": "D",
+          "text": "共产党和各民主党派关系上实行“长期共存，互相监督”"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-64",
+      "sequence": 500,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 64,
+      "sourceNo": 86,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "20世纪50年代末60年代初，党在探索社会主义建设道路过程中，还提出了其他一些重要的思想理论观点。关于所有制结构的调整与经济体制和运行机制改革，下列表述正确的有（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "把资本主义经济作为社会主义经济的补充"
+        },
+        {
+          "key": "B",
+          "text": "提出了“三个主体，三个补充”的设想"
+        },
+        {
+          "key": "C",
+          "text": "提出了使社会主义经济既有计划性又有多样性和灵活性的主张"
+        },
+        {
+          "key": "D",
+          "text": "关于整顿工业企业，提出了“两参一改三结合”"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-65",
+      "sequence": 501,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 65,
+      "sourceNo": 87,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义制度建立以后，党领导人民巩固和发展社会主义制度所面对的严峻复杂的国内外形势有（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "人口多、底子薄、经济文化比较落后"
+        },
+        {
+          "key": "B",
+          "text": "社会主义建设的任务艰巨繁重"
+        },
+        {
+          "key": "C",
+          "text": "以美国为首的西方国家对中国采取敌视政策"
+        },
+        {
+          "key": "D",
+          "text": "西方国家对中国进行封锁和遏制，企图颠覆社会主义制度"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-66",
+      "sequence": 502,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 66,
+      "sourceNo": 88,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义要体现出相对于资本主义的优势并最终战胜资本主义，必须大胆借鉴和吸收包括资本主义文明在内的一切人类文明成果，关于这一理念，在新中国成立后，毛泽东曾多次指出（）。",
+      "answerRaw": "A;B;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "要在平等的基础上开展同一切国家的经济技术交流"
+        },
+        {
+          "key": "B",
+          "text": "同一些资本主义国家发展经济贸易关系"
+        },
+        {
+          "key": "C",
+          "text": "坚决不同资本主义国家发展经济贸易关系"
+        },
+        {
+          "key": "D",
+          "text": "要学习一切国家和民族的长处"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-67",
+      "sequence": 503,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 67,
+      "sourceNo": 89,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "新中国成立初期，我国主要是学习苏联经验，但实践表明，（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "照抄照搬苏联经验不符合中国国情"
+        },
+        {
+          "key": "B",
+          "text": "仍需要实现马克思主义与中国实际的“第二次结合”"
+        },
+        {
+          "key": "C",
+          "text": "需要积极探索适合中国特点的社会主义建设道路"
+        },
+        {
+          "key": "D",
+          "text": "苏联经验是完全错误的"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-68",
+      "sequence": 504,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 68,
+      "sourceNo": 91,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东在《关于正确处理人民内部矛盾》中系统阐述的社会主义社会基本矛盾的理论的基本观点是（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会主义社会的基本矛盾可以通过社会主义制度本身不断地得到解决"
+        },
+        {
+          "key": "B",
+          "text": "社会主义社会基本矛盾是在人民利益根本一致基础上的非对抗性矛盾"
+        },
+        {
+          "key": "C",
+          "text": "社会主义社会的基本矛盾具有基本适应、部分不适应的特点，又统一又斗争，推动社会主义不断完善巩固"
+        },
+        {
+          "key": "D",
+          "text": "社会主义社会的基本矛盾仍然是生产关系和生产力，上层建筑和经济基础之间的矛盾"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-69",
+      "sequence": 505,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 69,
+      "sourceNo": 92,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东在“走中国工业化道路”的思想中，提出一整套“两条腿走路”的工业化发展思路，即（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "重工业和轻工业同时并举"
+        },
+        {
+          "key": "B",
+          "text": "中央工业和地方工业同时并举"
+        },
+        {
+          "key": "C",
+          "text": "沿海工业与内地工业同时并举"
+        },
+        {
+          "key": "D",
+          "text": "大型企业和小型企业同时并举"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-70",
+      "sequence": 506,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 70,
+      "sourceNo": 93,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东指出，敌我矛盾和人民内部矛盾的性质和解决方法分别是（）。",
+      "answerRaw": "B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "前者是分清是非的问题，后者是分清敌我的问题"
+        },
+        {
+          "key": "B",
+          "text": "前者是分清敌我的问题，后者是分清是非的问题"
+        },
+        {
+          "key": "C",
+          "text": "前者采用专政方法，后者采用民主方法"
+        },
+        {
+          "key": "D",
+          "text": "前者采用民主方法，后者采用专政方法"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-71",
+      "sequence": 507,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 71,
+      "sourceNo": 96,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "集中体现毛泽东在探索中国社会主义建设道路时期所取得的理论成果的著作有（）。",
+      "answerRaw": "B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "《论人民民主专政》"
+        },
+        {
+          "key": "B",
+          "text": "《论十大关系》"
+        },
+        {
+          "key": "C",
+          "text": "《关于正确处理人民内部的矛盾》"
+        },
+        {
+          "key": "D",
+          "text": "《把我国建设成为社会主义的现代化强国》"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-72",
+      "sequence": 508,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 72,
+      "sourceNo": 97,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "在探索中国社会主义建设道路时期，党的八大提出了一系列重要观点，主要包括（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "国内主要矛盾是人民对于经济文化迅速发展的需要同当前经济文化不能满足人民需要的状况之间的矛盾"
+        },
+        {
+          "key": "B",
+          "text": "党和国家工作重点应转向社会主义建设"
+        },
+        {
+          "key": "C",
+          "text": "必须坚持民主集中制和集体领导制度"
+        },
+        {
+          "key": "D",
+          "text": "共产主义即将在中国实现"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-73",
+      "sequence": 509,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 73,
+      "sourceNo": 98,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "关于社会主义社会基本矛盾的特点，正确的表述是（）。",
+      "answerRaw": "A;B;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "生产关系与生产力既相适应又相矛盾"
+        },
+        {
+          "key": "B",
+          "text": "属于非对抗性矛盾"
+        },
+        {
+          "key": "C",
+          "text": "必须通过革命手段解决"
+        },
+        {
+          "key": "D",
+          "text": "可以通过社会主义制度自我完善解决"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-74",
+      "sequence": 510,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 74,
+      "sourceNo": 99,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东在《关于正确处理人民内部矛盾的问题》中强调，在我们面前有两类社会矛盾，这就是（）。",
+      "answerRaw": "C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "生产关系和生产力的矛盾"
+        },
+        {
+          "key": "B",
+          "text": "上层建筑和经济基础之间的矛盾"
+        },
+        {
+          "key": "C",
+          "text": "敌我矛盾"
+        },
+        {
+          "key": "D",
+          "text": "人民内部矛盾"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-75",
+      "sequence": 511,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 75,
+      "sourceNo": 101,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "关于社会主义社会两类不同性质的矛盾。下列属于人民内部矛盾的有（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "工人阶级和其他劳动人民同民族资产阶级的矛盾"
+        },
+        {
+          "key": "B",
+          "text": "政府和人民群众之间的矛盾"
+        },
+        {
+          "key": "C",
+          "text": "领导同被领导之间的矛盾"
+        },
+        {
+          "key": "D",
+          "text": "国家机关某些工作人员的官僚主义作风同群众之间的矛盾"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-76",
+      "sequence": 512,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 76,
+      "sourceNo": 103,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "在社会主义社会，关于两类不同性质的矛盾的观点，错误的有（）。",
+      "answerRaw": "A;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "敌我矛盾居于主导地位"
+        },
+        {
+          "key": "B",
+          "text": "人民内部矛盾居于主导地位"
+        },
+        {
+          "key": "C",
+          "text": "敌我矛盾和人民内部矛盾都居于主导地位"
+        },
+        {
+          "key": "D",
+          "text": "敌我矛盾和人民内部矛盾都居于次要地位"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-77",
+      "sequence": 513,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 77,
+      "sourceNo": 105,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "周恩来在三届全国人大一次会议上提出了“四个现代化”的战略步骤，其内容是（）。",
+      "answerRaw": "A;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "第一步，建成一个独立的比较完整的工业体系和国民经济体系"
+        },
+        {
+          "key": "B",
+          "text": "第一步，使中国逐步由农业国转变为工业国"
+        },
+        {
+          "key": "C",
+          "text": "第二步，全面实现工业、农业、国防和科学技术现代化，使中国走在世界前列"
+        },
+        {
+          "key": "D",
+          "text": "第二步，到本世纪末全面实现现代化，人民生活达到小康水平"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-78",
+      "sequence": 514,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 78,
+      "sourceNo": 106,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党在探索中国社会主义建设道路时期，关于教育工作，毛泽东提出了我国的教育方针，要求使受教育者在（）方面都得到发展。",
+      "answerRaw": "A;B;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "体育"
+        },
+        {
+          "key": "B",
+          "text": "德育"
+        },
+        {
+          "key": "C",
+          "text": "美育"
+        },
+        {
+          "key": "D",
+          "text": "智育"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-79",
+      "sequence": 515,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 79,
+      "sourceNo": 107,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "在探索中国社会主义建设道路过程中，毛泽东提出社会主义阶段，又可能分为（）两个阶段。",
+      "answerRaw": "A;B",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "不发达的社会主义"
+        },
+        {
+          "key": "B",
+          "text": "比较发达的社会主义"
+        },
+        {
+          "key": "C",
+          "text": "一般发达的社会主义"
+        },
+        {
+          "key": "D",
+          "text": "极度发达的社会主义"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-80",
+      "sequence": 516,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 80,
+      "sourceNo": 108,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "1964年底，周恩来在三届全国人大一次会议上所作的政府工作报告中正式宣布，“把我国建设成为一个具有（）的社会主义强国”。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "现代农业"
+        },
+        {
+          "key": "B",
+          "text": "现代工业"
+        },
+        {
+          "key": "C",
+          "text": "现代国防"
+        },
+        {
+          "key": "D",
+          "text": "现代科学技术"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-81",
+      "sequence": 517,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 81,
+      "sourceNo": 110,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党在探索中国社会主义建设道路时期，毛泽东提出的中国工业化道路的特点包括（）。",
+      "answerRaw": "B;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "以重工业为中心"
+        },
+        {
+          "key": "B",
+          "text": "农、轻、重协调发展"
+        },
+        {
+          "key": "C",
+          "text": "完全依赖苏联援助"
+        },
+        {
+          "key": "D",
+          "text": "兼顾生产与人民生活"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-82",
+      "sequence": 518,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 82,
+      "sourceNo": 111,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党在探索中国社会主义建设道路时期，在知识分子工作方面，毛泽东提出的观点有（）。",
+      "answerRaw": "A;B;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "知识分子是工人阶级的一部分"
+        },
+        {
+          "key": "B",
+          "text": "知识分子需要与工农结合"
+        },
+        {
+          "key": "C",
+          "text": "完全信任并依赖旧社会知识分子"
+        },
+        {
+          "key": "D",
+          "text": "必须培养无产阶级自己的知识分子队伍"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-83",
+      "sequence": 519,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 83,
+      "sourceNo": 113,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东认为，社会主义建设中的积极因素与消极因素是一对矛盾，这一矛盾呈现出既统一又斗争的关系。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-84",
+      "sequence": 520,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 84,
+      "sourceNo": 114,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "调动一切积极因素为社会主义事业服务，必须发展社会主义民主政治。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-85",
+      "sequence": 521,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 85,
+      "sourceNo": 116,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "由于社会主义制度刚刚建立，需要有一个不断完善和巩固的过程，在这种情况下，大量人民内部矛盾逐步成为国家政治生活中居于主导地位的矛盾。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-86",
+      "sequence": 522,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 86,
+      "sourceNo": 117,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "在全党和全国工作重心由革命转向建设的时候，面临着一个如何认识和处理社会主义社会矛盾的问题。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-87",
+      "sequence": 523,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 87,
+      "sourceNo": 119,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义制度建立以后，如何巩固和发展社会主义制度是我们党必须认真研究和解决的一个重大课题。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-88",
+      "sequence": 524,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 88,
+      "sourceNo": 121,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "改革开放以后，我们要吸取经验教训，应当全盘否定改革开放前社会主义实践探索的历史时期，推进我国改革开放进程不断向前发展。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-89",
+      "sequence": 525,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 89,
+      "sourceNo": 122,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "1959年底至1960年初，毛泽东在探索中国社会主义建设道路过程中指出，社会主义发展阶段要经历一个从社会主义社会向共产主义社会转变的阶段。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-90",
+      "sequence": 526,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 90,
+      "sourceNo": 123,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东在《关于正确处理人民内部的矛盾》中指出，处理人民内部矛盾的性质关键是要分清是非问题，并且要以民主的方法来解决人民内部矛盾。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-91",
+      "sequence": 527,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 91,
+      "sourceNo": 124,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东在《关于正确处理人民内部矛盾的问题》中指出中国工业化道路要照搬苏联模式，这符合我国社会主义初步探索时期的基本国情。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-92",
+      "sequence": 528,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 92,
+      "sourceNo": 125,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "在如何处理人民内部矛盾问题上，毛泽东提出了要实行“团结—批评—团结”的方针，坚持说服教育、讨论的方法处理政治思想领域的人民内部矛盾。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-93",
+      "sequence": 529,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 93,
+      "sourceNo": 126,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "一般情况下，人民内部矛盾不是对抗性的，但如果处理不当，也可能发生对抗。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-94",
+      "sequence": 530,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 94,
+      "sourceNo": 127,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东在《论十大关系》中明确提出要以苏为鉴，独立自主地探索适合中国情况的社会主义建设道路。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-95",
+      "sequence": 531,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 95,
+      "sourceNo": 129,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "1957年，毛泽东在所作的《论十大关系》报告中，明确提出了社会主义现代化的战略目标。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-96",
+      "sequence": 532,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 96,
+      "sourceNo": 131,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "“四个现代化”战略目标是指把中国建设成为一个具有现代农业、现代工业、现代国防和现代科学技术的社会主义强国。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-97",
+      "sequence": 533,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 97,
+      "sourceNo": 132,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东在《论十大关系》中提出处理共产党和民主党派关系的方针是长期共存、互相监督、肝胆相照、荣辱与共。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-98",
+      "sequence": 534,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 98,
+      "sourceNo": 133,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东提出了以农业为基础，工业为主导，以农轻重为序发展国民经济的总方针。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-99",
+      "sequence": 535,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 99,
+      "sourceNo": 134,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的八大提出了既反保守又反冒进、大干快上的总方针。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-100",
+      "sequence": 536,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 100,
+      "sourceNo": 135,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "走中国工业化道路，必须重视知识分子工作。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-101",
+      "sequence": 537,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 101,
+      "sourceNo": 136,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "“三线建设”，是20世纪60-70年代我国以加强经济为中心的战略大后方建设。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-102",
+      "sequence": 538,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 102,
+      "sourceNo": 138,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "新中国成立初期，我国主要是学习苏联经验，这在当时是必要的，也取得了一定的成效，这证明，照搬照抄苏联模式符合中国国情。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-103",
+      "sequence": 539,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 103,
+      "sourceNo": 139,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义代替资本主义，并不意味着社会主义要全盘否定和抛弃资本主义创造的一切成果，也并不意味着社会主义不同资本主义发生任何联系。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-104",
+      "sequence": 540,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 104,
+      "sourceNo": 142,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "《论十大关系》中提出的十大关系不包括汉族与少数民族的关系。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-105",
+      "sequence": 541,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 105,
+      "sourceNo": 143,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义改造完成后，毛泽东提出中国工业化道路应优先发展重工业，同时注重农业和轻工业的协调发展。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-106",
+      "sequence": 542,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 106,
+      "sourceNo": 144,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东在《论十大关系》中强调，学习外国经验时必须坚持“一切民族、一切国家的长处都要学”。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-107",
+      "sequence": 543,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 107,
+      "sourceNo": 146,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东指出：对于建设社会主义的规律的认识，必须有一个过程。必须从建设社会主义这个未被认识的必然王国，到逐步地克服盲目性、认识客观规律、从而获得自由，在认识上出现一个飞跃，到达( )。",
+      "answerRaw": "自由王国",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "自由王国"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-108",
+      "sequence": 544,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 108,
+      "sourceNo": 147,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东在《关于正确处理人民内部矛盾的问题》中提出，社会主义社会的基本矛盾仍然是( )、( )之间的矛盾。",
+      "answerRaw": "生产关系和生产力;上层建筑和经济基础",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "生产关系和生产力"
+          ]
+        },
+        {
+          "acceptedAnswers": [
+            "上层建筑和经济基础"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-109",
+      "sequence": 545,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 109,
+      "sourceNo": 149,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义建设道路初步探索时期，毛泽东提出了发展商品生产、( )的思想，认为商品生产在社会主义条件下，还是一个不可缺少的、有利的工具，要有计划地大大地发展社会主义的商品生产。",
+      "answerRaw": "利用价值规律",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "利用价值规律"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-110",
+      "sequence": 546,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 110,
+      "sourceNo": 150,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "标志着党探索中国社会主义建设道路的良好开端的是 ( )的发表。",
+      "answerRaw": "论十大关系//《论十大关系》",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "论十大关系",
+            "《论十大关系》"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-111",
+      "sequence": 547,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 111,
+      "sourceNo": 152,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东指出，正确解决人民内部矛盾的总方针是( )的方法。",
+      "answerRaw": "民主",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "民主"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-112",
+      "sequence": 548,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 112,
+      "sourceNo": 154,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "《论十大关系》中提出的经济建设方针强调要处理好( )、国家与生产单位、中央与地方等十大关系。",
+      "answerRaw": "沿海工业与内地工业",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "沿海工业与内地工业"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-113",
+      "sequence": 549,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 113,
+      "sourceNo": 155,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义社会的基本矛盾是生产力和生产关系、经济基础和上层建筑之间的矛盾，其特点是既( )又相矛盾。",
+      "answerRaw": "相适应",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "相适应"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-114",
+      "sequence": 550,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 114,
+      "sourceNo": 157,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "在工业化道路探索中，毛泽东提出以( )为序，注重农业、轻工业和重工业的协调发展。",
+      "answerRaw": "农轻重",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "农轻重"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-115",
+      "sequence": 551,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 115,
+      "sourceNo": 158,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党在初步探索中提出的( )方针，主张重工业和轻工业同时并举，中央工业和地方工业、大型企业和中小型企业同时并举等。",
+      "answerRaw": "两条腿走路",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "两条腿走路"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-116",
+      "sequence": 552,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 116,
+      "sourceNo": 160,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "初步探索的经验教训指出，必须坚持( )制度，防止个人专断和权力集中。",
+      "answerRaw": "民主集中制",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "民主集中制"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-117",
+      "sequence": 553,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 117,
+      "sourceNo": 161,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义建设初期，由于忽视( )，导致经济政策缺乏科学论证和实际效果。",
+      "answerRaw": "经济规律",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "经济规律"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-118",
+      "sequence": 554,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 118,
+      "sourceNo": 162,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党在探索中认识到，必须正确区分社会主义社会的( )和根本任务，即人民需要与落后生产的矛盾。",
+      "answerRaw": "主要矛盾",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "主要矛盾"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-119",
+      "sequence": 555,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 119,
+      "sourceNo": 163,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东提出的( )思想，强调要团结国内外一切积极力量为社会主义建设服务。",
+      "answerRaw": "调动一切积极因素",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "调动一切积极因素"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-120",
+      "sequence": 556,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 120,
+      "sourceNo": 164,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "初步探索时期形成的独立工业体系和国民经济体系，为改革开放提供了重要的( )基础。",
+      "answerRaw": "物质技术",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "物质技术"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-121",
+      "sequence": 557,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 121,
+      "sourceNo": 166,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "简述毛泽东关于正确处理两类社会矛盾的思想。",
+      "answerRaw": "两类不同性质的矛盾为:敌我矛盾和人民内部矛盾。(1)对敌我矛盾:采用专政方法，运用人民民主专政的国家机器，对于国家内部那些反抗社会主义改造、破坏社会主义建设的敌对分子和严重犯罪分子依法治罪，剥夺他们的政治权利，强迫他们从事劳动，并在劳动中尽量使他们改造成为新人。(2)对人民内部矛盾:采用民主方法，就是讨论的方法、批评的方法、说服教育的方法。这是解决人民内部矛盾的总方针。",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-122",
+      "sequence": 558,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 122,
+      "sourceNo": 167,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "简述党对社会主义建设道路初步探索的意义。",
+      "answerRaw": "第一，巩固和发展了我国的社会主义制度；第二，为开创中国特色社会主义提供了宝贵经验、理论准备、物质基础；第三，丰富了科学社会主义的理论和实践。",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-123",
+      "sequence": 559,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 123,
+      "sourceNo": 168,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "简述党对社会主义建设道路初步探索的经验教训。",
+      "answerRaw": "第一，必须把马克思主义与中国实际相结合，探索符合中国特点的社会主义建设道路;第二，必须正确认识社会主义社会的主要矛盾和根本任务，集中力量发展生产力;第三，必须从实际出发进行社会主义建设，建设规模和速度要和国力相适应，不能急于求成;第四，必须发展社会主义民主，健全社会主义法制;第五，必须坚持党的民主集中制和集体领导制度，加强执政党建设;第六，必须坚持对外开放，借鉴和吸收人类文明成果建设社会主义，不能关起门来搞建设。",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-04-第四章-社会主义建设道路初步探索的理论成果-124",
+      "sequence": 560,
+      "sourceFile": "我的题库_第四章 社会主义建设道路初步探索的理论成果_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 124,
+      "sourceNo": 169,
+      "chapterKey": "chapter-04-第四章-社会主义建设道路初步探索的理论成果",
+      "chapterTitle": "第四章 社会主义建设道路初步探索的理论成果",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "请结合毛泽东《论十大关系》的核心思想，论述社会主义建设初期党在经济建设领域提出的“统筹兼顾”原则及其现实启示。",
+      "answerRaw": "一、统筹兼顾原则的内涵1.提出背景：苏联模式片面发展重工业、忽视综合平衡。2.核心内容：推动农业、轻工业与重工业协调发展；平衡中央与地方权力，调动地方积极性；优化沿海与内地工业布局，促进资源合理配置。二、现实启示1.区域协调发展：新时代坚持“京津冀协同发展”“西部大开发”等战略，缩小区域差距。2.产业结构优化：深化供给侧结构性改革，推动传统产业升级与新兴产业发展并重。3.体制机制创新：完善社会主义市场经济体制，激发政府、企业、社会多元主体活力，实现效率与公平统一。“统筹兼顾”原则体现了党对经济规律的深刻认识，为新时代贯彻新发展理念、构建新发展格局提供了历史经验。",
+      "explanation": "",
+      "options": [],
       "fillBlanks": []
     },
     {
@@ -22189,8 +22189,198 @@ window.QUESTION_BANK_DATA = {
       "fillBlanks": []
     },
     {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-54",
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-152",
       "sequence": 613,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 152,
+      "sourceNo": 214,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "单选题",
+      "score": 1,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "科技进步日新月异，以（）为核心的高新技术的发展，极大地改变了人们的生产、生活方式和国际经济、政治关系。",
+      "answerRaw": "B",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "经济革命"
+        },
+        {
+          "key": "B",
+          "text": "信息技术"
+        },
+        {
+          "key": "C",
+          "text": "全球化"
+        },
+        {
+          "key": "D",
+          "text": "多极化"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-153",
+      "sequence": 614,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 153,
+      "sourceNo": 215,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "单选题",
+      "score": 1,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "20世纪70年代，整个世界发生着大变动大调整，时代主题是（）。",
+      "answerRaw": "B",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "革命与战争"
+        },
+        {
+          "key": "B",
+          "text": "和平与发展"
+        },
+        {
+          "key": "C",
+          "text": "合作与共赢"
+        },
+        {
+          "key": "D",
+          "text": "开放与融通"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-154",
+      "sequence": 615,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 154,
+      "sourceNo": 216,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "单选题",
+      "score": 1,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "我国改革从（）率先突破，逐步转向城市经济体制改革并全面铺开，确立社会主义市场经济的改革方向。",
+      "answerRaw": "D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "计划经济为主，市场经济为辅"
+        },
+        {
+          "key": "B",
+          "text": "计划少一点，市场多一点"
+        },
+        {
+          "key": "C",
+          "text": "包干到户"
+        },
+        {
+          "key": "D",
+          "text": "农村实行家庭联产承包责任制"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-155",
+      "sequence": 616,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 155,
+      "sourceNo": 217,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "单选题",
+      "score": 1,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "1997年召开的党的（）正式提出“邓小平理论”这一概念，深刻阐述了邓小平理论的历史地位和指导意义，进一步论述了邓小平对这一理论的创立作出的独创性贡献。",
+      "answerRaw": "B",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "十四大"
+        },
+        {
+          "key": "B",
+          "text": "十五大"
+        },
+        {
+          "key": "C",
+          "text": "十六大"
+        },
+        {
+          "key": "D",
+          "text": "十七大"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-156",
+      "sequence": 617,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 156,
+      "sourceNo": 218,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "单选题",
+      "score": 1,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "2017年，党的（）把习近平新时代中国特色社会主义思想确立为党必须长期坚持的指导思想并庄严地写入党章，实现了党的指导思想的与时俱进。",
+      "answerRaw": "C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "十七大"
+        },
+        {
+          "key": "B",
+          "text": "十八大"
+        },
+        {
+          "key": "C",
+          "text": "十九大"
+        },
+        {
+          "key": "D",
+          "text": "二十大"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-54",
+      "sequence": 618,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 54,
@@ -22228,7 +22418,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-55",
-      "sequence": 614,
+      "sequence": 619,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 55,
@@ -22266,7 +22456,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-56",
-      "sequence": 615,
+      "sequence": 620,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 56,
@@ -22304,7 +22494,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-57",
-      "sequence": 616,
+      "sequence": 621,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 57,
@@ -22342,7 +22532,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-58",
-      "sequence": 617,
+      "sequence": 622,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 58,
@@ -22380,7 +22570,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-59",
-      "sequence": 618,
+      "sequence": 623,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 59,
@@ -22418,7 +22608,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-60",
-      "sequence": 619,
+      "sequence": 624,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 60,
@@ -22456,7 +22646,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-61",
-      "sequence": 620,
+      "sequence": 625,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 61,
@@ -22494,7 +22684,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-62",
-      "sequence": 621,
+      "sequence": 626,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 62,
@@ -22532,7 +22722,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-63",
-      "sequence": 622,
+      "sequence": 627,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 63,
@@ -22570,7 +22760,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-64",
-      "sequence": 623,
+      "sequence": 628,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 64,
@@ -22608,7 +22798,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-65",
-      "sequence": 624,
+      "sequence": 629,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 65,
@@ -22646,7 +22836,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-66",
-      "sequence": 625,
+      "sequence": 630,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 66,
@@ -22684,7 +22874,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-67",
-      "sequence": 626,
+      "sequence": 631,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 67,
@@ -22722,7 +22912,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-68",
-      "sequence": 627,
+      "sequence": 632,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 68,
@@ -22760,7 +22950,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-69",
-      "sequence": 628,
+      "sequence": 633,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 69,
@@ -22798,7 +22988,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-70",
-      "sequence": 629,
+      "sequence": 634,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 70,
@@ -22836,7 +23026,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-71",
-      "sequence": 630,
+      "sequence": 635,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 71,
@@ -22874,7 +23064,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-72",
-      "sequence": 631,
+      "sequence": 636,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 72,
@@ -22912,7 +23102,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-73",
-      "sequence": 632,
+      "sequence": 637,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 73,
@@ -22950,7 +23140,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-74",
-      "sequence": 633,
+      "sequence": 638,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 74,
@@ -22988,7 +23178,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-75",
-      "sequence": 634,
+      "sequence": 639,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 75,
@@ -23026,7 +23216,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-76",
-      "sequence": 635,
+      "sequence": 640,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 76,
@@ -23064,7 +23254,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-77",
-      "sequence": 636,
+      "sequence": 641,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 77,
@@ -23102,7 +23292,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-78",
-      "sequence": 637,
+      "sequence": 642,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 78,
@@ -23140,7 +23330,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-79",
-      "sequence": 638,
+      "sequence": 643,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 79,
@@ -23178,7 +23368,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-80",
-      "sequence": 639,
+      "sequence": 644,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 80,
@@ -23216,7 +23406,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-81",
-      "sequence": 640,
+      "sequence": 645,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 81,
@@ -23254,7 +23444,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-82",
-      "sequence": 641,
+      "sequence": 646,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 82,
@@ -23292,7 +23482,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-83",
-      "sequence": 642,
+      "sequence": 647,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 83,
@@ -23330,7 +23520,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-84",
-      "sequence": 643,
+      "sequence": 648,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 84,
@@ -23368,7 +23558,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-85",
-      "sequence": 644,
+      "sequence": 649,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 85,
@@ -23406,7 +23596,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-86",
-      "sequence": 645,
+      "sequence": 650,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 86,
@@ -23444,7 +23634,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-87",
-      "sequence": 646,
+      "sequence": 651,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 87,
@@ -23482,7 +23672,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-88",
-      "sequence": 647,
+      "sequence": 652,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 88,
@@ -23520,7 +23710,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-89",
-      "sequence": 648,
+      "sequence": 653,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 89,
@@ -23558,7 +23748,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-90",
-      "sequence": 649,
+      "sequence": 654,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 90,
@@ -23600,7 +23790,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-91",
-      "sequence": 650,
+      "sequence": 655,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 91,
@@ -23638,7 +23828,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-92",
-      "sequence": 651,
+      "sequence": 656,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 92,
@@ -23676,7 +23866,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-93",
-      "sequence": 652,
+      "sequence": 657,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 93,
@@ -23714,7 +23904,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-94",
-      "sequence": 653,
+      "sequence": 658,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 94,
@@ -23752,7 +23942,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-95",
-      "sequence": 654,
+      "sequence": 659,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 95,
@@ -23790,7 +23980,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-96",
-      "sequence": 655,
+      "sequence": 660,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 96,
@@ -23827,1461 +24017,8 @@ window.QUESTION_BANK_DATA = {
       "fillBlanks": []
     },
     {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-97",
-      "sequence": 656,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 97,
-      "sourceNo": 138,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "新世纪新阶段，经过新中国新成立特别是改革开放以来的不懈努力，我国经济社会发展取得举世瞩目的成就，但我国仍旧处于并将长期处于社会主义初级阶段的国情没有变。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-98",
-      "sequence": 657,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 98,
-      "sourceNo": 140,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "习近平新时代中国特色社会主义思想在党的十九届六中全会被概括为\"十个明确\"。​",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-99",
-      "sequence": 658,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 99,
-      "sourceNo": 141,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "毛泽东思想是中国特色社会主义理论体系重要组成部分。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-100",
-      "sequence": 659,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 100,
-      "sourceNo": 142,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "江泽民在2001年7月1日庆祝中国共产党成立八十周年大会上全面阐述“三个代表”重要思想的科学内涵和基本内容。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-101",
-      "sequence": 660,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 101,
-      "sourceNo": 144,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义初级阶段理论认为我国社会主要矛盾是人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾。​",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-102",
-      "sequence": 661,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 102,
-      "sourceNo": 146,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的十八大以来，党面临的主要任务是：实现第一个百年奋斗目标，开启实现第二个百年奋斗目标新征程，朝着实现中华民族伟大复兴的宏伟目标继续前进。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-103",
-      "sequence": 662,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 103,
-      "sourceNo": 147,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "科学发展观是中国特色社会主义理论体系在新世纪新阶段的新发展。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-104",
-      "sequence": 663,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 104,
-      "sourceNo": 148,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "改革开放是中国特色社会主义理论体系形成的实践基础。​",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-105",
-      "sequence": 664,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 105,
-      "sourceNo": 150,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "\"三个代表\"重要思想强调党的先进性关系党的生死存亡。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-106",
-      "sequence": 665,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 106,
-      "sourceNo": 152,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "习近平新时代中国特色社会主义思想是马克思主义中国化最新成果。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-107",
-      "sequence": 666,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 107,
-      "sourceNo": 153,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "“三个有利于”标准是在邓小平南方谈话中首次提出的。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-108",
-      "sequence": 667,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 108,
-      "sourceNo": 154,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "科学发展观在抗击非典疫情期间初步形成。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-109",
-      "sequence": 668,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 109,
-      "sourceNo": 155,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的十七大首次将科学发展观写入党章。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-110",
-      "sequence": 669,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 110,
-      "sourceNo": 156,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的十九大将习近平新时代中国特色社会主义思想确立为党的指导思想。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-111",
-      "sequence": 670,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 111,
-      "sourceNo": 159,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "“三个代表”重要思想创造性回答了“建设什么样的党、怎样建设党”的问题。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-112",
-      "sequence": 671,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 112,
-      "sourceNo": 160,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "科学发展观着重回答“实现什么样的发展、怎样发展”的问题。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-113",
-      "sequence": 672,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 113,
-      "sourceNo": 161,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "习近平新时代中国特色社会主义思想的核心要义是坚持和发展中国特色社会主义。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-114",
-      "sequence": 673,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 114,
-      "sourceNo": 162,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义初级阶段理论认为我国已进入发达社会主义阶段。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-115",
-      "sequence": 674,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 115,
-      "sourceNo": 163,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "“三步走”发展战略的第三步目标是到21世纪中叶基本实现现代化。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-116",
-      "sequence": 675,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 116,
-      "sourceNo": 164,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "“一国两制”构想最初是为解决中国香港问题提出的。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-117",
-      "sequence": 676,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 117,
-      "sourceNo": 165,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "中国特色社会主义理论体系是改革开放以来党的全部理论和实践的主题。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-118",
-      "sequence": 677,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 118,
-      "sourceNo": 166,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平南方谈话是邓小平理论走向成熟的标志。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-119",
-      "sequence": 678,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 119,
-      "sourceNo": 168,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "科学发展观强调统筹兼顾是根本方法。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-120",
-      "sequence": 679,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 120,
-      "sourceNo": 170,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "“四项基本原则”是立国之本，改革开放是强国之路。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-121",
-      "sequence": 680,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 121,
-      "sourceNo": 171,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的十三大系统阐述了社会主义初级阶段理论。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-122",
-      "sequence": 681,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 122,
-      "sourceNo": 173,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "我国经济体制改革的目标是建立社会主义市场经济体制。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-123",
-      "sequence": 682,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 123,
-      "sourceNo": 174,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的十八届三中全会提出全面深化改革的总目标。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-124",
-      "sequence": 683,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 124,
-      "sourceNo": 175,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "“三个代表”重要思想强调党的先进性是党的生命线。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-125",
-      "sequence": 684,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 125,
-      "sourceNo": 176,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "科学发展观要求加强党的执政能力建设和先进性建设。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-126",
-      "sequence": 685,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 126,
-      "sourceNo": 178,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的自我革命是跳出治乱兴衰历史周期率的第二个答案。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-127",
-      "sequence": 686,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 127,
-      "sourceNo": 179,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "习近平新时代中国特色社会主义思想提出构建人类命运共同体。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-128",
-      "sequence": 687,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 128,
-      "sourceNo": 182,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "习近平新时代中国特色社会主义思想为发展中国家走向现代化提供了全新选择。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-129",
-      "sequence": 688,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 129,
-      "sourceNo": 183,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "中国特色社会主义理论体系是开放发展的理论体系。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-130",
-      "sequence": 689,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 130,
-      "sourceNo": 185,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "1984年党的十二届三中全会作出了《中共中央关于经济体制改革的决定》，明确认识社会主义计划经济必须自觉依据和运用价值规律，是在( )基础上的有计划的商品经济。",
-      "answerRaw": "公有制",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "公有制"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-131",
-      "sequence": 690,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 131,
-      "sourceNo": 186,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "( )是邓小平理论的集大成之作，从理论上深刻回答了当时困扰和束缚人民思想的一系列重大问题。",
-      "answerRaw": "南方谈话",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "南方谈话"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-132",
-      "sequence": 691,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 132,
-      "sourceNo": 189,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "科学发展观的核心立场是( )。",
-      "answerRaw": "以人为本",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "以人为本"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-133",
-      "sequence": 692,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 133,
-      "sourceNo": 191,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的十四大明确提出我国经济体制改革的目标是建立( )。",
-      "answerRaw": "社会主义市场经济体制",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "社会主义市场经济体制"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-134",
-      "sequence": 693,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 134,
-      "sourceNo": 192,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平理论回答的基本问题是“( )、怎样建设社会主义”。",
-      "answerRaw": "什么是社会主义",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "什么是社会主义"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-135",
-      "sequence": 694,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 135,
-      "sourceNo": 193,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "中国特色社会主义理论体系的精髓是解放思想、( )。",
-      "answerRaw": "实事求是",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "实事求是"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-136",
-      "sequence": 695,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 136,
-      "sourceNo": 194,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的十八届三中全会提出全面深化改革的总目标是完善和发展中国特色社会主义制度，推进( )和治理能力现代化。",
-      "answerRaw": "国家治理体系",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "国家治理体系"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-137",
-      "sequence": 696,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 137,
-      "sourceNo": 195,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "“三个代表”重要思想的本质是立党为公、( )。",
-      "answerRaw": "执政为民",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "执政为民"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-138",
-      "sequence": 697,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 138,
-      "sourceNo": 198,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的十三大第一次比较系统地论述了我国( )理论，明确概括和全面阐发了党的\"一个中心、两个基本点\"的基本路线。",
-      "answerRaw": "社会主义初级阶段",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "社会主义初级阶段"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-139",
-      "sequence": 698,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 139,
-      "sourceNo": 200,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "科学发展观的基本要求是( )。",
-      "answerRaw": "全面协调可持续",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "全面协调可持续"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-140",
-      "sequence": 699,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 140,
-      "sourceNo": 201,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "中国特色社会主义理论体系不包括( )。",
-      "answerRaw": "毛泽东思想",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "毛泽东思想"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-141",
-      "sequence": 700,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 141,
-      "sourceNo": 202,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的( )将“邓小平理论”写入党章，确立为党的指导思想。",
-      "answerRaw": "十五大",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "十五大"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-142",
-      "sequence": 701,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 142,
-      "sourceNo": 203,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "习近平新时代中国特色社会主义思想的核心内容是“十个明确”和( )。",
-      "answerRaw": "十四个坚持",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "十四个坚持"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-143",
-      "sequence": 702,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 143,
-      "sourceNo": 204,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "“四个全面”战略布局包括全面建设社会主义现代化国家、全面深化改革、全面依法治国和( )。",
-      "answerRaw": "全面从严治党",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "全面从严治党"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-144",
-      "sequence": 703,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 144,
-      "sourceNo": 205,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义初级阶段理论认为，我国正处于并将长期处于( )。",
-      "answerRaw": "社会主义初级阶段",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "社会主义初级阶段"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-145",
-      "sequence": 704,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 145,
-      "sourceNo": 206,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的十六届四中全会首次提出构建( )的战略任务。",
-      "answerRaw": "社会主义和谐社会",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "社会主义和谐社会"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-146",
-      "sequence": 705,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 146,
-      "sourceNo": 207,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平在党的( )开幕词中首次提出“走自己的道路，建设有中国特色的社会主义”。",
-      "answerRaw": "十二大",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "十二大"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-147",
-      "sequence": 706,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 147,
-      "sourceNo": 208,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "“三个代表”重要思想的关键在于坚持( )。",
-      "answerRaw": "与时俱进",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "与时俱进"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-148",
-      "sequence": 707,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 148,
-      "sourceNo": 209,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "请简述中国特色社会主义理论体系形成的实践基础与历史条件。",
-      "answerRaw": "1.改革开放实践：党的十一届三中全会后，通过农村家庭联产承包责任制、经济特区建设等改革实践，为理论创新提供了鲜活经验。2.国际环境变化：20世纪70年代后，和平与发展成为时代主题，经济全球化加速，促使中国共产党调整发展战略。3.社会主义初级阶段国情：理论体系基于“我国仍处于并将长期处于社会主义初级阶段”的科学判断，强调解放和发展生产力。4.党的理论传承：继承毛泽东思想中关于社会主义建设探索的成果，同时突破传统计划经济思维。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-149",
-      "sequence": 708,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 149,
-      "sourceNo": 210,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平理论、“三个代表”重要思想、科学发展观分别回答了什么重大时代课题？",
-      "answerRaw": "1.邓小平理论：回答“什么是社会主义、怎样建设社会主义”，提出社会主义本质论、市场经济理论。2. “三个代表”重要思想：回答“建设什么样的党、怎样建设党”，强调党的先进性与执政为民。3. 科学发展观：回答“实现什么样的发展、怎样发展”，确立以人为本、全面协调可持续的发展理念。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-150",
-      "sequence": 709,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 150,
-      "sourceNo": 212,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "中国特色社会主义理论体系如何指导中国式现代化的推进？",
-      "answerRaw": "1.发展理念：以新发展理念（创新、协调、绿色、开放、共享）引领高质量发展。2.制度保障：通过全面深化改革完善社会主义市场经济体制，如“使市场在资源配置中起决定性作用”。3.价值导向：坚持以人民为中心，推动共同富裕。4.全球视野：提出“人类命运共同体”理念，统筹国内国际两个大局。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-151",
-      "sequence": 710,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 151,
-      "sourceNo": 213,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "为什么说中国特色社会主义理论体系是开放发展的理论体系？",
-      "answerRaw": "1.实践开放性：随着改革开放深化不断拓展。2.理论包容性：吸收人类文明成果。3.时代适应性：针对新矛盾提出新方案。4.方法创新性：运用马克思主义立场观点方法分析新问题",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-152",
-      "sequence": 711,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 152,
-      "sourceNo": 214,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "单选题",
-      "score": 1,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "科技进步日新月异，以（）为核心的高新技术的发展，极大地改变了人们的生产、生活方式和国际经济、政治关系。",
-      "answerRaw": "B",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "经济革命"
-        },
-        {
-          "key": "B",
-          "text": "信息技术"
-        },
-        {
-          "key": "C",
-          "text": "全球化"
-        },
-        {
-          "key": "D",
-          "text": "多极化"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-153",
-      "sequence": 712,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 153,
-      "sourceNo": 215,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "单选题",
-      "score": 1,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "20世纪70年代，整个世界发生着大变动大调整，时代主题是（）。",
-      "answerRaw": "B",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "革命与战争"
-        },
-        {
-          "key": "B",
-          "text": "和平与发展"
-        },
-        {
-          "key": "C",
-          "text": "合作与共赢"
-        },
-        {
-          "key": "D",
-          "text": "开放与融通"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-154",
-      "sequence": 713,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 154,
-      "sourceNo": 216,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "单选题",
-      "score": 1,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "我国改革从（）率先突破，逐步转向城市经济体制改革并全面铺开，确立社会主义市场经济的改革方向。",
-      "answerRaw": "D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "计划经济为主，市场经济为辅"
-        },
-        {
-          "key": "B",
-          "text": "计划少一点，市场多一点"
-        },
-        {
-          "key": "C",
-          "text": "包干到户"
-        },
-        {
-          "key": "D",
-          "text": "农村实行家庭联产承包责任制"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-155",
-      "sequence": 714,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 155,
-      "sourceNo": 217,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "单选题",
-      "score": 1,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "1997年召开的党的（）正式提出“邓小平理论”这一概念，深刻阐述了邓小平理论的历史地位和指导意义，进一步论述了邓小平对这一理论的创立作出的独创性贡献。",
-      "answerRaw": "B",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "十四大"
-        },
-        {
-          "key": "B",
-          "text": "十五大"
-        },
-        {
-          "key": "C",
-          "text": "十六大"
-        },
-        {
-          "key": "D",
-          "text": "十七大"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-156",
-      "sequence": 715,
-      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 156,
-      "sourceNo": 218,
-      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
-      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
-      "type": "单选题",
-      "score": 1,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "2017年，党的（）把习近平新时代中国特色社会主义思想确立为党必须长期坚持的指导思想并庄严地写入党章，实现了党的指导思想的与时俱进。",
-      "answerRaw": "C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "十七大"
-        },
-        {
-          "key": "B",
-          "text": "十八大"
-        },
-        {
-          "key": "C",
-          "text": "十九大"
-        },
-        {
-          "key": "D",
-          "text": "二十大"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-157",
-      "sequence": 716,
+      "sequence": 661,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 157,
@@ -25319,7 +24056,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-158",
-      "sequence": 717,
+      "sequence": 662,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 158,
@@ -25357,7 +24094,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-159",
-      "sequence": 718,
+      "sequence": 663,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 159,
@@ -25395,7 +24132,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-160",
-      "sequence": 719,
+      "sequence": 664,
       "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 160,
@@ -25429,6 +24166,1269 @@ window.QUESTION_BANK_DATA = {
           "text": "确立社会主义基本制度"
         }
       ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-97",
+      "sequence": 665,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 97,
+      "sourceNo": 138,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "新世纪新阶段，经过新中国新成立特别是改革开放以来的不懈努力，我国经济社会发展取得举世瞩目的成就，但我国仍旧处于并将长期处于社会主义初级阶段的国情没有变。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-98",
+      "sequence": 666,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 98,
+      "sourceNo": 140,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "习近平新时代中国特色社会主义思想在党的十九届六中全会被概括为\"十个明确\"。​",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-99",
+      "sequence": 667,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 99,
+      "sourceNo": 141,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "毛泽东思想是中国特色社会主义理论体系重要组成部分。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-100",
+      "sequence": 668,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 100,
+      "sourceNo": 142,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "江泽民在2001年7月1日庆祝中国共产党成立八十周年大会上全面阐述“三个代表”重要思想的科学内涵和基本内容。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-101",
+      "sequence": 669,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 101,
+      "sourceNo": 144,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义初级阶段理论认为我国社会主要矛盾是人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾。​",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-102",
+      "sequence": 670,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 102,
+      "sourceNo": 146,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的十八大以来，党面临的主要任务是：实现第一个百年奋斗目标，开启实现第二个百年奋斗目标新征程，朝着实现中华民族伟大复兴的宏伟目标继续前进。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-103",
+      "sequence": 671,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 103,
+      "sourceNo": 147,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "科学发展观是中国特色社会主义理论体系在新世纪新阶段的新发展。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-104",
+      "sequence": 672,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 104,
+      "sourceNo": 148,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "改革开放是中国特色社会主义理论体系形成的实践基础。​",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-105",
+      "sequence": 673,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 105,
+      "sourceNo": 150,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "\"三个代表\"重要思想强调党的先进性关系党的生死存亡。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-106",
+      "sequence": 674,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 106,
+      "sourceNo": 152,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "习近平新时代中国特色社会主义思想是马克思主义中国化最新成果。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-107",
+      "sequence": 675,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 107,
+      "sourceNo": 153,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "“三个有利于”标准是在邓小平南方谈话中首次提出的。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-108",
+      "sequence": 676,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 108,
+      "sourceNo": 154,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "科学发展观在抗击非典疫情期间初步形成。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-109",
+      "sequence": 677,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 109,
+      "sourceNo": 155,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的十七大首次将科学发展观写入党章。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-110",
+      "sequence": 678,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 110,
+      "sourceNo": 156,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的十九大将习近平新时代中国特色社会主义思想确立为党的指导思想。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-111",
+      "sequence": 679,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 111,
+      "sourceNo": 159,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "“三个代表”重要思想创造性回答了“建设什么样的党、怎样建设党”的问题。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-112",
+      "sequence": 680,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 112,
+      "sourceNo": 160,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "科学发展观着重回答“实现什么样的发展、怎样发展”的问题。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-113",
+      "sequence": 681,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 113,
+      "sourceNo": 161,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "习近平新时代中国特色社会主义思想的核心要义是坚持和发展中国特色社会主义。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-114",
+      "sequence": 682,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 114,
+      "sourceNo": 162,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义初级阶段理论认为我国已进入发达社会主义阶段。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-115",
+      "sequence": 683,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 115,
+      "sourceNo": 163,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "“三步走”发展战略的第三步目标是到21世纪中叶基本实现现代化。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-116",
+      "sequence": 684,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 116,
+      "sourceNo": 164,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "“一国两制”构想最初是为解决中国香港问题提出的。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-117",
+      "sequence": 685,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 117,
+      "sourceNo": 165,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "中国特色社会主义理论体系是改革开放以来党的全部理论和实践的主题。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-118",
+      "sequence": 686,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 118,
+      "sourceNo": 166,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平南方谈话是邓小平理论走向成熟的标志。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-119",
+      "sequence": 687,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 119,
+      "sourceNo": 168,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "科学发展观强调统筹兼顾是根本方法。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-120",
+      "sequence": 688,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 120,
+      "sourceNo": 170,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "“四项基本原则”是立国之本，改革开放是强国之路。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-121",
+      "sequence": 689,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 121,
+      "sourceNo": 171,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的十三大系统阐述了社会主义初级阶段理论。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-122",
+      "sequence": 690,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 122,
+      "sourceNo": 173,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "我国经济体制改革的目标是建立社会主义市场经济体制。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-123",
+      "sequence": 691,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 123,
+      "sourceNo": 174,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的十八届三中全会提出全面深化改革的总目标。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-124",
+      "sequence": 692,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 124,
+      "sourceNo": 175,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "“三个代表”重要思想强调党的先进性是党的生命线。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-125",
+      "sequence": 693,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 125,
+      "sourceNo": 176,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "科学发展观要求加强党的执政能力建设和先进性建设。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-126",
+      "sequence": 694,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 126,
+      "sourceNo": 178,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的自我革命是跳出治乱兴衰历史周期率的第二个答案。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-127",
+      "sequence": 695,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 127,
+      "sourceNo": 179,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "习近平新时代中国特色社会主义思想提出构建人类命运共同体。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-128",
+      "sequence": 696,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 128,
+      "sourceNo": 182,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "习近平新时代中国特色社会主义思想为发展中国家走向现代化提供了全新选择。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-129",
+      "sequence": 697,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 129,
+      "sourceNo": 183,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "中国特色社会主义理论体系是开放发展的理论体系。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-130",
+      "sequence": 698,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 130,
+      "sourceNo": 185,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "1984年党的十二届三中全会作出了《中共中央关于经济体制改革的决定》，明确认识社会主义计划经济必须自觉依据和运用价值规律，是在( )基础上的有计划的商品经济。",
+      "answerRaw": "公有制",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "公有制"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-131",
+      "sequence": 699,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 131,
+      "sourceNo": 186,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "( )是邓小平理论的集大成之作，从理论上深刻回答了当时困扰和束缚人民思想的一系列重大问题。",
+      "answerRaw": "南方谈话",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "南方谈话"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-132",
+      "sequence": 700,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 132,
+      "sourceNo": 189,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "科学发展观的核心立场是( )。",
+      "answerRaw": "以人为本",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "以人为本"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-133",
+      "sequence": 701,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 133,
+      "sourceNo": 191,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的十四大明确提出我国经济体制改革的目标是建立( )。",
+      "answerRaw": "社会主义市场经济体制",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "社会主义市场经济体制"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-134",
+      "sequence": 702,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 134,
+      "sourceNo": 192,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平理论回答的基本问题是“( )、怎样建设社会主义”。",
+      "answerRaw": "什么是社会主义",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "什么是社会主义"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-135",
+      "sequence": 703,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 135,
+      "sourceNo": 193,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "中国特色社会主义理论体系的精髓是解放思想、( )。",
+      "answerRaw": "实事求是",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "实事求是"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-136",
+      "sequence": 704,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 136,
+      "sourceNo": 194,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的十八届三中全会提出全面深化改革的总目标是完善和发展中国特色社会主义制度，推进( )和治理能力现代化。",
+      "answerRaw": "国家治理体系",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "国家治理体系"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-137",
+      "sequence": 705,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 137,
+      "sourceNo": 195,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "“三个代表”重要思想的本质是立党为公、( )。",
+      "answerRaw": "执政为民",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "执政为民"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-138",
+      "sequence": 706,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 138,
+      "sourceNo": 198,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的十三大第一次比较系统地论述了我国( )理论，明确概括和全面阐发了党的\"一个中心、两个基本点\"的基本路线。",
+      "answerRaw": "社会主义初级阶段",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "社会主义初级阶段"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-139",
+      "sequence": 707,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 139,
+      "sourceNo": 200,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "科学发展观的基本要求是( )。",
+      "answerRaw": "全面协调可持续",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "全面协调可持续"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-140",
+      "sequence": 708,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 140,
+      "sourceNo": 201,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "中国特色社会主义理论体系不包括( )。",
+      "answerRaw": "毛泽东思想",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "毛泽东思想"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-141",
+      "sequence": 709,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 141,
+      "sourceNo": 202,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的( )将“邓小平理论”写入党章，确立为党的指导思想。",
+      "answerRaw": "十五大",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "十五大"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-142",
+      "sequence": 710,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 142,
+      "sourceNo": 203,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "习近平新时代中国特色社会主义思想的核心内容是“十个明确”和( )。",
+      "answerRaw": "十四个坚持",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "十四个坚持"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-143",
+      "sequence": 711,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 143,
+      "sourceNo": 204,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "“四个全面”战略布局包括全面建设社会主义现代化国家、全面深化改革、全面依法治国和( )。",
+      "answerRaw": "全面从严治党",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "全面从严治党"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-144",
+      "sequence": 712,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 144,
+      "sourceNo": 205,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义初级阶段理论认为，我国正处于并将长期处于( )。",
+      "answerRaw": "社会主义初级阶段",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "社会主义初级阶段"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-145",
+      "sequence": 713,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 145,
+      "sourceNo": 206,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的十六届四中全会首次提出构建( )的战略任务。",
+      "answerRaw": "社会主义和谐社会",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "社会主义和谐社会"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-146",
+      "sequence": 714,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 146,
+      "sourceNo": 207,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平在党的( )开幕词中首次提出“走自己的道路，建设有中国特色的社会主义”。",
+      "answerRaw": "十二大",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "十二大"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-147",
+      "sequence": 715,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 147,
+      "sourceNo": 208,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "“三个代表”重要思想的关键在于坚持( )。",
+      "answerRaw": "与时俱进",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "与时俱进"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-148",
+      "sequence": 716,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 148,
+      "sourceNo": 209,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "请简述中国特色社会主义理论体系形成的实践基础与历史条件。",
+      "answerRaw": "1.改革开放实践：党的十一届三中全会后，通过农村家庭联产承包责任制、经济特区建设等改革实践，为理论创新提供了鲜活经验。2.国际环境变化：20世纪70年代后，和平与发展成为时代主题，经济全球化加速，促使中国共产党调整发展战略。3.社会主义初级阶段国情：理论体系基于“我国仍处于并将长期处于社会主义初级阶段”的科学判断，强调解放和发展生产力。4.党的理论传承：继承毛泽东思想中关于社会主义建设探索的成果，同时突破传统计划经济思维。",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-149",
+      "sequence": 717,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 149,
+      "sourceNo": 210,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平理论、“三个代表”重要思想、科学发展观分别回答了什么重大时代课题？",
+      "answerRaw": "1.邓小平理论：回答“什么是社会主义、怎样建设社会主义”，提出社会主义本质论、市场经济理论。2. “三个代表”重要思想：回答“建设什么样的党、怎样建设党”，强调党的先进性与执政为民。3. 科学发展观：回答“实现什么样的发展、怎样发展”，确立以人为本、全面协调可持续的发展理念。",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-150",
+      "sequence": 718,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 150,
+      "sourceNo": 212,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "中国特色社会主义理论体系如何指导中国式现代化的推进？",
+      "answerRaw": "1.发展理念：以新发展理念（创新、协调、绿色、开放、共享）引领高质量发展。2.制度保障：通过全面深化改革完善社会主义市场经济体制，如“使市场在资源配置中起决定性作用”。3.价值导向：坚持以人民为中心，推动共同富裕。4.全球视野：提出“人类命运共同体”理念，统筹国内国际两个大局。",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-05-第五章-中国特色社会主义理论体系的形成发展-151",
+      "sequence": 719,
+      "sourceFile": "我的题库_第五章 中国特色社会主义理论体系的形成发展_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 151,
+      "sourceNo": 213,
+      "chapterKey": "chapter-05-第五章-中国特色社会主义理论体系的形成发展",
+      "chapterTitle": "第五章 中国特色社会主义理论体系的形成发展",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "为什么说中国特色社会主义理论体系是开放发展的理论体系？",
+      "answerRaw": "1.实践开放性：随着改革开放深化不断拓展。2.理论包容性：吸收人类文明成果。3.时代适应性：针对新矛盾提出新方案。4.方法创新性：运用马克思主义立场观点方法分析新问题",
+      "explanation": "",
+      "options": [],
       "fillBlanks": []
     },
     {
@@ -27484,2653 +27484,8 @@ window.QUESTION_BANK_DATA = {
       "fillBlanks": []
     },
     {
-      "id": "chapter-06-第六章-邓小平理论-56",
-      "sequence": 774,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 56,
-      "sourceNo": 74,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "我国过去40多年的快速发展靠的是改革开放，我国未来发展也必须坚定不移依靠改革开放。以下对改革开放认识正确的是（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "改革开放是决定当代中国命运的关键抉择"
-        },
-        {
-          "key": "B",
-          "text": "改革开放是发展中国特色社会主义、实现中华民族伟大复兴的必由之路"
-        },
-        {
-          "key": "C",
-          "text": "只有改革开放才能发展中国、发展社会主义、发展马克思主义"
-        },
-        {
-          "key": "D",
-          "text": "改革开放符合党心民心、顺应时代潮流"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-57",
-      "sequence": 775,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 57,
-      "sourceNo": 75,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义市场经济体制是社会主义基本制度与市场经济的结合，其基本特征是（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "以公有制为主体，多种所有制经济共同发展的所有制结构"
-        },
-        {
-          "key": "B",
-          "text": "以按劳分配为主体，多种分配方式并存的分配结构"
-        },
-        {
-          "key": "C",
-          "text": "宏观调控上，能更好地发挥计划和市场两种手段的长处"
-        },
-        {
-          "key": "D",
-          "text": "政府不直接干预企业的生产和经营"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-58",
-      "sequence": 776,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 58,
-      "sourceNo": 77,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的十四大报告系统阐释了中国特色社会主义理论的历史地位和指导意义，认为这一理论（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "是马克思列宁主义基本原理与当代中国实际和时代特征相结合的产物"
-        },
-        {
-          "key": "B",
-          "text": "是对毛泽东思想的继承和发展"
-        },
-        {
-          "key": "C",
-          "text": "是全党全国人民集体智慧的结晶"
-        },
-        {
-          "key": "D",
-          "text": "是中国共产党和中国人民最可贵的精神财富"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-59",
-      "sequence": 777,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 59,
-      "sourceNo": 78,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "“什么是社会主义，怎样建设社会主义”，是（）。",
-      "answerRaw": "A;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "社会主义的根本问题"
-        },
-        {
-          "key": "B",
-          "text": "党的思想路线问题"
-        },
-        {
-          "key": "C",
-          "text": "社会主义首要的基本理论问题"
-        },
-        {
-          "key": "D",
-          "text": "邓小平理论的主题"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-60",
-      "sequence": 778,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 60,
-      "sourceNo": 79,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平关于社会主义本质的概括，（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "摆脱了长期以来拘泥于具体模式而忽略社会主义本质的错误倾向"
-        },
-        {
-          "key": "B",
-          "text": "反映了人民的利益和时代的要求"
-        },
-        {
-          "key": "C",
-          "text": "廓清了不合乎时代进步和社会发展规律的模糊概念"
-        },
-        {
-          "key": "D",
-          "text": "把对社会主义的认识提高到新的科学水平"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-61",
-      "sequence": 779,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 61,
-      "sourceNo": 80,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "解放思想、实事求是的思想路线，（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "有力地推动和保证了改革开放的进行"
-        },
-        {
-          "key": "B",
-          "text": "体现了革命胆略和科学精神的统一"
-        },
-        {
-          "key": "C",
-          "text": "是邓小平理论活的灵魂"
-        },
-        {
-          "key": "D",
-          "text": "是邓小平理论的精髓"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-62",
-      "sequence": 780,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 62,
-      "sourceNo": 85,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平理论中关于社会主义精神文明建设的重要观点包括（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "强调物质文明和精神文明 “两手抓，两手都要硬”"
-        },
-        {
-          "key": "B",
-          "text": "提出培养有理想、有道德、有文化、有纪律的 “四有” 新人目标"
-        },
-        {
-          "key": "C",
-          "text": "倡导弘扬爱国主义、集体主义、社会主义思想"
-        },
-        {
-          "key": "D",
-          "text": "认为精神文明建设应服从于物质文明建设，无需单独重视"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-63",
-      "sequence": 781,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 63,
-      "sourceNo": 86,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "“一国两制”的提出是从中国实际出发，解决（），实现祖国和平统一的伟大构想。",
-      "answerRaw": "A;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "台湾问题"
-        },
-        {
-          "key": "B",
-          "text": "南海问题"
-        },
-        {
-          "key": "C",
-          "text": "香港问题"
-        },
-        {
-          "key": "D",
-          "text": "澳门问题"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-64",
-      "sequence": 782,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 64,
-      "sourceNo": 87,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "“三步走”发展战略中直接体现人民生活水平的目标包括（）。",
-      "answerRaw": "B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "基本实现现代化"
-        },
-        {
-          "key": "B",
-          "text": "解决温饱"
-        },
-        {
-          "key": "C",
-          "text": "实现小康"
-        },
-        {
-          "key": "D",
-          "text": "达到比较富裕"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-65",
-      "sequence": 783,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 65,
-      "sourceNo": 88,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平反复强调并作为我国立国之本的四项基本原则是（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "坚持社会主义道路"
-        },
-        {
-          "key": "B",
-          "text": "坚持中国共产党的领导"
-        },
-        {
-          "key": "C",
-          "text": "坚持人民民主专政"
-        },
-        {
-          "key": "D",
-          "text": "坚持马列主义、毛泽东思想"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-66",
-      "sequence": 784,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 66,
-      "sourceNo": 89,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平关于 “改革是中国的第二次革命” 的论断，其内涵包括（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "改革的性质同过去的革命一样，都是为了扫除发展社会生产力的障碍"
-        },
-        {
-          "key": "B",
-          "text": "改革是对原有经济体制的根本性变革，而非细枝末节的修补"
-        },
-        {
-          "key": "C",
-          "text": "改革也会引起社会生活和人们思想观念等方面的深刻变化"
-        },
-        {
-          "key": "D",
-          "text": "改革与革命的方式完全相同，都是通过激烈的暴力手段进行"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-67",
-      "sequence": 785,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 67,
-      "sourceNo": 91,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "“一个中心，两个基本点”是对社会主义初级阶段基本路线的简明概括，“两个基本点”是指（）。",
-      "answerRaw": "A;B",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "坚持四项基本原则"
-        },
-        {
-          "key": "B",
-          "text": "坚持改革开放"
-        },
-        {
-          "key": "C",
-          "text": "坚持解放发展生产力"
-        },
-        {
-          "key": "D",
-          "text": "坚持自力更生，艰苦创业"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-68",
-      "sequence": 786,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 68,
-      "sourceNo": 93,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "“一国两制”构想的基本内容，包括（）。",
-      "answerRaw": "A;B;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "以“一个中国”为基础，实行“两种制度”"
-        },
-        {
-          "key": "B",
-          "text": "台、港、澳地区实行高度自治"
-        },
-        {
-          "key": "C",
-          "text": "台、港、澳地区实行完全自治"
-        },
-        {
-          "key": "D",
-          "text": "实行“一国两制”长期不变"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-69",
-      "sequence": 787,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 69,
-      "sourceNo": 94,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "关于对外开放，下列表述正确的有（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "当今的世界是开放的世界"
-        },
-        {
-          "key": "B",
-          "text": "对外开放要正确对待资本主义社会创造的现代文明成果"
-        },
-        {
-          "key": "C",
-          "text": "中国的发展离不开世界"
-        },
-        {
-          "key": "D",
-          "text": "对外开放是我们国家的基本国策"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-70",
-      "sequence": 788,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 70,
-      "sourceNo": 96,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "1987年4月，邓小平第一次提出了分“三步走”基本实现现代化的战略。同年10月，中共十三大把邓小平“三步走”的发展战略构想确定下来，这就是（）。",
-      "answerRaw": "A;B;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "到1990年，实现国民生产总值比1980年翻一番，解决人民的温饱问题"
-        },
-        {
-          "key": "B",
-          "text": "到20世纪末，使国民生产总值再翻一番，人民生活达到小康水平"
-        },
-        {
-          "key": "C",
-          "text": "到2020年左右，建党100周年时，全面建成小康社会"
-        },
-        {
-          "key": "D",
-          "text": "到21世纪中叶，人均国民生产总值达到中等发达国家水平，基本实现现代化"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-71",
-      "sequence": 789,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 71,
-      "sourceNo": 97,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "我国社会主义建设造成失误的直接和深层原因包括（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "在经济上急于求成、盲目求成和急于过渡"
-        },
-        {
-          "key": "B",
-          "text": "在政治上以阶级斗争为纲"
-        },
-        {
-          "key": "C",
-          "text": "偏离了党实事求是的思想路线"
-        },
-        {
-          "key": "D",
-          "text": "没有搞清什么是社会主义和如何建设社会主义的问题"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-72",
-      "sequence": 790,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 72,
-      "sourceNo": 98,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平指出，在改革中我们始终要坚持的两条根本原则是（）。",
-      "answerRaw": "B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "以人为本"
-        },
-        {
-          "key": "B",
-          "text": "以社会主义公有制经济为主体"
-        },
-        {
-          "key": "C",
-          "text": "共同富裕"
-        },
-        {
-          "key": "D",
-          "text": "坚持马克思主义的指导地位"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-73",
-      "sequence": 791,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 73,
-      "sourceNo": 99,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "在《解放思想，实事求是，团结一致向前看》的讲话中，邓小平主要讲了（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "解放思想是当前的一个重大政治问题"
-        },
-        {
-          "key": "B",
-          "text": "民主是解放思想的重要条件"
-        },
-        {
-          "key": "C",
-          "text": "处理遗留问题为的是向前看"
-        },
-        {
-          "key": "D",
-          "text": "研究新情况，解决新问题"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-74",
-      "sequence": 792,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 74,
-      "sourceNo": 100,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "1978年12月召开的党的十一届三中全会，实现了党的历史上具有深远意义的伟大转折，包含（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "重新确立了解放思想，实事求是的思想路线"
-        },
-        {
-          "key": "B",
-          "text": "停止使用“以阶级斗争为纲”的错误提法"
-        },
-        {
-          "key": "C",
-          "text": "确定把全党工作的着重点转移到社会主义现代化建设上来"
-        },
-        {
-          "key": "D",
-          "text": "作出实行改革开放的重大决策"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-75",
-      "sequence": 793,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 75,
-      "sourceNo": 101,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平在南方谈话中提出的“三个有利于”标准是指（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "是否有利于发展社会主义社会的生产力"
-        },
-        {
-          "key": "B",
-          "text": "是否有利于增强社会主义国家的综合国力"
-        },
-        {
-          "key": "C",
-          "text": "是否有利于提高人民的生活水平"
-        },
-        {
-          "key": "D",
-          "text": "是否有利于融入全球体制"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-76",
-      "sequence": 794,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 76,
-      "sourceNo": 102,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平关于社会主义本质的概括，具有重大的政治意义，理论意义和实践意义，促进（）。",
-      "answerRaw": "A;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "在坚持社会主义基本制度的基础上推进改革"
-        },
-        {
-          "key": "B",
-          "text": "社会主义的市场化、自由化和私有化改革"
-        },
-        {
-          "key": "C",
-          "text": "改革沿着合乎社会主义本质要求的方向发展"
-        },
-        {
-          "key": "D",
-          "text": "建设有中国特色的社会主义"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-77",
-      "sequence": 795,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 77,
-      "sourceNo": 104,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的十三大系统地阐述了社会主义初级阶段的科学内涵，阐明了社会主义初级阶段这个论断，包括两层含义（）。",
-      "answerRaw": "A;B",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "我国社会已经是社会主义社会，我们必须坚持而不能离开社会主义"
-        },
-        {
-          "key": "B",
-          "text": "我国的社会主义社会还处在初级阶段"
-        },
-        {
-          "key": "C",
-          "text": "社会主义初级阶段是任何社会主义国家都不可逾越的必经阶段"
-        },
-        {
-          "key": "D",
-          "text": "社会主义初级阶段和共产主义的初级阶段是同一个阶段"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-78",
-      "sequence": 796,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 78,
-      "sourceNo": 108,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平对时代主题的判断，其基本点包括（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "世界大战在一个相当长的时期内可以避免，我们有可能争取较长时期的和平环境"
-        },
-        {
-          "key": "B",
-          "text": "从经济角度来说，和平与发展是当今世界两大带有全球性的战略问题，是东西方之间、发达国家与发展中国家之间矛盾全局的集中体现"
-        },
-        {
-          "key": "C",
-          "text": "和平与发展是相辅相成的，世界和平是促进各国共同发展的前提条件，各国的共同发展则是保持世界和平的重要基础"
-        },
-        {
-          "key": "D",
-          "text": "和平与发展成为时代主题，并不意味着这两个问题已经解决"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-79",
-      "sequence": 797,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 79,
-      "sourceNo": 109,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "1989年以后，国际局势风云变幻，世界社会主义事业出现严重曲折。邓小平纵观全局，高瞻远瞩，对错综复杂的国际形势作出了精辟的判断，对我国对外关系提出了重要的指导方针。邓小平指出：“对于国际局势，概括起来就是三句话（）。”",
-      "answerRaw": "A;B;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "冷静观察"
-        },
-        {
-          "key": "B",
-          "text": "稳住阵脚"
-        },
-        {
-          "key": "C",
-          "text": "韬光养晦"
-        },
-        {
-          "key": "D",
-          "text": "沉着应付"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-80",
-      "sequence": 798,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 80,
-      "sourceNo": 111,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "1926-1927年初，邓小平在莫斯科中山大学留学一年。此时正值列宁的新经济政策在莫斯科和整个苏联燎原般发展，国家经济全面开花，市场上商品丰富、品类繁多，商店、饭馆、咖啡馆随处可见。邓小平到中山大学第一天就收到了一大堆日用品，一日三餐也非常丰富。在此期间，邓小平还认真阅读和摘抄了苏联领导人关于新经济政策的许多论述。这一段经历对邓小平后来思考建设“有中国特色的社会主义”具有一定的启示。邓小平与列宁在如何建设社会主义的探索中有许多相通之处，主要有（）。",
-      "answerRaw": "B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "优先发展重工业，快速实现从农业国到工业国的转变"
-        },
-        {
-          "key": "B",
-          "text": "把大力发展生产力、提高劳动生产率放在首要地位"
-        },
-        {
-          "key": "C",
-          "text": "学习和利用资本主义的文明成果"
-        },
-        {
-          "key": "D",
-          "text": "在多种经济成分并存的条件下，利用商品、货币和市场发展经济"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-81",
-      "sequence": 799,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 81,
-      "sourceNo": 112,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平理论走向成熟的标志性事件包括（）。",
-      "answerRaw": "C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "党的十二大提出“建设有中国特色的社会主义”"
-        },
-        {
-          "key": "B",
-          "text": "党的十三大系统阐述社会主义初级阶段理论"
-        },
-        {
-          "key": "C",
-          "text": "南方谈话提出社会主义本质论和社会主义市场经济理论"
-        },
-        {
-          "key": "D",
-          "text": "党的十四大对建设有中国特色社会主义理论进行系统概括"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-82",
-      "sequence": 800,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 82,
-      "sourceNo": 114,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平提出的“两手抓”方针包括（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "一手抓物质文明，一手抓精神文明"
-        },
-        {
-          "key": "B",
-          "text": "一手抓改革开放，一手抓打击犯罪"
-        },
-        {
-          "key": "C",
-          "text": "一手抓经济建设，一手抓民主法制"
-        },
-        {
-          "key": "D",
-          "text": "一手抓发展，一手抓稳定"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-83",
-      "sequence": 801,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 83,
-      "sourceNo": 115,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "“一国两制”的核心要义是（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "国家主权统一于中华人民共和国"
-        },
-        {
-          "key": "B",
-          "text": "港澳台保持原有资本主义制度不变"
-        },
-        {
-          "key": "C",
-          "text": "港澳台享有高度自治权"
-        },
-        {
-          "key": "D",
-          "text": "港澳台可以保留军队"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-84",
-      "sequence": 802,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 84,
-      "sourceNo": 117,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平理论形成的时代背景包括（）​。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "和平与发展成为时代主题"
-        },
-        {
-          "key": "B",
-          "text": "世界多极化趋势显现"
-        },
-        {
-          "key": "C",
-          "text": "新科技革命迅猛发展"
-        },
-        {
-          "key": "D",
-          "text": "社会主义阵营完全解体"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-85",
-      "sequence": 803,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 85,
-      "sourceNo": 118,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平关于科技与教育的论断包括（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "科学技术是第一生产力"
-        },
-        {
-          "key": "B",
-          "text": "教育要面向现代化、面向世界、面向未来"
-        },
-        {
-          "key": "C",
-          "text": "知识分子是工人阶级的一部分"
-        },
-        {
-          "key": "D",
-          "text": "尊重知识、尊重人才"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-86",
-      "sequence": 804,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 86,
-      "sourceNo": 119,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平关于新时期加强党的建设的主要思想包括（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "坚持党要管党、从严治党"
-        },
-        {
-          "key": "B",
-          "text": "把党建设成为领导社会主义现代化事业的坚强核心"
-        },
-        {
-          "key": "C",
-          "text": "密切党同人民群众的血肉联系"
-        },
-        {
-          "key": "D",
-          "text": "推进反腐败斗争制度化"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-87",
-      "sequence": 805,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 87,
-      "sourceNo": 120,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平提出的实现共同富裕的路径包括（）。",
-      "answerRaw": "A;B",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "允许一部分地区、一部分人先富起来"
-        },
-        {
-          "key": "B",
-          "text": "先富带动后富，最终达到共同富裕"
-        },
-        {
-          "key": "C",
-          "text": "通过计划手段平均分配社会财富"
-        },
-        {
-          "key": "D",
-          "text": "消除一切收入差距"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-88",
-      "sequence": 806,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 88,
-      "sourceNo": 122,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平提出的对外开放基本原则包括（）。",
-      "answerRaw": "A;B",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "独立自主、自力更生"
-        },
-        {
-          "key": "B",
-          "text": "平等互利、共同发展"
-        },
-        {
-          "key": "C",
-          "text": "全面引进西方政治制度"
-        },
-        {
-          "key": "D",
-          "text": "以市场换技术"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-89",
-      "sequence": 807,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 89,
-      "sourceNo": 123,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "20世纪80年代末90年代初，邓小平应对国际局势提出的方针包括（）。",
-      "answerRaw": "A;B;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "冷静观察、稳住阵脚"
-        },
-        {
-          "key": "B",
-          "text": "韬光养晦、有所作为"
-        },
-        {
-          "key": "C",
-          "text": "联合第三世界国家对抗霸权"
-        },
-        {
-          "key": "D",
-          "text": "推动建立国际政治经济新秩序"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-90",
-      "sequence": 808,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 90,
-      "sourceNo": 124,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "解放思想、实事求是的辩证关系体现在（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "解放思想是实事求是的前提"
-        },
-        {
-          "key": "B",
-          "text": "实事求是是解放思想的目的"
-        },
-        {
-          "key": "C",
-          "text": "二者统一于改革开放实践"
-        },
-        {
-          "key": "D",
-          "text": "解放思想可以突破客观规律"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-91",
-      "sequence": 809,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 91,
-      "sourceNo": 125,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平提出的改革方法论原则包括（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "胆子要大、步子要稳"
-        },
-        {
-          "key": "B",
-          "text": "先试点后推广"
-        },
-        {
-          "key": "C",
-          "text": "正确处理改革、发展、稳定的关系"
-        },
-        {
-          "key": "D",
-          "text": "全面照搬西方改革经验"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-92",
-      "sequence": 810,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 92,
-      "sourceNo": 126,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平理论在马克思主义中国化进程中的历史地位表现为（）。",
-      "answerRaw": "A;B;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "毛泽东思想在新的历史条件下的继承和发展"
-        },
-        {
-          "key": "B",
-          "text": "中国特色社会主义理论体系的开篇之作"
-        },
-        {
-          "key": "C",
-          "text": "21世纪马克思主义的核心组成部分"
-        },
-        {
-          "key": "D",
-          "text": "改革开放和现代化建设的科学指南"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-93",
-      "sequence": 811,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 93,
-      "sourceNo": 128,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平提出\"冷静观察、稳住阵脚、沉着应付\"的国际战略方针。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-94",
-      "sequence": 812,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 94,
-      "sourceNo": 131,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的十一届三中全会作出工作重心转移到经济建设上来的战略决策。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-95",
-      "sequence": 813,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 95,
-      "sourceNo": 133,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "解放思想、实事求是的思想路线，是邓小平理论的活的灵魂，是邓小平理论的精髓。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-96",
-      "sequence": 814,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 96,
-      "sourceNo": 134,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "我国处在社会主义初级阶段，是邓小平和我们党对当代中国基本国情的科学判断。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-97",
-      "sequence": 815,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 97,
-      "sourceNo": 135,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的十二大系统地论述了社会主义初级阶段理论。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-98",
-      "sequence": 816,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 98,
-      "sourceNo": 139,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的十一届三中全会以后，邓小平指出：“要发展生产力，经济体制改革是必由之路。”",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-99",
-      "sequence": 817,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 99,
-      "sourceNo": 140,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "阶级斗争是社会主义初级阶段的主要矛盾。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-100",
-      "sequence": 818,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 100,
-      "sourceNo": 141,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义就是搞计划经济，资本主义就是搞市场经济。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-101",
-      "sequence": 819,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 101,
-      "sourceNo": 142,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "发展生产力是社会主义本质的内在要求。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-102",
-      "sequence": 820,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 102,
-      "sourceNo": 143,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "实现共同富裕就是实现全体人民的同步富裕。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-103",
-      "sequence": 821,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 103,
-      "sourceNo": 144,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的基本路线中\"两个基本点\"是指改革开放和共同富裕。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-104",
-      "sequence": 822,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 104,
-      "sourceNo": 145,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的基本路线是党和国家的生命线、人民的幸福线。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-105",
-      "sequence": 823,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 105,
-      "sourceNo": 148,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "对外开放只包括对发达国家的开放。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-106",
-      "sequence": 824,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 106,
-      "sourceNo": 150,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "坚持一个中国，是“和平统一、一国两制”的核心。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-107",
-      "sequence": 825,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 107,
-      "sourceNo": 151,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "香港问题和澳门问题是中国国内战争遗留下来的问题。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-108",
-      "sequence": 826,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 108,
-      "sourceNo": 152,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "改革是社会主义社会发展的直接动力。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-109",
-      "sequence": 827,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 109,
-      "sourceNo": 153,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义的本质是人民当家作主。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-110",
-      "sequence": 828,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 110,
-      "sourceNo": 154,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平理论回答的基本问题是解放思想。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-111",
-      "sequence": 829,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 111,
-      "sourceNo": 155,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "革命是解放生产力，改革也是解放生产力。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-112",
-      "sequence": 830,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 112,
-      "sourceNo": 156,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "我国的社会主义社会已经是高级阶段的社会主义社会。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-113",
-      "sequence": 831,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 113,
-      "sourceNo": 158,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "在我国科学技术还处于相对落后阶段时，“863”计划的实施有力推动了我国高技术的进步。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-114",
-      "sequence": 832,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 114,
-      "sourceNo": 160,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平理论是中国特色社会主义理论体系的开篇之作，继承和发展了马克思列宁主义、毛泽东思想。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-115",
-      "sequence": 833,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 115,
-      "sourceNo": 161,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的十四大明确提出我国经济体制改革的目标是建立社会主义市场经济体制。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-116",
-      "sequence": 834,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 116,
-      "sourceNo": 162,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义初级阶段基本路线的完整表述包含“自力更生，艰苦创业”的内容。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-117",
-      "sequence": 835,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 117,
-      "sourceNo": 163,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平提出的“三步走”发展战略中，第三步目标是到21世纪中叶基本实现现代化。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-118",
-      "sequence": 836,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 118,
-      "sourceNo": 164,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平认为，改革是动力，发展是目的，稳定是前提，三者必须统筹兼顾。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-119",
-      "sequence": 837,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 119,
-      "sourceNo": 165,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义本质论强调，在解放和发展生产力的基础上，通过消灭剥削、消除两极分化的制度变革，最终实现共同富裕。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-120",
-      "sequence": 838,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 120,
-      "sourceNo": 166,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "科教兴国战略的理论基础是邓小平提出的“科学技术是第一生产力”论断。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-121",
-      "sequence": 839,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 121,
-      "sourceNo": 169,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平在南方谈话中明确提出“党的基本路线要管一百年，动摇不得”。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-122",
-      "sequence": 840,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 122,
-      "sourceNo": 170,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "我国社会主义初级阶段至少需要上百年时间，这是由历史起点和现实条件决定的。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-123",
-      "sequence": 841,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 123,
-      "sourceNo": 172,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "改革开放理论认为，改革是对社会主义制度的根本性变革。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-124",
-      "sequence": 842,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 124,
-      "sourceNo": 173,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "到20世纪末，我国初步建立了社会主义市场经济体制。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-125",
-      "sequence": 843,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 125,
-      "sourceNo": 174,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义初级阶段理论的两层含义是“我国已是社会主义”和“处于不发达阶段”。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-126",
-      "sequence": 844,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 126,
-      "sourceNo": 175,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "1978年12月召开的( )，重新确立了解放思想、实事求是的思想路线。",
-      "answerRaw": "十一届三中全会//党的十一届三中全会",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "十一届三中全会",
-            "党的十一届三中全会"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-127",
-      "sequence": 845,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 127,
-      "sourceNo": 176,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "当代中国最鲜明的特色是( )。",
-      "answerRaw": "改革开放",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "改革开放"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-128",
-      "sequence": 846,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 128,
-      "sourceNo": 177,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "党的( )高举邓小平理论的旗帜，并把邓小平理论同马克思列宁主义、毛泽东思想一起作为党的指导思想写入党章。",
-      "answerRaw": "十五大",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "十五大"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-129",
-      "sequence": 847,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 129,
-      "sourceNo": 178,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "社会主义社会发展的直接动力是( )。",
-      "answerRaw": "改革",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "改革"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-130",
-      "sequence": 848,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 130,
-      "sourceNo": 179,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "执政党的( )是关系党生死存亡的重大问题。",
-      "answerRaw": "党风",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "党风"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-131",
-      "sequence": 849,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 131,
-      "sourceNo": 180,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "中国社会主义改革开放和现代化建设的总设计师是( )。",
-      "answerRaw": "邓小平",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "邓小平"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-132",
-      "sequence": 850,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 132,
-      "sourceNo": 181,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平提出实现祖国和平统一的伟大构想是( )。",
-      "answerRaw": "一国两制",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "一国两制"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-133",
-      "sequence": 851,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 133,
-      "sourceNo": 182,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平理论形成的时代背景是( )成为时代主题。",
-      "answerRaw": "和平与发展",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "和平与发展"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-134",
-      "sequence": 852,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 134,
-      "sourceNo": 183,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平理论的现实依据是我国( )和现代化建设的实践。",
-      "answerRaw": "改革开放",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "改革开放"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-135",
-      "sequence": 853,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 135,
-      "sourceNo": 185,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平指出，社会主义的本质是解放生产力，发展生产力，消灭剥削，消除两极分化，最终实现( )。",
-      "answerRaw": "共同富裕",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "共同富裕"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-136",
-      "sequence": 854,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 136,
-      "sourceNo": 188,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平提出的“三步走”战略中，第二步目标是到20世纪末使人民生活达到( )水平。",
-      "answerRaw": "小康",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "小康"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-137",
-      "sequence": 855,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 137,
-      "sourceNo": 190,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平指出，社会主义最大的优越性就是( )。",
-      "answerRaw": "共同富裕",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "共同富裕"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-138",
-      "sequence": 856,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 138,
-      "sourceNo": 193,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平理论被确立为党的指导思想并写入宪法是在( )年。",
-      "answerRaw": "1999",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "1999"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-139",
-      "sequence": 857,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 139,
-      "sourceNo": 194,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平提出，( )是中国的第二次革命。",
-      "answerRaw": "改革",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "改革"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-140",
-      "sequence": 858,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 140,
-      "sourceNo": 195,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平理论活的灵魂和精髓是( )、实事求是。",
-      "answerRaw": "解放思想",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "解放思想"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-141",
-      "sequence": 859,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 141,
-      "sourceNo": 196,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平认为，四项基本原则的核心是坚持( )。",
-      "answerRaw": "中国共产党的领导//党的领导//中国共产党领导",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "中国共产党的领导",
-            "党的领导",
-            "中国共产党领导"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-142",
-      "sequence": 860,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 142,
-      "sourceNo": 197,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平在党的十二大开幕词中首次明确提出( )的科学命题。",
-      "answerRaw": "建设有中国特色的社会主义",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "建设有中国特色的社会主义"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-143",
-      "sequence": 861,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 143,
-      "sourceNo": 199,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平理论的形成条件。",
-      "answerRaw": "邓小平理论是在和平与发展成为时代主题的历史条件下，在总结我国社会主义胜利和挫折的历史经验并借鉴其他社会主义国家兴衰成败历史经验的基础上，在我国改革开放和现代化建设的实践中，逐步形成和发展起来的。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-144",
-      "sequence": 862,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 144,
-      "sourceNo": 201,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "如何认识邓小平理论的历史地位？",
-      "answerRaw": "（1）邓小平理论，是马克思列宁主义基本原理与当代中国实际和时代特征相结合的产物，是马克思列宁主义、毛泽东思想的继承和发展，是全党全国集体智慧的结晶。（2）邓小平理论第一次比较系统地初步回答了中国社会主义的发展道路、发展阶段、根本任务、发展动力、外部条件、政治保证、战略步骤、党的领导和依靠力量以及祖国统一等一系列基本问题，指导我们党制定了社会主义初级阶段的基本路线，是中国特色社会主义理论体系的开篇之作。（3）邓小平理论指导了改革开放的伟大实践，使改革开放后的中国发生天翻地覆的变化，迎来了思想的解放、经济的发展、政治的昌明、教育的勃兴、文艺的繁荣、科学的春天，我国社会生产力、综合国力和人民生活都上了一个大台阶，社会主义中国巍然屹立在世界东方，是改革开放和社会主义现代化建设的科学指南。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-145",
-      "sequence": 863,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 145,
-      "sourceNo": 202,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "请简述邓小平理论形成发展的三个阶段及其标志性成果。",
-      "answerRaw": "1.萌芽阶段（1978-1982）：以党的十一届三中全会为起点，确立解放思想、实事求是思想路线，提出改革开放决策；2. 形成阶段（1982-1992）：党的十二大提出“建设有中国特色的社会主义”，十三大确立社会主义初级阶段理论和“三步走”战略；3. 成熟阶段（1992年后）：以南方谈话和党的十四大为标志，系统阐述社会主义本质论、市场经济理论等，形成完整科学体系。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-06-第六章-邓小平理论-146",
-      "sequence": 864,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 146,
-      "sourceNo": 203,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "邓小平关于社会主义与市场经济关系的论述如何突破传统理论？其现实意义何在？",
-      "answerRaw": "一、理论突破：1.提出“计划经济≠社会主义，市场经济≠资本主义”，打破意识形态桎梏；2.强调市场经济是资源配置手段，可与社会主义制度结合。二、现实意义：1.党的十四大确立社会主义市场经济体制改革目标；2.推动公有制为主体、多种所有制共同发展的基本经济制度形成；3.为中国经济高速发展提供理论合法性。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
       "id": "chapter-06-第六章-邓小平理论-147",
-      "sequence": 865,
+      "sequence": 774,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 147,
@@ -30167,46 +27522,8 @@ window.QUESTION_BANK_DATA = {
       "fillBlanks": []
     },
     {
-      "id": "chapter-06-第六章-邓小平理论-148",
-      "sequence": 866,
-      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 148,
-      "sourceNo": 206,
-      "chapterKey": "chapter-06-第六章-邓小平理论",
-      "chapterTitle": "第六章 邓小平理论",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [],
-      "material": "",
-      "stem": "执政党的党风是关系党生死存亡的重大问题，一定要坚持党的宗旨，继承党的优良传统，发扬（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "党的理论和实践相结合的作风"
-        },
-        {
-          "key": "B",
-          "text": "和人民群众紧密联系在一起的作风"
-        },
-        {
-          "key": "C",
-          "text": "自我批评的作风"
-        },
-        {
-          "key": "D",
-          "text": "坚持党的宗旨的作风"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
       "id": "chapter-06-第六章-邓小平理论-149",
-      "sequence": 867,
+      "sequence": 775,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 149,
@@ -30244,7 +27561,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-150",
-      "sequence": 868,
+      "sequence": 776,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 150,
@@ -30282,7 +27599,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-151",
-      "sequence": 869,
+      "sequence": 777,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 151,
@@ -30320,7 +27637,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-152",
-      "sequence": 870,
+      "sequence": 778,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 152,
@@ -30358,7 +27675,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-153",
-      "sequence": 871,
+      "sequence": 779,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 153,
@@ -30396,7 +27713,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-154",
-      "sequence": 872,
+      "sequence": 780,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 154,
@@ -30434,7 +27751,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-155",
-      "sequence": 873,
+      "sequence": 781,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 155,
@@ -30472,7 +27789,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-156",
-      "sequence": 874,
+      "sequence": 782,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 156,
@@ -30510,7 +27827,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-157",
-      "sequence": 875,
+      "sequence": 783,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 157,
@@ -30548,7 +27865,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-158",
-      "sequence": 876,
+      "sequence": 784,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 158,
@@ -30586,7 +27903,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-159",
-      "sequence": 877,
+      "sequence": 785,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 159,
@@ -30624,7 +27941,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-160",
-      "sequence": 878,
+      "sequence": 786,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 160,
@@ -30662,7 +27979,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-161",
-      "sequence": 879,
+      "sequence": 787,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 161,
@@ -30700,7 +28017,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-162",
-      "sequence": 880,
+      "sequence": 788,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 162,
@@ -30738,7 +28055,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-163",
-      "sequence": 881,
+      "sequence": 789,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 163,
@@ -30776,7 +28093,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-164",
-      "sequence": 882,
+      "sequence": 790,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 164,
@@ -30814,7 +28131,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-165",
-      "sequence": 883,
+      "sequence": 791,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 165,
@@ -30852,7 +28169,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-166",
-      "sequence": 884,
+      "sequence": 792,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 166,
@@ -30890,7 +28207,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-167",
-      "sequence": 885,
+      "sequence": 793,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 167,
@@ -30928,7 +28245,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-168",
-      "sequence": 886,
+      "sequence": 794,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 168,
@@ -30966,7 +28283,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-169",
-      "sequence": 887,
+      "sequence": 795,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 169,
@@ -31004,7 +28321,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-170",
-      "sequence": 888,
+      "sequence": 796,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 170,
@@ -31042,7 +28359,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-171",
-      "sequence": 889,
+      "sequence": 797,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 171,
@@ -31079,8 +28396,1452 @@ window.QUESTION_BANK_DATA = {
       "fillBlanks": []
     },
     {
+      "id": "chapter-06-第六章-邓小平理论-56",
+      "sequence": 798,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 56,
+      "sourceNo": 74,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "我国过去40多年的快速发展靠的是改革开放，我国未来发展也必须坚定不移依靠改革开放。以下对改革开放认识正确的是（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "改革开放是决定当代中国命运的关键抉择"
+        },
+        {
+          "key": "B",
+          "text": "改革开放是发展中国特色社会主义、实现中华民族伟大复兴的必由之路"
+        },
+        {
+          "key": "C",
+          "text": "只有改革开放才能发展中国、发展社会主义、发展马克思主义"
+        },
+        {
+          "key": "D",
+          "text": "改革开放符合党心民心、顺应时代潮流"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-57",
+      "sequence": 799,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 57,
+      "sourceNo": 75,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义市场经济体制是社会主义基本制度与市场经济的结合，其基本特征是（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "以公有制为主体，多种所有制经济共同发展的所有制结构"
+        },
+        {
+          "key": "B",
+          "text": "以按劳分配为主体，多种分配方式并存的分配结构"
+        },
+        {
+          "key": "C",
+          "text": "宏观调控上，能更好地发挥计划和市场两种手段的长处"
+        },
+        {
+          "key": "D",
+          "text": "政府不直接干预企业的生产和经营"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-58",
+      "sequence": 800,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 58,
+      "sourceNo": 77,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的十四大报告系统阐释了中国特色社会主义理论的历史地位和指导意义，认为这一理论（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "是马克思列宁主义基本原理与当代中国实际和时代特征相结合的产物"
+        },
+        {
+          "key": "B",
+          "text": "是对毛泽东思想的继承和发展"
+        },
+        {
+          "key": "C",
+          "text": "是全党全国人民集体智慧的结晶"
+        },
+        {
+          "key": "D",
+          "text": "是中国共产党和中国人民最可贵的精神财富"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-59",
+      "sequence": 801,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 59,
+      "sourceNo": 78,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "“什么是社会主义，怎样建设社会主义”，是（）。",
+      "answerRaw": "A;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会主义的根本问题"
+        },
+        {
+          "key": "B",
+          "text": "党的思想路线问题"
+        },
+        {
+          "key": "C",
+          "text": "社会主义首要的基本理论问题"
+        },
+        {
+          "key": "D",
+          "text": "邓小平理论的主题"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-60",
+      "sequence": 802,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 60,
+      "sourceNo": 79,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平关于社会主义本质的概括，（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "摆脱了长期以来拘泥于具体模式而忽略社会主义本质的错误倾向"
+        },
+        {
+          "key": "B",
+          "text": "反映了人民的利益和时代的要求"
+        },
+        {
+          "key": "C",
+          "text": "廓清了不合乎时代进步和社会发展规律的模糊概念"
+        },
+        {
+          "key": "D",
+          "text": "把对社会主义的认识提高到新的科学水平"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-61",
+      "sequence": 803,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 61,
+      "sourceNo": 80,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "解放思想、实事求是的思想路线，（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "有力地推动和保证了改革开放的进行"
+        },
+        {
+          "key": "B",
+          "text": "体现了革命胆略和科学精神的统一"
+        },
+        {
+          "key": "C",
+          "text": "是邓小平理论活的灵魂"
+        },
+        {
+          "key": "D",
+          "text": "是邓小平理论的精髓"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-62",
+      "sequence": 804,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 62,
+      "sourceNo": 85,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平理论中关于社会主义精神文明建设的重要观点包括（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "强调物质文明和精神文明 “两手抓，两手都要硬”"
+        },
+        {
+          "key": "B",
+          "text": "提出培养有理想、有道德、有文化、有纪律的 “四有” 新人目标"
+        },
+        {
+          "key": "C",
+          "text": "倡导弘扬爱国主义、集体主义、社会主义思想"
+        },
+        {
+          "key": "D",
+          "text": "认为精神文明建设应服从于物质文明建设，无需单独重视"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-63",
+      "sequence": 805,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 63,
+      "sourceNo": 86,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "“一国两制”的提出是从中国实际出发，解决（），实现祖国和平统一的伟大构想。",
+      "answerRaw": "A;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "台湾问题"
+        },
+        {
+          "key": "B",
+          "text": "南海问题"
+        },
+        {
+          "key": "C",
+          "text": "香港问题"
+        },
+        {
+          "key": "D",
+          "text": "澳门问题"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-64",
+      "sequence": 806,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 64,
+      "sourceNo": 87,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "“三步走”发展战略中直接体现人民生活水平的目标包括（）。",
+      "answerRaw": "B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "基本实现现代化"
+        },
+        {
+          "key": "B",
+          "text": "解决温饱"
+        },
+        {
+          "key": "C",
+          "text": "实现小康"
+        },
+        {
+          "key": "D",
+          "text": "达到比较富裕"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-65",
+      "sequence": 807,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 65,
+      "sourceNo": 88,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平反复强调并作为我国立国之本的四项基本原则是（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持社会主义道路"
+        },
+        {
+          "key": "B",
+          "text": "坚持中国共产党的领导"
+        },
+        {
+          "key": "C",
+          "text": "坚持人民民主专政"
+        },
+        {
+          "key": "D",
+          "text": "坚持马列主义、毛泽东思想"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-66",
+      "sequence": 808,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 66,
+      "sourceNo": 89,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平关于 “改革是中国的第二次革命” 的论断，其内涵包括（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "改革的性质同过去的革命一样，都是为了扫除发展社会生产力的障碍"
+        },
+        {
+          "key": "B",
+          "text": "改革是对原有经济体制的根本性变革，而非细枝末节的修补"
+        },
+        {
+          "key": "C",
+          "text": "改革也会引起社会生活和人们思想观念等方面的深刻变化"
+        },
+        {
+          "key": "D",
+          "text": "改革与革命的方式完全相同，都是通过激烈的暴力手段进行"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-67",
+      "sequence": 809,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 67,
+      "sourceNo": 91,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "“一个中心，两个基本点”是对社会主义初级阶段基本路线的简明概括，“两个基本点”是指（）。",
+      "answerRaw": "A;B",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持四项基本原则"
+        },
+        {
+          "key": "B",
+          "text": "坚持改革开放"
+        },
+        {
+          "key": "C",
+          "text": "坚持解放发展生产力"
+        },
+        {
+          "key": "D",
+          "text": "坚持自力更生，艰苦创业"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-68",
+      "sequence": 810,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 68,
+      "sourceNo": 93,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "“一国两制”构想的基本内容，包括（）。",
+      "answerRaw": "A;B;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "以“一个中国”为基础，实行“两种制度”"
+        },
+        {
+          "key": "B",
+          "text": "台、港、澳地区实行高度自治"
+        },
+        {
+          "key": "C",
+          "text": "台、港、澳地区实行完全自治"
+        },
+        {
+          "key": "D",
+          "text": "实行“一国两制”长期不变"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-69",
+      "sequence": 811,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 69,
+      "sourceNo": 94,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "关于对外开放，下列表述正确的有（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "当今的世界是开放的世界"
+        },
+        {
+          "key": "B",
+          "text": "对外开放要正确对待资本主义社会创造的现代文明成果"
+        },
+        {
+          "key": "C",
+          "text": "中国的发展离不开世界"
+        },
+        {
+          "key": "D",
+          "text": "对外开放是我们国家的基本国策"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-70",
+      "sequence": 812,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 70,
+      "sourceNo": 96,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "1987年4月，邓小平第一次提出了分“三步走”基本实现现代化的战略。同年10月，中共十三大把邓小平“三步走”的发展战略构想确定下来，这就是（）。",
+      "answerRaw": "A;B;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "到1990年，实现国民生产总值比1980年翻一番，解决人民的温饱问题"
+        },
+        {
+          "key": "B",
+          "text": "到20世纪末，使国民生产总值再翻一番，人民生活达到小康水平"
+        },
+        {
+          "key": "C",
+          "text": "到2020年左右，建党100周年时，全面建成小康社会"
+        },
+        {
+          "key": "D",
+          "text": "到21世纪中叶，人均国民生产总值达到中等发达国家水平，基本实现现代化"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-71",
+      "sequence": 813,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 71,
+      "sourceNo": 97,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "我国社会主义建设造成失误的直接和深层原因包括（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "在经济上急于求成、盲目求成和急于过渡"
+        },
+        {
+          "key": "B",
+          "text": "在政治上以阶级斗争为纲"
+        },
+        {
+          "key": "C",
+          "text": "偏离了党实事求是的思想路线"
+        },
+        {
+          "key": "D",
+          "text": "没有搞清什么是社会主义和如何建设社会主义的问题"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-72",
+      "sequence": 814,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 72,
+      "sourceNo": 98,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平指出，在改革中我们始终要坚持的两条根本原则是（）。",
+      "answerRaw": "B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "以人为本"
+        },
+        {
+          "key": "B",
+          "text": "以社会主义公有制经济为主体"
+        },
+        {
+          "key": "C",
+          "text": "共同富裕"
+        },
+        {
+          "key": "D",
+          "text": "坚持马克思主义的指导地位"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-73",
+      "sequence": 815,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 73,
+      "sourceNo": 99,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "在《解放思想，实事求是，团结一致向前看》的讲话中，邓小平主要讲了（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "解放思想是当前的一个重大政治问题"
+        },
+        {
+          "key": "B",
+          "text": "民主是解放思想的重要条件"
+        },
+        {
+          "key": "C",
+          "text": "处理遗留问题为的是向前看"
+        },
+        {
+          "key": "D",
+          "text": "研究新情况，解决新问题"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-74",
+      "sequence": 816,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 74,
+      "sourceNo": 100,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "1978年12月召开的党的十一届三中全会，实现了党的历史上具有深远意义的伟大转折，包含（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "重新确立了解放思想，实事求是的思想路线"
+        },
+        {
+          "key": "B",
+          "text": "停止使用“以阶级斗争为纲”的错误提法"
+        },
+        {
+          "key": "C",
+          "text": "确定把全党工作的着重点转移到社会主义现代化建设上来"
+        },
+        {
+          "key": "D",
+          "text": "作出实行改革开放的重大决策"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-75",
+      "sequence": 817,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 75,
+      "sourceNo": 101,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平在南方谈话中提出的“三个有利于”标准是指（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "是否有利于发展社会主义社会的生产力"
+        },
+        {
+          "key": "B",
+          "text": "是否有利于增强社会主义国家的综合国力"
+        },
+        {
+          "key": "C",
+          "text": "是否有利于提高人民的生活水平"
+        },
+        {
+          "key": "D",
+          "text": "是否有利于融入全球体制"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-76",
+      "sequence": 818,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 76,
+      "sourceNo": 102,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平关于社会主义本质的概括，具有重大的政治意义，理论意义和实践意义，促进（）。",
+      "answerRaw": "A;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "在坚持社会主义基本制度的基础上推进改革"
+        },
+        {
+          "key": "B",
+          "text": "社会主义的市场化、自由化和私有化改革"
+        },
+        {
+          "key": "C",
+          "text": "改革沿着合乎社会主义本质要求的方向发展"
+        },
+        {
+          "key": "D",
+          "text": "建设有中国特色的社会主义"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-77",
+      "sequence": 819,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 77,
+      "sourceNo": 104,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的十三大系统地阐述了社会主义初级阶段的科学内涵，阐明了社会主义初级阶段这个论断，包括两层含义（）。",
+      "answerRaw": "A;B",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "我国社会已经是社会主义社会，我们必须坚持而不能离开社会主义"
+        },
+        {
+          "key": "B",
+          "text": "我国的社会主义社会还处在初级阶段"
+        },
+        {
+          "key": "C",
+          "text": "社会主义初级阶段是任何社会主义国家都不可逾越的必经阶段"
+        },
+        {
+          "key": "D",
+          "text": "社会主义初级阶段和共产主义的初级阶段是同一个阶段"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-78",
+      "sequence": 820,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 78,
+      "sourceNo": 108,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平对时代主题的判断，其基本点包括（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "世界大战在一个相当长的时期内可以避免，我们有可能争取较长时期的和平环境"
+        },
+        {
+          "key": "B",
+          "text": "从经济角度来说，和平与发展是当今世界两大带有全球性的战略问题，是东西方之间、发达国家与发展中国家之间矛盾全局的集中体现"
+        },
+        {
+          "key": "C",
+          "text": "和平与发展是相辅相成的，世界和平是促进各国共同发展的前提条件，各国的共同发展则是保持世界和平的重要基础"
+        },
+        {
+          "key": "D",
+          "text": "和平与发展成为时代主题，并不意味着这两个问题已经解决"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-79",
+      "sequence": 821,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 79,
+      "sourceNo": 109,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "1989年以后，国际局势风云变幻，世界社会主义事业出现严重曲折。邓小平纵观全局，高瞻远瞩，对错综复杂的国际形势作出了精辟的判断，对我国对外关系提出了重要的指导方针。邓小平指出：“对于国际局势，概括起来就是三句话（）。”",
+      "answerRaw": "A;B;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "冷静观察"
+        },
+        {
+          "key": "B",
+          "text": "稳住阵脚"
+        },
+        {
+          "key": "C",
+          "text": "韬光养晦"
+        },
+        {
+          "key": "D",
+          "text": "沉着应付"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-80",
+      "sequence": 822,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 80,
+      "sourceNo": 111,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "1926-1927年初，邓小平在莫斯科中山大学留学一年。此时正值列宁的新经济政策在莫斯科和整个苏联燎原般发展，国家经济全面开花，市场上商品丰富、品类繁多，商店、饭馆、咖啡馆随处可见。邓小平到中山大学第一天就收到了一大堆日用品，一日三餐也非常丰富。在此期间，邓小平还认真阅读和摘抄了苏联领导人关于新经济政策的许多论述。这一段经历对邓小平后来思考建设“有中国特色的社会主义”具有一定的启示。邓小平与列宁在如何建设社会主义的探索中有许多相通之处，主要有（）。",
+      "answerRaw": "B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "优先发展重工业，快速实现从农业国到工业国的转变"
+        },
+        {
+          "key": "B",
+          "text": "把大力发展生产力、提高劳动生产率放在首要地位"
+        },
+        {
+          "key": "C",
+          "text": "学习和利用资本主义的文明成果"
+        },
+        {
+          "key": "D",
+          "text": "在多种经济成分并存的条件下，利用商品、货币和市场发展经济"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-81",
+      "sequence": 823,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 81,
+      "sourceNo": 112,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平理论走向成熟的标志性事件包括（）。",
+      "answerRaw": "C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "党的十二大提出“建设有中国特色的社会主义”"
+        },
+        {
+          "key": "B",
+          "text": "党的十三大系统阐述社会主义初级阶段理论"
+        },
+        {
+          "key": "C",
+          "text": "南方谈话提出社会主义本质论和社会主义市场经济理论"
+        },
+        {
+          "key": "D",
+          "text": "党的十四大对建设有中国特色社会主义理论进行系统概括"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-82",
+      "sequence": 824,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 82,
+      "sourceNo": 114,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平提出的“两手抓”方针包括（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "一手抓物质文明，一手抓精神文明"
+        },
+        {
+          "key": "B",
+          "text": "一手抓改革开放，一手抓打击犯罪"
+        },
+        {
+          "key": "C",
+          "text": "一手抓经济建设，一手抓民主法制"
+        },
+        {
+          "key": "D",
+          "text": "一手抓发展，一手抓稳定"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-83",
+      "sequence": 825,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 83,
+      "sourceNo": 115,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "“一国两制”的核心要义是（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "国家主权统一于中华人民共和国"
+        },
+        {
+          "key": "B",
+          "text": "港澳台保持原有资本主义制度不变"
+        },
+        {
+          "key": "C",
+          "text": "港澳台享有高度自治权"
+        },
+        {
+          "key": "D",
+          "text": "港澳台可以保留军队"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-84",
+      "sequence": 826,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 84,
+      "sourceNo": 117,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平理论形成的时代背景包括（）​。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "和平与发展成为时代主题"
+        },
+        {
+          "key": "B",
+          "text": "世界多极化趋势显现"
+        },
+        {
+          "key": "C",
+          "text": "新科技革命迅猛发展"
+        },
+        {
+          "key": "D",
+          "text": "社会主义阵营完全解体"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-85",
+      "sequence": 827,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 85,
+      "sourceNo": 118,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平关于科技与教育的论断包括（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "科学技术是第一生产力"
+        },
+        {
+          "key": "B",
+          "text": "教育要面向现代化、面向世界、面向未来"
+        },
+        {
+          "key": "C",
+          "text": "知识分子是工人阶级的一部分"
+        },
+        {
+          "key": "D",
+          "text": "尊重知识、尊重人才"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-86",
+      "sequence": 828,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 86,
+      "sourceNo": 119,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平关于新时期加强党的建设的主要思想包括（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持党要管党、从严治党"
+        },
+        {
+          "key": "B",
+          "text": "把党建设成为领导社会主义现代化事业的坚强核心"
+        },
+        {
+          "key": "C",
+          "text": "密切党同人民群众的血肉联系"
+        },
+        {
+          "key": "D",
+          "text": "推进反腐败斗争制度化"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-87",
+      "sequence": 829,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 87,
+      "sourceNo": 120,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平提出的实现共同富裕的路径包括（）。",
+      "answerRaw": "A;B",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "允许一部分地区、一部分人先富起来"
+        },
+        {
+          "key": "B",
+          "text": "先富带动后富，最终达到共同富裕"
+        },
+        {
+          "key": "C",
+          "text": "通过计划手段平均分配社会财富"
+        },
+        {
+          "key": "D",
+          "text": "消除一切收入差距"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-88",
+      "sequence": 830,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 88,
+      "sourceNo": 122,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平提出的对外开放基本原则包括（）。",
+      "answerRaw": "A;B",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "独立自主、自力更生"
+        },
+        {
+          "key": "B",
+          "text": "平等互利、共同发展"
+        },
+        {
+          "key": "C",
+          "text": "全面引进西方政治制度"
+        },
+        {
+          "key": "D",
+          "text": "以市场换技术"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-89",
+      "sequence": 831,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 89,
+      "sourceNo": 123,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "20世纪80年代末90年代初，邓小平应对国际局势提出的方针包括（）。",
+      "answerRaw": "A;B;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "冷静观察、稳住阵脚"
+        },
+        {
+          "key": "B",
+          "text": "韬光养晦、有所作为"
+        },
+        {
+          "key": "C",
+          "text": "联合第三世界国家对抗霸权"
+        },
+        {
+          "key": "D",
+          "text": "推动建立国际政治经济新秩序"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-90",
+      "sequence": 832,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 90,
+      "sourceNo": 124,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "解放思想、实事求是的辩证关系体现在（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "解放思想是实事求是的前提"
+        },
+        {
+          "key": "B",
+          "text": "实事求是是解放思想的目的"
+        },
+        {
+          "key": "C",
+          "text": "二者统一于改革开放实践"
+        },
+        {
+          "key": "D",
+          "text": "解放思想可以突破客观规律"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-91",
+      "sequence": 833,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 91,
+      "sourceNo": 125,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平提出的改革方法论原则包括（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "胆子要大、步子要稳"
+        },
+        {
+          "key": "B",
+          "text": "先试点后推广"
+        },
+        {
+          "key": "C",
+          "text": "正确处理改革、发展、稳定的关系"
+        },
+        {
+          "key": "D",
+          "text": "全面照搬西方改革经验"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-92",
+      "sequence": 834,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 92,
+      "sourceNo": 126,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平理论在马克思主义中国化进程中的历史地位表现为（）。",
+      "answerRaw": "A;B;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "毛泽东思想在新的历史条件下的继承和发展"
+        },
+        {
+          "key": "B",
+          "text": "中国特色社会主义理论体系的开篇之作"
+        },
+        {
+          "key": "C",
+          "text": "21世纪马克思主义的核心组成部分"
+        },
+        {
+          "key": "D",
+          "text": "改革开放和现代化建设的科学指南"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-148",
+      "sequence": 835,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 148,
+      "sourceNo": 206,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "执政党的党风是关系党生死存亡的重大问题，一定要坚持党的宗旨，继承党的优良传统，发扬（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "党的理论和实践相结合的作风"
+        },
+        {
+          "key": "B",
+          "text": "和人民群众紧密联系在一起的作风"
+        },
+        {
+          "key": "C",
+          "text": "自我批评的作风"
+        },
+        {
+          "key": "D",
+          "text": "坚持党的宗旨的作风"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
       "id": "chapter-06-第六章-邓小平理论-172",
-      "sequence": 890,
+      "sequence": 836,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 172,
@@ -31118,7 +29879,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-173",
-      "sequence": 891,
+      "sequence": 837,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 173,
@@ -31156,7 +29917,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-174",
-      "sequence": 892,
+      "sequence": 838,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 174,
@@ -31194,7 +29955,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-175",
-      "sequence": 893,
+      "sequence": 839,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 175,
@@ -31232,7 +29993,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-176",
-      "sequence": 894,
+      "sequence": 840,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 176,
@@ -31270,7 +30031,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-177",
-      "sequence": 895,
+      "sequence": 841,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 177,
@@ -31308,7 +30069,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-178",
-      "sequence": 896,
+      "sequence": 842,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 178,
@@ -31346,7 +30107,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-06-第六章-邓小平理论-179",
-      "sequence": 897,
+      "sequence": 843,
       "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 179,
@@ -31380,6 +30141,1245 @@ window.QUESTION_BANK_DATA = {
           "text": "平等互利"
         }
       ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-93",
+      "sequence": 844,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 93,
+      "sourceNo": 128,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平提出\"冷静观察、稳住阵脚、沉着应付\"的国际战略方针。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-94",
+      "sequence": 845,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 94,
+      "sourceNo": 131,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的十一届三中全会作出工作重心转移到经济建设上来的战略决策。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-95",
+      "sequence": 846,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 95,
+      "sourceNo": 133,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "解放思想、实事求是的思想路线，是邓小平理论的活的灵魂，是邓小平理论的精髓。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-96",
+      "sequence": 847,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 96,
+      "sourceNo": 134,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "我国处在社会主义初级阶段，是邓小平和我们党对当代中国基本国情的科学判断。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-97",
+      "sequence": 848,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 97,
+      "sourceNo": 135,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的十二大系统地论述了社会主义初级阶段理论。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-98",
+      "sequence": 849,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 98,
+      "sourceNo": 139,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的十一届三中全会以后，邓小平指出：“要发展生产力，经济体制改革是必由之路。”",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-99",
+      "sequence": 850,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 99,
+      "sourceNo": 140,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "阶级斗争是社会主义初级阶段的主要矛盾。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-100",
+      "sequence": 851,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 100,
+      "sourceNo": 141,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义就是搞计划经济，资本主义就是搞市场经济。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-101",
+      "sequence": 852,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 101,
+      "sourceNo": 142,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "发展生产力是社会主义本质的内在要求。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-102",
+      "sequence": 853,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 102,
+      "sourceNo": 143,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "实现共同富裕就是实现全体人民的同步富裕。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-103",
+      "sequence": 854,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 103,
+      "sourceNo": 144,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的基本路线中\"两个基本点\"是指改革开放和共同富裕。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-104",
+      "sequence": 855,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 104,
+      "sourceNo": 145,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的基本路线是党和国家的生命线、人民的幸福线。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-105",
+      "sequence": 856,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 105,
+      "sourceNo": 148,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "对外开放只包括对发达国家的开放。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-106",
+      "sequence": 857,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 106,
+      "sourceNo": 150,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "坚持一个中国，是“和平统一、一国两制”的核心。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-107",
+      "sequence": 858,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 107,
+      "sourceNo": 151,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "香港问题和澳门问题是中国国内战争遗留下来的问题。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-108",
+      "sequence": 859,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 108,
+      "sourceNo": 152,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "改革是社会主义社会发展的直接动力。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-109",
+      "sequence": 860,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 109,
+      "sourceNo": 153,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义的本质是人民当家作主。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-110",
+      "sequence": 861,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 110,
+      "sourceNo": 154,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平理论回答的基本问题是解放思想。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-111",
+      "sequence": 862,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 111,
+      "sourceNo": 155,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "革命是解放生产力，改革也是解放生产力。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-112",
+      "sequence": 863,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 112,
+      "sourceNo": 156,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "我国的社会主义社会已经是高级阶段的社会主义社会。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-113",
+      "sequence": 864,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 113,
+      "sourceNo": 158,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "在我国科学技术还处于相对落后阶段时，“863”计划的实施有力推动了我国高技术的进步。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-114",
+      "sequence": 865,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 114,
+      "sourceNo": 160,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平理论是中国特色社会主义理论体系的开篇之作，继承和发展了马克思列宁主义、毛泽东思想。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-115",
+      "sequence": 866,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 115,
+      "sourceNo": 161,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的十四大明确提出我国经济体制改革的目标是建立社会主义市场经济体制。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-116",
+      "sequence": 867,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 116,
+      "sourceNo": 162,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义初级阶段基本路线的完整表述包含“自力更生，艰苦创业”的内容。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-117",
+      "sequence": 868,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 117,
+      "sourceNo": 163,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平提出的“三步走”发展战略中，第三步目标是到21世纪中叶基本实现现代化。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-118",
+      "sequence": 869,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 118,
+      "sourceNo": 164,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平认为，改革是动力，发展是目的，稳定是前提，三者必须统筹兼顾。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-119",
+      "sequence": 870,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 119,
+      "sourceNo": 165,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义本质论强调，在解放和发展生产力的基础上，通过消灭剥削、消除两极分化的制度变革，最终实现共同富裕。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-120",
+      "sequence": 871,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 120,
+      "sourceNo": 166,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "科教兴国战略的理论基础是邓小平提出的“科学技术是第一生产力”论断。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-121",
+      "sequence": 872,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 121,
+      "sourceNo": 169,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平在南方谈话中明确提出“党的基本路线要管一百年，动摇不得”。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-122",
+      "sequence": 873,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 122,
+      "sourceNo": 170,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "我国社会主义初级阶段至少需要上百年时间，这是由历史起点和现实条件决定的。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-123",
+      "sequence": 874,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 123,
+      "sourceNo": 172,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "改革开放理论认为，改革是对社会主义制度的根本性变革。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-124",
+      "sequence": 875,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 124,
+      "sourceNo": 173,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "到20世纪末，我国初步建立了社会主义市场经济体制。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-125",
+      "sequence": 876,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 125,
+      "sourceNo": 174,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义初级阶段理论的两层含义是“我国已是社会主义”和“处于不发达阶段”。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-126",
+      "sequence": 877,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 126,
+      "sourceNo": 175,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "1978年12月召开的( )，重新确立了解放思想、实事求是的思想路线。",
+      "answerRaw": "十一届三中全会//党的十一届三中全会",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "十一届三中全会",
+            "党的十一届三中全会"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-127",
+      "sequence": 878,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 127,
+      "sourceNo": 176,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "当代中国最鲜明的特色是( )。",
+      "answerRaw": "改革开放",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "改革开放"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-128",
+      "sequence": 879,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 128,
+      "sourceNo": 177,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "党的( )高举邓小平理论的旗帜，并把邓小平理论同马克思列宁主义、毛泽东思想一起作为党的指导思想写入党章。",
+      "answerRaw": "十五大",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "十五大"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-129",
+      "sequence": 880,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 129,
+      "sourceNo": 178,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "社会主义社会发展的直接动力是( )。",
+      "answerRaw": "改革",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "改革"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-130",
+      "sequence": 881,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 130,
+      "sourceNo": 179,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "执政党的( )是关系党生死存亡的重大问题。",
+      "answerRaw": "党风",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "党风"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-131",
+      "sequence": 882,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 131,
+      "sourceNo": 180,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "中国社会主义改革开放和现代化建设的总设计师是( )。",
+      "answerRaw": "邓小平",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "邓小平"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-132",
+      "sequence": 883,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 132,
+      "sourceNo": 181,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平提出实现祖国和平统一的伟大构想是( )。",
+      "answerRaw": "一国两制",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "一国两制"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-133",
+      "sequence": 884,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 133,
+      "sourceNo": 182,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平理论形成的时代背景是( )成为时代主题。",
+      "answerRaw": "和平与发展",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "和平与发展"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-134",
+      "sequence": 885,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 134,
+      "sourceNo": 183,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平理论的现实依据是我国( )和现代化建设的实践。",
+      "answerRaw": "改革开放",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "改革开放"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-135",
+      "sequence": 886,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 135,
+      "sourceNo": 185,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平指出，社会主义的本质是解放生产力，发展生产力，消灭剥削，消除两极分化，最终实现( )。",
+      "answerRaw": "共同富裕",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "共同富裕"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-136",
+      "sequence": 887,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 136,
+      "sourceNo": 188,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平提出的“三步走”战略中，第二步目标是到20世纪末使人民生活达到( )水平。",
+      "answerRaw": "小康",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "小康"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-137",
+      "sequence": 888,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 137,
+      "sourceNo": 190,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平指出，社会主义最大的优越性就是( )。",
+      "answerRaw": "共同富裕",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "共同富裕"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-138",
+      "sequence": 889,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 138,
+      "sourceNo": 193,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平理论被确立为党的指导思想并写入宪法是在( )年。",
+      "answerRaw": "1999",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "1999"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-139",
+      "sequence": 890,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 139,
+      "sourceNo": 194,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平提出，( )是中国的第二次革命。",
+      "answerRaw": "改革",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "改革"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-140",
+      "sequence": 891,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 140,
+      "sourceNo": 195,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平理论活的灵魂和精髓是( )、实事求是。",
+      "answerRaw": "解放思想",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "解放思想"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-141",
+      "sequence": 892,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 141,
+      "sourceNo": 196,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平认为，四项基本原则的核心是坚持( )。",
+      "answerRaw": "中国共产党的领导//党的领导//中国共产党领导",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "中国共产党的领导",
+            "党的领导",
+            "中国共产党领导"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-142",
+      "sequence": 893,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 142,
+      "sourceNo": 197,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平在党的十二大开幕词中首次明确提出( )的科学命题。",
+      "answerRaw": "建设有中国特色的社会主义",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "建设有中国特色的社会主义"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-143",
+      "sequence": 894,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 143,
+      "sourceNo": 199,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平理论的形成条件。",
+      "answerRaw": "邓小平理论是在和平与发展成为时代主题的历史条件下，在总结我国社会主义胜利和挫折的历史经验并借鉴其他社会主义国家兴衰成败历史经验的基础上，在我国改革开放和现代化建设的实践中，逐步形成和发展起来的。",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-144",
+      "sequence": 895,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 144,
+      "sourceNo": 201,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "如何认识邓小平理论的历史地位？",
+      "answerRaw": "（1）邓小平理论，是马克思列宁主义基本原理与当代中国实际和时代特征相结合的产物，是马克思列宁主义、毛泽东思想的继承和发展，是全党全国集体智慧的结晶。（2）邓小平理论第一次比较系统地初步回答了中国社会主义的发展道路、发展阶段、根本任务、发展动力、外部条件、政治保证、战略步骤、党的领导和依靠力量以及祖国统一等一系列基本问题，指导我们党制定了社会主义初级阶段的基本路线，是中国特色社会主义理论体系的开篇之作。（3）邓小平理论指导了改革开放的伟大实践，使改革开放后的中国发生天翻地覆的变化，迎来了思想的解放、经济的发展、政治的昌明、教育的勃兴、文艺的繁荣、科学的春天，我国社会生产力、综合国力和人民生活都上了一个大台阶，社会主义中国巍然屹立在世界东方，是改革开放和社会主义现代化建设的科学指南。",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-145",
+      "sequence": 896,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 145,
+      "sourceNo": 202,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "请简述邓小平理论形成发展的三个阶段及其标志性成果。",
+      "answerRaw": "1.萌芽阶段（1978-1982）：以党的十一届三中全会为起点，确立解放思想、实事求是思想路线，提出改革开放决策；2. 形成阶段（1982-1992）：党的十二大提出“建设有中国特色的社会主义”，十三大确立社会主义初级阶段理论和“三步走”战略；3. 成熟阶段（1992年后）：以南方谈话和党的十四大为标志，系统阐述社会主义本质论、市场经济理论等，形成完整科学体系。",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-06-第六章-邓小平理论-146",
+      "sequence": 897,
+      "sourceFile": "我的题库_第六章 邓小平理论_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 146,
+      "sourceNo": 203,
+      "chapterKey": "chapter-06-第六章-邓小平理论",
+      "chapterTitle": "第六章 邓小平理论",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [],
+      "material": "",
+      "stem": "邓小平关于社会主义与市场经济关系的论述如何突破传统理论？其现实意义何在？",
+      "answerRaw": "一、理论突破：1.提出“计划经济≠社会主义，市场经济≠资本主义”，打破意识形态桎梏；2.强调市场经济是资源配置手段，可与社会主义制度结合。二、现实意义：1.党的十四大确立社会主义市场经济体制改革目标；2.推动公有制为主体、多种所有制共同发展的基本经济制度形成；3.为中国经济高速发展提供理论合法性。",
+      "explanation": "",
+      "options": [],
       "fillBlanks": []
     },
     {
@@ -32859,2842 +32859,8 @@ window.QUESTION_BANK_DATA = {
       "fillBlanks": []
     },
     {
-      "id": "chapter-07-第七章-三个代表-重要思想-38",
-      "sequence": 934,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 38,
-      "sourceNo": 53,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "建设社会主义政治文明"
-      ],
-      "material": "",
-      "stem": "建设社会主义政治文明，使中国特色社会主义的理论和实践进一步走向成熟和完善，要坚持的社会主义现代化全面发展的三大基本目标是（）。",
-      "answerRaw": "A;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "建设社会主义政治文明"
-        },
-        {
-          "key": "B",
-          "text": "建设社会主义生态文明"
-        },
-        {
-          "key": "C",
-          "text": "建设社会主义物质文明"
-        },
-        {
-          "key": "D",
-          "text": "建设社会主义精神文明"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-39",
-      "sequence": 935,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 39,
-      "sourceNo": 54,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表先进生产力的发展要求"
-      ],
-      "material": "",
-      "stem": "人是生产力中最活跃的因素。开发人力资源，加强人力资源能力建设，是关系我国发展的重大问题。必须树立人才资源是第一资源的思想，紧紧抓住（）、（）、（）三个环节，大力实施人才战略，加强人才队伍建设。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "培养人才"
-        },
-        {
-          "key": "B",
-          "text": "吸引人才"
-        },
-        {
-          "key": "C",
-          "text": "用好人才"
-        },
-        {
-          "key": "D",
-          "text": "发展人才"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-40",
-      "sequence": 936,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 40,
-      "sourceNo": 55,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "中特色社义理论体系的丰富发展"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想形成的国际背景是（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "世界政治格局多极化趋势越来越明显"
-        },
-        {
-          "key": "B",
-          "text": "经济全球化已成为不可阻挡的历史潮流"
-        },
-        {
-          "key": "C",
-          "text": "现代科学技术迅速发展"
-        },
-        {
-          "key": "D",
-          "text": "各种思想文化相互激荡"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-41",
-      "sequence": 937,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 41,
-      "sourceNo": 56,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "建立社会主义市场经济体制"
-      ],
-      "material": "",
-      "stem": "建立社会主义市场经济体制，必须坚持和完善（）的社会主义基本经济制度。",
-      "answerRaw": "A;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "以公有制为主体"
-        },
-        {
-          "key": "B",
-          "text": "单一的公有制"
-        },
-        {
-          "key": "C",
-          "text": "多种所有制经济共同发展"
-        },
-        {
-          "key": "D",
-          "text": "多种经济成分共同发展"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-42",
-      "sequence": 938,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 42,
-      "sourceNo": 57,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "建立社会主义市场经济体制"
-      ],
-      "material": "",
-      "stem": "江泽民说过“我们搞的是社会主义市场经济，‘社会主义’这几个字是不能没有的，这并非多余，并非画蛇添足，而恰恰相反，这是画龙点睛。所谓‘点睛’，就是点明我们的市场经济的性质。”社会主义市场经济体制是社会主义基本制度与市场经济的结合，其基本特征是（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "以公有制为主体、多种所有制经济共同发展的所有制结构"
-        },
-        {
-          "key": "B",
-          "text": "以按劳分配为主体、多种分配方式并存的分配制度"
-        },
-        {
-          "key": "C",
-          "text": "宏观调控上，以实现最广大劳动人民利益为出发点和归宿"
-        },
-        {
-          "key": "D",
-          "text": "政府不直接干预企业的生产和经营"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-43",
-      "sequence": 939,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 43,
-      "sourceNo": 58,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "建设社会主义政治文明"
-      ],
-      "material": "",
-      "stem": "党的十五大报告明确提出坚持依法治国，建设社会主义法治国家。1999年3月15日，第九届全国人民代表大会第二次会议通过了《中华人民共和国宪法修正案》，把“实行依法治国，建设社会主义法治国家”正式写入了宪法。依法治国，是（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "党领导人民治理国家的基本方略"
-        },
-        {
-          "key": "B",
-          "text": "发展社会主义市场经济的客观需要"
-        },
-        {
-          "key": "C",
-          "text": "社会文明进步的重要标志"
-        },
-        {
-          "key": "D",
-          "text": "国家长治久安的重要保障"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-44",
-      "sequence": 940,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 44,
-      "sourceNo": 59,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "中特色社义理论体系的丰富发展"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想，把党的建设同当今世界的发展趋势，同我国社会主义的自我完善和发展，同实现中国特色社会主义的宏伟目标和各项任务联系起来，形成了崭新的马克思主义建党学说。这一重要思想的历史地位和指导意义表现在（）。",
-      "answerRaw": "A;B;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "“三个代表”重要思想是中国特色社会主义理论体系的重要组成部分"
-        },
-        {
-          "key": "B",
-          "text": "“三个代表”重要思想体现了党的指导思想的与时俱进"
-        },
-        {
-          "key": "C",
-          "text": "“三个代表”重要思想是马克思主义中国化的最新理论成果"
-        },
-        {
-          "key": "D",
-          "text": "“三个代表”重要思想是加强和改进党的建设、推进中国特色社会主义事业的强大理论武器"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-45",
-      "sequence": 941,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 45,
-      "sourceNo": 61,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表先进生产力的发展要求"
-      ],
-      "material": "",
-      "stem": "广大（）始终是推动我国先进生产力发展和社会全面进步的根本力量。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "工人"
-        },
-        {
-          "key": "B",
-          "text": "农民"
-        },
-        {
-          "key": "C",
-          "text": "知识分子"
-        },
-        {
-          "key": "D",
-          "text": "中国共产党员"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-46",
-      "sequence": 942,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 46,
-      "sourceNo": 63,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "推进党的建设新的伟大工程"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想从新的高度提出必须不断改进党的领导方式和执政方式。提出我们党要按照（）的原则，进一步加强和完善党的领导体制，改进党的领导方式和执政方式。",
-      "answerRaw": "B;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "实事求是"
-        },
-        {
-          "key": "B",
-          "text": "总揽全局"
-        },
-        {
-          "key": "C",
-          "text": "与时俱进"
-        },
-        {
-          "key": "D",
-          "text": "协调各方"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-47",
-      "sequence": 943,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 47,
-      "sourceNo": 64,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "推进党的建设新的伟大工程"
-      ],
-      "material": "",
-      "stem": "推进党的建设新的伟大工程，重点是加强党的执政能力建设，进一步解决（）这两大历史性课题。",
-      "answerRaw": "B;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "纠正党的不良作风"
-        },
-        {
-          "key": "B",
-          "text": "提高党的领导水平和执政水平"
-        },
-        {
-          "key": "C",
-          "text": "防范“四大危险”"
-        },
-        {
-          "key": "D",
-          "text": "提高拒腐防变和抵御风险的能力"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-48",
-      "sequence": 944,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 48,
-      "sourceNo": 65,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表先进生产力的发展要求"
-      ],
-      "material": "",
-      "stem": "“人民，只有人民，才是我们工作价值得最高裁决者。”江泽民强调，我们想事情，做工作，想得对不对，做得好不好，要有一个根本得衡量尺度，这就是（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "人民拥护不拥护"
-        },
-        {
-          "key": "B",
-          "text": "人民赞成不赞成"
-        },
-        {
-          "key": "C",
-          "text": "人民高兴不高兴"
-        },
-        {
-          "key": "D",
-          "text": "人民答应不答应"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-49",
-      "sequence": 945,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 49,
-      "sourceNo": 66,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "推进中特社义事业的理论武器"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想作为我们党在新世纪新阶段的指导思想，具有深远的理论意义和实践意义。它是（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "对马克思列宁主义、毛泽东思想和邓小平理论的继承和发展"
-        },
-        {
-          "key": "B",
-          "text": "中国特色社会主义理论体系的重要组成部分"
-        },
-        {
-          "key": "C",
-          "text": "中国特色社会主义理论体系的接续发展"
-        },
-        {
-          "key": "D",
-          "text": "推进中国特色社会主义事业的强大理论武器"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-50",
-      "sequence": 946,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 50,
-      "sourceNo": 67,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "中特色社义理论体系的丰富发展"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想产生的最重要的时代背景是指（）。",
-      "answerRaw": "A;B;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "世界多极化和经济全球化的趋势在曲折中发展"
-        },
-        {
-          "key": "B",
-          "text": "和平与发展仍是时代的主题"
-        },
-        {
-          "key": "C",
-          "text": "大规模争霸战争不断"
-        },
-        {
-          "key": "D",
-          "text": "在千年更迭、世纪交替之际，我们所处的国际环境已经发生并还在经历着前所未有的巨大变化"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-51",
-      "sequence": 947,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 51,
-      "sourceNo": 69,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表最广大人民的根本利益"
-      ],
-      "material": "",
-      "stem": "贯彻“三个代表”重要思想（）。",
-      "answerRaw": "A;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "关键在坚持与时俱进"
-        },
-        {
-          "key": "B",
-          "text": "根本在加强党的建设"
-        },
-        {
-          "key": "C",
-          "text": "核心在坚持党的先进性"
-        },
-        {
-          "key": "D",
-          "text": "本质在坚持执政为民"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-52",
-      "sequence": 948,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 52,
-      "sourceNo": 70,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表先进文化的前进方向"
-      ],
-      "material": "",
-      "stem": "加强社会主义思想道德建设，是发展先进文化的重要内容和中心环节。弘扬爱国主义精神，以（）为核心、以（）为原则、以（）为重点，加强社会公德、职业道德和家庭美德教育。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "为人民服务"
-        },
-        {
-          "key": "B",
-          "text": "集体主义"
-        },
-        {
-          "key": "C",
-          "text": "诚实守信"
-        },
-        {
-          "key": "D",
-          "text": "广泛开展群众性精神文明创建活动"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-53",
-      "sequence": 949,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 53,
-      "sourceNo": 71,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "中特色社义理论体系的丰富发展"
-      ],
-      "material": "",
-      "stem": "江泽民指出，认真总结苏联解体、东欧剧变的教训，以及我们发生“文化大革命”这样严重曲折的教训，深刻分析它们的原因，可以得出两条结论（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "必须坚持社会主义"
-        },
-        {
-          "key": "B",
-          "text": "必须进行社会主义改革，探索符合本国实际的社会主义发展道路"
-        },
-        {
-          "key": "C",
-          "text": "要探索符合本国实际的社会主义发展道路"
-        },
-        {
-          "key": "D",
-          "text": "社会主义制度本身具有缺陷"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-54",
-      "sequence": 950,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 54,
-      "sourceNo": 72,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 1.5,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "推进中特社义事业的理论武器"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想把（）统一起来，从深层次上揭示了社会主义制度不断完善和发展的途径，是加强和改进党的建设、推进中国特色社会主义事业的强大理论武器。",
-      "answerRaw": "A;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "发展先进生产力"
-        },
-        {
-          "key": "B",
-          "text": "发展社会主义民主政治"
-        },
-        {
-          "key": "C",
-          "text": "发展先进文化"
-        },
-        {
-          "key": "D",
-          "text": "实现最广大人民的根本利益"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-55",
-      "sequence": 951,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 55,
-      "sourceNo": 73,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 1.5,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "中特色社义理论体系的丰富发展"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想是马克思主义中国化的最新理论成果。它与马克思列宁主义、毛泽东思想、邓小平理论是一脉相承的统一的科学理论。这种一脉相承具体表现在（）。",
-      "answerRaw": "A;B;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "都坚持辩证唯物主义和历史唯物主义世界观"
-        },
-        {
-          "key": "B",
-          "text": "都具有与时俱进的理论品质"
-        },
-        {
-          "key": "C",
-          "text": "都提出物质文明和精神文明并举的原则"
-        },
-        {
-          "key": "D",
-          "text": "都坚持为最广大人民群众的根本利益服务的宗旨"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-56",
-      "sequence": 952,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 56,
-      "sourceNo": 74,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 1.5,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "中特色社义理论体系的丰富发展"
-      ],
-      "material": "",
-      "stem": "2000年6月28日，江泽民在中央思想政治工作会议上，提出了（）。这几个“如何认识”实际上深刻揭示了“三个代表”重要思想产生的历史起点和逻辑起点，反映了“三个代表”重要思想提出的时代背景和发展的现实依据。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "如何认识社会主义发展的历史进程"
-        },
-        {
-          "key": "B",
-          "text": "如何认识资本主义发展的历史进程"
-        },
-        {
-          "key": "C",
-          "text": "如何认识我国社会主义改革实践过程对人们思想的影响"
-        },
-        {
-          "key": "D",
-          "text": "如何认识当今的国际环境和国际政治斗争带来的影响"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-57",
-      "sequence": 953,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 57,
-      "sourceNo": 77,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 1.5,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表先进文化的前进方向"
-      ],
-      "material": "",
-      "stem": "发展社会主义先进文化，就是发展面向（），民族的科学的大众的社会主义文化。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "现代化"
-        },
-        {
-          "key": "B",
-          "text": "世界"
-        },
-        {
-          "key": "C",
-          "text": "未来"
-        },
-        {
-          "key": "D",
-          "text": "全人类"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-58",
-      "sequence": 954,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 58,
-      "sourceNo": 78,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 1.5,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "推进党的建设新的伟大工程"
-      ],
-      "material": "",
-      "stem": "坚持中国共产党的领导，就是要（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "坚持党在建设中国特色社会主义事业中的领导核心地位，发挥党总揽全局、协调各方的作用"
-        },
-        {
-          "key": "B",
-          "text": "坚持党对国家大政方针和全局工作的政治领导"
-        },
-        {
-          "key": "C",
-          "text": "坚持党管干部的原则"
-        },
-        {
-          "key": "D",
-          "text": "坚持党对意识形态领域的领导"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-59",
-      "sequence": 955,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 59,
-      "sourceNo": 80,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 1.5,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "全面建设小康社会"
-      ],
-      "material": "",
-      "stem": "江泽民指出，之所以要全面建设小康社会，是因为（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "总体小康社会是低水平的、不全面的、不平衡的"
-        },
-        {
-          "key": "B",
-          "text": "我国人均生产的物质产品和物质财富较少，劳动生产率较低"
-        },
-        {
-          "key": "C",
-          "text": "总体小康社会偏重于满足物质消费，而文化消费还得不到有效满足"
-        },
-        {
-          "key": "D",
-          "text": "存在地区之间、城乡之间的发展不协调、不平衡问题"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-60",
-      "sequence": 956,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 60,
-      "sourceNo": 82,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 1.5,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表先进文化的前进方向"
-      ],
-      "material": "",
-      "stem": "在5000多年的发展中，中华民族形成了以爱国主义为核心的（）的伟大民族精神。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "团结统一"
-        },
-        {
-          "key": "B",
-          "text": "爱好和平"
-        },
-        {
-          "key": "C",
-          "text": "勤劳勇敢"
-        },
-        {
-          "key": "D",
-          "text": "自强不息"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-61",
-      "sequence": 957,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 61,
-      "sourceNo": 83,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "推进党的建设新的伟大工程"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想对党的建设提出的新要求包括（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "始终保持与时俱进的精神状态"
-        },
-        {
-          "key": "B",
-          "text": "坚持党要管党、从严治党的方针"
-        },
-        {
-          "key": "C",
-          "text": "扩大党的阶级基础和群众基础"
-        },
-        {
-          "key": "D",
-          "text": "以阶级斗争为纲加强思想建设"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-62",
-      "sequence": 958,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 62,
-      "sourceNo": 84,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "建立社会主义市场经济体制"
-      ],
-      "material": "",
-      "stem": "社会主义市场经济体制的基本特征体现在（）。",
-      "answerRaw": "A;B;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "坚持公有制为主体、多种所有制共同发展"
-        },
-        {
-          "key": "B",
-          "text": "市场在资源配置中起决定性作用"
-        },
-        {
-          "key": "C",
-          "text": "国家实行全面计划经济调控"
-        },
-        {
-          "key": "D",
-          "text": "按劳分配为主体、多种分配方式并存"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-63",
-      "sequence": 959,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 63,
-      "sourceNo": 85,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "建立社会主义市场经济体制"
-      ],
-      "material": "",
-      "stem": "江泽民提出的“新的三步走”战略目标包括（）。",
-      "answerRaw": "A;B;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "2010年实现国民生产总值比2000年翻一番"
-        },
-        {
-          "key": "B",
-          "text": "2020年全面建成小康社会"
-        },
-        {
-          "key": "C",
-          "text": "2035年基本实现社会主义现代化"
-        },
-        {
-          "key": "D",
-          "text": "21世纪中叶建成社会主义现代化强国"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-64",
-      "sequence": 960,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 64,
-      "sourceNo": 86,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "建设社会主义政治文明"
-      ],
-      "material": "",
-      "stem": "社会主义政治文明建设必须坚持的有机统一是（）三者的统一。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "党的领导"
-        },
-        {
-          "key": "B",
-          "text": "人民当家作主"
-        },
-        {
-          "key": "C",
-          "text": "依法治国"
-        },
-        {
-          "key": "D",
-          "text": "多党合作制度"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-65",
-      "sequence": 961,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 65,
-      "sourceNo": 87,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "推进党的建设新的伟大工程"
-      ],
-      "material": "",
-      "stem": "江泽民提出的“三讲”教育包括（）。",
-      "answerRaw": "A;B;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "讲学习"
-        },
-        {
-          "key": "B",
-          "text": "讲政治"
-        },
-        {
-          "key": "C",
-          "text": "讲纪律"
-        },
-        {
-          "key": "D",
-          "text": "讲正气"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-66",
-      "sequence": 962,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 66,
-      "sourceNo": 88,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点"
-      ],
-      "material": "",
-      "stem": "江泽民提出的“四个如何认识”包括（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "如何认识社会主义发展的历史进程"
-        },
-        {
-          "key": "B",
-          "text": "如何认识资本主义发展的历史进程"
-        },
-        {
-          "key": "C",
-          "text": "如何认识改革开放对人们思想的影响"
-        },
-        {
-          "key": "D",
-          "text": "如何认识国际环境和政治斗争的影响"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-67",
-      "sequence": 963,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 67,
-      "sourceNo": 91,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "推进党的建设新的伟大工程"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想对马克思主义建党学说的创新包括（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "提出党的历史方位“两个转变”"
-        },
-        {
-          "key": "B",
-          "text": "强调党的先进性是具体的历史的"
-        },
-        {
-          "key": "C",
-          "text": "要求增强党的阶级基础和扩大群众基础"
-        },
-        {
-          "key": "D",
-          "text": "确立民主集中制为根本组织原则"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-68",
-      "sequence": 964,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 68,
-      "sourceNo": 93,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "中特色社义理论体系的丰富发展"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想的理论渊源包括（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "马克思列宁主义"
-        },
-        {
-          "key": "B",
-          "text": "毛泽东思想"
-        },
-        {
-          "key": "C",
-          "text": "邓小平理论"
-        },
-        {
-          "key": "D",
-          "text": "中国传统文化"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-69",
-      "sequence": 965,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 69,
-      "sourceNo": 94,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "中特色社义理论体系的丰富发展"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想是中国特色社会主义理论体系的重要组成部分，它继承和发展了马克思列宁主义、毛泽东思想和邓小平理论，深刻回答了在新的历史条件下建设什么样的党、怎样建设党，建设什么样的社会主义、怎样建设社会主义等重大问题。其中，在对社会主义本质的认识上，“三个代表”重要思想作出了新的理论概括，体现在（）。",
-      "answerRaw": "A;B;C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "突出先进文化的前进方向"
-        },
-        {
-          "key": "B",
-          "text": "强调实现人民根本利益"
-        },
-        {
-          "key": "C",
-          "text": "注重人的全面发展"
-        },
-        {
-          "key": "D",
-          "text": "强化阶级斗争重要性"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-70",
-      "sequence": 966,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 70,
-      "sourceNo": 95,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "“引”“走”结合对外开放战略"
-      ],
-      "material": "",
-      "stem": "在经济全球化深入发展的背景下，为了更好地融入世界经济体系，提升我国在国际分工中的地位，江泽民同志提出了“引进来”与“走出去”相结合的战略。这一战略的提出，标志着我国对外开放进入了一个新的阶段。以下关于“引进来”和“走出去”相结合战略的说法，正确的是（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "“引进来”就是吸收和利用外资、引进先进技术和管理经验"
-        },
-        {
-          "key": "B",
-          "text": "“走出去”就是积极推动有实力的企业到境外投资办厂，开拓国际市场"
-        },
-        {
-          "key": "C",
-          "text": "实施“引进来”和“走出去”相结合战略，有利于充分利用国际国内两个市场、两种资源"
-        },
-        {
-          "key": "D",
-          "text": "这一战略的实施，有助于我国经济结构调整和优化，增强国际竞争力"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-71",
-      "sequence": 967,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 71,
-      "sourceNo": 97,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "推进中特社义事业的理论武器"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想深刻阐明了加强和改进党的建设的重大问题，明确提出了在新形势下建设什么样的党、怎样建设党的重大课题，为党的建设指明了方向。根据“三个代表”重要思想，新时期党的建设的总体目标是使我们党（）。",
-      "answerRaw": "A;B;C;D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "始终成为工人阶级先锋队"
-        },
-        {
-          "key": "B",
-          "text": "同时成为中国人民和中华民族先锋队"
-        },
-        {
-          "key": "C",
-          "text": "保持纯洁性的马克思主义政党"
-        },
-        {
-          "key": "D",
-          "text": "领导核心地位不可动摇"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-72",
-      "sequence": 968,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 72,
-      "sourceNo": 103,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "中特色社义理论体系的丰富发展"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想是一个完整的思想体系，经历了一个酝酿、形成到逐步深化的过程。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-73",
-      "sequence": 969,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 73,
-      "sourceNo": 106,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "全面建设小康社会"
-      ],
-      "material": "",
-      "stem": "经过二十多年的改革开放和社会主义现代化建设，到2000年，人民生活总体上达到了小康，这是一个历史性的飞跃。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-74",
-      "sequence": 970,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 74,
-      "sourceNo": 108,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "建设社会主义政治文明"
-      ],
-      "material": "",
-      "stem": "实行依法治国，必须坚持有法可依、有法必依、执法必严、违法必究。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-75",
-      "sequence": 971,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 75,
-      "sourceNo": 111,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "建设社会主义政治文明"
-      ],
-      "material": "",
-      "stem": "讲政治是核心。要坚定正确的政治方向、政治立场和政治观点，严守政治纪律，提高政治敏锐性和政治鉴别力。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-76",
-      "sequence": 972,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 76,
-      "sourceNo": 112,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表先进文化的前进方向"
-      ],
-      "material": "",
-      "stem": "发展社会主义先进文化，就是发展面向现代化、面向世界、面向未来的，民族的科学的大众的社会主义文化。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-77",
-      "sequence": 973,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 77,
-      "sourceNo": 114,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "全面建设小康社会"
-      ],
-      "material": "",
-      "stem": "2000年，我国人民生活总体上达到了小康。但也要看到，这个小康水平是低水平的、不全面的、发展很不平衡的。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-78",
-      "sequence": 974,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 78,
-      "sourceNo": 116,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表最广大人民的根本利益"
-      ],
-      "material": "",
-      "stem": "我们党作为执政党，面临的最根本的课题是能不能始终代表最广大人民的根本利益。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-79",
-      "sequence": 975,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 79,
-      "sourceNo": 117,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点"
-      ],
-      "material": "",
-      "stem": "2000年，江泽民在广东考察工作时首次对“三个代表”进行了比较全面的阐述。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-80",
-      "sequence": 976,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 80,
-      "sourceNo": 118,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表先进文化的前进方向"
-      ],
-      "material": "",
-      "stem": "江泽民曾强调指出，马克思主义最重要的理论品质是与时俱进。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-81",
-      "sequence": 977,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 81,
-      "sourceNo": 119,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "推进党的建设新的伟大工程"
-      ],
-      "material": "",
-      "stem": "贯彻“三个代表”重要思想，必须使全党始终保持与时俱进的精神状态，与时俱进就是党的全部理论和工作要体现时代性，把握规律性，富于创造性。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-82",
-      "sequence": 978,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 82,
-      "sourceNo": 120,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "建立社会主义市场经济体制"
-      ],
-      "material": "",
-      "stem": "非公有制经济是社会主义市场经济的重要组成部分，所以，非公有制经济是社会主义经济。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-83",
-      "sequence": 979,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 83,
-      "sourceNo": 123,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "建设社会主义政治文明"
-      ],
-      "material": "",
-      "stem": "在我国，政治体制改革是按照西方资产阶级政治文明的模式进行。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-84",
-      "sequence": 980,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 84,
-      "sourceNo": 124,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "发展是党执政兴国的第一要务"
-      ],
-      "material": "",
-      "stem": "广大知识分子始终是推动我国先进生产力发展和社会全面进步的根本力量。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-85",
-      "sequence": 981,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 85,
-      "sourceNo": 125,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表最广大人民的根本利益"
-      ],
-      "material": "",
-      "stem": "人民，只有人民，才是我们工作价值的最高裁决者。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-86",
-      "sequence": 982,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 86,
-      "sourceNo": 126,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "中特色社义理论体系的丰富发展"
-      ],
-      "material": "",
-      "stem": "提出“三个代表”重要思想的领导人是邓小平。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-87",
-      "sequence": 983,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 87,
-      "sourceNo": 127,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表最广大人民的根本利益"
-      ],
-      "material": "",
-      "stem": "中国共产党仅代表中国工人阶级的根本利益。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-88",
-      "sequence": 984,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 88,
-      "sourceNo": 129,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "中特色社义理论体系的丰富发展"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想是第二代领导人的智慧结晶。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-89",
-      "sequence": 985,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 89,
-      "sourceNo": 130,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "建立社会主义市场经济体制"
-      ],
-      "material": "",
-      "stem": "社会主义市场经济中的“社会主义”点明了我们市场经济的性质。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-90",
-      "sequence": 986,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 90,
-      "sourceNo": 131,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表先进文化的前进方向"
-      ],
-      "material": "",
-      "stem": "发展社会主义先进文化，就是建设社会主义精神文明。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-91",
-      "sequence": 987,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 91,
-      "sourceNo": 132,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表最广大人民的根本利益"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想坚持把国家的根本利益作为出发点和归宿。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-92",
-      "sequence": 988,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 92,
-      "sourceNo": 133,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "发展是党执政兴国的第一要务"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想强调要努力促进人的自由发展。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-93",
-      "sequence": 989,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 93,
-      "sourceNo": 134,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "中特色社义理论体系的丰富发展"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想深化了对中国特色社会主义的认识。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-94",
-      "sequence": 990,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 94,
-      "sourceNo": 135,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "建立社会主义市场经济体制"
-      ],
-      "material": "",
-      "stem": "非公有制经济是社会主义市场经济的组成部分。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-95",
-      "sequence": 991,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 95,
-      "sourceNo": 136,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "建立社会主义市场经济体制"
-      ],
-      "material": "",
-      "stem": "非公有制经济的存在和发展会导致两极分化。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-96",
-      "sequence": 992,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 96,
-      "sourceNo": 137,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "建设社会主义政治文明"
-      ],
-      "material": "",
-      "stem": "在我国，推进政治体制改革必须一蹴而就。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-97",
-      "sequence": 993,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 97,
-      "sourceNo": 138,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "中特色社义理论体系的丰富发展"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想是在党的十六大上被确立为党的指导思想的。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-98",
-      "sequence": 994,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 98,
-      "sourceNo": 139,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "推进党的建设新的伟大工程"
-      ],
-      "material": "",
-      "stem": "江泽民提出“三个代表”重要思想时强调，党的先进性最终要体现在维护国家安全上。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-99",
-      "sequence": 995,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 99,
-      "sourceNo": 140,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "发展是党执政兴国的第一要务"
-      ],
-      "material": "",
-      "stem": "根据“三个代表”要求，党应吸收所有社会阶层中的优秀分子入党。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-100",
-      "sequence": 996,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 100,
-      "sourceNo": 141,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "发展是党执政兴国的第一要务"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想认为，发展是党执政兴国的第一要务。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-101",
-      "sequence": 997,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 101,
-      "sourceNo": 142,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "建设社会主义政治文明"
-      ],
-      "material": "",
-      "stem": "社会主义政治文明建设要求照搬西方多党制模式。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-102",
-      "sequence": 998,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 102,
-      "sourceNo": 143,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "全面建设小康社会"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想提出，党的最高理想和最终目标是实现共同富裕。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-103",
-      "sequence": 999,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 103,
-      "sourceNo": 145,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表先进文化的前进方向"
-      ],
-      "material": "",
-      "stem": "实施科教兴国战略的核心是加强基础教育的普及。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-104",
-      "sequence": 1000,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 104,
-      "sourceNo": 146,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "推进党的建设新的伟大工程"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想强调，加强党的执政能力建设的关键是扩大党员数量。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-105",
-      "sequence": 1001,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 105,
-      "sourceNo": 147,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "中特色社义理论体系的丰富发展"
-      ],
-      "material": "",
-      "stem": "江泽民提出的“四个如何认识”包括如何认识社会主义改革实践过程对人们思想的影响。",
-      "answerRaw": "true",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-106",
-      "sequence": 1002,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 106,
-      "sourceNo": 148,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "推进党的建设新的伟大工程"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想认为，党的阶级基础是工人阶级，因此不能吸收其他阶层入党。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-107",
-      "sequence": 1003,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 107,
-      "sourceNo": 149,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "建设社会主义政治文明"
-      ],
-      "material": "",
-      "stem": "( )是社会主义民主政治的本质要求。",
-      "answerRaw": "人民当家作主",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "人民当家作主"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-108",
-      "sequence": 1004,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 108,
-      "sourceNo": 150,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "推进党的建设新的伟大工程"
-      ],
-      "material": "",
-      "stem": "坚持党的领导，核心是坚持党的( )。",
-      "answerRaw": "先进性",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "先进性"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-109",
-      "sequence": 1005,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 109,
-      "sourceNo": 151,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "推进党的建设新的伟大工程"
-      ],
-      "material": "",
-      "stem": "加强和改进党的作风建设，核心问题是保持党同( )的血肉联系。",
-      "answerRaw": "人民群众",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "人民群众"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-110",
-      "sequence": 1006,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 110,
-      "sourceNo": 152,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想是在科学判断党的( )基础上形成的。",
-      "answerRaw": "历史方位",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "历史方位"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-111",
-      "sequence": 1007,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 111,
-      "sourceNo": 153,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表最广大人民的根本利益"
-      ],
-      "material": "",
-      "stem": "( )是先进生产力和先进文化的创造主体，也是实现自身利益的根本力量。",
-      "answerRaw": "人民群众",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "人民群众"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-112",
-      "sequence": 1008,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 112,
-      "sourceNo": 154,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "推进中特社义事业的理论武器"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想的提出，为即将召开的党的( ) ，为全党在充满希望和挑战的21世纪完成自己承担的神圣历史使命，做了重要的理论和思想准备。",
-      "answerRaw": "十六大",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "十六大"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-113",
-      "sequence": 1009,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 113,
-      "sourceNo": 155,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表最广大人民的根本利益"
-      ],
-      "material": "",
-      "stem": "我们党最大的政治优势是( )。",
-      "answerRaw": "密切联系群众",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "密切联系群众"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-114",
-      "sequence": 1010,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 114,
-      "sourceNo": 158,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "推进党的建设新的伟大工程"
-      ],
-      "material": "",
-      "stem": "推进党的建设新的伟大工程要求我们：一定要坚持党要管党、( )的方针。",
-      "answerRaw": "从严治党",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "从严治党"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-115",
-      "sequence": 1011,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 115,
-      "sourceNo": 161,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "推进党的建设新的伟大工程"
-      ],
-      "material": "",
-      "stem": "推进党的建设新的伟大工程的重点是加强党的 ( )建设。",
-      "answerRaw": "执政能力",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "执政能力"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-116",
-      "sequence": 1012,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 116,
-      "sourceNo": 162,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "建立社会主义市场经济体制"
-      ],
-      "material": "",
-      "stem": "社会主义初级阶段的基本经济制度是公有制为主体、( )共同发展。",
-      "answerRaw": "多种所有制经济",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "多种所有制经济"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-117",
-      "sequence": 1013,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 117,
-      "sourceNo": 163,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点"
-      ],
-      "material": "",
-      "stem": "江泽民在2001年“七一讲话”中系统阐述了“三个代表”重要思想的( )。",
-      "answerRaw": "科学内涵",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "科学内涵"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-118",
-      "sequence": 1014,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 118,
-      "sourceNo": 164,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "发展是党执政兴国的第一要务"
-      ],
-      "material": "",
-      "stem": "处理改革、发展、稳定关系的重要结合点是 ( )。",
-      "answerRaw": "不断改善人民生活",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "不断改善人民生活"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-119",
-      "sequence": 1015,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 119,
-      "sourceNo": 165,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表先进生产力的发展要求"
-      ],
-      "material": "",
-      "stem": "江泽民提出的“四个尊重”方针包括尊重劳动、尊重知识、尊重人才、尊重( )。",
-      "answerRaw": "创造",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "创造"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-120",
-      "sequence": 1016,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 120,
-      "sourceNo": 166,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "中特色社义理论体系的丰富发展"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想深化了对共产党执政规律、社会主义建设规律和( ) 的认识。",
-      "answerRaw": "人类社会发展规律",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "人类社会发展规律"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-121",
-      "sequence": 1017,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 121,
-      "sourceNo": 169,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表先进文化的前进方向"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想强调，在新的历史条件下，发展社会主义先进文化，根本在于培育和造就一代又一代有理想、有道德、有文化、有( ) 的”四有“公民，为建设中国特色社会主义事业提供坚实的思想保证和强大的精神动力。",
-      "answerRaw": "纪律",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "纪律"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-122",
-      "sequence": 1018,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 122,
-      "sourceNo": 170,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点",
-        "始终代表最广大人民的根本利益"
-      ],
-      "material": "",
-      "stem": "江泽民指出，党的最大政治优势是密切联系群众，党执政后的最大危险是( )。",
-      "answerRaw": "脱离群众",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "脱离群众"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-123",
-      "sequence": 1019,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 123,
-      "sourceNo": 172,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "填空题",
-      "score": 2,
-      "difficulty": 2,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的历史地位",
-        "中特色社义理论体系的丰富发展"
-      ],
-      "material": "",
-      "stem": "“三个代表”重要思想形成的实践基础是改革开放以来特别是( )以后党和人民建设中国特色社会主义的伟大探索。",
-      "answerRaw": "十三届四中全会",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "十三届四中全会"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-124",
-      "sequence": 1020,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 124,
-      "sourceNo": 173,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "全面建设小康社会"
-      ],
-      "material": "",
-      "stem": "党的“十五大”把“三步走”战略中的第三步进一步具体化，提出了三个阶段性目标，这三个阶段性目标是什么？",
-      "answerRaw": "（1）21世纪第一个十年实现国民生产总值比2000年翻一番，使人民的小康生活更加宽裕，形成比较完善的社会主义市场经济体制；（2）再经过十年的努力，到建党一百年时，使国民经济更加发展，各项制度更加完善；（3）到21世纪中叶新中国成立一百年时，基本实现现代化，建成富强民主文明的社会主义国家。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-125",
-      "sequence": 1021,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 125,
-      "sourceNo": 174,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点"
-      ],
-      "material": "",
-      "stem": "如何把握“三个代表”重要思想的形成条件？",
-      "answerRaw": "首先，“三个代表”重要思想是在对冷战结束后国际局势科学判断的基础上形成的。其次，“三个代表”重要思想是在科学判断党的历史方位和总结历史经验的基础上提出来的。最后，“三个代表”重要思想是在建设中国特色社会主义伟大实践的基础上形成的。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-126",
-      "sequence": 1022,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 126,
-      "sourceNo": 175,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点"
-      ],
-      "material": "",
-      "stem": "请简述“三个代表”重要思想的科学内涵及其辩证统一关系。",
-      "answerRaw": "一、科学内涵1.始终代表中国先进生产力的发展要求；2.始终代表中国先进文化的前进方向；3.始终代表中国最广大人民的根本利益。二、辩证统一关系1.发展先进生产力是发展先进文化和实现人民利益的物质基础；2.发展先进文化为生产力发展提供精神动力和智力支持；3.实现人民根本利益是发展生产力和文化的根本目的，三者统一于党的建设新的伟大工程。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-07-第七章-三个代表-重要思想-127",
-      "sequence": 1023,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 127,
-      "sourceNo": 176,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的主要内容",
-        "推进党的建设新的伟大工程"
-      ],
-      "material": "",
-      "stem": "为什么说“三个代表”重要思想是对马克思主义建党学说的新发展？",
-      "answerRaw": "作为新的时代的产物，“三个代表”重要思想充分体现了一种马克思主义建党学说的新境界：（1）他体现了对世界社会主义运动和我们党80年历史经验的深沉思考；（2）它体现了从世界大局中观察、研究和解决党建问题的世界眼光；（3）它体现了从历史发展进程中思考和解决党的生命力的忧患意识；（4）它体现了解放思想、实事求是、勇于开拓、不断进取的创新精神。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
       "id": "chapter-07-第七章-三个代表-重要思想-128",
-      "sequence": 1024,
+      "sequence": 934,
       "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 128,
@@ -35735,7 +32901,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-129",
-      "sequence": 1025,
+      "sequence": 935,
       "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 129,
@@ -35775,48 +32941,8 @@ window.QUESTION_BANK_DATA = {
       "fillBlanks": []
     },
     {
-      "id": "chapter-07-第七章-三个代表-重要思想-130",
-      "sequence": 1026,
-      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 130,
-      "sourceNo": 181,
-      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
-      "chapterTitle": "第七章 \"三个代表\"重要思想",
-      "type": "多选题",
-      "score": 1,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [
-        "“三个代表”重要思想的核心观点"
-      ],
-      "material": "",
-      "stem": "贯彻“三个代表”重要思想，核心是坚持（）。",
-      "answerRaw": "A;B",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "党的领导"
-        },
-        {
-          "key": "B",
-          "text": "人民的主体地位"
-        },
-        {
-          "key": "C",
-          "text": "以经济建设为中心"
-        },
-        {
-          "key": "D",
-          "text": "改革开放"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
       "id": "chapter-07-第七章-三个代表-重要思想-131",
-      "sequence": 1027,
+      "sequence": 936,
       "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 131,
@@ -35855,8 +32981,1441 @@ window.QUESTION_BANK_DATA = {
       "fillBlanks": []
     },
     {
+      "id": "chapter-07-第七章-三个代表-重要思想-38",
+      "sequence": 937,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 38,
+      "sourceNo": 53,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "建设社会主义政治文明"
+      ],
+      "material": "",
+      "stem": "建设社会主义政治文明，使中国特色社会主义的理论和实践进一步走向成熟和完善，要坚持的社会主义现代化全面发展的三大基本目标是（）。",
+      "answerRaw": "A;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "建设社会主义政治文明"
+        },
+        {
+          "key": "B",
+          "text": "建设社会主义生态文明"
+        },
+        {
+          "key": "C",
+          "text": "建设社会主义物质文明"
+        },
+        {
+          "key": "D",
+          "text": "建设社会主义精神文明"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-39",
+      "sequence": 938,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 39,
+      "sourceNo": 54,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表先进生产力的发展要求"
+      ],
+      "material": "",
+      "stem": "人是生产力中最活跃的因素。开发人力资源，加强人力资源能力建设，是关系我国发展的重大问题。必须树立人才资源是第一资源的思想，紧紧抓住（）、（）、（）三个环节，大力实施人才战略，加强人才队伍建设。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "培养人才"
+        },
+        {
+          "key": "B",
+          "text": "吸引人才"
+        },
+        {
+          "key": "C",
+          "text": "用好人才"
+        },
+        {
+          "key": "D",
+          "text": "发展人才"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-40",
+      "sequence": 939,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 40,
+      "sourceNo": 55,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "中特色社义理论体系的丰富发展"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想形成的国际背景是（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "世界政治格局多极化趋势越来越明显"
+        },
+        {
+          "key": "B",
+          "text": "经济全球化已成为不可阻挡的历史潮流"
+        },
+        {
+          "key": "C",
+          "text": "现代科学技术迅速发展"
+        },
+        {
+          "key": "D",
+          "text": "各种思想文化相互激荡"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-41",
+      "sequence": 940,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 41,
+      "sourceNo": 56,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "建立社会主义市场经济体制"
+      ],
+      "material": "",
+      "stem": "建立社会主义市场经济体制，必须坚持和完善（）的社会主义基本经济制度。",
+      "answerRaw": "A;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "以公有制为主体"
+        },
+        {
+          "key": "B",
+          "text": "单一的公有制"
+        },
+        {
+          "key": "C",
+          "text": "多种所有制经济共同发展"
+        },
+        {
+          "key": "D",
+          "text": "多种经济成分共同发展"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-42",
+      "sequence": 941,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 42,
+      "sourceNo": 57,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "建立社会主义市场经济体制"
+      ],
+      "material": "",
+      "stem": "江泽民说过“我们搞的是社会主义市场经济，‘社会主义’这几个字是不能没有的，这并非多余，并非画蛇添足，而恰恰相反，这是画龙点睛。所谓‘点睛’，就是点明我们的市场经济的性质。”社会主义市场经济体制是社会主义基本制度与市场经济的结合，其基本特征是（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "以公有制为主体、多种所有制经济共同发展的所有制结构"
+        },
+        {
+          "key": "B",
+          "text": "以按劳分配为主体、多种分配方式并存的分配制度"
+        },
+        {
+          "key": "C",
+          "text": "宏观调控上，以实现最广大劳动人民利益为出发点和归宿"
+        },
+        {
+          "key": "D",
+          "text": "政府不直接干预企业的生产和经营"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-43",
+      "sequence": 942,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 43,
+      "sourceNo": 58,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "建设社会主义政治文明"
+      ],
+      "material": "",
+      "stem": "党的十五大报告明确提出坚持依法治国，建设社会主义法治国家。1999年3月15日，第九届全国人民代表大会第二次会议通过了《中华人民共和国宪法修正案》，把“实行依法治国，建设社会主义法治国家”正式写入了宪法。依法治国，是（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "党领导人民治理国家的基本方略"
+        },
+        {
+          "key": "B",
+          "text": "发展社会主义市场经济的客观需要"
+        },
+        {
+          "key": "C",
+          "text": "社会文明进步的重要标志"
+        },
+        {
+          "key": "D",
+          "text": "国家长治久安的重要保障"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-44",
+      "sequence": 943,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 44,
+      "sourceNo": 59,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "中特色社义理论体系的丰富发展"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想，把党的建设同当今世界的发展趋势，同我国社会主义的自我完善和发展，同实现中国特色社会主义的宏伟目标和各项任务联系起来，形成了崭新的马克思主义建党学说。这一重要思想的历史地位和指导意义表现在（）。",
+      "answerRaw": "A;B;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "“三个代表”重要思想是中国特色社会主义理论体系的重要组成部分"
+        },
+        {
+          "key": "B",
+          "text": "“三个代表”重要思想体现了党的指导思想的与时俱进"
+        },
+        {
+          "key": "C",
+          "text": "“三个代表”重要思想是马克思主义中国化的最新理论成果"
+        },
+        {
+          "key": "D",
+          "text": "“三个代表”重要思想是加强和改进党的建设、推进中国特色社会主义事业的强大理论武器"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-45",
+      "sequence": 944,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 45,
+      "sourceNo": 61,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表先进生产力的发展要求"
+      ],
+      "material": "",
+      "stem": "广大（）始终是推动我国先进生产力发展和社会全面进步的根本力量。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "工人"
+        },
+        {
+          "key": "B",
+          "text": "农民"
+        },
+        {
+          "key": "C",
+          "text": "知识分子"
+        },
+        {
+          "key": "D",
+          "text": "中国共产党员"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-46",
+      "sequence": 945,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 46,
+      "sourceNo": 63,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "推进党的建设新的伟大工程"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想从新的高度提出必须不断改进党的领导方式和执政方式。提出我们党要按照（）的原则，进一步加强和完善党的领导体制，改进党的领导方式和执政方式。",
+      "answerRaw": "B;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "实事求是"
+        },
+        {
+          "key": "B",
+          "text": "总揽全局"
+        },
+        {
+          "key": "C",
+          "text": "与时俱进"
+        },
+        {
+          "key": "D",
+          "text": "协调各方"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-47",
+      "sequence": 946,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 47,
+      "sourceNo": 64,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "推进党的建设新的伟大工程"
+      ],
+      "material": "",
+      "stem": "推进党的建设新的伟大工程，重点是加强党的执政能力建设，进一步解决（）这两大历史性课题。",
+      "answerRaw": "B;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "纠正党的不良作风"
+        },
+        {
+          "key": "B",
+          "text": "提高党的领导水平和执政水平"
+        },
+        {
+          "key": "C",
+          "text": "防范“四大危险”"
+        },
+        {
+          "key": "D",
+          "text": "提高拒腐防变和抵御风险的能力"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-48",
+      "sequence": 947,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 48,
+      "sourceNo": 65,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表先进生产力的发展要求"
+      ],
+      "material": "",
+      "stem": "“人民，只有人民，才是我们工作价值得最高裁决者。”江泽民强调，我们想事情，做工作，想得对不对，做得好不好，要有一个根本得衡量尺度，这就是（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "人民拥护不拥护"
+        },
+        {
+          "key": "B",
+          "text": "人民赞成不赞成"
+        },
+        {
+          "key": "C",
+          "text": "人民高兴不高兴"
+        },
+        {
+          "key": "D",
+          "text": "人民答应不答应"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-49",
+      "sequence": 948,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 49,
+      "sourceNo": 66,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "推进中特社义事业的理论武器"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想作为我们党在新世纪新阶段的指导思想，具有深远的理论意义和实践意义。它是（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "对马克思列宁主义、毛泽东思想和邓小平理论的继承和发展"
+        },
+        {
+          "key": "B",
+          "text": "中国特色社会主义理论体系的重要组成部分"
+        },
+        {
+          "key": "C",
+          "text": "中国特色社会主义理论体系的接续发展"
+        },
+        {
+          "key": "D",
+          "text": "推进中国特色社会主义事业的强大理论武器"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-50",
+      "sequence": 949,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 50,
+      "sourceNo": 67,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "中特色社义理论体系的丰富发展"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想产生的最重要的时代背景是指（）。",
+      "answerRaw": "A;B;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "世界多极化和经济全球化的趋势在曲折中发展"
+        },
+        {
+          "key": "B",
+          "text": "和平与发展仍是时代的主题"
+        },
+        {
+          "key": "C",
+          "text": "大规模争霸战争不断"
+        },
+        {
+          "key": "D",
+          "text": "在千年更迭、世纪交替之际，我们所处的国际环境已经发生并还在经历着前所未有的巨大变化"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-51",
+      "sequence": 950,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 51,
+      "sourceNo": 69,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表最广大人民的根本利益"
+      ],
+      "material": "",
+      "stem": "贯彻“三个代表”重要思想（）。",
+      "answerRaw": "A;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "关键在坚持与时俱进"
+        },
+        {
+          "key": "B",
+          "text": "根本在加强党的建设"
+        },
+        {
+          "key": "C",
+          "text": "核心在坚持党的先进性"
+        },
+        {
+          "key": "D",
+          "text": "本质在坚持执政为民"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-52",
+      "sequence": 951,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 52,
+      "sourceNo": 70,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表先进文化的前进方向"
+      ],
+      "material": "",
+      "stem": "加强社会主义思想道德建设，是发展先进文化的重要内容和中心环节。弘扬爱国主义精神，以（）为核心、以（）为原则、以（）为重点，加强社会公德、职业道德和家庭美德教育。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "为人民服务"
+        },
+        {
+          "key": "B",
+          "text": "集体主义"
+        },
+        {
+          "key": "C",
+          "text": "诚实守信"
+        },
+        {
+          "key": "D",
+          "text": "广泛开展群众性精神文明创建活动"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-53",
+      "sequence": 952,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 53,
+      "sourceNo": 71,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "中特色社义理论体系的丰富发展"
+      ],
+      "material": "",
+      "stem": "江泽民指出，认真总结苏联解体、东欧剧变的教训，以及我们发生“文化大革命”这样严重曲折的教训，深刻分析它们的原因，可以得出两条结论（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "必须坚持社会主义"
+        },
+        {
+          "key": "B",
+          "text": "必须进行社会主义改革，探索符合本国实际的社会主义发展道路"
+        },
+        {
+          "key": "C",
+          "text": "要探索符合本国实际的社会主义发展道路"
+        },
+        {
+          "key": "D",
+          "text": "社会主义制度本身具有缺陷"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-54",
+      "sequence": 953,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 54,
+      "sourceNo": 72,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 1.5,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "推进中特社义事业的理论武器"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想把（）统一起来，从深层次上揭示了社会主义制度不断完善和发展的途径，是加强和改进党的建设、推进中国特色社会主义事业的强大理论武器。",
+      "answerRaw": "A;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "发展先进生产力"
+        },
+        {
+          "key": "B",
+          "text": "发展社会主义民主政治"
+        },
+        {
+          "key": "C",
+          "text": "发展先进文化"
+        },
+        {
+          "key": "D",
+          "text": "实现最广大人民的根本利益"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-55",
+      "sequence": 954,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 55,
+      "sourceNo": 73,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 1.5,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "中特色社义理论体系的丰富发展"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想是马克思主义中国化的最新理论成果。它与马克思列宁主义、毛泽东思想、邓小平理论是一脉相承的统一的科学理论。这种一脉相承具体表现在（）。",
+      "answerRaw": "A;B;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "都坚持辩证唯物主义和历史唯物主义世界观"
+        },
+        {
+          "key": "B",
+          "text": "都具有与时俱进的理论品质"
+        },
+        {
+          "key": "C",
+          "text": "都提出物质文明和精神文明并举的原则"
+        },
+        {
+          "key": "D",
+          "text": "都坚持为最广大人民群众的根本利益服务的宗旨"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-56",
+      "sequence": 955,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 56,
+      "sourceNo": 74,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 1.5,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "中特色社义理论体系的丰富发展"
+      ],
+      "material": "",
+      "stem": "2000年6月28日，江泽民在中央思想政治工作会议上，提出了（）。这几个“如何认识”实际上深刻揭示了“三个代表”重要思想产生的历史起点和逻辑起点，反映了“三个代表”重要思想提出的时代背景和发展的现实依据。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "如何认识社会主义发展的历史进程"
+        },
+        {
+          "key": "B",
+          "text": "如何认识资本主义发展的历史进程"
+        },
+        {
+          "key": "C",
+          "text": "如何认识我国社会主义改革实践过程对人们思想的影响"
+        },
+        {
+          "key": "D",
+          "text": "如何认识当今的国际环境和国际政治斗争带来的影响"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-57",
+      "sequence": 956,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 57,
+      "sourceNo": 77,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 1.5,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表先进文化的前进方向"
+      ],
+      "material": "",
+      "stem": "发展社会主义先进文化，就是发展面向（），民族的科学的大众的社会主义文化。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "现代化"
+        },
+        {
+          "key": "B",
+          "text": "世界"
+        },
+        {
+          "key": "C",
+          "text": "未来"
+        },
+        {
+          "key": "D",
+          "text": "全人类"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-58",
+      "sequence": 957,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 58,
+      "sourceNo": 78,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 1.5,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "推进党的建设新的伟大工程"
+      ],
+      "material": "",
+      "stem": "坚持中国共产党的领导，就是要（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持党在建设中国特色社会主义事业中的领导核心地位，发挥党总揽全局、协调各方的作用"
+        },
+        {
+          "key": "B",
+          "text": "坚持党对国家大政方针和全局工作的政治领导"
+        },
+        {
+          "key": "C",
+          "text": "坚持党管干部的原则"
+        },
+        {
+          "key": "D",
+          "text": "坚持党对意识形态领域的领导"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-59",
+      "sequence": 958,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 59,
+      "sourceNo": 80,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 1.5,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "全面建设小康社会"
+      ],
+      "material": "",
+      "stem": "江泽民指出，之所以要全面建设小康社会，是因为（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "总体小康社会是低水平的、不全面的、不平衡的"
+        },
+        {
+          "key": "B",
+          "text": "我国人均生产的物质产品和物质财富较少，劳动生产率较低"
+        },
+        {
+          "key": "C",
+          "text": "总体小康社会偏重于满足物质消费，而文化消费还得不到有效满足"
+        },
+        {
+          "key": "D",
+          "text": "存在地区之间、城乡之间的发展不协调、不平衡问题"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-60",
+      "sequence": 959,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 60,
+      "sourceNo": 82,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 1.5,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表先进文化的前进方向"
+      ],
+      "material": "",
+      "stem": "在5000多年的发展中，中华民族形成了以爱国主义为核心的（）的伟大民族精神。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "团结统一"
+        },
+        {
+          "key": "B",
+          "text": "爱好和平"
+        },
+        {
+          "key": "C",
+          "text": "勤劳勇敢"
+        },
+        {
+          "key": "D",
+          "text": "自强不息"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-61",
+      "sequence": 960,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 61,
+      "sourceNo": 83,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "推进党的建设新的伟大工程"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想对党的建设提出的新要求包括（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "始终保持与时俱进的精神状态"
+        },
+        {
+          "key": "B",
+          "text": "坚持党要管党、从严治党的方针"
+        },
+        {
+          "key": "C",
+          "text": "扩大党的阶级基础和群众基础"
+        },
+        {
+          "key": "D",
+          "text": "以阶级斗争为纲加强思想建设"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-62",
+      "sequence": 961,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 62,
+      "sourceNo": 84,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "建立社会主义市场经济体制"
+      ],
+      "material": "",
+      "stem": "社会主义市场经济体制的基本特征体现在（）。",
+      "answerRaw": "A;B;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持公有制为主体、多种所有制共同发展"
+        },
+        {
+          "key": "B",
+          "text": "市场在资源配置中起决定性作用"
+        },
+        {
+          "key": "C",
+          "text": "国家实行全面计划经济调控"
+        },
+        {
+          "key": "D",
+          "text": "按劳分配为主体、多种分配方式并存"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-63",
+      "sequence": 962,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 63,
+      "sourceNo": 85,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "建立社会主义市场经济体制"
+      ],
+      "material": "",
+      "stem": "江泽民提出的“新的三步走”战略目标包括（）。",
+      "answerRaw": "A;B;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "2010年实现国民生产总值比2000年翻一番"
+        },
+        {
+          "key": "B",
+          "text": "2020年全面建成小康社会"
+        },
+        {
+          "key": "C",
+          "text": "2035年基本实现社会主义现代化"
+        },
+        {
+          "key": "D",
+          "text": "21世纪中叶建成社会主义现代化强国"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-64",
+      "sequence": 963,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 64,
+      "sourceNo": 86,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "建设社会主义政治文明"
+      ],
+      "material": "",
+      "stem": "社会主义政治文明建设必须坚持的有机统一是（）三者的统一。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "党的领导"
+        },
+        {
+          "key": "B",
+          "text": "人民当家作主"
+        },
+        {
+          "key": "C",
+          "text": "依法治国"
+        },
+        {
+          "key": "D",
+          "text": "多党合作制度"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-65",
+      "sequence": 964,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 65,
+      "sourceNo": 87,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "推进党的建设新的伟大工程"
+      ],
+      "material": "",
+      "stem": "江泽民提出的“三讲”教育包括（）。",
+      "answerRaw": "A;B;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "讲学习"
+        },
+        {
+          "key": "B",
+          "text": "讲政治"
+        },
+        {
+          "key": "C",
+          "text": "讲纪律"
+        },
+        {
+          "key": "D",
+          "text": "讲正气"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-66",
+      "sequence": 965,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 66,
+      "sourceNo": 88,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点"
+      ],
+      "material": "",
+      "stem": "江泽民提出的“四个如何认识”包括（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "如何认识社会主义发展的历史进程"
+        },
+        {
+          "key": "B",
+          "text": "如何认识资本主义发展的历史进程"
+        },
+        {
+          "key": "C",
+          "text": "如何认识改革开放对人们思想的影响"
+        },
+        {
+          "key": "D",
+          "text": "如何认识国际环境和政治斗争的影响"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-67",
+      "sequence": 966,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 67,
+      "sourceNo": 91,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "推进党的建设新的伟大工程"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想对马克思主义建党学说的创新包括（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "提出党的历史方位“两个转变”"
+        },
+        {
+          "key": "B",
+          "text": "强调党的先进性是具体的历史的"
+        },
+        {
+          "key": "C",
+          "text": "要求增强党的阶级基础和扩大群众基础"
+        },
+        {
+          "key": "D",
+          "text": "确立民主集中制为根本组织原则"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-68",
+      "sequence": 967,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 68,
+      "sourceNo": 93,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "中特色社义理论体系的丰富发展"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想的理论渊源包括（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "马克思列宁主义"
+        },
+        {
+          "key": "B",
+          "text": "毛泽东思想"
+        },
+        {
+          "key": "C",
+          "text": "邓小平理论"
+        },
+        {
+          "key": "D",
+          "text": "中国传统文化"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-69",
+      "sequence": 968,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 69,
+      "sourceNo": 94,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "中特色社义理论体系的丰富发展"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想是中国特色社会主义理论体系的重要组成部分，它继承和发展了马克思列宁主义、毛泽东思想和邓小平理论，深刻回答了在新的历史条件下建设什么样的党、怎样建设党，建设什么样的社会主义、怎样建设社会主义等重大问题。其中，在对社会主义本质的认识上，“三个代表”重要思想作出了新的理论概括，体现在（）。",
+      "answerRaw": "A;B;C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "突出先进文化的前进方向"
+        },
+        {
+          "key": "B",
+          "text": "强调实现人民根本利益"
+        },
+        {
+          "key": "C",
+          "text": "注重人的全面发展"
+        },
+        {
+          "key": "D",
+          "text": "强化阶级斗争重要性"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-70",
+      "sequence": 969,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 70,
+      "sourceNo": 95,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "“引”“走”结合对外开放战略"
+      ],
+      "material": "",
+      "stem": "在经济全球化深入发展的背景下，为了更好地融入世界经济体系，提升我国在国际分工中的地位，江泽民同志提出了“引进来”与“走出去”相结合的战略。这一战略的提出，标志着我国对外开放进入了一个新的阶段。以下关于“引进来”和“走出去”相结合战略的说法，正确的是（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "“引进来”就是吸收和利用外资、引进先进技术和管理经验"
+        },
+        {
+          "key": "B",
+          "text": "“走出去”就是积极推动有实力的企业到境外投资办厂，开拓国际市场"
+        },
+        {
+          "key": "C",
+          "text": "实施“引进来”和“走出去”相结合战略，有利于充分利用国际国内两个市场、两种资源"
+        },
+        {
+          "key": "D",
+          "text": "这一战略的实施，有助于我国经济结构调整和优化，增强国际竞争力"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-71",
+      "sequence": 970,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 71,
+      "sourceNo": 97,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "推进中特社义事业的理论武器"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想深刻阐明了加强和改进党的建设的重大问题，明确提出了在新形势下建设什么样的党、怎样建设党的重大课题，为党的建设指明了方向。根据“三个代表”重要思想，新时期党的建设的总体目标是使我们党（）。",
+      "answerRaw": "A;B;C;D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "始终成为工人阶级先锋队"
+        },
+        {
+          "key": "B",
+          "text": "同时成为中国人民和中华民族先锋队"
+        },
+        {
+          "key": "C",
+          "text": "保持纯洁性的马克思主义政党"
+        },
+        {
+          "key": "D",
+          "text": "领导核心地位不可动摇"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-130",
+      "sequence": 971,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 130,
+      "sourceNo": 181,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "多选题",
+      "score": 1,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点"
+      ],
+      "material": "",
+      "stem": "贯彻“三个代表”重要思想，核心是坚持（）。",
+      "answerRaw": "A;B",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "党的领导"
+        },
+        {
+          "key": "B",
+          "text": "人民的主体地位"
+        },
+        {
+          "key": "C",
+          "text": "以经济建设为中心"
+        },
+        {
+          "key": "D",
+          "text": "改革开放"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
       "id": "chapter-07-第七章-三个代表-重要思想-132",
-      "sequence": 1028,
+      "sequence": 972,
       "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 132,
@@ -35897,7 +34456,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-133",
-      "sequence": 1029,
+      "sequence": 973,
       "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 133,
@@ -35938,7 +34497,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-07-第七章-三个代表-重要思想-134",
-      "sequence": 1030,
+      "sequence": 974,
       "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 134,
@@ -35975,6 +34534,1447 @@ window.QUESTION_BANK_DATA = {
           "text": "使我们的事业不断取得新的更大成就"
         }
       ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-72",
+      "sequence": 975,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 72,
+      "sourceNo": 103,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "中特色社义理论体系的丰富发展"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想是一个完整的思想体系，经历了一个酝酿、形成到逐步深化的过程。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-73",
+      "sequence": 976,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 73,
+      "sourceNo": 106,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "全面建设小康社会"
+      ],
+      "material": "",
+      "stem": "经过二十多年的改革开放和社会主义现代化建设，到2000年，人民生活总体上达到了小康，这是一个历史性的飞跃。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-74",
+      "sequence": 977,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 74,
+      "sourceNo": 108,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "建设社会主义政治文明"
+      ],
+      "material": "",
+      "stem": "实行依法治国，必须坚持有法可依、有法必依、执法必严、违法必究。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-75",
+      "sequence": 978,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 75,
+      "sourceNo": 111,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "建设社会主义政治文明"
+      ],
+      "material": "",
+      "stem": "讲政治是核心。要坚定正确的政治方向、政治立场和政治观点，严守政治纪律，提高政治敏锐性和政治鉴别力。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-76",
+      "sequence": 979,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 76,
+      "sourceNo": 112,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表先进文化的前进方向"
+      ],
+      "material": "",
+      "stem": "发展社会主义先进文化，就是发展面向现代化、面向世界、面向未来的，民族的科学的大众的社会主义文化。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-77",
+      "sequence": 980,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 77,
+      "sourceNo": 114,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "全面建设小康社会"
+      ],
+      "material": "",
+      "stem": "2000年，我国人民生活总体上达到了小康。但也要看到，这个小康水平是低水平的、不全面的、发展很不平衡的。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-78",
+      "sequence": 981,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 78,
+      "sourceNo": 116,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表最广大人民的根本利益"
+      ],
+      "material": "",
+      "stem": "我们党作为执政党，面临的最根本的课题是能不能始终代表最广大人民的根本利益。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-79",
+      "sequence": 982,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 79,
+      "sourceNo": 117,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点"
+      ],
+      "material": "",
+      "stem": "2000年，江泽民在广东考察工作时首次对“三个代表”进行了比较全面的阐述。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-80",
+      "sequence": 983,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 80,
+      "sourceNo": 118,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表先进文化的前进方向"
+      ],
+      "material": "",
+      "stem": "江泽民曾强调指出，马克思主义最重要的理论品质是与时俱进。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-81",
+      "sequence": 984,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 81,
+      "sourceNo": 119,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "推进党的建设新的伟大工程"
+      ],
+      "material": "",
+      "stem": "贯彻“三个代表”重要思想，必须使全党始终保持与时俱进的精神状态，与时俱进就是党的全部理论和工作要体现时代性，把握规律性，富于创造性。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-82",
+      "sequence": 985,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 82,
+      "sourceNo": 120,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "建立社会主义市场经济体制"
+      ],
+      "material": "",
+      "stem": "非公有制经济是社会主义市场经济的重要组成部分，所以，非公有制经济是社会主义经济。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-83",
+      "sequence": 986,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 83,
+      "sourceNo": 123,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "建设社会主义政治文明"
+      ],
+      "material": "",
+      "stem": "在我国，政治体制改革是按照西方资产阶级政治文明的模式进行。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-84",
+      "sequence": 987,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 84,
+      "sourceNo": 124,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "发展是党执政兴国的第一要务"
+      ],
+      "material": "",
+      "stem": "广大知识分子始终是推动我国先进生产力发展和社会全面进步的根本力量。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-85",
+      "sequence": 988,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 85,
+      "sourceNo": 125,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表最广大人民的根本利益"
+      ],
+      "material": "",
+      "stem": "人民，只有人民，才是我们工作价值的最高裁决者。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-86",
+      "sequence": 989,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 86,
+      "sourceNo": 126,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "中特色社义理论体系的丰富发展"
+      ],
+      "material": "",
+      "stem": "提出“三个代表”重要思想的领导人是邓小平。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-87",
+      "sequence": 990,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 87,
+      "sourceNo": 127,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表最广大人民的根本利益"
+      ],
+      "material": "",
+      "stem": "中国共产党仅代表中国工人阶级的根本利益。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-88",
+      "sequence": 991,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 88,
+      "sourceNo": 129,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "中特色社义理论体系的丰富发展"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想是第二代领导人的智慧结晶。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-89",
+      "sequence": 992,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 89,
+      "sourceNo": 130,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "建立社会主义市场经济体制"
+      ],
+      "material": "",
+      "stem": "社会主义市场经济中的“社会主义”点明了我们市场经济的性质。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-90",
+      "sequence": 993,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 90,
+      "sourceNo": 131,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表先进文化的前进方向"
+      ],
+      "material": "",
+      "stem": "发展社会主义先进文化，就是建设社会主义精神文明。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-91",
+      "sequence": 994,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 91,
+      "sourceNo": 132,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表最广大人民的根本利益"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想坚持把国家的根本利益作为出发点和归宿。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-92",
+      "sequence": 995,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 92,
+      "sourceNo": 133,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "发展是党执政兴国的第一要务"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想强调要努力促进人的自由发展。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-93",
+      "sequence": 996,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 93,
+      "sourceNo": 134,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "中特色社义理论体系的丰富发展"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想深化了对中国特色社会主义的认识。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-94",
+      "sequence": 997,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 94,
+      "sourceNo": 135,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "建立社会主义市场经济体制"
+      ],
+      "material": "",
+      "stem": "非公有制经济是社会主义市场经济的组成部分。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-95",
+      "sequence": 998,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 95,
+      "sourceNo": 136,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "建立社会主义市场经济体制"
+      ],
+      "material": "",
+      "stem": "非公有制经济的存在和发展会导致两极分化。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-96",
+      "sequence": 999,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 96,
+      "sourceNo": 137,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "建设社会主义政治文明"
+      ],
+      "material": "",
+      "stem": "在我国，推进政治体制改革必须一蹴而就。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-97",
+      "sequence": 1000,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 97,
+      "sourceNo": 138,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "中特色社义理论体系的丰富发展"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想是在党的十六大上被确立为党的指导思想的。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-98",
+      "sequence": 1001,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 98,
+      "sourceNo": 139,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "推进党的建设新的伟大工程"
+      ],
+      "material": "",
+      "stem": "江泽民提出“三个代表”重要思想时强调，党的先进性最终要体现在维护国家安全上。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-99",
+      "sequence": 1002,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 99,
+      "sourceNo": 140,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "发展是党执政兴国的第一要务"
+      ],
+      "material": "",
+      "stem": "根据“三个代表”要求，党应吸收所有社会阶层中的优秀分子入党。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-100",
+      "sequence": 1003,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 100,
+      "sourceNo": 141,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "发展是党执政兴国的第一要务"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想认为，发展是党执政兴国的第一要务。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-101",
+      "sequence": 1004,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 101,
+      "sourceNo": 142,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "建设社会主义政治文明"
+      ],
+      "material": "",
+      "stem": "社会主义政治文明建设要求照搬西方多党制模式。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-102",
+      "sequence": 1005,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 102,
+      "sourceNo": 143,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "全面建设小康社会"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想提出，党的最高理想和最终目标是实现共同富裕。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-103",
+      "sequence": 1006,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 103,
+      "sourceNo": 145,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表先进文化的前进方向"
+      ],
+      "material": "",
+      "stem": "实施科教兴国战略的核心是加强基础教育的普及。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-104",
+      "sequence": 1007,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 104,
+      "sourceNo": 146,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "推进党的建设新的伟大工程"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想强调，加强党的执政能力建设的关键是扩大党员数量。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-105",
+      "sequence": 1008,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 105,
+      "sourceNo": 147,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "中特色社义理论体系的丰富发展"
+      ],
+      "material": "",
+      "stem": "江泽民提出的“四个如何认识”包括如何认识社会主义改革实践过程对人们思想的影响。",
+      "answerRaw": "true",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-106",
+      "sequence": 1009,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 106,
+      "sourceNo": 148,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "推进党的建设新的伟大工程"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想认为，党的阶级基础是工人阶级，因此不能吸收其他阶层入党。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-107",
+      "sequence": 1010,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 107,
+      "sourceNo": 149,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "建设社会主义政治文明"
+      ],
+      "material": "",
+      "stem": "( )是社会主义民主政治的本质要求。",
+      "answerRaw": "人民当家作主",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "人民当家作主"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-108",
+      "sequence": 1011,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 108,
+      "sourceNo": 150,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "推进党的建设新的伟大工程"
+      ],
+      "material": "",
+      "stem": "坚持党的领导，核心是坚持党的( )。",
+      "answerRaw": "先进性",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "先进性"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-109",
+      "sequence": 1012,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 109,
+      "sourceNo": 151,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "推进党的建设新的伟大工程"
+      ],
+      "material": "",
+      "stem": "加强和改进党的作风建设，核心问题是保持党同( )的血肉联系。",
+      "answerRaw": "人民群众",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "人民群众"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-110",
+      "sequence": 1013,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 110,
+      "sourceNo": 152,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想是在科学判断党的( )基础上形成的。",
+      "answerRaw": "历史方位",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "历史方位"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-111",
+      "sequence": 1014,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 111,
+      "sourceNo": 153,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表最广大人民的根本利益"
+      ],
+      "material": "",
+      "stem": "( )是先进生产力和先进文化的创造主体，也是实现自身利益的根本力量。",
+      "answerRaw": "人民群众",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "人民群众"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-112",
+      "sequence": 1015,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 112,
+      "sourceNo": 154,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "推进中特社义事业的理论武器"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想的提出，为即将召开的党的( ) ，为全党在充满希望和挑战的21世纪完成自己承担的神圣历史使命，做了重要的理论和思想准备。",
+      "answerRaw": "十六大",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "十六大"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-113",
+      "sequence": 1016,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 113,
+      "sourceNo": 155,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表最广大人民的根本利益"
+      ],
+      "material": "",
+      "stem": "我们党最大的政治优势是( )。",
+      "answerRaw": "密切联系群众",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "密切联系群众"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-114",
+      "sequence": 1017,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 114,
+      "sourceNo": 158,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "推进党的建设新的伟大工程"
+      ],
+      "material": "",
+      "stem": "推进党的建设新的伟大工程要求我们：一定要坚持党要管党、( )的方针。",
+      "answerRaw": "从严治党",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "从严治党"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-115",
+      "sequence": 1018,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 115,
+      "sourceNo": 161,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "推进党的建设新的伟大工程"
+      ],
+      "material": "",
+      "stem": "推进党的建设新的伟大工程的重点是加强党的 ( )建设。",
+      "answerRaw": "执政能力",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "执政能力"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-116",
+      "sequence": 1019,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 116,
+      "sourceNo": 162,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "建立社会主义市场经济体制"
+      ],
+      "material": "",
+      "stem": "社会主义初级阶段的基本经济制度是公有制为主体、( )共同发展。",
+      "answerRaw": "多种所有制经济",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "多种所有制经济"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-117",
+      "sequence": 1020,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 117,
+      "sourceNo": 163,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点"
+      ],
+      "material": "",
+      "stem": "江泽民在2001年“七一讲话”中系统阐述了“三个代表”重要思想的( )。",
+      "answerRaw": "科学内涵",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "科学内涵"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-118",
+      "sequence": 1021,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 118,
+      "sourceNo": 164,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "发展是党执政兴国的第一要务"
+      ],
+      "material": "",
+      "stem": "处理改革、发展、稳定关系的重要结合点是 ( )。",
+      "answerRaw": "不断改善人民生活",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "不断改善人民生活"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-119",
+      "sequence": 1022,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 119,
+      "sourceNo": 165,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表先进生产力的发展要求"
+      ],
+      "material": "",
+      "stem": "江泽民提出的“四个尊重”方针包括尊重劳动、尊重知识、尊重人才、尊重( )。",
+      "answerRaw": "创造",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "创造"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-120",
+      "sequence": 1023,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 120,
+      "sourceNo": 166,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "中特色社义理论体系的丰富发展"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想深化了对共产党执政规律、社会主义建设规律和( ) 的认识。",
+      "answerRaw": "人类社会发展规律",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "人类社会发展规律"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-121",
+      "sequence": 1024,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 121,
+      "sourceNo": 169,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表先进文化的前进方向"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想强调，在新的历史条件下，发展社会主义先进文化，根本在于培育和造就一代又一代有理想、有道德、有文化、有( ) 的”四有“公民，为建设中国特色社会主义事业提供坚实的思想保证和强大的精神动力。",
+      "answerRaw": "纪律",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "纪律"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-122",
+      "sequence": 1025,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 122,
+      "sourceNo": 170,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点",
+        "始终代表最广大人民的根本利益"
+      ],
+      "material": "",
+      "stem": "江泽民指出，党的最大政治优势是密切联系群众，党执政后的最大危险是( )。",
+      "answerRaw": "脱离群众",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "脱离群众"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-123",
+      "sequence": 1026,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 123,
+      "sourceNo": 172,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "填空题",
+      "score": 2,
+      "difficulty": 2,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的历史地位",
+        "中特色社义理论体系的丰富发展"
+      ],
+      "material": "",
+      "stem": "“三个代表”重要思想形成的实践基础是改革开放以来特别是( )以后党和人民建设中国特色社会主义的伟大探索。",
+      "answerRaw": "十三届四中全会",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "十三届四中全会"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-124",
+      "sequence": 1027,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 124,
+      "sourceNo": 173,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "全面建设小康社会"
+      ],
+      "material": "",
+      "stem": "党的“十五大”把“三步走”战略中的第三步进一步具体化，提出了三个阶段性目标，这三个阶段性目标是什么？",
+      "answerRaw": "（1）21世纪第一个十年实现国民生产总值比2000年翻一番，使人民的小康生活更加宽裕，形成比较完善的社会主义市场经济体制；（2）再经过十年的努力，到建党一百年时，使国民经济更加发展，各项制度更加完善；（3）到21世纪中叶新中国成立一百年时，基本实现现代化，建成富强民主文明的社会主义国家。",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-125",
+      "sequence": 1028,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 125,
+      "sourceNo": 174,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点"
+      ],
+      "material": "",
+      "stem": "如何把握“三个代表”重要思想的形成条件？",
+      "answerRaw": "首先，“三个代表”重要思想是在对冷战结束后国际局势科学判断的基础上形成的。其次，“三个代表”重要思想是在科学判断党的历史方位和总结历史经验的基础上提出来的。最后，“三个代表”重要思想是在建设中国特色社会主义伟大实践的基础上形成的。",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-126",
+      "sequence": 1029,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 126,
+      "sourceNo": 175,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的核心观点"
+      ],
+      "material": "",
+      "stem": "请简述“三个代表”重要思想的科学内涵及其辩证统一关系。",
+      "answerRaw": "一、科学内涵1.始终代表中国先进生产力的发展要求；2.始终代表中国先进文化的前进方向；3.始终代表中国最广大人民的根本利益。二、辩证统一关系1.发展先进生产力是发展先进文化和实现人民利益的物质基础；2.发展先进文化为生产力发展提供精神动力和智力支持；3.实现人民根本利益是发展生产力和文化的根本目的，三者统一于党的建设新的伟大工程。",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-07-第七章-三个代表-重要思想-127",
+      "sequence": 1030,
+      "sourceFile": "我的题库_第七章  ”三个代表“重要思想_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 127,
+      "sourceNo": 176,
+      "chapterKey": "chapter-07-第七章-三个代表-重要思想",
+      "chapterTitle": "第七章 \"三个代表\"重要思想",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [
+        "“三个代表”重要思想的主要内容",
+        "推进党的建设新的伟大工程"
+      ],
+      "material": "",
+      "stem": "为什么说“三个代表”重要思想是对马克思主义建党学说的新发展？",
+      "answerRaw": "作为新的时代的产物，“三个代表”重要思想充分体现了一种马克思主义建党学说的新境界：（1）他体现了对世界社会主义运动和我们党80年历史经验的深沉思考；（2）它体现了从世界大局中观察、研究和解决党建问题的世界眼光；（3）它体现了从历史发展进程中思考和解决党的生命力的忧患意识；（4）它体现了解放思想、实事求是、勇于开拓、不断进取的创新精神。",
+      "explanation": "",
+      "options": [],
       "fillBlanks": []
     },
     {
@@ -37617,8 +37617,90 @@ window.QUESTION_BANK_DATA = {
       "fillBlanks": []
     },
     {
-      "id": "chapter-08-第八章-科学发展观-42",
+      "id": "chapter-08-第八章-科学发展观-142",
       "sequence": 1071,
+      "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 142,
+      "sourceNo": 200,
+      "chapterKey": "chapter-08-第八章-科学发展观",
+      "chapterTitle": "第八章 科学发展观",
+      "type": "单选题",
+      "score": 1,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [
+        "科学发展观的科学内涵",
+        "推动经济社会发展是科学发展观的第一要义"
+      ],
+      "material": "",
+      "stem": "新中国成立以来我国经济社会发展取得了举世瞩目的成就，但仍处于并将长期处于（ ）的基本国情没有变。",
+      "answerRaw": "D",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "共产主义第一阶段"
+        },
+        {
+          "key": "B",
+          "text": "社会主义高级阶段"
+        },
+        {
+          "key": "C",
+          "text": "共产主义高级阶段"
+        },
+        {
+          "key": "D",
+          "text": "社会主义初级阶段"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-08-第八章-科学发展观-143",
+      "sequence": 1072,
+      "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 143,
+      "sourceNo": 201,
+      "chapterKey": "chapter-08-第八章-科学发展观",
+      "chapterTitle": "第八章 科学发展观",
+      "type": "单选题",
+      "score": 1,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [
+        "科学发展观的历史地位",
+        "中特理论的接续发展"
+      ],
+      "material": "",
+      "stem": "科学发展观是在深入总结改革开放以来特别是党的（ ）大以来实践经验的基础上形成和发展的。",
+      "answerRaw": "C",
+      "explanation": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "十四"
+        },
+        {
+          "key": "B",
+          "text": "十五"
+        },
+        {
+          "key": "C",
+          "text": "十六"
+        },
+        {
+          "key": "D",
+          "text": "十七"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-08-第八章-科学发展观-42",
+      "sequence": 1073,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 42,
@@ -37659,7 +37741,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-43",
-      "sequence": 1072,
+      "sequence": 1074,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 43,
@@ -37700,7 +37782,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-44",
-      "sequence": 1073,
+      "sequence": 1075,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 44,
@@ -37741,7 +37823,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-45",
-      "sequence": 1074,
+      "sequence": 1076,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 45,
@@ -37782,7 +37864,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-46",
-      "sequence": 1075,
+      "sequence": 1077,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 46,
@@ -37823,7 +37905,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-47",
-      "sequence": 1076,
+      "sequence": 1078,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 47,
@@ -37864,7 +37946,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-48",
-      "sequence": 1077,
+      "sequence": 1079,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 48,
@@ -37905,7 +37987,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-49",
-      "sequence": 1078,
+      "sequence": 1080,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 49,
@@ -37945,7 +38027,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-50",
-      "sequence": 1079,
+      "sequence": 1081,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 50,
@@ -37986,7 +38068,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-51",
-      "sequence": 1080,
+      "sequence": 1082,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 51,
@@ -38027,7 +38109,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-52",
-      "sequence": 1081,
+      "sequence": 1083,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 52,
@@ -38068,7 +38150,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-53",
-      "sequence": 1082,
+      "sequence": 1084,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 53,
@@ -38109,7 +38191,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-54",
-      "sequence": 1083,
+      "sequence": 1085,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 54,
@@ -38150,7 +38232,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-55",
-      "sequence": 1084,
+      "sequence": 1086,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 55,
@@ -38190,7 +38272,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-56",
-      "sequence": 1085,
+      "sequence": 1087,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 56,
@@ -38231,7 +38313,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-57",
-      "sequence": 1086,
+      "sequence": 1088,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 57,
@@ -38271,7 +38353,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-58",
-      "sequence": 1087,
+      "sequence": 1089,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 58,
@@ -38312,7 +38394,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-59",
-      "sequence": 1088,
+      "sequence": 1090,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 59,
@@ -38352,7 +38434,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-60",
-      "sequence": 1089,
+      "sequence": 1091,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 60,
@@ -38392,7 +38474,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-61",
-      "sequence": 1090,
+      "sequence": 1092,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 61,
@@ -38433,7 +38515,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-62",
-      "sequence": 1091,
+      "sequence": 1093,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 62,
@@ -38474,7 +38556,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-63",
-      "sequence": 1092,
+      "sequence": 1094,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 63,
@@ -38515,7 +38597,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-64",
-      "sequence": 1093,
+      "sequence": 1095,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 64,
@@ -38556,7 +38638,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-65",
-      "sequence": 1094,
+      "sequence": 1096,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 65,
@@ -38597,7 +38679,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-66",
-      "sequence": 1095,
+      "sequence": 1097,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 66,
@@ -38638,7 +38720,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-67",
-      "sequence": 1096,
+      "sequence": 1098,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 67,
@@ -38679,7 +38761,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-68",
-      "sequence": 1097,
+      "sequence": 1099,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 68,
@@ -38720,7 +38802,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-69",
-      "sequence": 1098,
+      "sequence": 1100,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 69,
@@ -38761,7 +38843,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-70",
-      "sequence": 1099,
+      "sequence": 1101,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 70,
@@ -38802,7 +38884,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-71",
-      "sequence": 1100,
+      "sequence": 1102,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 71,
@@ -38843,7 +38925,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-72",
-      "sequence": 1101,
+      "sequence": 1103,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 72,
@@ -38888,7 +38970,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-73",
-      "sequence": 1102,
+      "sequence": 1104,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 73,
@@ -38929,7 +39011,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-74",
-      "sequence": 1103,
+      "sequence": 1105,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 74,
@@ -38970,7 +39052,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-75",
-      "sequence": 1104,
+      "sequence": 1106,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 75,
@@ -39011,7 +39093,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-76",
-      "sequence": 1105,
+      "sequence": 1107,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 76,
@@ -39052,7 +39134,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-77",
-      "sequence": 1106,
+      "sequence": 1108,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 77,
@@ -39093,7 +39175,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-78",
-      "sequence": 1107,
+      "sequence": 1109,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 78,
@@ -39134,7 +39216,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-79",
-      "sequence": 1108,
+      "sequence": 1110,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 79,
@@ -39175,7 +39257,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-80",
-      "sequence": 1109,
+      "sequence": 1111,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 80,
@@ -39216,7 +39298,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-81",
-      "sequence": 1110,
+      "sequence": 1112,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 81,
@@ -39257,7 +39339,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-82",
-      "sequence": 1111,
+      "sequence": 1113,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 82,
@@ -39298,7 +39380,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-83",
-      "sequence": 1112,
+      "sequence": 1114,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 83,
@@ -39339,7 +39421,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-84",
-      "sequence": 1113,
+      "sequence": 1115,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 84,
@@ -39380,7 +39462,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-85",
-      "sequence": 1114,
+      "sequence": 1116,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 85,
@@ -39425,7 +39507,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-86",
-      "sequence": 1115,
+      "sequence": 1117,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 86,
@@ -39466,7 +39548,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-87",
-      "sequence": 1116,
+      "sequence": 1118,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 87,
@@ -39507,7 +39589,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-88",
-      "sequence": 1117,
+      "sequence": 1119,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 88,
@@ -39547,7 +39629,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-89",
-      "sequence": 1118,
+      "sequence": 1120,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 89,
@@ -39570,7 +39652,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-90",
-      "sequence": 1119,
+      "sequence": 1121,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 90,
@@ -39594,7 +39676,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-91",
-      "sequence": 1120,
+      "sequence": 1122,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 91,
@@ -39618,7 +39700,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-92",
-      "sequence": 1121,
+      "sequence": 1123,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 92,
@@ -39642,7 +39724,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-93",
-      "sequence": 1122,
+      "sequence": 1124,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 93,
@@ -39666,7 +39748,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-94",
-      "sequence": 1123,
+      "sequence": 1125,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 94,
@@ -39690,7 +39772,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-95",
-      "sequence": 1124,
+      "sequence": 1126,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 95,
@@ -39714,7 +39796,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-96",
-      "sequence": 1125,
+      "sequence": 1127,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 96,
@@ -39738,7 +39820,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-97",
-      "sequence": 1126,
+      "sequence": 1128,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 97,
@@ -39762,7 +39844,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-98",
-      "sequence": 1127,
+      "sequence": 1129,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 98,
@@ -39785,7 +39867,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-99",
-      "sequence": 1128,
+      "sequence": 1130,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 99,
@@ -39809,7 +39891,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-100",
-      "sequence": 1129,
+      "sequence": 1131,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 100,
@@ -39833,7 +39915,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-101",
-      "sequence": 1130,
+      "sequence": 1132,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 101,
@@ -39857,7 +39939,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-102",
-      "sequence": 1131,
+      "sequence": 1133,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 102,
@@ -39881,7 +39963,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-103",
-      "sequence": 1132,
+      "sequence": 1134,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 103,
@@ -39905,7 +39987,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-104",
-      "sequence": 1133,
+      "sequence": 1135,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 104,
@@ -39929,7 +40011,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-105",
-      "sequence": 1134,
+      "sequence": 1136,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 105,
@@ -39953,7 +40035,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-106",
-      "sequence": 1135,
+      "sequence": 1137,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 106,
@@ -39977,7 +40059,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-107",
-      "sequence": 1136,
+      "sequence": 1138,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 107,
@@ -40001,7 +40083,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-108",
-      "sequence": 1137,
+      "sequence": 1139,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 108,
@@ -40025,7 +40107,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-109",
-      "sequence": 1138,
+      "sequence": 1140,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 109,
@@ -40049,7 +40131,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-110",
-      "sequence": 1139,
+      "sequence": 1141,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 110,
@@ -40073,7 +40155,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-111",
-      "sequence": 1140,
+      "sequence": 1142,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 111,
@@ -40097,7 +40179,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-112",
-      "sequence": 1141,
+      "sequence": 1143,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 112,
@@ -40121,7 +40203,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-113",
-      "sequence": 1142,
+      "sequence": 1144,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 113,
@@ -40145,7 +40227,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-114",
-      "sequence": 1143,
+      "sequence": 1145,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 114,
@@ -40168,7 +40250,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-115",
-      "sequence": 1144,
+      "sequence": 1146,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 115,
@@ -40192,7 +40274,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-116",
-      "sequence": 1145,
+      "sequence": 1147,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 116,
@@ -40216,7 +40298,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-117",
-      "sequence": 1146,
+      "sequence": 1148,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 117,
@@ -40240,7 +40322,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-118",
-      "sequence": 1147,
+      "sequence": 1149,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 118,
@@ -40264,7 +40346,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-119",
-      "sequence": 1148,
+      "sequence": 1150,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 119,
@@ -40288,7 +40370,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-120",
-      "sequence": 1149,
+      "sequence": 1151,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 120,
@@ -40312,7 +40394,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-121",
-      "sequence": 1150,
+      "sequence": 1152,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 121,
@@ -40335,8 +40417,32 @@ window.QUESTION_BANK_DATA = {
       "fillBlanks": []
     },
     {
+      "id": "chapter-08-第八章-科学发展观-144",
+      "sequence": 1153,
+      "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 144,
+      "sourceNo": 202,
+      "chapterKey": "chapter-08-第八章-科学发展观",
+      "chapterTitle": "第八章 科学发展观",
+      "type": "判断题",
+      "score": 1,
+      "difficulty": 3,
+      "shareScope": "仅自己",
+      "tags": [
+        "科学发展观的科学内涵",
+        "推动经济社会发展是科学发展观的第一要义"
+      ],
+      "material": "",
+      "stem": "经济发展是社会发展的唯一目标，其他方面的进步都应服从于经济增长。",
+      "answerRaw": "false",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
       "id": "chapter-08-第八章-科学发展观-122",
-      "sequence": 1151,
+      "sequence": 1154,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 122,
@@ -40366,7 +40472,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-123",
-      "sequence": 1152,
+      "sequence": 1155,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 123,
@@ -40396,7 +40502,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-124",
-      "sequence": 1153,
+      "sequence": 1156,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 124,
@@ -40426,7 +40532,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-125",
-      "sequence": 1154,
+      "sequence": 1157,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 125,
@@ -40456,7 +40562,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-126",
-      "sequence": 1155,
+      "sequence": 1158,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 126,
@@ -40486,7 +40592,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-127",
-      "sequence": 1156,
+      "sequence": 1159,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 127,
@@ -40516,7 +40622,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-128",
-      "sequence": 1157,
+      "sequence": 1160,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 128,
@@ -40545,7 +40651,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-129",
-      "sequence": 1158,
+      "sequence": 1161,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 129,
@@ -40575,7 +40681,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-130",
-      "sequence": 1159,
+      "sequence": 1162,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 130,
@@ -40605,7 +40711,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-131",
-      "sequence": 1160,
+      "sequence": 1163,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 131,
@@ -40635,7 +40741,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-132",
-      "sequence": 1161,
+      "sequence": 1164,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 132,
@@ -40665,7 +40771,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-133",
-      "sequence": 1162,
+      "sequence": 1165,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 133,
@@ -40695,7 +40801,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-134",
-      "sequence": 1163,
+      "sequence": 1166,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 134,
@@ -40724,7 +40830,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-135",
-      "sequence": 1164,
+      "sequence": 1167,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 135,
@@ -40754,7 +40860,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-136",
-      "sequence": 1165,
+      "sequence": 1168,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 136,
@@ -40784,7 +40890,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "chapter-08-第八章-科学发展观-137",
-      "sequence": 1166,
+      "sequence": 1169,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 137,
@@ -40813,209 +40919,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "chapter-08-第八章-科学发展观-138",
-      "sequence": 1167,
-      "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 138,
-      "sourceNo": 195,
-      "chapterKey": "chapter-08-第八章-科学发展观",
-      "chapterTitle": "第八章 科学发展观",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [
-        "科学发展观"
-      ],
-      "material": "",
-      "stem": "科学发展观形成的条件是？",
-      "answerRaw": "首先，科学发展观是在深刻把握我国基本国情和新的阶段性特征的基础上形成和发展的。其次，科学发展观是在深入总结改革开放以来特别是党的十六大以来实践经验的基础上形成和发展的。第三，科学发展观是在深刻分析国际形势、顺应世界发展趋势、借鉴国外发展经验的基础上形成和发展的。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-08-第八章-科学发展观-139",
-      "sequence": 1168,
-      "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 139,
-      "sourceNo": 196,
-      "chapterKey": "chapter-08-第八章-科学发展观",
-      "chapterTitle": "第八章 科学发展观",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [
-        "科学发展观的历史地位",
-        "中特理论的接续发展"
-      ],
-      "material": "",
-      "stem": "为什么说科学发展观继承和发展了党的三代中央领导集体关于发展的重要思想？",
-      "answerRaw": "（1）继承邓小平理论“发展是硬道理”的核心观点，深化对发展内涵的认识；（2）吸收“三个代表”重要思想中“代表最广大人民根本利益”的理念，提出“以人为本”核心立场；（3）整合社会主义初级阶段理论和全面建设小康社会目标，形成“五位一体”总体布局。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-08-第八章-科学发展观-140",
-      "sequence": 1169,
-      "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 140,
-      "sourceNo": 198,
-      "chapterKey": "chapter-08-第八章-科学发展观",
-      "chapterTitle": "第八章 科学发展观",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [
-        "科学发展观的科学内涵",
-        "统筹兼顾是科学发展观的根本方法"
-      ],
-      "material": "",
-      "stem": "科学发展观中“统筹兼顾”方法论在我国经济社会发展实践中，具体体现在哪些方面？",
-      "answerRaw": "（1）统筹城乡发展，破解二元结构矛盾；（2）统筹区域发展，实施四大板块协调战略；（3）统筹经济社会发展，避免“一条腿长、一条腿短”；（4）统筹国内国际两个大局，构建开放型经济体系。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-08-第八章-科学发展观-141",
-      "sequence": 1170,
-      "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 141,
-      "sourceNo": 199,
-      "chapterKey": "chapter-08-第八章-科学发展观",
-      "chapterTitle": "第八章 科学发展观",
-      "type": "简答题",
-      "score": 5,
-      "difficulty": 5,
-      "shareScope": "仅自己",
-      "tags": [
-        "科学发展观的科学内涵",
-        "以人为本是科学发展观的核心立场"
-      ],
-      "material": "",
-      "stem": "如何理解科学发展观“以人为本”核心立场的理论内涵及实践要求？",
-      "answerRaw": "（1）理论内涵：① 坚持以最广大人民的根本利益为发展的出发点和落脚点；② 强调人民群众是发展的主体和根本力量；③ 把促进人的全面发展作为终极价值追求。（2）实践要求：① 始终把实现好、维护好、发展好人民利益作为决策依据；② 健全民主制度保障人民知情权、参与权、表达权、监督权；③ 建立发展成果普惠机制，重点解决教育、医疗、住房等民生问题。",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-08-第八章-科学发展观-142",
-      "sequence": 1171,
-      "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 142,
-      "sourceNo": 200,
-      "chapterKey": "chapter-08-第八章-科学发展观",
-      "chapterTitle": "第八章 科学发展观",
-      "type": "单选题",
-      "score": 1,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [
-        "科学发展观的科学内涵",
-        "推动经济社会发展是科学发展观的第一要义"
-      ],
-      "material": "",
-      "stem": "新中国成立以来我国经济社会发展取得了举世瞩目的成就，但仍处于并将长期处于（ ）的基本国情没有变。",
-      "answerRaw": "D",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "共产主义第一阶段"
-        },
-        {
-          "key": "B",
-          "text": "社会主义高级阶段"
-        },
-        {
-          "key": "C",
-          "text": "共产主义高级阶段"
-        },
-        {
-          "key": "D",
-          "text": "社会主义初级阶段"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-08-第八章-科学发展观-143",
-      "sequence": 1172,
-      "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 143,
-      "sourceNo": 201,
-      "chapterKey": "chapter-08-第八章-科学发展观",
-      "chapterTitle": "第八章 科学发展观",
-      "type": "单选题",
-      "score": 1,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [
-        "科学发展观的历史地位",
-        "中特理论的接续发展"
-      ],
-      "material": "",
-      "stem": "科学发展观是在深入总结改革开放以来特别是党的（ ）大以来实践经验的基础上形成和发展的。",
-      "answerRaw": "C",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "十四"
-        },
-        {
-          "key": "B",
-          "text": "十五"
-        },
-        {
-          "key": "C",
-          "text": "十六"
-        },
-        {
-          "key": "D",
-          "text": "十七"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "chapter-08-第八章-科学发展观-144",
-      "sequence": 1173,
-      "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
-      "sheetName": "试题导入",
-      "sourceRow": 144,
-      "sourceNo": 202,
-      "chapterKey": "chapter-08-第八章-科学发展观",
-      "chapterTitle": "第八章 科学发展观",
-      "type": "判断题",
-      "score": 1,
-      "difficulty": 3,
-      "shareScope": "仅自己",
-      "tags": [
-        "科学发展观的科学内涵",
-        "推动经济社会发展是科学发展观的第一要义"
-      ],
-      "material": "",
-      "stem": "经济发展是社会发展的唯一目标，其他方面的进步都应服从于经济增长。",
-      "answerRaw": "false",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": []
-    },
-    {
       "id": "chapter-08-第八章-科学发展观-145",
-      "sequence": 1174,
+      "sequence": 1170,
       "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
       "sheetName": "试题导入",
       "sourceRow": 145,
@@ -41047,6 +40952,101 @@ window.QUESTION_BANK_DATA = {
           ]
         }
       ]
+    },
+    {
+      "id": "chapter-08-第八章-科学发展观-138",
+      "sequence": 1171,
+      "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 138,
+      "sourceNo": 195,
+      "chapterKey": "chapter-08-第八章-科学发展观",
+      "chapterTitle": "第八章 科学发展观",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [
+        "科学发展观"
+      ],
+      "material": "",
+      "stem": "科学发展观形成的条件是？",
+      "answerRaw": "首先，科学发展观是在深刻把握我国基本国情和新的阶段性特征的基础上形成和发展的。其次，科学发展观是在深入总结改革开放以来特别是党的十六大以来实践经验的基础上形成和发展的。第三，科学发展观是在深刻分析国际形势、顺应世界发展趋势、借鉴国外发展经验的基础上形成和发展的。",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-08-第八章-科学发展观-139",
+      "sequence": 1172,
+      "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 139,
+      "sourceNo": 196,
+      "chapterKey": "chapter-08-第八章-科学发展观",
+      "chapterTitle": "第八章 科学发展观",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [
+        "科学发展观的历史地位",
+        "中特理论的接续发展"
+      ],
+      "material": "",
+      "stem": "为什么说科学发展观继承和发展了党的三代中央领导集体关于发展的重要思想？",
+      "answerRaw": "（1）继承邓小平理论“发展是硬道理”的核心观点，深化对发展内涵的认识；（2）吸收“三个代表”重要思想中“代表最广大人民根本利益”的理念，提出“以人为本”核心立场；（3）整合社会主义初级阶段理论和全面建设小康社会目标，形成“五位一体”总体布局。",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-08-第八章-科学发展观-140",
+      "sequence": 1173,
+      "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 140,
+      "sourceNo": 198,
+      "chapterKey": "chapter-08-第八章-科学发展观",
+      "chapterTitle": "第八章 科学发展观",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [
+        "科学发展观的科学内涵",
+        "统筹兼顾是科学发展观的根本方法"
+      ],
+      "material": "",
+      "stem": "科学发展观中“统筹兼顾”方法论在我国经济社会发展实践中，具体体现在哪些方面？",
+      "answerRaw": "（1）统筹城乡发展，破解二元结构矛盾；（2）统筹区域发展，实施四大板块协调战略；（3）统筹经济社会发展，避免“一条腿长、一条腿短”；（4）统筹国内国际两个大局，构建开放型经济体系。",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
+    },
+    {
+      "id": "chapter-08-第八章-科学发展观-141",
+      "sequence": 1174,
+      "sourceFile": "我的题库_第八章 科学发展观_2025-09-29.xlsx",
+      "sheetName": "试题导入",
+      "sourceRow": 141,
+      "sourceNo": 199,
+      "chapterKey": "chapter-08-第八章-科学发展观",
+      "chapterTitle": "第八章 科学发展观",
+      "type": "简答题",
+      "score": 5,
+      "difficulty": 5,
+      "shareScope": "仅自己",
+      "tags": [
+        "科学发展观的科学内涵",
+        "以人为本是科学发展观的核心立场"
+      ],
+      "material": "",
+      "stem": "如何理解科学发展观“以人为本”核心立场的理论内涵及实践要求？",
+      "answerRaw": "（1）理论内涵：① 坚持以最广大人民的根本利益为发展的出发点和落脚点；② 强调人民群众是发展的主体和根本力量；③ 把促进人的全面发展作为终极价值追求。（2）实践要求：① 始终把实现好、维护好、发展好人民利益作为决策依据；② 健全民主制度保障人民知情权、参与权、表达权、监督权；③ 建立发展成果普惠机制，重点解决教育、医疗、住房等民生问题。",
+      "explanation": "",
+      "options": [],
+      "fillBlanks": []
     }
   ]
 };
