@@ -1312,6 +1312,19 @@
     state = shared.loadState();
   }
 
+  function rebuildWrongbookCurrentSessionFromRestartState() {
+    const previousSession = currentSession;
+    shared.resetWrongbookPracticeSessionState(state);
+    state = shared.loadState();
+    currentSession = shared.buildWrongbookPracticeSession(state, {
+      label: previousSession && previousSession.label,
+      scopeChapterKey: previousSession && previousSession.scopeChapterKey,
+    });
+    if (currentSession) {
+      persistCurrentSession();
+    }
+  }
+
   function rebuildWrongbookCurrentSessionFromCleanState() {
     const previousSession = currentSession;
     shared.resetWrongbookPracticeState(state);
@@ -1341,7 +1354,7 @@
       return;
     }
     if (isWrongbookCurrentSession()) {
-      rebuildWrongbookCurrentSessionFromCleanState();
+      rebuildWrongbookCurrentSessionFromRestartState();
       draftAnswers = {};
       revealedShortAnswerQuestionId = "";
       renderQuestionPanel();

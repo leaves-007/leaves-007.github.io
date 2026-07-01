@@ -222,6 +222,16 @@
     return store;
   }
 
+  function resetWrongbookPracticeSessionState(state) {
+    const store = getWrongbookPracticeStore(state);
+    store.questionStates = {};
+    store.sessionStore = {};
+    store.lastSession = null;
+    store.pendingSession = null;
+    saveState(state);
+    return store;
+  }
+
   function resetWrongbookPracticeState(state) {
     const store = getWrongbookPracticeStore(state);
     store.questionStates = {};
@@ -1178,6 +1188,7 @@
     ensureQuestionState: ensureQuestionState,
     getWrongbookPracticeStore: getWrongbookPracticeStore,
     getMockExamPracticeStore: getMockExamPracticeStore,
+    resetWrongbookPracticeSessionState: resetWrongbookPracticeSessionState,
     resetWrongbookPracticeState: resetWrongbookPracticeState,
     resetMockExamPracticeState: resetMockExamPracticeState,
     recordQuestionResult: recordQuestionResult,
