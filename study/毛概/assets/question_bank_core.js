@@ -359,6 +359,24 @@
     return Boolean(question && question.type !== "简答题");
   }
 
+  function hasMainPracticeRecord(state, questionId) {
+    const questionState =
+      state && state.questionStates && typeof state.questionStates === "object"
+        ? state.questionStates[questionId]
+        : null;
+    return Boolean(
+      questionState &&
+        (
+          questionState.lastResult ||
+          questionState.lastAnsweredAt ||
+          questionState.attempts ||
+          questionState.correctCount ||
+          questionState.wrongCount ||
+          questionState.masteredCount
+        )
+    );
+  }
+
   function computeStats(bank, state, todayText) {
     const questions = bank.questions || [];
     const totalQuestions = questions.filter(isStatsEligibleQuestion).length;
@@ -388,10 +406,18 @@
         chapterStats.totalCount += 1;
       }
       const questionState = questionStates[question.id];
-      if (isEligible && questionState && questionState.lastResult) {
+      const treatAsMastered =
+        isEligible &&
+        hasMainPracticeRecord(state, question.id) &&
+        !(state && state.wrongBook && state.wrongBook[question.id]);
+      if (isEligible && ((questionState && questionState.lastResult) || treatAsMastered)) {
         completedCount += 1;
         chapterStats.completedCount += 1;
-        if (questionState.lastResult === "correct" || questionState.lastResult === "mastered") {
+        if (
+          treatAsMastered ||
+          questionState.lastResult === "correct" ||
+          questionState.lastResult === "mastered"
+        ) {
           correctCount += 1;
           chapterStats.masteredCount += 1;
         } else if (questionState.lastResult === "wrong") {
