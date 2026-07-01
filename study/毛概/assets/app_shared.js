@@ -211,6 +211,17 @@
     return state.mockExamPractice;
   }
 
+  function resetMockExamPracticeState(state) {
+    const store = getMockExamPracticeStore(state);
+    store.questionStates = {};
+    store.practiceLog = [];
+    store.sessionStore = {};
+    store.lastSession = null;
+    store.pendingSession = null;
+    saveState(state);
+    return store;
+  }
+
   function ensureQuestionStateInStore(store, questionId) {
     if (!store.questionStates[questionId]) {
       store.questionStates[questionId] = {
@@ -989,7 +1000,7 @@
     return {
       ok: true,
       message: "",
-      session: hydrateSessionAnsweredFromStore(getMockExamPracticeStore(state), {
+      session: cloneSession({
         mode: "exam",
         source: "mockExam",
         label: (options && options.label) || "模拟考试（单选60/多选10/判断20/填空20）",
@@ -1102,12 +1113,19 @@
     const sessionQuestionIds = Array.isArray(normalized.questionIds) ? normalized.questionIds : [];
     const currentQuestionId = sessionQuestionIds[normalized.currentIndex] || "";
     const currentIndex = currentQuestionId ? canonicalQuestionIds.indexOf(currentQuestionId) : -1;
+    const fallbackIndex = Math.max(
+      0,
+      Math.min(
+        canonicalQuestionIds.length - 1,
+        Number.isFinite(normalized.currentIndex) ? normalized.currentIndex : 0
+      )
+    );
 
     return hydrateSessionAnsweredFromStore(
       getWrongbookPracticeStore(state),
       Object.assign({}, normalized, {
         questionIds: canonicalQuestionIds,
-        currentIndex: currentIndex >= 0 ? currentIndex : 0,
+        currentIndex: currentIndex >= 0 ? currentIndex : fallbackIndex,
         storageKey: "",
       })
     );
@@ -1118,7 +1136,7 @@
     if (!normalized) {
       return null;
     }
-    return hydrateSessionAnswered(state, normalized);
+    return cloneSession(normalized);
   }
 
   function rememberWrongbookReturnSession(state, session) {
@@ -1149,6 +1167,7 @@
     ensureQuestionState: ensureQuestionState,
     getWrongbookPracticeStore: getWrongbookPracticeStore,
     getMockExamPracticeStore: getMockExamPracticeStore,
+    resetMockExamPracticeState: resetMockExamPracticeState,
     recordQuestionResult: recordQuestionResult,
     recordWrongbookPracticeResult: recordWrongbookPracticeResult,
     recordMockExamPracticeResult: recordMockExamPracticeResult,

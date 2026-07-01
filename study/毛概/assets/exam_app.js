@@ -72,16 +72,9 @@
     const startButton = shared.createElement("button", "primary-button", "开始模拟考试");
     startButton.type = "button";
     startButton.addEventListener("click", function () {
-      if (typeof shared.buildMockExamPracticeSession !== "function") {
-        window.alert("模拟考试入口正在更新，请稍后刷新页面重试。");
+      if (!prepareFreshMockExamSession()) {
         return;
       }
-      const payload = shared.buildMockExamPracticeSession(state, {});
-      if (!payload || !payload.ok || !payload.session) {
-        window.alert((payload && payload.message) || "当前题库无法按模拟考试规则生成完整试卷。");
-        return;
-      }
-      shared.setMockExamPracticePendingSession(state, payload.session);
       window.location.replace("index.html");
     });
     actions.appendChild(startButton);
@@ -104,16 +97,29 @@
       const regenerateButton = shared.createElement("button", "ghost-button", "重新生成试卷");
       regenerateButton.type = "button";
       regenerateButton.addEventListener("click", function () {
-        const payload = shared.buildMockExamPracticeSession(state, {});
-        if (!payload || !payload.ok || !payload.session) {
-          window.alert((payload && payload.message) || "当前题库无法按模拟考试规则生成完整试卷。");
+        if (!prepareFreshMockExamSession()) {
           return;
         }
-        shared.setMockExamPracticePendingSession(state, payload.session);
         window.location.replace("index.html");
       });
       actions.appendChild(regenerateButton);
     }
+  }
+
+  function prepareFreshMockExamSession() {
+    if (typeof shared.buildMockExamPracticeSession !== "function") {
+        window.alert("模拟考试入口正在更新，请稍后刷新页面重试。");
+      return false;
+    }
+    state = shared.loadState();
+    shared.resetMockExamPracticeState(state);
+    const payload = shared.buildMockExamPracticeSession(state, {});
+    if (!payload || !payload.ok || !payload.session) {
+      window.alert((payload && payload.message) || "当前题库无法按模拟考试规则生成完整试卷。");
+      return false;
+    }
+    shared.setMockExamPracticePendingSession(state, payload.session);
+    return true;
   }
 
   function renderStatus(hasResume) {
