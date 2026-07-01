@@ -2044,10 +2044,26 @@ function buildAnswerInputs(question, host, restoredAnswer) {
     }
   }
 
+  function restoreOverviewPanelScroll(previousOverviewScrollTop) {
+    if (!dom.overviewPanel) {
+      return;
+    }
+    dom.overviewPanel.scrollTop = Math.min(previousOverviewScrollTop, dom.overviewPanel.scrollHeight);
+    if (typeof window.requestAnimationFrame === "function") {
+      window.requestAnimationFrame(function () {
+        if (!dom.overviewPanel) {
+          return;
+        }
+        dom.overviewPanel.scrollTop = Math.min(previousOverviewScrollTop, dom.overviewPanel.scrollHeight);
+      });
+    }
+  }
+
   function renderOverviewPanel() {
     if (!dom.overviewPanel) {
       return;
     }
+    const previousOverviewScrollTop = dom.overviewPanel.scrollTop;
 
     const legend = [
       { label: "当前题目", status: "current" },
@@ -2070,6 +2086,7 @@ function buildAnswerInputs(question, host, restoredAnswer) {
         groups: [],
         emptyMessage: "当前还没有活跃题集。",
       });
+      restoreOverviewPanelScroll(previousOverviewScrollTop);
       syncPracticeOverviewShell();
       return;
     }
@@ -2088,6 +2105,7 @@ function buildAnswerInputs(question, host, restoredAnswer) {
       },
     });
 
+    restoreOverviewPanelScroll(previousOverviewScrollTop);
     syncPracticeOverviewShell();
   }
 
