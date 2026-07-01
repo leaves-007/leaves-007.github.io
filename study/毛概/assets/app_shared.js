@@ -5,6 +5,16 @@
 })(function (core, bank) {
   const STORAGE_KEY = "maogai-question-bank-state-v1";
 
+  function createDefaultWrongbookPracticeState() {
+    return {
+      questionStates: {},
+      practiceLog: [],
+      sessionStore: {},
+      lastSession: null,
+      pendingSession: null,
+    };
+  }
+
   function assertDependencies() {
     if (!core) {
       throw new Error("QuestionBankCore is required");
@@ -24,6 +34,7 @@
       lastSession: null,
       pendingSession: null,
       wrongbookReturnSession: null,
+      wrongbookPractice: createDefaultWrongbookPracticeState(),
     };
   }
 
@@ -145,14 +156,51 @@
     return state.questionStates[questionId];
   }
 
+  function getWrongbookPracticeStore(state) {
+    if (!state.wrongbookPractice || typeof state.wrongbookPractice !== "object") {
+      state.wrongbookPractice = createDefaultWrongbookPracticeState();
+    }
+    if (!state.wrongbookPractice.questionStates || typeof state.wrongbookPractice.questionStates !== "object") {
+      state.wrongbookPractice.questionStates = {};
+    }
+    if (!Array.isArray(state.wrongbookPractice.practiceLog)) {
+      state.wrongbookPractice.practiceLog = [];
+    }
+    if (!state.wrongbookPractice.sessionStore || typeof state.wrongbookPractice.sessionStore !== "object") {
+      state.wrongbookPractice.sessionStore = {};
+    }
+    if (!Object.prototype.hasOwnProperty.call(state.wrongbookPractice, "lastSession")) {
+      state.wrongbookPractice.lastSession = null;
+    }
+    if (!Object.prototype.hasOwnProperty.call(state.wrongbookPractice, "pendingSession")) {
+      state.wrongbookPractice.pendingSession = null;
+    }
+    return state.wrongbookPractice;
+  }
+
+  function ensureQuestionStateInStore(store, questionId) {
+    if (!store.questionStates[questionId]) {
+      store.questionStates[questionId] = {
+        attempts: 0,
+        correctCount: 0,
+        wrongCount: 0,
+        masteredCount: 0,
+        lastResult: "",
+        lastAnsweredAt: "",
+        lastUserAnswer: null,
+      };
+    }
+    return store.questionStates[questionId];
+  }
+
   function trimPracticeLog(practiceLog) {
     if (practiceLog.length > 5000) {
       practiceLog.splice(0, practiceLog.length - 5000);
     }
   }
 
-  function recordQuestionResult(state, question, result, userAnswer, session) {
-    const questionState = ensureQuestionState(state, question.id);
+  function recordQuestionResultInStore(store, question, result, userAnswer, session) {
+    const questionState = ensureQuestionStateInStore(store, question.id);
     questionState.attempts += 1;
     questionState.lastResult = result;
     questionState.lastAnsweredAt = new Date().toISOString();
@@ -161,6 +209,25 @@
       questionState.correctCount += 1;
     } else if (result === "wrong") {
       questionState.wrongCount += 1;
+    } else if (result === "mastered") {
+      questionState.masteredCount += 1;
+    }
+
+    store.practiceLog.push({
+      date: core.getTodayDateText(),
+      result: result,
+      questionId: question.id,
+      chapterKey: question.chapterKey,
+      type: question.type,
+      mode: session ? session.mode : "",
+    });
+    trimPracticeLog(store.practiceLog);
+    return questionState;
+  }
+
+  function recordQuestionResult(state, question, result, userAnswer, session) {
+    const questionState = recordQuestionResultInStore(state, question, result, userAnswer, session);
+    if (result === "wrong") {
       const entry = state.wrongBook[question.id] || {
         addedAt: questionState.lastAnsweredAt,
         wrongCount: 0,
@@ -170,19 +237,14 @@
       entry.chapterKey = question.chapterKey;
       entry.type = question.type;
       state.wrongBook[question.id] = entry;
-    } else if (result === "mastered") {
-      questionState.masteredCount += 1;
     }
+    saveState(state);
+    return questionState;
+  }
 
-    state.practiceLog.push({
-      date: core.getTodayDateText(),
-      result: result,
-      questionId: question.id,
-      chapterKey: question.chapterKey,
-      type: question.type,
-      mode: session ? session.mode : "",
-    });
-    trimPracticeLog(state.practiceLog);
+  function recordWrongbookPracticeResult(state, question, result, userAnswer, session) {
+    const store = getWrongbookPracticeStore(state);
+    const questionState = recordQuestionResultInStore(store, question, result, userAnswer, session);
     saveState(state);
     return questionState;
   }
@@ -462,6 +524,40 @@
     return shell;
   }
 
+  function setRevealableExplanationState(shell, toggle, revealed) {
+    shell.classList.toggle("is-revealed", revealed);
+    toggle.setAttribute("aria-pressed", revealed ? "true" : "false");
+    toggle.textContent = revealed ? "收起解析" : "查看解析";
+  }
+
+  function createRevealableExplanationBlock(payload) {
+    const explanationText = core.normalizeText(payload && payload.explanation);
+    if (!explanationText) {
+      return null;
+    }
+
+    const shell = createElement("div", "answer-detail explanation-reveal-shell");
+    const title = createElement("div", "explanation-reveal-title", "答案解析");
+    const sections = createElement("div", "explanation-reveal-sections");
+    const explanationSection = createElement("div", "explanation-reveal-section");
+    explanationSection.appendChild(createElement("div", "explanation-reveal-body", explanationText));
+    sections.appendChild(explanationSection);
+
+    const toggle = createElement("button", "explanation-reveal-toggle", "查看解析");
+    toggle.type = "button";
+    toggle.addEventListener("click", function (event) {
+      event.preventDefault();
+      event.stopPropagation();
+      setRevealableExplanationState(shell, toggle, !shell.classList.contains("is-revealed"));
+    });
+
+    shell.appendChild(title);
+    shell.appendChild(sections);
+    shell.appendChild(toggle);
+    setRevealableExplanationState(shell, toggle, false);
+    return shell;
+  }
+
   function setPendingSession(state, session) {
     state.pendingSession = session;
     saveState(state);
@@ -533,11 +629,56 @@
     return normalized;
   }
 
+  function buildHistoricalAnsweredMapFromStore(store, questionIds) {
+    if (!store || !Array.isArray(questionIds) || !questionIds.length) {
+      return {};
+    }
+    const questionStates = store.questionStates || {};
+    const answered = {};
+
+    questionIds.forEach(function (questionId) {
+      const questionState = questionStates[questionId];
+      if (!questionState || !questionState.lastResult) {
+        return;
+      }
+      answered[questionId] = {
+        result: questionState.lastResult,
+        userAnswer: Array.isArray(questionState.lastUserAnswer)
+          ? questionState.lastUserAnswer.slice()
+          : questionState.lastUserAnswer,
+        judgedAt: questionState.lastAnsweredAt || "",
+      };
+    });
+
+    return answered;
+  }
+
+  function hydrateSessionAnsweredFromStore(store, session) {
+    const normalized = cloneSession(session);
+    if (!normalized) {
+      return null;
+    }
+    normalized.answered = Object.assign(
+      {},
+      buildHistoricalAnsweredMapFromStore(store, normalized.questionIds || []),
+      normalized.answered || {}
+    );
+    return normalized;
+  }
+
   function getSessionStore(state) {
     if (!state.sessionStore || typeof state.sessionStore !== "object") {
       state.sessionStore = {};
     }
     return state.sessionStore;
+  }
+
+  function getWrongbookPracticeSessionStore(state) {
+    const store = getWrongbookPracticeStore(state);
+    if (!store.sessionStore || typeof store.sessionStore !== "object") {
+      store.sessionStore = {};
+    }
+    return store.sessionStore;
   }
 
   function sanitizeSessionKeyPart(value) {
@@ -629,6 +770,21 @@
     return bank.questions.slice();
   }
 
+  function buildWrongbookUnionQuestionIds(state, scopeChapterKey) {
+    const wrongIdSet = new Set(getWrongIds(state));
+    const favoriteIdSet = new Set(getFavoriteIds(state));
+    return bank.questions
+      .filter(function (question) {
+        if (scopeChapterKey && question.chapterKey !== scopeChapterKey) {
+          return false;
+        }
+        return wrongIdSet.has(question.id) || favoriteIdSet.has(question.id);
+      })
+      .map(function (question) {
+        return question.id;
+      });
+  }
+
   function getCanonicalQuestionIdsForSession(state, session) {
     const normalized = normalizeSession(session);
     if (!normalized) {
@@ -636,14 +792,7 @@
     }
 
     if (isWrongbookSession(normalized)) {
-      const wrongIdSet = new Set(getWrongIds(state));
-      return bank.questions
-        .filter(function (question) {
-          return wrongIdSet.has(question.id);
-        })
-        .map(function (question) {
-          return question.id;
-        });
+      return buildWrongbookUnionQuestionIds(state, normalized.scopeChapterKey || "");
     }
 
     const pool = getRestorableSessionPool(normalized);
@@ -758,25 +907,13 @@
   }
 
   function buildWrongbookPracticeSession(state, options) {
-    const wrongIds = getWrongIds(state);
-    if (!wrongIds.length) {
-      return null;
-    }
-
-    const wrongIdSet = new Set(wrongIds);
-    const orderedQuestionIds = bank.questions
-      .filter(function (question) {
-        return wrongIdSet.has(question.id);
-      })
-      .map(function (question) {
-        return question.id;
-      });
+    const orderedQuestionIds = buildWrongbookUnionQuestionIds(state, options && options.scopeChapterKey);
 
     if (!orderedQuestionIds.length) {
       return null;
     }
 
-    return hydrateSessionAnswered(state, {
+    return hydrateSessionAnsweredFromStore(getWrongbookPracticeStore(state), {
       mode: "custom",
       source: "wrongbook",
       label: (options && options.label) || "错题本 · 直接刷题",
@@ -811,6 +948,62 @@
     saveState(state);
   }
 
+  function persistWrongbookPracticeSession(state, session) {
+    const store = getWrongbookPracticeStore(state);
+    const normalized = normalizeSession(session);
+    if (!normalized) {
+      store.lastSession = null;
+      saveState(state);
+      return;
+    }
+    normalized.storageKey = buildSessionStorageKey(normalized);
+    store.lastSession = cloneSession(normalized);
+    getWrongbookPracticeSessionStore(state)[normalized.storageKey] = cloneSession(normalized);
+    saveState(state);
+  }
+
+  function setWrongbookPracticePendingSession(state, session) {
+    const store = getWrongbookPracticeStore(state);
+    store.pendingSession = cloneSession(session);
+    saveState(state);
+  }
+
+  function consumeWrongbookPracticePendingSession(state) {
+    const store = getWrongbookPracticeStore(state);
+    const session = cloneSession(store.pendingSession);
+    store.pendingSession = null;
+    saveState(state);
+    return session;
+  }
+
+  function reconcileWrongbookPracticeSession(state, session) {
+    const normalized = normalizeSession(session);
+    if (!normalized) {
+      return null;
+    }
+
+    const canonicalQuestionIds = buildWrongbookUnionQuestionIds(state, normalized.scopeChapterKey || "");
+    if (!canonicalQuestionIds.length) {
+      return null;
+    }
+    if (sessionQuestionIdsMatch(normalized, canonicalQuestionIds)) {
+      return hydrateSessionAnsweredFromStore(getWrongbookPracticeStore(state), normalized);
+    }
+
+    const sessionQuestionIds = Array.isArray(normalized.questionIds) ? normalized.questionIds : [];
+    const currentQuestionId = sessionQuestionIds[normalized.currentIndex] || "";
+    const currentIndex = currentQuestionId ? canonicalQuestionIds.indexOf(currentQuestionId) : -1;
+
+    return hydrateSessionAnsweredFromStore(
+      getWrongbookPracticeStore(state),
+      Object.assign({}, normalized, {
+        questionIds: canonicalQuestionIds,
+        currentIndex: currentIndex >= 0 ? currentIndex : 0,
+        storageKey: "",
+      })
+    );
+  }
+
   function rememberWrongbookReturnSession(state, session) {
     const snapshot = cloneSession(session);
     if (!snapshot) {
@@ -837,11 +1030,14 @@
     saveState: saveState,
     resetState: resetState,
     ensureQuestionState: ensureQuestionState,
+    getWrongbookPracticeStore: getWrongbookPracticeStore,
     recordQuestionResult: recordQuestionResult,
+    recordWrongbookPracticeResult: recordWrongbookPracticeResult,
     toggleFavorite: toggleFavorite,
     isFavorite: isFavorite,
     getFavoriteIds: getFavoriteIds,
     getWrongIds: getWrongIds,
+    buildWrongbookUnionQuestionIds: buildWrongbookUnionQuestionIds,
     removeWrongBookEntry: removeWrongBookEntry,
     markQuestionMastered: markQuestionMastered,
     createElement: createElement,
@@ -859,13 +1055,19 @@
     getQuestionSummary: getQuestionSummary,
     createEmptyCard: createEmptyCard,
     createRevealableAnswerBlock: createRevealableAnswerBlock,
+    createRevealableExplanationBlock: createRevealableExplanationBlock,
     setPendingSession: setPendingSession,
     consumePendingSession: consumePendingSession,
     persistSession: persistSession,
+    persistWrongbookPracticeSession: persistWrongbookPracticeSession,
+    setWrongbookPracticePendingSession: setWrongbookPracticePendingSession,
+    consumeWrongbookPracticePendingSession: consumeWrongbookPracticePendingSession,
     normalizeSession: normalizeSession,
     hydrateSessionAnswered: hydrateSessionAnswered,
+    hydrateSessionAnsweredFromStore: hydrateSessionAnsweredFromStore,
     findReusableSession: findReusableSession,
     reconcileRestorableSession: reconcileRestorableSession,
+    reconcileWrongbookPracticeSession: reconcileWrongbookPracticeSession,
     buildWrongbookPracticeSession: buildWrongbookPracticeSession,
     isWrongbookSession: isWrongbookSession,
     rememberWrongbookReturnSession: rememberWrongbookReturnSession,

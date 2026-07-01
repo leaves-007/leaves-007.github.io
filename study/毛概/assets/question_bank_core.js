@@ -167,6 +167,150 @@
     return list.map(function (question) { return question.id; });
   }
 
+  const MOCK_EXAM_BLUEPRINT = [
+    { type: "单选题", count: 60 },
+    { type: "多选题", count: 10 },
+    { type: "判断题", count: 20 },
+    { type: "填空题", count: 20 },
+  ];
+
+  function isAnalysisEquivalentQuestion(question) {
+    return question && question.type === "多选题" && Array.isArray(question.options) && question.options.length >= 5;
+  }
+
+  function getOrderedChapterKeys(questions) {
+    const chapterKeys = [];
+    const seen = new Set();
+    (questions || []).forEach(function (question) {
+      if (!question || !question.chapterKey || seen.has(question.chapterKey)) {
+        return;
+      }
+      seen.add(question.chapterKey);
+      chapterKeys.push(question.chapterKey);
+    });
+    return chapterKeys;
+  }
+
+  function groupQuestionsByChapter(questions) {
+    const chapterMap = new Map();
+    (questions || []).forEach(function (question) {
+      if (!chapterMap.has(question.chapterKey)) {
+        chapterMap.set(question.chapterKey, []);
+      }
+      chapterMap.get(question.chapterKey).push(question);
+    });
+    return chapterMap;
+  }
+
+  function createMockExamFailure() {
+    return {
+      ok: false,
+      errorCode: "INSUFFICIENT_QUESTION_POOL",
+      message: "当前题库无法按模拟考试规则生成完整试卷。",
+    };
+  }
+
+  function allocateBalancedChapterTargets(chapterKeys, targetCount, rng) {
+    if (!chapterKeys.length) {
+      return new Map();
+    }
+    const random = typeof rng === "function" ? rng : Math.random;
+    const base = Math.floor(targetCount / chapterKeys.length);
+    const remainder = targetCount % chapterKeys.length;
+    const shuffledKeys = shuffleArray(chapterKeys, random);
+    const targets = new Map();
+
+    chapterKeys.forEach(function (chapterKey) {
+      targets.set(chapterKey, base);
+    });
+    shuffledKeys.slice(0, remainder).forEach(function (chapterKey) {
+      targets.set(chapterKey, (targets.get(chapterKey) || 0) + 1);
+    });
+    return targets;
+  }
+
+  function fillTypeQuota(typeQuestions, targetCount, rng) {
+    if (!Array.isArray(typeQuestions) || typeQuestions.length < targetCount) {
+      return createMockExamFailure();
+    }
+
+    const chapterKeys = getOrderedChapterKeys(typeQuestions);
+    if (!chapterKeys.length) {
+      return createMockExamFailure();
+    }
+
+    const chapterMap = groupQuestionsByChapter(typeQuestions);
+    const targets = allocateBalancedChapterTargets(chapterKeys, targetCount, rng);
+    const selected = [];
+    let shortfall = 0;
+
+    chapterKeys.forEach(function (chapterKey) {
+      const chapterQuestions = shuffleArray(chapterMap.get(chapterKey) || [], rng);
+      const target = targets.get(chapterKey) || 0;
+      const picked = chapterQuestions.slice(0, target);
+      selected.push.apply(selected, picked);
+      shortfall += target - picked.length;
+      chapterMap.set(chapterKey, chapterQuestions.slice(picked.length));
+    });
+
+    if (shortfall > 0) {
+      const overflow = shuffleArray(
+        chapterKeys.reduce(function (items, chapterKey) {
+          return items.concat(chapterMap.get(chapterKey) || []);
+        }, []),
+        rng
+      );
+      selected.push.apply(selected, overflow.slice(0, shortfall));
+    }
+
+    if (selected.length !== targetCount) {
+      return createMockExamFailure();
+    }
+
+    return {
+      ok: true,
+      questions: shuffleArray(selected, rng),
+    };
+  }
+
+  function buildMockExamPaper(questions, options) {
+    const list = Array.isArray(questions) ? questions.slice() : [];
+    const rng = options && options.rng;
+    const sections = [];
+
+    for (let index = 0; index < MOCK_EXAM_BLUEPRINT.length; index += 1) {
+      const section = MOCK_EXAM_BLUEPRINT[index];
+      const eligibleQuestions = list.filter(function (question) {
+        if (question.type !== section.type) {
+          return false;
+        }
+        if (section.type === "多选题" && isAnalysisEquivalentQuestion(question)) {
+          return false;
+        }
+        return true;
+      });
+      const filled = fillTypeQuota(eligibleQuestions, section.count, rng);
+      if (!filled.ok) {
+        return filled;
+      }
+      sections.push({
+        type: section.type,
+        questionIds: filled.questions.map(function (question) {
+          return question.id;
+        }),
+      });
+    }
+
+    return {
+      ok: true,
+      questionIds: sections.reduce(function (items, section) {
+        return items.concat(section.questionIds);
+      }, []),
+      sections: sections,
+      blueprint: MOCK_EXAM_BLUEPRINT.slice(),
+    };
+  }
+
   function createDateRange(todayText, count) {
     const today = parseLocalDateText(todayText || getTodayDateText());
     const dates = [];
@@ -265,6 +409,7 @@
     judgeObjectiveAnswer: judgeObjectiveAnswer,
     judgeQuestion: judgeQuestion,
     buildSessionQuestionIds: buildSessionQuestionIds,
+    buildMockExamPaper: buildMockExamPaper,
     computeStats: computeStats,
     shuffleArray: shuffleArray,
     indexQuestions: indexQuestions,

@@ -109,7 +109,7 @@
 
     if (pageConfig.pageType === "chapter") {
       title.textContent = `${pageConfig.chapterTitle} 独立刷题页`;
-      subtitle.textContent = "当前页面固定为单章节训练入口，支持本章顺序、随机、专项、模拟、错题和收藏模式。";
+      subtitle.textContent = "当前页面固定为单章节训练入口，支持本章顺序、随机、专项、错题和收藏模式。";
       meta.appendChild(shared.createElement("span", "chip", `章节限定：${pageConfig.chapterTitle}`));
       meta.appendChild(shared.createElement("span", "chip", `本章题数：${scopedQuestions.length}`));
     } else {
@@ -129,14 +129,22 @@
     container.appendChild(buildRandomGroup());
     container.appendChild(buildTypeGroup());
     container.appendChild(buildWrongAndFavoriteGroup());
-    container.appendChild(buildExamGroup());
     if (pageConfig.pageType !== "chapter") {
       container.appendChild(buildChapterGroup());
+    }
+    const examGroup = buildExamGroup();
+    if (examGroup) {
+      container.appendChild(examGroup);
     }
     container.appendChild(buildResetGroup());
 
     if (pageConfig.pageType === "chapter") {
-      document.getElementById("chapter-links-panel").style.display = "none";
+      ["chapter-links-panel", "chapter-links-home-panel", "chapter-links-active-panel"].forEach(function (panelId) {
+        const panel = document.getElementById(panelId);
+        if (panel) {
+          panel.style.display = "none";
+        }
+      });
     } else {
       renderChapterLinks();
     }
@@ -266,23 +274,17 @@
   }
 
   function buildExamGroup() {
-    const group = buildControlGroup("模拟考试", "随机组卷，不生成额外答案册。");
-    const row = shared.createElement("div", "field-grid");
-    const label = shared.createElement("label", "", "题量");
-    const input = shared.createElement("input");
-    input.type = "number";
-    input.min = "1";
-    input.max = String(scopedQuestions.length);
-    input.value = String(Math.min(30, scopedQuestions.length));
-    label.appendChild(input);
-    row.appendChild(label);
-    group.appendChild(row);
+    if (pageConfig.pageType === "chapter") {
+      return null;
+    }
+    const group = buildControlGroup("模拟考试", "固定组卷：单选60 / 多选10 / 判断20 / 填空20。分析题不出。");
+    const hint = shared.createElement("div", "muted", "按全库八章尽量均匀抽题，生成后直接进入试卷。");
+    group.appendChild(hint);
     const button = shared.createElement("button", "primary-button", "生成模拟考试");
     button.addEventListener("click", function () {
       startSession({
         mode: "exam",
-        count: Number(input.value) || 30,
-        label: `${pageTitlePrefix()}模拟考试`,
+        label: "模拟考试（单选60/多选10/判断20/填空20）",
       });
     });
     group.appendChild(button);
@@ -307,8 +309,28 @@
   }
 
   function renderChapterLinks() {
-    const container = document.getElementById("chapter-links");
-    shared.clearElement(container);
+    if (pageConfig.pageType === "chapter") {
+      return;
+    }
+
+    const homeContainer = document.getElementById("chapter-links-home");
+    const activeContainer = document.getElementById("chapter-links-active");
+    const legacyContainer = document.getElementById("chapter-links");
+    const containers = [homeContainer, activeContainer, legacyContainer].filter(Boolean);
+    if (!containers.length) {
+      return;
+    }
+
+    const target =
+      (currentSession ? activeContainer : homeContainer) ||
+      homeContainer ||
+      activeContainer ||
+      legacyContainer;
+
+    containers.forEach(function (container) {
+      shared.clearElement(container);
+    });
+
     bank.chapters.forEach(function (chapter, index) {
       const card = shared.createElement("div", "chapter-card");
       card.appendChild(shared.createElement("h3", "", chapter.title));
@@ -327,7 +349,7 @@
       actions.appendChild(openLink);
       actions.appendChild(startButton);
       card.appendChild(actions);
-      container.appendChild(card);
+      target.appendChild(card);
     });
   }
 
@@ -340,21 +362,40 @@
   }
 
   function restoreSession() {
+    const wrongbookPending = shared.consumeWrongbookPracticePendingSession(state);
+    const restoredWrongbookPending = wrongbookPending
+      ? shared.reconcileWrongbookPracticeSession(state, wrongbookPending)
+      : null;
+    if (restoredWrongbookPending && sessionMatchesScope(restoredWrongbookPending)) {
+      currentSession = restoredWrongbookPending;
+      persistCurrentSession();
+      return;
+    }
+
     const pending = shared.consumePendingSession(state);
     const restoredPending = pending ? shared.reconcileRestorableSession(state, pending) : null;
     if (restoredPending && sessionMatchesScope(restoredPending)) {
       currentSession = restoredPending;
-      shared.persistSession(state, currentSession);
-      state = shared.loadState();
+      persistCurrentSession();
       return;
     }
+
+    const wrongbookLastSession = shared.getWrongbookPracticeStore(state).lastSession;
+    const restoredWrongbookLastSession = wrongbookLastSession
+      ? shared.reconcileWrongbookPracticeSession(state, wrongbookLastSession)
+      : null;
+    if (restoredWrongbookLastSession && sessionMatchesScope(restoredWrongbookLastSession)) {
+      currentSession = restoredWrongbookLastSession;
+      persistCurrentSession();
+      return;
+    }
+
     const restoredLastSession = state.lastSession
       ? shared.reconcileRestorableSession(state, state.lastSession)
       : null;
     if (restoredLastSession && sessionMatchesScope(restoredLastSession)) {
       currentSession = restoredLastSession;
-      shared.persistSession(state, currentSession);
-      state = shared.loadState();
+      persistCurrentSession();
     }
   }
 
@@ -367,9 +408,14 @@
 
   function startSession(config) {
     const pool = getSessionPool(config);
-    const questionIds = buildQuestionIds(pool, config);
+    const buildResult = buildQuestionIds(pool, config);
+    const questionIds = Array.isArray(buildResult)
+      ? buildResult
+      : (buildResult && Array.isArray(buildResult.questionIds) ? buildResult.questionIds : []);
     if (!questionIds.length) {
-      window.alert("当前筛选下没有可练习的题目。");
+      if (!buildResult || !buildResult.errorHandled) {
+        window.alert("当前筛选下没有可练习的题目。");
+      }
       return;
     }
     currentSession = {
@@ -393,6 +439,17 @@
   }
 
   function buildQuestionIds(pool, config) {
+    if (config.mode === "exam") {
+      const paper = shared.core.buildMockExamPaper(pool);
+      if (!paper.ok) {
+        window.alert(paper.message || "当前题库无法按模拟考试规则生成完整试卷。");
+        return {
+          questionIds: [],
+          errorHandled: true,
+        };
+      }
+      return paper.questionIds;
+    }
     if (config.mode === "wrongs") {
       return shared.core.buildSessionQuestionIds(pool, {
         mode: "wrongs",
@@ -422,7 +479,7 @@
         questionIds: config.questionIds,
       });
     }
-    if (config.mode === "random" || config.mode === "exam") {
+    if (config.mode === "random") {
       return shared.core.buildSessionQuestionIds(pool, {
         mode: config.mode,
         count: Math.min(config.count || pool.length, pool.length),
@@ -464,21 +521,21 @@
     previousButton.disabled = currentSession.currentIndex <= 0;
     previousButton.addEventListener("click", function () {
       currentSession.currentIndex = Math.max(0, currentSession.currentIndex - 1);
-      shared.persistSession(state, currentSession);
+      persistCurrentSession();
       renderAll();
     });
     const nextButton = shared.createElement("button", "ghost-button", "下一题");
     nextButton.disabled = currentSession.currentIndex >= currentSession.questionIds.length - 1;
     nextButton.addEventListener("click", function () {
       currentSession.currentIndex = Math.min(currentSession.questionIds.length - 1, currentSession.currentIndex + 1);
-      shared.persistSession(state, currentSession);
+      persistCurrentSession();
       renderAll();
     });
     const restartButton = shared.createElement("button", "secondary-button", "本轮重新开始");
     restartButton.addEventListener("click", function () {
       currentSession.currentIndex = 0;
       currentSession.answered = {};
-      shared.persistSession(state, currentSession);
+      persistCurrentSession();
       renderAll();
     });
     toolbar.appendChild(previousButton);
@@ -511,7 +568,7 @@
     previousButton.disabled = currentSession.currentIndex <= 0;
     previousButton.addEventListener("click", function () {
       currentSession.currentIndex = Math.max(0, currentSession.currentIndex - 1);
-      shared.persistSession(state, currentSession);
+      persistCurrentSession();
       renderAll();
     });
     navButtons.appendChild(previousButton);
@@ -519,7 +576,7 @@
     nextButton.disabled = currentSession.currentIndex >= currentSession.questionIds.length - 1;
     nextButton.addEventListener("click", function () {
       currentSession.currentIndex = Math.min(currentSession.questionIds.length - 1, currentSession.currentIndex + 1);
-      shared.persistSession(state, currentSession);
+      persistCurrentSession();
       renderAll();
     });
     navButtons.appendChild(nextButton);
@@ -527,7 +584,7 @@
     restartButton.addEventListener("click", function () {
       currentSession.currentIndex = 0;
       currentSession.answered = {};
-      shared.persistSession(state, currentSession);
+      persistCurrentSession();
       renderAll();
     });
     navButtons.appendChild(restartButton);
@@ -548,7 +605,7 @@
     const questionId = currentSession.questionIds[currentSession.currentIndex];
     const question = questionMap[questionId];
     panel.dataset.questionId = questionId;
-    const questionState = state.questionStates[question.id];
+    const questionState = getActiveQuestionState(question.id);
     const sessionAnswer = currentSession.answered[question.id];
 
     const scrollArea = shared.createElement("div", "question-content-scroll");
@@ -600,6 +657,24 @@
       renderAll();
     };
     actionRow.appendChild(favoriteButton);
+    if (isWrongbookCurrentSession()) {
+      shared.clearElement(actionRow);
+      if (question.type !== "简答题") {
+        actionRow.appendChild(createActionButton("primary-button", "提交答案", "submit-answer"));
+      } else {
+        actionRow.appendChild(createActionButton("secondary-button", "显示参考答案", "reveal-short-answer"));
+      }
+      if (state.wrongBook[question.id]) {
+        actionRow.appendChild(
+          createActionButton("secondary-button remove-wrongbook-button", "移出错题本", "remove-main-wrongbook-entry")
+        );
+      }
+      if (shared.isFavorite(state, question.id)) {
+        actionRow.appendChild(
+          createActionButton("ghost-button", "取消收藏", "remove-main-favorite-entry")
+        );
+      }
+    }
     bottomBar.appendChild(actionRow);
 
     bottomBar.appendChild(buildSessionSummaryCard());
@@ -739,7 +814,12 @@
     wrapper.appendChild(shared.createElement("div", `result-banner ${resultClass}`, resultText));
     wrapper.appendChild(shared.createElement("div", "answer-detail", `标准答案：${shared.describeAnswer(question)}`));
     if (question.explanation) {
-      wrapper.appendChild(shared.createElement("div", "answer-detail", `答案解析：${question.explanation}`));
+      wrapper.appendChild(
+        shared.createRevealableExplanationBlock({
+          explanation: question.explanation,
+          toggleLabel: "查看解析",
+        })
+      );
     }
     const meta = shared.createElement("div", "answer-detail", `最近作答时间：${shared.formatDateTime(answerState.judgedAt || answerState.lastAnsweredAt)}`);
     wrapper.appendChild(meta);
@@ -799,6 +879,10 @@
             </section>
           </aside>
           <main class="control-stack">
+            <section class="panel fade-in" id="chapter-links-home-panel">
+              <h2 class="section-title">章节入口</h2>
+              <div class="chapter-links" id="chapter-links-home"></div>
+            </section>
             <section class="panel fade-in study-actions-shell">
               <div class="chapter-head">
                 <div>
@@ -809,6 +893,10 @@
               <div class="study-actions" id="study-actions"></div>
             </section>
             <section class="question-card fade-in" id="question-panel"></section>
+            <section class="panel fade-in" id="chapter-links-active-panel">
+              <h2 class="section-title">章节入口</h2>
+              <div class="chapter-links" id="chapter-links-active"></div>
+            </section>
             <section class="panel fade-in" id="trend-panel"></section>
             <section class="panel fade-in" id="mastery-panel"></section>
           </main>
@@ -874,6 +962,7 @@
 
   function renderAll() {
     syncActiveSessionShell();
+    renderChapterLinks();
     renderQuestionPanel();
     renderStudyActions();
     renderStats();
@@ -1061,6 +1150,26 @@
       renderQuestionPanel();
       renderStudyActions();
       scheduleStatsRefresh();
+      return;
+    }
+    if (action === "remove-main-wrongbook-entry") {
+      shared.removeWrongBookEntry(state, question.id);
+      state = shared.loadState();
+      reconcileWrongbookCurrentSession();
+      renderQuestionPanel();
+      renderStudyActions();
+      scheduleStatsRefresh();
+      return;
+    }
+    if (action === "remove-main-favorite-entry") {
+      if (shared.isFavorite(state, question.id)) {
+        shared.toggleFavorite(state, question.id);
+        state = shared.loadState();
+      }
+      reconcileWrongbookCurrentSession();
+      renderQuestionPanel();
+      renderStudyActions();
+      scheduleStatsRefresh();
     }
   }
 
@@ -1137,13 +1246,58 @@
     return Object.prototype.hasOwnProperty.call(draftAnswers, questionId) ? draftAnswers[questionId] : null;
   }
 
+  function isWrongbookCurrentSession() {
+    return Boolean(currentSession && shared.isWrongbookSession(currentSession));
+  }
+
+  function getActiveQuestionState(questionId) {
+    if (isWrongbookCurrentSession()) {
+      const wrongbookPracticeState = shared.getWrongbookPracticeStore(state);
+      return wrongbookPracticeState.questionStates[questionId];
+    }
+    return state.questionStates[questionId];
+  }
+
+  function persistCurrentSession() {
+    if (!currentSession) {
+      return;
+    }
+    if (isWrongbookCurrentSession()) {
+      shared.persistWrongbookPracticeSession(state, currentSession);
+    } else {
+      shared.persistSession(state, currentSession);
+    }
+    state = shared.loadState();
+  }
+
+  function recordCurrentSessionResult(question, resultName, userAnswer) {
+    if (isWrongbookCurrentSession()) {
+      shared.recordWrongbookPracticeResult(state, question, resultName, userAnswer, currentSession);
+    } else {
+      shared.recordQuestionResult(state, question, resultName, userAnswer, currentSession);
+    }
+  }
+
+  function reconcileWrongbookCurrentSession() {
+    if (!isWrongbookCurrentSession()) {
+      return;
+    }
+    currentSession = shared.reconcileWrongbookPracticeSession(state, currentSession);
+    if (currentSession) {
+      shared.persistWrongbookPracticeSession(state, currentSession);
+    } else {
+      shared.persistWrongbookPracticeSession(state, null);
+    }
+    state = shared.loadState();
+  }
+
   function moveSessionIndex(offset) {
     if (!currentSession) {
       return;
     }
     currentSession.currentIndex = Math.max(0, Math.min(currentSession.questionIds.length - 1, currentSession.currentIndex + offset));
     revealedShortAnswerQuestionId = "";
-    shared.persistSession(state, currentSession);
+    persistCurrentSession();
     renderQuestionPanel();
     renderStudyActions();
   }
@@ -1156,7 +1310,7 @@
     currentSession.answered = {};
     draftAnswers = {};
     revealedShortAnswerQuestionId = "";
-    shared.persistSession(state, currentSession);
+    persistCurrentSession();
     renderQuestionPanel();
     renderStudyActions();
   }
@@ -1165,7 +1319,7 @@
     if (currentSession) {
       currentSession.currentIndex = 0;
       currentSession.answered = {};
-      shared.persistSession(state, currentSession);
+      persistCurrentSession();
     }
     draftAnswers = {};
     revealedShortAnswerQuestionId = "";
@@ -1212,7 +1366,7 @@
     };
     draftAnswers = {};
     revealedShortAnswerQuestionId = "";
-    shared.persistSession(state, currentSession);
+    persistCurrentSession();
     renderQuestionPanel();
     renderStudyActions();
   }
@@ -1311,7 +1465,7 @@
       return;
     }
 
-    const questionState = state.questionStates[question.id];
+    const questionState = getActiveQuestionState(question.id);
     const sessionAnswer = currentSession.answered[question.id];
     const restoredAnswer = sessionAnswer ? sessionAnswer.userAnswer : getDraftAnswer(question.id);
 
@@ -1348,6 +1502,24 @@
         "toggle-favorite"
       )
     );
+    if (isWrongbookCurrentSession()) {
+      shared.clearElement(actionRow);
+      if (question.type !== "绠€绛旈") {
+        actionRow.appendChild(createActionButton("primary-button", "提交答案", "submit-answer"));
+      } else {
+        actionRow.appendChild(createActionButton("secondary-button", "显示参考答案", "reveal-short-answer"));
+      }
+      if (state.wrongBook[question.id]) {
+        actionRow.appendChild(
+          createActionButton("secondary-button remove-wrongbook-button", "移出错题本", "remove-main-wrongbook-entry")
+        );
+      }
+      if (shared.isFavorite(state, question.id)) {
+        actionRow.appendChild(
+          createActionButton("ghost-button", "取消收藏", "remove-main-favorite-entry")
+        );
+      }
+    }
     bottomBar.appendChild(actionRow);
     bottomBar.appendChild(buildSessionSummaryCard());
     panel.appendChild(bottomBar);
@@ -1494,14 +1666,13 @@ function buildAnswerInputs(question, host, restoredAnswer) {
     const userAnswer = collectUserAnswer(question, host);
     const result = shared.core.judgeQuestion(question, userAnswer);
     const resultName = result.isCorrect ? "correct" : "wrong";
-    shared.recordQuestionResult(state, question, resultName, userAnswer, currentSession);
+    recordCurrentSessionResult(question, resultName, userAnswer);
     currentSession.answered[question.id] = {
       result: resultName,
       userAnswer: Array.isArray(userAnswer) ? userAnswer.slice() : userAnswer,
       judgedAt: new Date().toISOString(),
     };
-    shared.persistSession(state, currentSession);
-    state = shared.loadState();
+    persistCurrentSession();
     setDraftAnswer(question.id, userAnswer);
     renderQuestionPanel();
     scheduleStatsRefresh();
@@ -1518,14 +1689,13 @@ function buildAnswerInputs(question, host, restoredAnswer) {
   }
 
   function recordShortAnswer(question, userAnswer, resultName) {
-    shared.recordQuestionResult(state, question, resultName, userAnswer, currentSession);
+    recordCurrentSessionResult(question, resultName, userAnswer);
     currentSession.answered[question.id] = {
       result: resultName,
       userAnswer: userAnswer,
       judgedAt: new Date().toISOString(),
     };
-    shared.persistSession(state, currentSession);
-    state = shared.loadState();
+    persistCurrentSession();
     revealedShortAnswerQuestionId = "";
     setDraftAnswer(question.id, userAnswer);
     renderQuestionPanel();
@@ -1573,7 +1743,7 @@ function buildAnswerInputs(question, host, restoredAnswer) {
       return;
     }
 
-    const questionState = state.questionStates[question.id];
+    const questionState = getActiveQuestionState(question.id);
     const sessionAnswer = currentSession.answered[question.id];
     const restoredAnswer = sessionAnswer ? sessionAnswer.userAnswer : getDraftAnswer(question.id);
 
@@ -1618,6 +1788,24 @@ function buildAnswerInputs(question, host, restoredAnswer) {
           "remove-wrong-entry"
         )
       );
+    }
+    if (isWrongbookCurrentSession()) {
+      shared.clearElement(actionRow);
+      if (question.type !== "绠€绛旈") {
+        actionRow.appendChild(createActionButton("primary-button", "提交答案", "submit-answer"));
+      } else {
+        actionRow.appendChild(createActionButton("secondary-button", "显示参考答案", "reveal-short-answer"));
+      }
+      if (state.wrongBook[question.id]) {
+        actionRow.appendChild(
+          createActionButton("secondary-button remove-wrongbook-button", "移出错题本", "remove-main-wrongbook-entry")
+        );
+      }
+      if (shared.isFavorite(state, question.id)) {
+        actionRow.appendChild(
+          createActionButton("ghost-button", "取消收藏", "remove-main-favorite-entry")
+        );
+      }
     }
     bottomBar.appendChild(actionRow);
     bottomBar.appendChild(buildSessionSummaryCard());
@@ -1673,7 +1861,7 @@ function buildAnswerInputs(question, host, restoredAnswer) {
       });
       if (reusableSession) {
         currentSession = reusableSession;
-        shared.persistSession(state, currentSession);
+        persistCurrentSession();
         renderAll();
         return;
       }
@@ -1689,7 +1877,7 @@ function buildAnswerInputs(question, host, restoredAnswer) {
     });
     draftAnswers = {};
     revealedShortAnswerQuestionId = "";
-    shared.persistSession(state, currentSession);
+    persistCurrentSession();
     renderAll();
   }
 
@@ -1792,7 +1980,7 @@ function buildAnswerInputs(question, host, restoredAnswer) {
       Math.min(currentSession.questionIds.length - 1, index)
     );
     revealedShortAnswerQuestionId = "";
-    shared.persistSession(state, currentSession);
+    persistCurrentSession();
     renderQuestionPanel();
     renderStudyActions();
     if (window.innerWidth <= 820) {
