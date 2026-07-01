@@ -355,9 +355,13 @@
     return merged;
   }
 
+  function isStatsEligibleQuestion(question) {
+    return Boolean(question && question.type !== "简答题");
+  }
+
   function computeStats(bank, state, todayText) {
     const questions = bank.questions || [];
-    const totalQuestions = bank.totalQuestions || questions.length;
+    const totalQuestions = questions.filter(isStatsEligibleQuestion).length;
     const questionStates = buildStatsQuestionStateMap(state);
     const practiceLogs = [];
     if (state && Array.isArray(state.practiceLog)) {
@@ -379,9 +383,12 @@
         completedCount: 0,
         masteredCount: 0,
       };
-      chapterStats.totalCount += 1;
+      const isEligible = isStatsEligibleQuestion(question);
+      if (isEligible) {
+        chapterStats.totalCount += 1;
+      }
       const questionState = questionStates[question.id];
-      if (questionState && questionState.lastResult) {
+      if (isEligible && questionState && questionState.lastResult) {
         completedCount += 1;
         chapterStats.completedCount += 1;
         if (questionState.lastResult === "correct" || questionState.lastResult === "mastered") {
