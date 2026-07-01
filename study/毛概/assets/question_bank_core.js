@@ -322,10 +322,43 @@
     return dates;
   }
 
+  function hasQuestionResult(questionState) {
+    return Boolean(questionState && questionState.lastResult);
+  }
+
+  function getQuestionStateTimestamp(questionState) {
+    if (!questionState || !questionState.lastAnsweredAt) {
+      return Number.NEGATIVE_INFINITY;
+    }
+    const timestamp = Date.parse(questionState.lastAnsweredAt);
+    return Number.isFinite(timestamp) ? timestamp : Number.NEGATIVE_INFINITY;
+  }
+
+  function buildStatsQuestionStateMap(state) {
+    const merged = Object.assign({}, (state && state.questionStates) || {});
+    const wrongbookStates =
+      state && state.wrongbookPractice && typeof state.wrongbookPractice.questionStates === "object"
+        ? state.wrongbookPractice.questionStates
+        : {};
+
+    Object.keys(wrongbookStates).forEach(function (questionId) {
+      const candidate = wrongbookStates[questionId];
+      const current = merged[questionId];
+      if (!hasQuestionResult(candidate)) {
+        return;
+      }
+      if (!hasQuestionResult(current) || getQuestionStateTimestamp(candidate) >= getQuestionStateTimestamp(current)) {
+        merged[questionId] = candidate;
+      }
+    });
+
+    return merged;
+  }
+
   function computeStats(bank, state, todayText) {
     const questions = bank.questions || [];
     const totalQuestions = bank.totalQuestions || questions.length;
-    const questionStates = (state && state.questionStates) || {};
+    const questionStates = buildStatsQuestionStateMap(state);
     const practiceLogs = [];
     if (state && Array.isArray(state.practiceLog)) {
       practiceLogs.push(state.practiceLog);

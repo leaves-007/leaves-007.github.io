@@ -282,10 +282,7 @@
     group.appendChild(hint);
     const button = shared.createElement("button", "primary-button", "生成模拟考试");
     button.addEventListener("click", function () {
-      startSession({
-        mode: "exam",
-        label: "模拟考试（单选60/多选10/判断20/填空20）",
-      });
+      window.location.href = "exam.html";
     });
     group.appendChild(button);
     return group;

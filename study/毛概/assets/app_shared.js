@@ -17,8 +17,11 @@
 
   function createDefaultMockExamPracticeState() {
     return {
+      questionStates: {},
+      practiceLog: [],
       sessionStore: {},
       lastSession: null,
+      pendingSession: null,
     };
   }
 
@@ -190,11 +193,20 @@
     if (!state.mockExamPractice || typeof state.mockExamPractice !== "object") {
       state.mockExamPractice = createDefaultMockExamPracticeState();
     }
+    if (!state.mockExamPractice.questionStates || typeof state.mockExamPractice.questionStates !== "object") {
+      state.mockExamPractice.questionStates = {};
+    }
+    if (!Array.isArray(state.mockExamPractice.practiceLog)) {
+      state.mockExamPractice.practiceLog = [];
+    }
     if (!state.mockExamPractice.sessionStore || typeof state.mockExamPractice.sessionStore !== "object") {
       state.mockExamPractice.sessionStore = {};
     }
     if (!Object.prototype.hasOwnProperty.call(state.mockExamPractice, "lastSession")) {
       state.mockExamPractice.lastSession = null;
+    }
+    if (!Object.prototype.hasOwnProperty.call(state.mockExamPractice, "pendingSession")) {
+      state.mockExamPractice.pendingSession = null;
     }
     return state.mockExamPractice;
   }
@@ -265,6 +277,13 @@
 
   function recordWrongbookPracticeResult(state, question, result, userAnswer, session) {
     const store = getWrongbookPracticeStore(state);
+    const questionState = recordQuestionResultInStore(store, question, result, userAnswer, session);
+    saveState(state);
+    return questionState;
+  }
+
+  function recordMockExamPracticeResult(state, question, result, userAnswer, session) {
+    const store = getMockExamPracticeStore(state);
     const questionState = recordQuestionResultInStore(store, question, result, userAnswer, session);
     saveState(state);
     return questionState;
@@ -957,6 +976,32 @@
     });
   }
 
+  function buildMockExamPracticeSession(state, options) {
+    const paper = core.buildMockExamPaper(bank.questions.slice());
+    if (!paper || !paper.ok) {
+      return {
+        ok: false,
+        message: (paper && paper.message) || "当前题库无法按模拟考试规则生成完整试卷。",
+        session: null,
+      };
+    }
+
+    return {
+      ok: true,
+      message: "",
+      session: hydrateSessionAnsweredFromStore(getMockExamPracticeStore(state), {
+        mode: "exam",
+        source: "mockExam",
+        label: (options && options.label) || "模拟考试（单选60/多选10/判断20/填空20）",
+        questionIds: paper.questionIds.slice(),
+        currentIndex: 0,
+        answered: {},
+        createdAt: new Date().toISOString(),
+        scopeChapterKey: "",
+      }),
+    };
+  }
+
   function isWrongbookSession(session) {
     return Boolean(
       session &&
@@ -1018,8 +1063,22 @@
     saveState(state);
   }
 
+  function setMockExamPracticePendingSession(state, session) {
+    const store = getMockExamPracticeStore(state);
+    store.pendingSession = cloneSession(session);
+    saveState(state);
+  }
+
   function consumeWrongbookPracticePendingSession(state) {
     const store = getWrongbookPracticeStore(state);
+    const session = cloneSession(store.pendingSession);
+    store.pendingSession = null;
+    saveState(state);
+    return session;
+  }
+
+  function consumeMockExamPracticePendingSession(state) {
+    const store = getMockExamPracticeStore(state);
     const session = cloneSession(store.pendingSession);
     store.pendingSession = null;
     saveState(state);
@@ -1092,6 +1151,7 @@
     getMockExamPracticeStore: getMockExamPracticeStore,
     recordQuestionResult: recordQuestionResult,
     recordWrongbookPracticeResult: recordWrongbookPracticeResult,
+    recordMockExamPracticeResult: recordMockExamPracticeResult,
     toggleFavorite: toggleFavorite,
     isFavorite: isFavorite,
     getFavoriteIds: getFavoriteIds,
@@ -1121,7 +1181,9 @@
     persistWrongbookPracticeSession: persistWrongbookPracticeSession,
     persistMockExamPracticeSession: persistMockExamPracticeSession,
     setWrongbookPracticePendingSession: setWrongbookPracticePendingSession,
+    setMockExamPracticePendingSession: setMockExamPracticePendingSession,
     consumeWrongbookPracticePendingSession: consumeWrongbookPracticePendingSession,
+    consumeMockExamPracticePendingSession: consumeMockExamPracticePendingSession,
     normalizeSession: normalizeSession,
     hydrateSessionAnswered: hydrateSessionAnswered,
     hydrateSessionAnsweredFromStore: hydrateSessionAnsweredFromStore,
@@ -1130,6 +1192,7 @@
     reconcileWrongbookPracticeSession: reconcileWrongbookPracticeSession,
     reconcileMockExamPracticeSession: reconcileMockExamPracticeSession,
     buildWrongbookPracticeSession: buildWrongbookPracticeSession,
+    buildMockExamPracticeSession: buildMockExamPracticeSession,
     isWrongbookSession: isWrongbookSession,
     isMockExamSession: isMockExamSession,
     rememberWrongbookReturnSession: rememberWrongbookReturnSession,
