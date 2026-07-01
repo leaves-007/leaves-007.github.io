@@ -786,6 +786,9 @@ textarea {
   user-select: none;
 }
 
+.answer-reveal-shell:hover .answer-reveal-body,
+.answer-reveal-shell:focus .answer-reveal-body,
+.answer-reveal-shell:focus-within .answer-reveal-body,
 .answer-reveal-shell.is-revealed .answer-reveal-body {
   opacity: 1;
   filter: none;
@@ -793,7 +796,7 @@ textarea {
 }
 
 .answer-reveal-toggle {
-  display: inline-flex;
+  display: none;
   align-items: center;
   justify-content: center;
   width: fit-content;
@@ -857,6 +860,12 @@ textarea {
   font-size: 0.9rem;
   font-weight: 700;
   cursor: pointer;
+}
+
+@media (hover: none), (pointer: coarse) {
+  .answer-reveal-toggle {
+    display: inline-flex;
+  }
 }
 
 @media (hover: hover) {
@@ -1410,10 +1419,6 @@ details.chapter-card summary::-webkit-details-marker {
 
   .hero-meta {
     gap: 8px;
-  }
-
-  .answer-reveal-toggle {
-    display: inline-flex;
   }
 
   .overview-mobile-toggle {

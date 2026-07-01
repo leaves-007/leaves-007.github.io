@@ -326,7 +326,13 @@
     const questions = bank.questions || [];
     const totalQuestions = bank.totalQuestions || questions.length;
     const questionStates = (state && state.questionStates) || {};
-    const practiceLog = (state && state.practiceLog) || [];
+    const practiceLogs = [];
+    if (state && Array.isArray(state.practiceLog)) {
+      practiceLogs.push(state.practiceLog);
+    }
+    if (state && state.wrongbookPractice && Array.isArray(state.wrongbookPractice.practiceLog)) {
+      practiceLogs.push(state.wrongbookPractice.practiceLog);
+    }
     let completedCount = 0;
     let correctCount = 0;
     let wrongCount = 0;
@@ -366,19 +372,21 @@
     dateRange.forEach(function (date) {
       dateMap.set(date, { date: date, total: 0, correct: 0, wrong: 0, mastered: 0 });
     });
-    practiceLog.forEach(function (item) {
-      if (!item || !item.date || !dateMap.has(item.date)) {
-        return;
-      }
-      const bucket = dateMap.get(item.date);
-      bucket.total += 1;
-      if (item.result === "correct") {
-        bucket.correct += 1;
-      } else if (item.result === "wrong") {
-        bucket.wrong += 1;
-      } else if (item.result === "mastered") {
-        bucket.mastered += 1;
-      }
+    practiceLogs.forEach(function (practiceLog) {
+      practiceLog.forEach(function (item) {
+        if (!item || !item.date || !dateMap.has(item.date)) {
+          return;
+        }
+        const bucket = dateMap.get(item.date);
+        bucket.total += 1;
+        if (item.result === "correct") {
+          bucket.correct += 1;
+        } else if (item.result === "wrong") {
+          bucket.wrong += 1;
+        } else if (item.result === "mastered") {
+          bucket.mastered += 1;
+        }
+      });
     });
 
     return {
