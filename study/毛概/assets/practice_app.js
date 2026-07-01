@@ -390,6 +390,16 @@
       return;
     }
 
+    const mockExamLastSession = shared.getMockExamPracticeStore(state).lastSession;
+    const restoredMockExamLastSession = mockExamLastSession
+      ? shared.reconcileMockExamPracticeSession(state, mockExamLastSession)
+      : null;
+    if (restoredMockExamLastSession && sessionMatchesScope(restoredMockExamLastSession)) {
+      currentSession = restoredMockExamLastSession;
+      persistCurrentSession();
+      return;
+    }
+
     const restoredLastSession = state.lastSession
       ? shared.reconcileRestorableSession(state, state.lastSession)
       : null;
@@ -1264,6 +1274,8 @@
     }
     if (isWrongbookCurrentSession()) {
       shared.persistWrongbookPracticeSession(state, currentSession);
+    } else if (shared.isMockExamSession(currentSession)) {
+      shared.persistMockExamPracticeSession(state, currentSession);
     } else {
       shared.persistSession(state, currentSession);
     }
@@ -1868,6 +1880,7 @@ function buildAnswerInputs(question, host, restoredAnswer) {
     }
     currentSession = shared.hydrateSessionAnswered(state, {
       mode: config.mode,
+      source: config.mode === "exam" ? "mockExam" : "",
       label: config.label,
       questionIds: questionIds,
       currentIndex: 0,
@@ -1961,7 +1974,7 @@ function buildAnswerInputs(question, host, restoredAnswer) {
   }
 
   function getPracticeOverviewStatus(questionId, index) {
-    const questionState = state.questionStates[questionId];
+    const questionState = getActiveQuestionState(questionId);
     return overviewStatus.resolveOverviewQuestionStatus({
       isCurrent: Boolean(currentSession) && index === currentSession.currentIndex,
       isWrong: Boolean(questionState && questionState.lastResult === "wrong"),

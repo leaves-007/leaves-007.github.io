@@ -15,6 +15,13 @@
     };
   }
 
+  function createDefaultMockExamPracticeState() {
+    return {
+      sessionStore: {},
+      lastSession: null,
+    };
+  }
+
   function assertDependencies() {
     if (!core) {
       throw new Error("QuestionBankCore is required");
@@ -35,6 +42,7 @@
       pendingSession: null,
       wrongbookReturnSession: null,
       wrongbookPractice: createDefaultWrongbookPracticeState(),
+      mockExamPractice: createDefaultMockExamPracticeState(),
     };
   }
 
@@ -176,6 +184,19 @@
       state.wrongbookPractice.pendingSession = null;
     }
     return state.wrongbookPractice;
+  }
+
+  function getMockExamPracticeStore(state) {
+    if (!state.mockExamPractice || typeof state.mockExamPractice !== "object") {
+      state.mockExamPractice = createDefaultMockExamPracticeState();
+    }
+    if (!state.mockExamPractice.sessionStore || typeof state.mockExamPractice.sessionStore !== "object") {
+      state.mockExamPractice.sessionStore = {};
+    }
+    if (!Object.prototype.hasOwnProperty.call(state.mockExamPractice, "lastSession")) {
+      state.mockExamPractice.lastSession = null;
+    }
+    return state.mockExamPractice;
   }
 
   function ensureQuestionStateInStore(store, questionId) {
@@ -681,6 +702,14 @@
     return store.sessionStore;
   }
 
+  function getMockExamPracticeSessionStore(state) {
+    const store = getMockExamPracticeStore(state);
+    if (!store.sessionStore || typeof store.sessionStore !== "object") {
+      store.sessionStore = {};
+    }
+    return store.sessionStore;
+  }
+
   function sanitizeSessionKeyPart(value) {
     const baseText =
       core && typeof core.normalizeText === "function"
@@ -706,6 +735,9 @@
 
     if (isWrongbookSession(normalized)) {
       return `wrongbook|${scopeKey}`;
+    }
+    if (isMockExamSession(normalized)) {
+      return `mock-exam|${scopeKey}|${labelKey}|${(normalized.questionIds || []).length}`;
     }
     if (normalized.mode === "sequential" || normalized.mode === "chapter") {
       return `sequential|${scopeKey}`;
@@ -935,6 +967,10 @@
     );
   }
 
+  function isMockExamSession(session) {
+    return Boolean(session && (session.source === "mockExam" || session.mode === "exam"));
+  }
+
   function persistSession(state, session) {
     const normalized = normalizeSession(session);
     if (!normalized) {
@@ -959,6 +995,20 @@
     normalized.storageKey = buildSessionStorageKey(normalized);
     store.lastSession = cloneSession(normalized);
     getWrongbookPracticeSessionStore(state)[normalized.storageKey] = cloneSession(normalized);
+    saveState(state);
+  }
+
+  function persistMockExamPracticeSession(state, session) {
+    const store = getMockExamPracticeStore(state);
+    const normalized = normalizeSession(session);
+    if (!normalized) {
+      store.lastSession = null;
+      saveState(state);
+      return;
+    }
+    normalized.storageKey = buildSessionStorageKey(normalized);
+    store.lastSession = cloneSession(normalized);
+    getMockExamPracticeSessionStore(state)[normalized.storageKey] = cloneSession(normalized);
     saveState(state);
   }
 
@@ -1004,6 +1054,14 @@
     );
   }
 
+  function reconcileMockExamPracticeSession(state, session) {
+    const normalized = normalizeSession(session);
+    if (!normalized) {
+      return null;
+    }
+    return hydrateSessionAnswered(state, normalized);
+  }
+
   function rememberWrongbookReturnSession(state, session) {
     const snapshot = cloneSession(session);
     if (!snapshot) {
@@ -1031,6 +1089,7 @@
     resetState: resetState,
     ensureQuestionState: ensureQuestionState,
     getWrongbookPracticeStore: getWrongbookPracticeStore,
+    getMockExamPracticeStore: getMockExamPracticeStore,
     recordQuestionResult: recordQuestionResult,
     recordWrongbookPracticeResult: recordWrongbookPracticeResult,
     toggleFavorite: toggleFavorite,
@@ -1060,6 +1119,7 @@
     consumePendingSession: consumePendingSession,
     persistSession: persistSession,
     persistWrongbookPracticeSession: persistWrongbookPracticeSession,
+    persistMockExamPracticeSession: persistMockExamPracticeSession,
     setWrongbookPracticePendingSession: setWrongbookPracticePendingSession,
     consumeWrongbookPracticePendingSession: consumeWrongbookPracticePendingSession,
     normalizeSession: normalizeSession,
@@ -1068,8 +1128,10 @@
     findReusableSession: findReusableSession,
     reconcileRestorableSession: reconcileRestorableSession,
     reconcileWrongbookPracticeSession: reconcileWrongbookPracticeSession,
+    reconcileMockExamPracticeSession: reconcileMockExamPracticeSession,
     buildWrongbookPracticeSession: buildWrongbookPracticeSession,
     isWrongbookSession: isWrongbookSession,
+    isMockExamSession: isMockExamSession,
     rememberWrongbookReturnSession: rememberWrongbookReturnSession,
     getWrongbookReturnSession: getWrongbookReturnSession,
   };
