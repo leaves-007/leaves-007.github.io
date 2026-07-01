@@ -1312,6 +1312,19 @@
     state = shared.loadState();
   }
 
+  function rebuildWrongbookCurrentSessionFromCleanState() {
+    const previousSession = currentSession;
+    shared.resetWrongbookPracticeState(state);
+    state = shared.loadState();
+    currentSession = shared.buildWrongbookPracticeSession(state, {
+      label: previousSession && previousSession.label,
+      scopeChapterKey: previousSession && previousSession.scopeChapterKey,
+    });
+    if (currentSession) {
+      persistCurrentSession();
+    }
+  }
+
   function moveSessionIndex(offset) {
     if (!currentSession) {
       return;
@@ -1327,6 +1340,15 @@
     if (!currentSession) {
       return;
     }
+    if (isWrongbookCurrentSession()) {
+      rebuildWrongbookCurrentSessionFromCleanState();
+      draftAnswers = {};
+      revealedShortAnswerQuestionId = "";
+      renderQuestionPanel();
+      renderStudyActions();
+      scheduleStatsRefresh();
+      return;
+    }
     currentSession.currentIndex = 0;
     currentSession.answered = {};
     draftAnswers = {};
@@ -1338,14 +1360,19 @@
 
   function resetCurrentPageSession() {
     if (currentSession) {
-      currentSession.currentIndex = 0;
-      currentSession.answered = {};
-      persistCurrentSession();
+      if (isWrongbookCurrentSession()) {
+        rebuildWrongbookCurrentSessionFromCleanState();
+      } else {
+        currentSession.currentIndex = 0;
+        currentSession.answered = {};
+        persistCurrentSession();
+      }
     }
     draftAnswers = {};
     revealedShortAnswerQuestionId = "";
     renderQuestionPanel();
     renderStudyActions();
+    scheduleStatsRefresh();
   }
 
   function clearWrongBook() {

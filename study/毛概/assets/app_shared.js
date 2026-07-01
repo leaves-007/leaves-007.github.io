@@ -222,6 +222,17 @@
     return store;
   }
 
+  function resetWrongbookPracticeState(state) {
+    const store = getWrongbookPracticeStore(state);
+    store.questionStates = {};
+    store.practiceLog = [];
+    store.sessionStore = {};
+    store.lastSession = null;
+    store.pendingSession = null;
+    saveState(state);
+    return store;
+  }
+
   function ensureQuestionStateInStore(store, questionId) {
     if (!store.questionStates[questionId]) {
       store.questionStates[questionId] = {
@@ -1167,6 +1178,7 @@
     ensureQuestionState: ensureQuestionState,
     getWrongbookPracticeStore: getWrongbookPracticeStore,
     getMockExamPracticeStore: getMockExamPracticeStore,
+    resetWrongbookPracticeState: resetWrongbookPracticeState,
     resetMockExamPracticeState: resetMockExamPracticeState,
     recordQuestionResult: recordQuestionResult,
     recordWrongbookPracticeResult: recordWrongbookPracticeResult,
