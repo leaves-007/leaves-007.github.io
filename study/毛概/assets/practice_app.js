@@ -369,6 +369,16 @@
       return;
     }
 
+    const mockExamPending = shared.consumeMockExamPracticePendingSession(state);
+    const restoredMockExamPending = mockExamPending
+      ? shared.reconcileMockExamPracticeSession(state, mockExamPending)
+      : null;
+    if (restoredMockExamPending && sessionMatchesScope(restoredMockExamPending)) {
+      currentSession = restoredMockExamPending;
+      persistCurrentSession();
+      return;
+    }
+
     const pending = shared.consumePendingSession(state);
     const restoredPending = pending ? shared.reconcileRestorableSession(state, pending) : null;
     if (restoredPending && sessionMatchesScope(restoredPending)) {
@@ -383,16 +393,6 @@
       : null;
     if (restoredWrongbookLastSession && sessionMatchesScope(restoredWrongbookLastSession)) {
       currentSession = restoredWrongbookLastSession;
-      persistCurrentSession();
-      return;
-    }
-
-    const mockExamLastSession = shared.getMockExamPracticeStore(state).lastSession;
-    const restoredMockExamLastSession = mockExamLastSession
-      ? shared.reconcileMockExamPracticeSession(state, mockExamLastSession)
-      : null;
-    if (restoredMockExamLastSession && sessionMatchesScope(restoredMockExamLastSession)) {
-      currentSession = restoredMockExamLastSession;
       persistCurrentSession();
       return;
     }
@@ -664,22 +664,24 @@
       renderAll();
     };
     actionRow.appendChild(favoriteButton);
-    if (isWrongbookCurrentSession()) {
+    if (isWrongbookCurrentSession() || isMockExamCurrentSession()) {
       shared.clearElement(actionRow);
       if (question.type !== "简答题") {
         actionRow.appendChild(createActionButton("primary-button", "提交答案", "submit-answer"));
       } else {
         actionRow.appendChild(createActionButton("secondary-button", "显示参考答案", "reveal-short-answer"));
       }
-      if (state.wrongBook[question.id]) {
-        actionRow.appendChild(
-          createActionButton("secondary-button remove-wrongbook-button", "移出错题本", "remove-main-wrongbook-entry")
-        );
-      }
-      if (shared.isFavorite(state, question.id)) {
-        actionRow.appendChild(
-          createActionButton("ghost-button", "取消收藏", "remove-main-favorite-entry")
-        );
+      if (isWrongbookCurrentSession()) {
+        if (state.wrongBook[question.id]) {
+          actionRow.appendChild(
+            createActionButton("secondary-button remove-wrongbook-button", "移出错题本", "remove-main-wrongbook-entry")
+          );
+        }
+        if (shared.isFavorite(state, question.id)) {
+          actionRow.appendChild(
+            createActionButton("ghost-button", "取消收藏", "remove-main-favorite-entry")
+          );
+        }
       }
     }
     bottomBar.appendChild(actionRow);
@@ -1257,10 +1259,18 @@
     return Boolean(currentSession && shared.isWrongbookSession(currentSession));
   }
 
+  function isMockExamCurrentSession() {
+    return Boolean(currentSession && shared.isMockExamSession(currentSession));
+  }
+
   function getActiveQuestionState(questionId) {
     if (isWrongbookCurrentSession()) {
       const wrongbookPracticeState = shared.getWrongbookPracticeStore(state);
       return wrongbookPracticeState.questionStates[questionId];
+    }
+    if (isMockExamCurrentSession()) {
+      const mockExamPracticeState = shared.getMockExamPracticeStore(state);
+      return mockExamPracticeState.questionStates[questionId];
     }
     return state.questionStates[questionId];
   }
@@ -1271,7 +1281,7 @@
     }
     if (isWrongbookCurrentSession()) {
       shared.persistWrongbookPracticeSession(state, currentSession);
-    } else if (shared.isMockExamSession(currentSession)) {
+    } else if (isMockExamCurrentSession()) {
       shared.persistMockExamPracticeSession(state, currentSession);
     } else {
       shared.persistSession(state, currentSession);
@@ -1282,6 +1292,8 @@
   function recordCurrentSessionResult(question, resultName, userAnswer) {
     if (isWrongbookCurrentSession()) {
       shared.recordWrongbookPracticeResult(state, question, resultName, userAnswer, currentSession);
+    } else if (isMockExamCurrentSession()) {
+      shared.recordMockExamPracticeResult(state, question, resultName, userAnswer, currentSession);
     } else {
       shared.recordQuestionResult(state, question, resultName, userAnswer, currentSession);
     }
@@ -1511,22 +1523,24 @@
         "toggle-favorite"
       )
     );
-    if (isWrongbookCurrentSession()) {
+    if (isWrongbookCurrentSession() || isMockExamCurrentSession()) {
       shared.clearElement(actionRow);
       if (question.type !== "绠€绛旈") {
         actionRow.appendChild(createActionButton("primary-button", "提交答案", "submit-answer"));
       } else {
         actionRow.appendChild(createActionButton("secondary-button", "显示参考答案", "reveal-short-answer"));
       }
-      if (state.wrongBook[question.id]) {
-        actionRow.appendChild(
-          createActionButton("secondary-button remove-wrongbook-button", "移出错题本", "remove-main-wrongbook-entry")
-        );
-      }
-      if (shared.isFavorite(state, question.id)) {
-        actionRow.appendChild(
-          createActionButton("ghost-button", "取消收藏", "remove-main-favorite-entry")
-        );
+      if (isWrongbookCurrentSession()) {
+        if (state.wrongBook[question.id]) {
+          actionRow.appendChild(
+            createActionButton("secondary-button remove-wrongbook-button", "移出错题本", "remove-main-wrongbook-entry")
+          );
+        }
+        if (shared.isFavorite(state, question.id)) {
+          actionRow.appendChild(
+            createActionButton("ghost-button", "取消收藏", "remove-main-favorite-entry")
+          );
+        }
       }
     }
     bottomBar.appendChild(actionRow);
@@ -1798,22 +1812,24 @@ function buildAnswerInputs(question, host, restoredAnswer) {
         )
       );
     }
-    if (isWrongbookCurrentSession()) {
+    if (isWrongbookCurrentSession() || isMockExamCurrentSession()) {
       shared.clearElement(actionRow);
       if (question.type !== "绠€绛旈") {
         actionRow.appendChild(createActionButton("primary-button", "提交答案", "submit-answer"));
       } else {
         actionRow.appendChild(createActionButton("secondary-button", "显示参考答案", "reveal-short-answer"));
       }
-      if (state.wrongBook[question.id]) {
-        actionRow.appendChild(
-          createActionButton("secondary-button remove-wrongbook-button", "移出错题本", "remove-main-wrongbook-entry")
-        );
-      }
-      if (shared.isFavorite(state, question.id)) {
-        actionRow.appendChild(
-          createActionButton("ghost-button", "取消收藏", "remove-main-favorite-entry")
-        );
+      if (isWrongbookCurrentSession()) {
+        if (state.wrongBook[question.id]) {
+          actionRow.appendChild(
+            createActionButton("secondary-button remove-wrongbook-button", "移出错题本", "remove-main-wrongbook-entry")
+          );
+        }
+        if (shared.isFavorite(state, question.id)) {
+          actionRow.appendChild(
+            createActionButton("ghost-button", "取消收藏", "remove-main-favorite-entry")
+          );
+        }
       }
     }
     bottomBar.appendChild(actionRow);
