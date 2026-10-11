@@ -474,5 +474,155 @@ th { background: #f7f7f8; }
 </tbody>
 </table>
 </main>
+<section id="chapter-self-test" aria-labelledby="self-test-title">
+  <div class="self-test-heading">
+    <p class="self-test-eyebrow">CHAPTER 6 · SELF TEST</p>
+    <h2 id="self-test-title">章节自测</h2>
+    <p>共 12 题。先完成作答，再统一查看得分、正确答案和解析。</p>
+  </div>
+  <form id="self-test-form">
+    <h3 class="self-test-group-title">课件测试题</h3>
+    <div id="ppt-questions"></div>
+    <h3 class="self-test-group-title">中子相互作用与探测</h3>
+    <p class="self-test-source">根据本笔记第 4 节内容编写；括号内附对应课件页码，便于回看。</p>
+    <div id="neutron-questions"></div>
+    <div class="self-test-actions">
+      <button class="self-test-submit" type="submit">提交答案</button>
+      <button class="self-test-reset" type="reset">重新作答</button>
+      <output id="self-test-score" aria-live="polite"></output>
+    </div>
+  </form>
+</section>
+<style>
+#chapter-self-test { --quiz-accent: #b3465d; --quiz-line: #e3e5e8; margin: 56px auto 20px; padding: clamp(22px, 4vw, 42px); border: 1px solid var(--quiz-line); border-radius: 16px; background: #fbfbfc; color: #30343b; }
+#chapter-self-test .self-test-heading { margin-bottom: 30px; }
+#chapter-self-test .self-test-eyebrow { margin: 0; color: var(--quiz-accent); font-size: .76rem; font-weight: 750; letter-spacing: .12em; }
+#chapter-self-test h2 { margin: 6px 0 8px; padding: 0; border: 0; font-size: clamp(1.55rem, 3vw, 2rem); }
+#chapter-self-test .self-test-heading > p:last-child, #chapter-self-test .self-test-source { color: #727780; }
+#chapter-self-test .self-test-group-title { margin: 36px 0 8px; font-size: 1.18rem; }
+#chapter-self-test .self-test-source { margin: 0 0 16px; font-size: .9rem; }
+#chapter-self-test .quiz-question { margin: 16px 0; padding: 20px; border: 1px solid var(--quiz-line); border-radius: 12px; background: #fff; }
+#chapter-self-test .quiz-question legend { padding: 0 4px; font-weight: 700; line-height: 1.65; }
+#chapter-self-test .quiz-question .quiz-source { margin: 2px 0 12px; color: #858a92; font-size: .82rem; }
+#chapter-self-test .quiz-options { display: grid; gap: 8px; }
+#chapter-self-test .quiz-option { display: flex; align-items: flex-start; gap: 10px; padding: 9px 12px; border: 1px solid #e9eaed; border-radius: 8px; cursor: pointer; }
+#chapter-self-test .quiz-option:hover { border-color: #d9a0ac; background: #fff9fa; }
+#chapter-self-test .quiz-option input { flex: none; margin-top: .34em; accent-color: var(--quiz-accent); }
+#chapter-self-test .quiz-figure { margin: 14px auto; max-width: 540px; text-align: center; }
+#chapter-self-test .quiz-figure img { display: block; width: min(100%, 500px); margin: auto; }
+#chapter-self-test .quiz-figure figcaption { color: #727780; font-size: .85rem; }
+#chapter-self-test .quiz-feedback { margin: 14px 0 0; padding: 12px 14px; border-radius: 8px; background: #f3f4f5; }
+#chapter-self-test .quiz-question.is-correct { border-color: #93c6a4; }
+#chapter-self-test .quiz-question.is-wrong { border-color: #e0a0a0; }
+#chapter-self-test .quiz-question.is-correct .quiz-feedback { background: #edf8f0; }
+#chapter-self-test .quiz-question.is-wrong .quiz-feedback { background: #fff1f0; }
+#chapter-self-test .self-test-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin-top: 26px; }
+#chapter-self-test .self-test-actions button { padding: 10px 18px; border: 1px solid var(--quiz-accent); border-radius: 8px; font: inherit; cursor: pointer; }
+#chapter-self-test .self-test-submit { color: #fff; background: var(--quiz-accent); }
+#chapter-self-test .self-test-reset { color: var(--quiz-accent); background: #fff; }
+#chapter-self-test #self-test-score { font-weight: 700; }
+@media (max-width: 640px) { #chapter-self-test { margin-top: 36px; padding: 20px 15px; } #chapter-self-test .quiz-question { padding: 16px 13px; } }
+</style>
+<script>
+(() => {
+  const questions = [
+    { group: "ppt", id: "ppt-1", prompt: "重带电粒子与物质相互作用最主要的方式是？", options: ["与靶核的非弹性碰撞", "与靶外电子的非弹性碰撞", "与靶核的弹性碰撞", "与靶外电子的弹性碰撞"], answer: 1, explanation: "重带电粒子主要与核外电子发生非弹性碰撞，使靶原子激发或电离，形成电离损失。", source: "第 1 讲，第 43 页" },
+    { group: "ppt", id: "ppt-2", prompt: "10 MeV 质子穿过 900 μm 厚的皮肤后，剩余能量最可能为多少？", options: ["1.2 MeV", "1.65 MeV", "3.7 MeV", "7.8 MeV"], answer: 2, explanation: "按课件射程曲线，10 MeV 对应射程约 1.1×10³ μm；扣除 900 μm 后，剩余射程约 2×10² μm，对应约 3.7 MeV。读图为近似值。", source: "第 1 讲，第 47 页", image: "assets/slide47-image12.png" },
+    { group: "ppt", id: "ppt-3", prompt: "低能 γ 射线与高原子序数物质相互作用时，哪种作用通常占主要地位？", options: ["光电效应", "康普顿效应", "电子对效应", "以上都是"], answer: 0, explanation: "光电效应随原子序数增大而显著增强，在低能、高 Z 条件下通常占主导。", source: "第 2 讲，第 31 页" },
+    { group: "ppt", id: "ppt-4", prompt: "中能 γ 射线与低原子序数物质相互作用时，哪种作用通常占主要地位？", options: ["光电效应", "康普顿效应", "电子对效应", "以上都是"], answer: 1, explanation: "中能区、低 Z 条件下通常由康普顿散射占主导。", source: "第 2 讲，第 32 页" },
+    { group: "ppt", id: "ppt-5", prompt: "高能 γ 射线与高原子序数物质相互作用时，哪种作用通常占主要地位？", options: ["光电效应", "康普顿效应", "电子对效应", "以上都是"], answer: 2, explanation: "能量足以发生电子对效应且原子序数较高时，电子对效应的相对贡献较大。", source: "第 2 讲，第 33 页" },
+    { group: "ppt", id: "ppt-6", prompt: "1～4 MeV 的 γ 射线与物质相互作用时，哪种作用通常占主要地位？", options: ["光电效应", "康普顿效应", "电子对效应", "以上都是"], answer: 1, explanation: "课件所列的 1～4 MeV 中能范围通常以康普顿散射为主。", source: "第 2 讲，第 34 页" },
+    { group: "neutron", id: "n-1", prompt: "本笔记列出的中子与物质的主要作用类型是哪一组？", options: ["散射、俘获、核反应、核裂变", "电离、激发、轫致辐射、湮没", "光电效应、康普顿散射、电子对效应", "弹性碰撞、荧光、光吸收、衍射"], answer: 0, explanation: "本笔记第 4 节列出散射、俘获、核反应和核裂变四类主要作用。", source: "本笔记 §4（PDF 第 15、18–20 页）" },
+    { group: "neutron", id: "n-2", prompt: "核反冲法主要利用哪种过程，通常用于测量哪类中子的能量？", options: ["中子与氢核弹性碰撞产生反冲质子；快中子", "中子被重核俘获发射 γ；热中子", "中子使原子核裂变；慢中子", "中子与核外电子碰撞；所有能区"], answer: 0, explanation: "富氢介质中的反冲质子可产生探测信号，因此核反冲法主要用于快中子探测和能谱测量。", source: "本笔记 §4.1.1（PDF 第 16–17、26 页）" },
+    { group: "neutron", id: "n-3", prompt: "中子被 ¹⁰B 俘获时，课件中占比 93.9% 的反应支路会产生什么？", options: ["⁷Li* 与 α，随后 ⁷Li* 发射 0.478 MeV γ", "³H 与质子，且不发射 γ", "⁷Li 与中子，靶核不改变", "裂变碎片，释放 150～170 MeV"], answer: 0, explanation: "主要支路为 n + ¹⁰B → ⁷Li* + α；⁷Li* 随后退激并发射 0.478 MeV γ。", source: "本笔记 §4.1.2（PDF 第 22 页）" },
+    { group: "neutron", id: "n-4", prompt: "关于 ⁶Li 中子反应，本笔记给出的描述哪项正确？", options: ["反应能约 4.786 MeV，反应后不放出 γ", "反应能仅 0.764 MeV，天然丰度极低", "产物只有 γ 和内转换电子", "主要用于快中子核反冲测量"], answer: 0, explanation: "⁶Li 反应为 n + ⁶Li → α + ³He + 4.786 MeV；反应后没有 γ 放出，天然 ⁶Li 含量约 7.5%。", source: "本笔记 §4.1.2（PDF 第 23 页）" },
+    { group: "neutron", id: "n-5", prompt: "¹⁵⁷Gd 俘获中子后，哪种描述符合本笔记？", options: ["可产生 γ 射线和内转换电子，截面很大", "只产生反冲质子，截面约 1 b", "必须经过核裂变才有信号", "反应产物不含带电粒子或光子"], answer: 0, explanation: "¹⁵⁷Gd 俘获中子后形成激发态，可通过 γ 射线和内转换电子退激；其热中子截面很大，薄层即可获得较高探测效率。", source: "本笔记 §4.1.2（PDF 第 23 页）" },
+    { group: "neutron", id: "n-6", prompt: "核反应法的截面近似遵循 1/v 规律，因此更适合测量什么？", options: ["慢中子，尤其热中子的注量率", "只适合高能快中子的能量", "所有能量中子的截面相同", "只适合 γ 光子的注量率"], answer: 0, explanation: "截面随中子速度增加而减小，因此核反应法适合慢中子、尤其热中子的测量，常用于注量率测量。", source: "本笔记 §4.1.2（PDF 第 24–25 页）" }
+  ];
+
+  const letters = ["A", "B", "C", "D"];
+  function renderQuestion(question, index) {
+    const fieldset = document.createElement("fieldset");
+    fieldset.className = "quiz-question";
+    fieldset.dataset.questionId = question.id;
+    const legend = document.createElement("legend");
+    legend.textContent = `${index + 1}. ${question.prompt}`;
+    fieldset.appendChild(legend);
+    if (question.image) {
+      const figure = document.createElement("figure");
+      figure.className = "quiz-figure";
+      const image = document.createElement("img");
+      image.src = question.image;
+      image.alt = "课件中的质子在皮肤中的射程与入射能量关系图";
+      figure.appendChild(image);
+      const caption = document.createElement("figcaption");
+      caption.textContent = "课件射程曲线（第 1 讲，第 47 页）";
+      figure.appendChild(caption);
+      fieldset.appendChild(figure);
+    }
+    const source = document.createElement("p");
+    source.className = "quiz-source";
+    source.textContent = question.source;
+    fieldset.appendChild(source);
+    const choices = document.createElement("div");
+    choices.className = "quiz-options";
+    question.options.forEach((option, optionIndex) => {
+      const label = document.createElement("label");
+      label.className = "quiz-option";
+      const input = document.createElement("input");
+      input.type = "radio";
+      input.name = question.id;
+      input.value = String(optionIndex);
+      const text = document.createElement("span");
+      text.textContent = `${letters[optionIndex]}. ${option}`;
+      label.append(input, text);
+      choices.appendChild(label);
+    });
+    fieldset.appendChild(choices);
+    return fieldset;
+  }
+
+  const pptRoot = document.getElementById("ppt-questions");
+  const neutronRoot = document.getElementById("neutron-questions");
+  questions.forEach((question, index) => {
+    (question.group === "ppt" ? pptRoot : neutronRoot).appendChild(renderQuestion(question, index));
+  });
+
+  const form = document.getElementById("self-test-form");
+  const score = document.getElementById("self-test-score");
+  form.addEventListener("submit", event => {
+    event.preventDefault();
+    let correct = 0;
+    questions.forEach(question => {
+      const card = form.querySelector(`[data-question-id="${question.id}"]`);
+      const selected = form.querySelector(`input[name="${question.id}"]:checked`);
+      const isCorrect = selected && Number(selected.value) === question.answer;
+      if (isCorrect) correct += 1;
+      card.classList.toggle("is-correct", Boolean(isCorrect));
+      card.classList.toggle("is-wrong", !isCorrect);
+      let feedback = card.querySelector(".quiz-feedback");
+      if (!feedback) {
+        feedback = document.createElement("p");
+        feedback.className = "quiz-feedback";
+        feedback.setAttribute("aria-live", "polite");
+        card.appendChild(feedback);
+      }
+      const answerText = `${letters[question.answer]}. ${question.options[question.answer]}`;
+      feedback.textContent = `${isCorrect ? "回答正确" : selected ? "回答错误" : "尚未作答"}。正确答案：${answerText}。${question.explanation}`;
+    });
+    score.textContent = `得分：${correct} / ${questions.length}`;
+    score.focus?.();
+  });
+  form.addEventListener("reset", () => {
+    window.setTimeout(() => {
+      form.querySelectorAll(".quiz-question").forEach(card => {
+        card.classList.remove("is-correct", "is-wrong");
+        card.querySelector(".quiz-feedback")?.remove();
+      });
+      score.textContent = "";
+    }, 0);
+  });
+})();
+</script>
 </body>
 </html>
