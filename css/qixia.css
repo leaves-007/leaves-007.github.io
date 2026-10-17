@@ -78,6 +78,28 @@ img {
   padding: 24px 0 52px;
 }
 
+/* Long-form study exports need the full main column; decorative rails would
+   otherwise sit above content that intentionally uses a wider reading canvas. */
+.study-note-shell .blog-layout {
+  grid-template-columns: minmax(0, 1fr);
+  width: min(100% - 32px, 1680px);
+}
+
+.study-note-shell .left-rail,
+.study-note-shell .right-rail {
+  display: none;
+}
+
+.study-note-shell .content-header,
+.study-note-shell .prose {
+  max-width: none;
+}
+
+.study-note-shell .content-page {
+  min-width: 0;
+  max-width: 100%;
+}
+
 .falling-leaves {
   position: fixed;
   inset: -14vh 0 0;
