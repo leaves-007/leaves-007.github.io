@@ -497,7 +497,7 @@
     const meta = createElement("div", "question-meta");
     [
       {
-        text: `题型：${question.chapterTitle}`,
+        text: `专题：${question.chapterTitle}`,
         className: "chip chip-chapter",
       },
       {

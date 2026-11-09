@@ -58,12 +58,8 @@
               <h2 class="section-title">刷题模式</h2>
               <div class="control-stack" id="mode-controls"></div>
             </section>
-            <section class="panel fade-in">
-              <h2 class="section-title">学习统计</h2>
-              <div id="stats-grid"></div>
-            </section>
             <section class="panel fade-in" id="chapter-links-panel">
-              <h2 class="section-title">题型入口</h2>
+              <h2 class="section-title">专题入口</h2>
               <div class="chapter-links" id="chapter-links"></div>
             </section>
           </aside>
@@ -110,13 +106,13 @@
     if (pageConfig.pageType === "chapter") {
       title.textContent = `${pageConfig.chapterTitle} 独立刷题页`;
       subtitle.textContent = "当前页面固定为单章节训练入口，支持本章顺序、随机、专项、错题和收藏模式。";
-      meta.appendChild(shared.createElement("span", "chip", `题型限定：${pageConfig.chapterTitle}`));
+      meta.appendChild(shared.createElement("span", "chip", `专题限定：${pageConfig.chapterTitle}`));
       meta.appendChild(shared.createElement("span", "chip", `本章题数：${scopedQuestions.length}`));
     } else {
       title.textContent = "国家安全教育交互式题库";
       subtitle.textContent = "全部题目来自当前目录下的 Excel 题库，支持离线刷题、章节拆页、错题本、收藏、统计和题库元数据导航。";
       meta.appendChild(shared.createElement("span", "chip", `总题数：${bank.totalQuestions}`));
-      meta.appendChild(shared.createElement("span", "chip", `题型数：${bank.chapters.length}`));
+      meta.appendChild(shared.createElement("span", "chip", `专题数：${bank.chapters.length}`));
       meta.appendChild(shared.createElement("span", "chip", `题型：${bank.questionTypes.join(" / ")}`));
     }
   }
@@ -159,7 +155,7 @@
 
   function buildSequentialGroup() {
     const group = buildControlGroup("顺序刷题", "按当前范围内的原始顺序练习。");
-    const button = shared.createElement("button", "primary-button", pageConfig.pageType === "chapter" ? "开始本题型顺序刷题" : "开始全库顺序刷题");
+    const button = shared.createElement("button", "primary-button", pageConfig.pageType === "chapter" ? "开始本专题顺序刷题" : "开始全库顺序刷题");
     button.addEventListener("click", function () {
       startSession({
         mode: "sequential",
@@ -218,7 +214,7 @@
   }
 
   function buildChapterGroup() {
-    const group = buildControlGroup("题型刷题", "在总入口里选章节，或直接打开独立章节页。");
+    const group = buildControlGroup("专题刷题", "选择 14 个国家安全教育专题，或直接打开独立专题页。");
     const label = shared.createElement("label", "", "章节");
     const select = shared.createElement("select");
     bank.chapters.forEach(function (chapter, index) {
@@ -236,7 +232,7 @@
       startSession({
         mode: "chapter",
         chapterKey: select.value,
-        label: `题型刷题 · ${chapter ? chapter.title : select.value}`,
+        label: `专题刷题 · ${chapter ? chapter.title : select.value}`,
       });
     });
     const openButton = shared.createElement("a", "ghost-button", "打开独立章节页");
@@ -340,7 +336,7 @@
         startSession({
           mode: "chapter",
           chapterKey: chapter.key,
-          label: `题型刷题 · ${chapter.title}`,
+          label: `专题刷题 · ${chapter.title}`,
         });
       });
       actions.appendChild(openLink);
@@ -878,20 +874,12 @@
               <h2 class="section-title">刷题模式</h2>
               <div class="control-stack" id="mode-controls"></div>
             </section>
-            <section class="panel fade-in">
-              <h2 class="section-title">学习统计</h2>
-              <div id="stats-grid"></div>
-            </section>
             <section class="panel fade-in" id="chapter-links-panel">
-              <h2 class="section-title">题型入口</h2>
+              <h2 class="section-title">专题入口</h2>
               <div class="chapter-links" id="chapter-links"></div>
             </section>
           </aside>
           <main class="control-stack">
-            <section class="panel fade-in" id="chapter-links-home-panel">
-              <h2 class="section-title">题型入口</h2>
-              <div class="chapter-links" id="chapter-links-home"></div>
-            </section>
             <section class="panel fade-in study-actions-shell">
               <div class="chapter-head">
                 <div>
@@ -902,10 +890,6 @@
               <div class="study-actions" id="study-actions"></div>
             </section>
             <section class="question-card fade-in" id="question-panel"></section>
-            <section class="panel fade-in" id="chapter-links-active-panel">
-              <h2 class="section-title">题型入口</h2>
-              <div class="chapter-links" id="chapter-links-active"></div>
-            </section>
             <section class="panel fade-in" id="trend-panel"></section>
             <section class="panel fade-in" id="mastery-panel"></section>
           </main>
@@ -958,13 +942,13 @@
     if (pageConfig.pageType === "chapter") {
       dom.heroTitle.textContent = `${pageConfig.chapterTitle} · 章节练习`;
       dom.heroSubtitle.remove();
-      dom.heroMeta.appendChild(shared.createElement("span", "chip", `题型限定：${pageConfig.chapterTitle}`));
+      dom.heroMeta.appendChild(shared.createElement("span", "chip", `专题限定：${pageConfig.chapterTitle}`));
       dom.heroMeta.appendChild(shared.createElement("span", "chip", `本章题数：${scopedQuestions.length}`));
     } else {
       dom.heroTitle.textContent = "国家安全教育交互式题库";
       dom.heroSubtitle.remove();
       dom.heroMeta.appendChild(shared.createElement("span", "chip", `总题数：${bank.totalQuestions}`));
-      dom.heroMeta.appendChild(shared.createElement("span", "chip", `题型数：${bank.chapters.length}`));
+      dom.heroMeta.appendChild(shared.createElement("span", "chip", `专题数：${bank.chapters.length}`));
       dom.heroMeta.appendChild(shared.createElement("span", "chip", `题型：${bank.questionTypes.join(" / ")}`));
     }
   }
@@ -1008,14 +992,14 @@
 
     if (pageConfig.pageType === "chapter") {
       dom.heroTitle.textContent = `${pageConfig.chapterTitle} · 章节练习`;
-      dom.heroMeta.appendChild(shared.createElement("span", "chip", `题型限定：${pageConfig.chapterTitle}`));
+      dom.heroMeta.appendChild(shared.createElement("span", "chip", `专题限定：${pageConfig.chapterTitle}`));
       dom.heroMeta.appendChild(shared.createElement("span", "chip", `本章题数：${scopedQuestions.length}`));
       return;
     }
 
     dom.heroTitle.textContent = "国家安全教育交互式题库";
     dom.heroMeta.appendChild(shared.createElement("span", "chip", `总题数：${bank.totalQuestions}`));
-    dom.heroMeta.appendChild(shared.createElement("span", "chip", `题型数：${bank.chapters.length}`));
+    dom.heroMeta.appendChild(shared.createElement("span", "chip", `专题数：${bank.chapters.length}`));
     dom.heroMeta.appendChild(shared.createElement("span", "chip", `题型：${bank.questionTypes.join(" / ")}`));
   }
 
@@ -1785,7 +1769,11 @@ function buildAnswerInputs(question, host, restoredAnswer) {
 
   function renderStats() {
     const stats = shared.core.computeStats(scopedBank, state, shared.core.getTodayDateText());
-    shared.renderStatsGrid(dom.statsGrid, stats);
+    const statsGrid = dom.statsGrid || document.getElementById("stats-grid");
+    dom.statsGrid = statsGrid;
+    if (statsGrid) {
+      shared.renderStatsGrid(statsGrid, stats);
+    }
     shared.renderTrendChart(dom.trendPanel, stats);
     shared.renderChapterMastery(dom.masteryPanel, stats);
   }
@@ -2001,6 +1989,9 @@ function buildAnswerInputs(question, host, restoredAnswer) {
       const panel = shared.createElement("section", "question-overview-panel");
       panel.id = "question-overview-panel";
       shell.appendChild(toggle);
+      const statsPanel = shared.createElement("section", "panel fade-in");
+      statsPanel.innerHTML = '<h2 class="section-title">学习统计</h2><div id="stats-grid"></div>';
+      shell.appendChild(statsPanel);
       shell.appendChild(panel);
       layout.appendChild(shell);
     }
@@ -2126,6 +2117,7 @@ function buildAnswerInputs(question, host, restoredAnswer) {
   init = function initWithOverview() {
     basePracticeInit();
     ensurePracticeOverviewShell();
+    renderStats();
     renderOverviewPanel();
   };
 

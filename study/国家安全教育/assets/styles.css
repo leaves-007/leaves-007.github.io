@@ -265,6 +265,7 @@ a {
   justify-self: center;
 }
 
+.page-shell.has-active-session .layout-three > .question-overview-shell #stats-grid { margin-bottom: 16px; }
 .page-shell.has-active-session .layout-three > .question-overview-shell {
   justify-self: start;
 }
@@ -1426,4 +1427,18 @@ details.chapter-card summary::-webkit-details-marker {
     padding: 10px 14px;
     font-size: 0.86rem;
   }
+}
+
+#chapter-links-panel {
+  display: block !important;
+}
+#chapter-links-home-panel,
+#chapter-links-active-panel {
+  display: none !important;
+}
+.question-overview-panel {
+  margin-bottom: 16px;
+}
+.chip-score {
+  display: none !important;
 }
