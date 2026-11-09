@@ -1430,7 +1430,7 @@ details.chapter-card summary::-webkit-details-marker {
 }
 
 #chapter-links-panel {
-  display: block !important;
+  display: none !important;
 }
 #chapter-links-home-panel,
 #chapter-links-active-panel {

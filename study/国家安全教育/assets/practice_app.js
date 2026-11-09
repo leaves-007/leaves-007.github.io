@@ -58,10 +58,6 @@
               <h2 class="section-title">刷题模式</h2>
               <div class="control-stack" id="mode-controls"></div>
             </section>
-            <section class="panel fade-in" id="chapter-links-panel">
-              <h2 class="section-title">专题入口</h2>
-              <div class="chapter-links" id="chapter-links"></div>
-            </section>
           </aside>
           <main class="control-stack">
             <section class="question-card fade-in" id="question-panel"></section>
@@ -873,10 +869,6 @@
             <section class="panel fade-in">
               <h2 class="section-title">刷题模式</h2>
               <div class="control-stack" id="mode-controls"></div>
-            </section>
-            <section class="panel fade-in" id="chapter-links-panel">
-              <h2 class="section-title">专题入口</h2>
-              <div class="chapter-links" id="chapter-links"></div>
             </section>
           </aside>
           <main class="control-stack">
