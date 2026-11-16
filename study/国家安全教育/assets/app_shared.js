@@ -371,14 +371,14 @@
       return match ? `${match.key}. ${match.text}` : question.answerRaw;
     }
     if (question.type === "多选题") {
-      const expected = question.answerRaw.split(/[;；]+/).map(function (value) { return value.trim().toUpperCase(); }).filter(Boolean);
+      const expected = Array.from(new Set(question.answerRaw.toUpperCase().match(/[A-Z]/g) || []));
       return expected.map(function (key) {
         const match = question.options.find(function (option) { return option.key === key; });
         return match ? `${match.key}. ${match.text}` : key;
       }).join(" / ");
     }
     if (question.type === "判断题") {
-      return core.normalizeText(question.answerRaw).toLowerCase() === "true" ? "正确" : "错误";
+      return core.judgeObjectiveAnswer("判断题", question.answerRaw, "true").isCorrect ? "正确" : "错误";
     }
     if (question.type === "填空题") {
       return (question.fillBlanks || [])

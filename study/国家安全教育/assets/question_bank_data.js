@@ -14681,13 +14681,13 @@ window.QUESTION_BANK_DATA = {
       ],
       "material": "",
       "stem": "网络安全的核心是维护网络空间____、安全和发展利益。",
-      "answerRaw": "主权)",
+      "answerRaw": "主权",
       "explanation": "",
       "options": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
-            "主权)"
+            "主权"
           ]
         }
       ]
@@ -14709,14 +14709,14 @@ window.QUESTION_BANK_DATA = {
         "国家安全教育"
       ],
       "material": "",
-      "stem": "经济安全的核心是维护国家______稳定、金融安全和产业安全。(答案",
-      "answerRaw": "经济秩序)",
+      "stem": "经济安全的核心是维护国家______稳定、金融安全和产业安全。",
+      "answerRaw": "经济秩序",
       "explanation": "",
       "options": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
-            "经济秩序)"
+            "经济秩序"
           ]
         }
       ]
@@ -19707,7 +19707,11 @@ window.QUESTION_BANK_DATA = {
         },
         {
           "key": "F",
-          "text": "草G. 沙"
+          "text": "草"
+        },
+        {
+          "key": "G",
+          "text": "沙"
         }
       ],
       "fillBlanks": []
@@ -21209,7 +21213,11 @@ window.QUESTION_BANK_DATA = {
         },
         {
           "key": "F",
-          "text": "军事秘密G. 军事外交"
+          "text": "军事秘密"
+        },
+        {
+          "key": "G",
+          "text": "军事外交"
         }
       ],
       "fillBlanks": []
@@ -24148,14 +24156,14 @@ window.QUESTION_BANK_DATA = {
         "自测2"
       ],
       "material": "",
-      "stem": "朝鲜战场上，志愿军将士面对强大而凶狠的作战对手，身处恶劣而残酷的战场环境，抛头颅、洒热血，以“（ ）”力克“钢多气少”，谱写了惊天地、泣鬼神的雄壮史诗。钢少气多",
-      "answerRaw": "(1) 钢少气多",
+      "stem": "朝鲜战场上，志愿军将士面对强大而凶狠的作战对手，身处恶劣而残酷的战场环境，抛头颅、洒热血，以“（ ）”力克“钢多气少”，谱写了惊天地、泣鬼神的雄壮史诗。",
+      "answerRaw": "钢少气多",
       "explanation": "",
       "options": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
-            "(1) 钢少气多"
+            "钢少气多"
           ]
         }
       ]
@@ -24178,14 +24186,14 @@ window.QUESTION_BANK_DATA = {
         "自测2"
       ],
       "material": "",
-      "stem": "（ ）就是金山银山。绿水青山",
-      "answerRaw": "(1) 绿水青山",
+      "stem": "（ ）就是金山银山。",
+      "answerRaw": "绿水青山",
       "explanation": "",
       "options": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
-            "(1) 绿水青山"
+            "绿水青山"
           ]
         }
       ]
@@ -24208,14 +24216,14 @@ window.QUESTION_BANK_DATA = {
         "自测2"
       ],
       "material": "",
-      "stem": "2018年，国务院新闻办公室发表了关于北极政策的白皮书，书名是《（ ）》。中国的北极政策",
-      "answerRaw": "(1) 中国的北极政策",
+      "stem": "2018年，国务院新闻办公室发表了关于北极政策的白皮书，书名是《（ ）》。",
+      "answerRaw": "中国的北极政策",
       "explanation": "",
       "options": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
-            "(1) 中国的北极政策"
+            "中国的北极政策"
           ]
         }
       ]
@@ -24238,14 +24246,14 @@ window.QUESTION_BANK_DATA = {
         "自测2"
       ],
       "material": "",
-      "stem": "为了反对和遏制“台独”分裂势力分裂国家，促进祖国和平统一，维护台湾海峡地区和平稳定，维护国家主权和领土完整，维护中华民族的根本利益，专门于2005年制定了《（ ）》。反分裂国家法",
-      "answerRaw": "(1) 反分裂国家法",
+      "stem": "为了反对和遏制“台独”分裂势力分裂国家，促进祖国和平统一，维护台湾海峡地区和平稳定，维护国家主权和领土完整，维护中华民族的根本利益，专门于2005年制定了《（ ）》。",
+      "answerRaw": "反分裂国家法",
       "explanation": "",
       "options": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
-            "(1) 反分裂国家法"
+            "反分裂国家法"
           ]
         }
       ]

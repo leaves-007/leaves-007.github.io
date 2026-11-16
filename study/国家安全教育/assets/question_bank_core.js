@@ -48,7 +48,7 @@
   }
 
   function normalizeAnswerSet(value) {
-    return Array.from(new Set(normalizeChoiceArray(value))).sort();
+    return Array.from(new Set(normalizeChoiceArray(value).flatMap(function (token) { return token.split(""); }))).sort();
   }
 
   function judgeObjectiveAnswer(questionType, expected, actual) {
