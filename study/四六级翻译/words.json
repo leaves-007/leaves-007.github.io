@@ -1,0 +1,602 @@
+[
+  {
+    "zh": "文化遗产",
+    "en": "cultural heritage",
+    "tip": "固定搭配，如world cultural heritage",
+    "category": 0
+  },
+  {
+    "zh": "二十四节气",
+    "en": "the 24 Solar Terms",
+    "tip": "专有名称常将 Solar Terms 首字母大写。",
+    "category": 0
+  },
+  {
+    "zh": "中医",
+    "en": "traditional Chinese medicine (TCM)",
+    "tip": "全称 traditional Chinese medicine，常缩写为 TCM。",
+    "category": 0
+  },
+  {
+    "zh": "京剧",
+    "en": "Peking Opera",
+    "tip": "常用译法 Peking Opera，Beijing Opera 也有使用。",
+    "category": 0
+  },
+  {
+    "zh": "毛笔书法",
+    "en": "brush calligraphy",
+    "tip": "区分pen calligraphy",
+    "category": 0
+  },
+  {
+    "zh": "丝绸之路",
+    "en": "the Silk Road",
+    "tip": "特指，加定冠词",
+    "category": 0
+  },
+  {
+    "zh": "四合院",
+    "en": "courtyard house",
+    "tip": "传统民居核心表达",
+    "category": 0
+  },
+  {
+    "zh": "剪纸",
+    "en": "paper-cutting",
+    "tip": "动名词作名词",
+    "category": 0
+  },
+  {
+    "zh": "瓷器",
+    "en": "porcelain",
+    "tip": "区别于china（日常瓷器）",
+    "category": 0
+  },
+  {
+    "zh": "针灸",
+    "en": "acupuncture",
+    "tip": "国际通用译法",
+    "category": 0
+  },
+  {
+    "zh": "武术",
+    "en": "martial arts",
+    "tip": "统称，如Chinese martial arts",
+    "category": 0
+  },
+  {
+    "zh": "茶道",
+    "en": "tea ceremony",
+    "tip": "仪式感表达",
+    "category": 0
+  },
+  {
+    "zh": "端午节",
+    "en": "the Dragon Boat Festival",
+    "tip": "节日名称固定",
+    "category": 0
+  },
+  {
+    "zh": "春节",
+    "en": "the Spring Festival",
+    "tip": "节日名称可写 Spring Festival 或 Chinese New Year。",
+    "category": 0
+  },
+  {
+    "zh": "元宵节",
+    "en": "the Lantern Festival",
+    "tip": "节日名称固定",
+    "category": 0
+  },
+  {
+    "zh": "皮影戏",
+    "en": "shadow puppetry",
+    "tip": "shadow puppetry 指皮影艺术，也可说 shadow play。",
+    "category": 0
+  },
+  {
+    "zh": "书法",
+    "en": "calligraphy",
+    "tip": "艺术形式",
+    "category": 0
+  },
+  {
+    "zh": "国画",
+    "en": "traditional Chinese painting",
+    "tip": "区别于Western painting",
+    "category": 0
+  },
+  {
+    "zh": "汉服",
+    "en": "Hanfu",
+    "tip": "专有名词，首字母大写",
+    "category": 0
+  },
+  {
+    "zh": "风水",
+    "en": "feng shui",
+    "tip": "音译+意译，国际通用",
+    "category": 0
+  },
+  {
+    "zh": "儒家思想",
+    "en": "Confucianism",
+    "tip": "哲学概念，大写",
+    "category": 0
+  },
+  {
+    "zh": "孟子",
+    "en": "Mencius",
+    "tip": "固定译名",
+    "category": 0
+  },
+  {
+    "zh": "孔子",
+    "en": "Confucius",
+    "tip": "固定译名",
+    "category": 0
+  },
+  {
+    "zh": "文化传承",
+    "en": "cultural inheritance",
+    "tip": "动词搭配inherit/promote",
+    "category": 0
+  },
+  {
+    "zh": "非物质文化遗产",
+    "en": "intangible cultural heritage (ICH)",
+    "tip": "全称 intangible cultural heritage，常缩写为 ICH。",
+    "category": 0
+  },
+  {
+    "zh": "城市化",
+    "en": "urbanization",
+    "tip": "名词形式，动词urbanize",
+    "category": 1
+  },
+  {
+    "zh": "老龄化社会",
+    "en": "aging society",
+    "tip": "区别于aging population",
+    "category": 1
+  },
+  {
+    "zh": "义务教育",
+    "en": "compulsory education",
+    "tip": "固定搭配，无the",
+    "category": 1
+  },
+  {
+    "zh": "社会保障",
+    "en": "social security",
+    "tip": "官方译法",
+    "category": 1
+  },
+  {
+    "zh": "教育公平",
+    "en": "educational equity",
+    "tip": "区别于equality",
+    "category": 1
+  },
+  {
+    "zh": "乡村振兴",
+    "en": "rural revitalization",
+    "tip": "官方译法，不用rural development",
+    "category": 1
+  },
+  {
+    "zh": "高铁",
+    "en": "high-speed railway (HSR)",
+    "tip": "缩写通用",
+    "category": 1
+  },
+  {
+    "zh": "地铁",
+    "en": "subway/metro",
+    "tip": "美式/英式通用",
+    "category": 1
+  },
+  {
+    "zh": "共享单车",
+    "en": "shared bikes",
+    "tip": "日常表达，不用sharing bikes",
+    "category": 1
+  },
+  {
+    "zh": "数字鸿沟",
+    "en": "digital divide",
+    "tip": "社会议题固定译法",
+    "category": 1
+  },
+  {
+    "zh": "社区服务",
+    "en": "community service",
+    "tip": "搭配provide community service",
+    "category": 1
+  },
+  {
+    "zh": "人口普查",
+    "en": "population census",
+    "tip": "高频表达",
+    "category": 1
+  },
+  {
+    "zh": "公共卫生",
+    "en": "public health",
+    "tip": "卫生安全相关高频",
+    "category": 1
+  },
+  {
+    "zh": "民生",
+    "en": "people’s livelihood",
+    "tip": "政策文本常用",
+    "category": 1
+  },
+  {
+    "zh": "就业优先",
+    "en": "employment-first",
+    "tip": "复合形容词，例如 employment-first policy。",
+    "category": 1
+  },
+  {
+    "zh": "社会保障体系",
+    "en": "social security system",
+    "tip": "高频表达",
+    "category": 1
+  },
+  {
+    "zh": "留守儿童",
+    "en": "left-behind children",
+    "tip": "社会热点固定译法",
+    "category": 1
+  },
+  {
+    "zh": "农民工",
+    "en": "migrant workers",
+    "tip": "区别于immigrant workers",
+    "category": 1
+  },
+  {
+    "zh": "志愿服务",
+    "en": "volunteer service",
+    "tip": "社会类高频考点",
+    "category": 1
+  },
+  {
+    "zh": "基层治理",
+    "en": "grassroots governance",
+    "tip": "政治术语准确",
+    "category": 1
+  },
+  {
+    "zh": "公共交通",
+    "en": "public transportation",
+    "tip": "美式，英式public transport",
+    "category": 1
+  },
+  {
+    "zh": "住房保障",
+    "en": "housing security",
+    "tip": "政策表达，固定搭配",
+    "category": 1
+  },
+  {
+    "zh": "养老服务",
+    "en": "elderly care services",
+    "tip": "社会议题",
+    "category": 1
+  },
+  {
+    "zh": "教育改革",
+    "en": "education reform",
+    "tip": "抽象名词，无the",
+    "category": 1
+  },
+  {
+    "zh": "医疗改革",
+    "en": "healthcare reform",
+    "tip": "区别于medical reform",
+    "category": 1
+  },
+  {
+    "zh": "人工智能",
+    "en": "artificial intelligence (AI)",
+    "tip": "全称 artificial intelligence，常缩写为 AI。",
+    "category": 2
+  },
+  {
+    "zh": "大数据",
+    "en": "big data",
+    "tip": "无the，不可数",
+    "category": 2
+  },
+  {
+    "zh": "5G 技术",
+    "en": "5G technology",
+    "tip": "5G technology 是常用表达。",
+    "category": 2
+  },
+  {
+    "zh": "数字经济",
+    "en": "digital economy",
+    "tip": "固定译法，高频考点",
+    "category": 2
+  },
+  {
+    "zh": "区块链",
+    "en": "blockchain",
+    "tip": "专业术语",
+    "category": 2
+  },
+  {
+    "zh": "虚拟现实",
+    "en": "virtual reality (VR)",
+    "tip": "缩写通用",
+    "category": 2
+  },
+  {
+    "zh": "增强现实",
+    "en": "augmented reality (AR)",
+    "tip": "缩写通用",
+    "category": 2
+  },
+  {
+    "zh": "云计算",
+    "en": "cloud computing",
+    "tip": "无需加the，技术名词",
+    "category": 2
+  },
+  {
+    "zh": "电子商务",
+    "en": "e-commerce",
+    "tip": "e-commerce 是常用写法，electronic commerce 为完整形式。",
+    "category": 2
+  },
+  {
+    "zh": "可再生能源",
+    "en": "renewable energy",
+    "tip": "区别于non-renewable energy",
+    "category": 2
+  },
+  {
+    "zh": "新能源汽车",
+    "en": "new energy vehicles (NEVs)",
+    "tip": "缩写通用",
+    "category": 2
+  },
+  {
+    "zh": "智能家居",
+    "en": "smart home",
+    "tip": "形容词+名词",
+    "category": 2
+  },
+  {
+    "zh": "网络安全",
+    "en": "cybersecurity",
+    "tip": "复合词，无需分开",
+    "category": 2
+  },
+  {
+    "zh": "数据隐私",
+    "en": "data privacy",
+    "tip": "数字时代高频表达",
+    "category": 2
+  },
+  {
+    "zh": "量子计算",
+    "en": "quantum computing",
+    "tip": "专业术语",
+    "category": 2
+  },
+  {
+    "zh": "航天工程",
+    "en": "aerospace engineering",
+    "tip": "航空航天领域专业术语",
+    "category": 2
+  },
+  {
+    "zh": "生物技术",
+    "en": "biotechnology",
+    "tip": "缩写biotech",
+    "category": 2
+  },
+  {
+    "zh": "碳达峰",
+    "en": "carbon peaking",
+    "tip": "常用表达 carbon peaking；注意结合句子选择词形。",
+    "category": 2
+  },
+  {
+    "zh": "碳中和",
+    "en": "carbon neutrality",
+    "tip": "名词形式，不用carbon neutral",
+    "category": 2
+  },
+  {
+    "zh": "垃圾分类",
+    "en": "garbage classification",
+    "tip": "也可使用 waste sorting 或 rubbish sorting。",
+    "category": 2
+  },
+  {
+    "zh": "环境保护",
+    "en": "environmental protection",
+    "tip": "固定搭配，动词protect",
+    "category": 2
+  },
+  {
+    "zh": "可持续发展",
+    "en": "sustainable development",
+    "tip": "固定表达",
+    "category": 2
+  },
+  {
+    "zh": "环保意识",
+    "en": "environmental awareness",
+    "tip": "政策热点",
+    "category": 2
+  },
+  {
+    "zh": "生态保护",
+    "en": "ecological protection",
+    "tip": "区别于environmental",
+    "category": 2
+  },
+  {
+    "zh": "环境友好",
+    "en": "environment-friendly",
+    "tip": "政策热点，高频",
+    "category": 2
+  },
+  {
+    "zh": "一带一路",
+    "en": "the Belt and Road Initiative (BRI)",
+    "tip": "专有名称通常带定冠词 the，缩写为 BRI。",
+    "category": 3
+  },
+  {
+    "zh": "数字经济",
+    "en": "digital economy",
+    "tip": "高频表达",
+    "category": 3
+  },
+  {
+    "zh": "经济增长",
+    "en": "economic growth",
+    "tip": "搭配promote/boost",
+    "category": 3
+  },
+  {
+    "zh": "国内生产总值",
+    "en": "Gross Domestic Product (GDP)",
+    "tip": "缩写通用，首字母大写",
+    "category": 3
+  },
+  {
+    "zh": "消费升级",
+    "en": "consumption upgrade",
+    "tip": "政策术语",
+    "category": 3
+  },
+  {
+    "zh": "乡村振兴",
+    "en": "rural revitalization",
+    "tip": "高频考点",
+    "category": 3
+  },
+  {
+    "zh": "自由贸易区",
+    "en": "free trade zone",
+    "tip": "政策表达",
+    "category": 3
+  },
+  {
+    "zh": "进出口",
+    "en": "import and export",
+    "tip": "高频表达",
+    "category": 3
+  },
+  {
+    "zh": "外商投资",
+    "en": "foreign investment",
+    "tip": "搭配attract foreign investment",
+    "category": 3
+  },
+  {
+    "zh": "民营企业",
+    "en": "private enterprises",
+    "tip": "区别于state-owned enterprises",
+    "category": 3
+  },
+  {
+    "zh": "小微企业",
+    "en": "small and micro enterprises",
+    "tip": "政策术语",
+    "category": 3
+  },
+  {
+    "zh": "高质量发展",
+    "en": "high-quality development",
+    "tip": "核心政策表达",
+    "category": 3
+  },
+  {
+    "zh": "共同富裕",
+    "en": "common prosperity",
+    "tip": "官方译法，准确",
+    "category": 3
+  },
+  {
+    "zh": "供给侧改革",
+    "en": "supply-side structural reform",
+    "tip": "完整术语，不可缩写",
+    "category": 3
+  },
+  {
+    "zh": "内需",
+    "en": "domestic demand",
+    "tip": "搭配expand domestic demand",
+    "category": 3
+  },
+  {
+    "zh": "全球化",
+    "en": "globalization",
+    "tip": "名词形式，动词globalize",
+    "category": 3
+  },
+  {
+    "zh": "产业链",
+    "en": "industrial chain",
+    "tip": "经济术语，固定",
+    "category": 3
+  },
+  {
+    "zh": "创新驱动",
+    "en": "innovation-driven",
+    "tip": "复合形容词，例如 innovation-driven development。",
+    "category": 3
+  },
+  {
+    "zh": "区域协调发展",
+    "en": "coordinated regional development",
+    "tip": "政策文本常用",
+    "category": 3
+  },
+  {
+    "zh": "金融科技",
+    "en": "fintech",
+    "tip": "fintech 是 financial technology 的缩写。",
+    "category": 3
+  },
+  {
+    "zh": "跨境电商",
+    "en": "cross-border e-commerce",
+    "tip": "复合术语",
+    "category": 3
+  },
+  {
+    "zh": "减税降费",
+    "en": "tax cuts and fee reductions",
+    "tip": "名词复数形式，政策表达",
+    "category": 3
+  },
+  {
+    "zh": "就业创业",
+    "en": "employment and entrepreneurship",
+    "tip": "并列名词，高频考点",
+    "category": 3
+  },
+  {
+    "zh": "营商环境",
+    "en": "business environment",
+    "tip": "搭配improve the business environment",
+    "category": 3
+  },
+  {
+    "zh": "数字人民币",
+    "en": "digital yuan",
+    "tip": "digital yuan 是常用表达。",
+    "category": 3
+  }
+]

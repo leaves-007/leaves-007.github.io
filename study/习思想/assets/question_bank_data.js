@@ -3,8 +3,8 @@ window.QUESTION_BANK_DATA = {
   "sourceDir": "习概题库/优学院截图（部分）",
   "screenshotCount": 624,
   "validScreenshotCount": 622,
-  "duplicateScreenshotCount": 102,
-  "totalQuestions": 520,
+  "duplicateScreenshotCount": 103,
+  "totalQuestions": 519,
   "questionTypes": [
     "单选题",
     "多选题",
@@ -16,19 +16,19 @@ window.QUESTION_BANK_DATA = {
       "key": "chapter-01",
       "title": "新时代坚持和发展中国特色社会主义",
       "sourceFile": "优学院截图（部分）",
-      "questionCount": 69
+      "questionCount": 75
     },
     {
       "key": "chapter-02",
       "title": "以中国式现代化全面推进中华民族伟大复兴",
       "sourceFile": "优学院截图（部分）",
-      "questionCount": 86
+      "questionCount": 82
     },
     {
       "key": "chapter-03",
       "title": "坚持党的全面领导和全面从严治党",
       "sourceFile": "优学院截图（部分）",
-      "questionCount": 55
+      "questionCount": 51
     },
     {
       "key": "chapter-04",
@@ -40,31 +40,31 @@ window.QUESTION_BANK_DATA = {
       "key": "chapter-05",
       "title": "全过程人民民主与全面依法治国",
       "sourceFile": "优学院截图（部分）",
-      "questionCount": 70
+      "questionCount": 71
     },
     {
       "key": "chapter-06",
       "title": "文化建设与文化自信",
       "sourceFile": "优学院截图（部分）",
-      "questionCount": 45
+      "questionCount": 43
     },
     {
       "key": "chapter-07",
       "title": "民生保障与社会治理",
       "sourceFile": "优学院截图（部分）",
-      "questionCount": 45
+      "questionCount": 44
     },
     {
       "key": "chapter-08",
       "title": "生态文明建设",
       "sourceFile": "优学院截图（部分）",
-      "questionCount": 21
+      "questionCount": 23
     },
     {
       "key": "chapter-09",
       "title": "国家安全与国防军队",
       "sourceFile": "优学院截图（部分）",
-      "questionCount": 47
+      "questionCount": 48
     },
     {
       "key": "chapter-10",
@@ -76,7 +76,7 @@ window.QUESTION_BANK_DATA = {
   "questions": [
     {
       "id": "xi-thought-001",
-      "sequence": 424,
+      "sequence": 420,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 10,
@@ -115,11 +115,12 @@ window.QUESTION_BANK_DATA = {
           "text": "绿色转型"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-002",
-      "sequence": 70,
+      "sequence": 76,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 12,
@@ -158,11 +159,12 @@ window.QUESTION_BANK_DATA = {
           "text": "重要因素"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-003",
-      "sequence": 334,
+      "sequence": 333,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 13,
@@ -201,11 +203,12 @@ window.QUESTION_BANK_DATA = {
           "text": "政治建设"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-004",
-      "sequence": 379,
+      "sequence": 376,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 14,
@@ -244,11 +247,12 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持人人尽责、人人享有"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-005",
-      "sequence": 380,
+      "sequence": 377,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 15,
@@ -287,11 +291,12 @@ window.QUESTION_BANK_DATA = {
           "text": "农村和社区"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-006",
-      "sequence": 211,
+      "sequence": 209,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 17,
@@ -330,11 +335,12 @@ window.QUESTION_BANK_DATA = {
           "text": "获得感、幸福感、安全感"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-007",
-      "sequence": 264,
+      "sequence": 262,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 19,
@@ -373,11 +379,12 @@ window.QUESTION_BANK_DATA = {
           "text": "宪法权威"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-008",
-      "sequence": 71,
+      "sequence": 77,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 20,
@@ -416,11 +423,12 @@ window.QUESTION_BANK_DATA = {
           "text": "政府和市场"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-009",
-      "sequence": 72,
+      "sequence": 78,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 25,
@@ -460,11 +468,12 @@ window.QUESTION_BANK_DATA = {
           "text": "重要力量源泉"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-010",
-      "sequence": 73,
+      "sequence": 79,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 6,
@@ -504,11 +513,12 @@ window.QUESTION_BANK_DATA = {
           "text": "重要因素"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-011",
-      "sequence": 265,
+      "sequence": 263,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 28,
@@ -547,11 +557,12 @@ window.QUESTION_BANK_DATA = {
           "text": "体系建设"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-012",
-      "sequence": 381,
+      "sequence": 378,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 29,
@@ -590,11 +601,12 @@ window.QUESTION_BANK_DATA = {
           "text": "租购一体"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-013",
-      "sequence": 156,
+      "sequence": 158,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 30,
@@ -633,11 +645,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党的监督机制"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-014",
-      "sequence": 266,
+      "sequence": 264,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 32,
@@ -677,11 +690,12 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持依宪治国、依宪执政"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-015",
-      "sequence": 267,
+      "sequence": 265,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 33,
@@ -720,11 +734,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党的二十届三中全会"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-016",
-      "sequence": 268,
+      "sequence": 266,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 34,
@@ -763,11 +778,12 @@ window.QUESTION_BANK_DATA = {
           "text": "十九届三中全会"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-017",
-      "sequence": 382,
+      "sequence": 379,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 35,
@@ -806,11 +822,12 @@ window.QUESTION_BANK_DATA = {
           "text": "社会保障战略"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-018",
-      "sequence": 269,
+      "sequence": 267,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 36,
@@ -850,11 +867,12 @@ window.QUESTION_BANK_DATA = {
           "text": "建设文化强国"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-019",
-      "sequence": 335,
+      "sequence": 334,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 45,
@@ -893,11 +911,12 @@ window.QUESTION_BANK_DATA = {
           "text": "讲好中国故事，传播好中国声音，展示真实、立体、全面的中国"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-020",
-      "sequence": 383,
+      "sequence": 380,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 48,
@@ -936,11 +955,12 @@ window.QUESTION_BANK_DATA = {
           "text": "社会救助、社会福利、社会优抚、社会慈善"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-021",
-      "sequence": 425,
+      "sequence": 421,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 49,
@@ -979,11 +999,12 @@ window.QUESTION_BANK_DATA = {
           "text": "习近平"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-022",
-      "sequence": 270,
+      "sequence": 268,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 52,
@@ -1022,11 +1043,12 @@ window.QUESTION_BANK_DATA = {
           "text": "全面依法治国的根本保证"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-023",
-      "sequence": 492,
+      "sequence": 491,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 53,
@@ -1044,7 +1066,7 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "中国重信守诺，已经将应对气候变化全面融入国家经济社会发展战略，实施一系列应对气候变化的战略、措施和行动，倡议各方携手的全球气候治理体系。变化挑战，努力推动构建",
+      "stem": "中国重信守诺，已经将应对气候变化全面融入国家经济社会发展战略，实施一系列应对气候变化的战略、措施和行动，倡议各方携手应对气候变化挑战，努力推动构建（）的全球气候治理体系。",
       "answerRaw": "A",
       "explanation": "",
       "options": [
@@ -1065,11 +1087,12 @@ window.QUESTION_BANK_DATA = {
           "text": "协同共进、和谐共生"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-024",
-      "sequence": 271,
+      "sequence": 269,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 55,
@@ -1108,11 +1131,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党的十六大"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-025",
-      "sequence": 272,
+      "sequence": 270,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 63,
@@ -1130,7 +1154,7 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "（）是政治和法治关系的集中反映，是全面依法治国的一个根本问题，",
+      "stem": "（）是政治和法治关系的集中反映，是全面依法治国的一个根本问题。",
       "answerRaw": "B",
       "explanation": "",
       "options": [
@@ -1151,11 +1175,12 @@ window.QUESTION_BANK_DATA = {
           "text": "道德和法的关系"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-026",
-      "sequence": 336,
+      "sequence": 335,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 66,
@@ -1194,11 +1219,12 @@ window.QUESTION_BANK_DATA = {
           "text": "精准治理"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-027",
-      "sequence": 273,
+      "sequence": 271,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 70,
@@ -1237,11 +1263,12 @@ window.QUESTION_BANK_DATA = {
           "text": "劳动法律法规"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-028",
-      "sequence": 274,
+      "sequence": 272,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 71,
@@ -1280,11 +1307,12 @@ window.QUESTION_BANK_DATA = {
           "text": "法治监督体系"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-029",
-      "sequence": 74,
+      "sequence": 80,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 76,
@@ -1323,11 +1351,12 @@ window.QUESTION_BANK_DATA = {
           "text": "全局性风险"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-030",
-      "sequence": 426,
+      "sequence": 422,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 79,
@@ -1368,11 +1397,12 @@ window.QUESTION_BANK_DATA = {
           "text": "十九大"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-031",
-      "sequence": 157,
+      "sequence": 159,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 80,
@@ -1412,11 +1442,12 @@ window.QUESTION_BANK_DATA = {
           "text": "思想建设"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-032",
-      "sequence": 158,
+      "sequence": 160,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 86,
@@ -1455,11 +1486,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党的纪律建设"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-033",
-      "sequence": 75,
+      "sequence": 81,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 88,
@@ -1498,11 +1530,12 @@ window.QUESTION_BANK_DATA = {
           "text": "维护世界和平、促进共同发展"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-034",
-      "sequence": 212,
+      "sequence": 210,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 92,
@@ -1541,11 +1574,12 @@ window.QUESTION_BANK_DATA = {
           "text": "安全"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-035",
-      "sequence": 213,
+      "sequence": 211,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 97,
@@ -1585,11 +1619,12 @@ window.QUESTION_BANK_DATA = {
           "text": "独立自主"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-036",
-      "sequence": 445,
+      "sequence": 443,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 100,
@@ -1628,11 +1663,12 @@ window.QUESTION_BANK_DATA = {
           "text": "新时期党的强军思想"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-037",
-      "sequence": 159,
+      "sequence": 161,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 101,
@@ -1671,11 +1707,12 @@ window.QUESTION_BANK_DATA = {
           "text": "制度建设"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-038",
-      "sequence": 493,
+      "sequence": 492,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 103,
@@ -1714,11 +1751,12 @@ window.QUESTION_BANK_DATA = {
           "text": "社会"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-039",
-      "sequence": 160,
+      "sequence": 162,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 104,
@@ -1758,11 +1796,12 @@ window.QUESTION_BANK_DATA = {
           "text": "全面从严治党和全面深化改革相结合"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-040",
-      "sequence": 446,
+      "sequence": 444,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 105,
@@ -1802,11 +1841,12 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持在祖国大陆发展进步基础上解决台湾问题"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-041",
-      "sequence": 337,
+      "sequence": 336,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 108,
@@ -1845,11 +1885,12 @@ window.QUESTION_BANK_DATA = {
           "text": "“美人之美，美美与共"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-042",
-      "sequence": 447,
+      "sequence": 445,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 109,
@@ -1888,11 +1929,12 @@ window.QUESTION_BANK_DATA = {
           "text": "创新型"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-043",
-      "sequence": 384,
+      "sequence": 381,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 111,
@@ -1931,11 +1973,12 @@ window.QUESTION_BANK_DATA = {
           "text": "家庭和睦"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-044",
-      "sequence": 448,
+      "sequence": 446,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 113,
@@ -1974,11 +2017,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党的二十大"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-045",
-      "sequence": 214,
+      "sequence": 212,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 116,
@@ -2017,11 +2061,12 @@ window.QUESTION_BANK_DATA = {
           "text": "学习能力"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-046",
-      "sequence": 449,
+      "sequence": 447,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 117,
@@ -2060,11 +2105,12 @@ window.QUESTION_BANK_DATA = {
           "text": "旗帜鲜明地反对一切形式的霸权主义和强权政治"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-047",
-      "sequence": 450,
+      "sequence": 448,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 120,
@@ -2104,11 +2150,12 @@ window.QUESTION_BANK_DATA = {
           "text": "社会安全"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-048",
-      "sequence": 76,
+      "sequence": 82,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 122,
@@ -2147,11 +2194,12 @@ window.QUESTION_BANK_DATA = {
           "text": "创新"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-049",
-      "sequence": 275,
+      "sequence": 273,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 123,
@@ -2190,11 +2238,12 @@ window.QUESTION_BANK_DATA = {
           "text": "人民"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-050",
-      "sequence": 161,
+      "sequence": 163,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 127,
@@ -2233,11 +2282,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党的优良传统"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-051",
-      "sequence": 494,
+      "sequence": 493,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 128,
@@ -2276,11 +2326,12 @@ window.QUESTION_BANK_DATA = {
           "text": "习近平在第70届联合国大会讲话"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-052",
-      "sequence": 451,
+      "sequence": 449,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 129,
@@ -2319,11 +2370,12 @@ window.QUESTION_BANK_DATA = {
           "text": "全面建成世界一流军队"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-053",
-      "sequence": 215,
+      "sequence": 213,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 134,
@@ -2347,11 +2399,11 @@ window.QUESTION_BANK_DATA = {
       "options": [
         {
           "key": "A",
-          "text": "．责任共同体"
+          "text": "责任共同体"
         },
         {
           "key": "B",
-          "text": "．发展共同体"
+          "text": "发展共同体"
         },
         {
           "key": "C",
@@ -2362,11 +2414,12 @@ window.QUESTION_BANK_DATA = {
           "text": "经济共同体"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-054",
-      "sequence": 452,
+      "sequence": 450,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 135,
@@ -2405,11 +2458,12 @@ window.QUESTION_BANK_DATA = {
           "text": "重要手段"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-055",
-      "sequence": 162,
+      "sequence": 164,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 140,
@@ -2448,11 +2502,12 @@ window.QUESTION_BANK_DATA = {
           "text": "依法治党"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-056",
-      "sequence": 163,
+      "sequence": 165,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 145,
@@ -2491,11 +2546,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党的思想建设主要通过完善制度、强化监督来实现自我净化"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-057",
-      "sequence": 453,
+      "sequence": 451,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 147,
@@ -2534,11 +2590,12 @@ window.QUESTION_BANK_DATA = {
           "text": "国家总体安全"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-058",
-      "sequence": 495,
+      "sequence": 494,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 148,
@@ -2556,7 +2613,7 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "周边是中国安身立命之所，发展繁荣之基。面对复杂多变的地区形势和国家发展的战略全局，中国始终高度重视周边外交，将其置于这一方针是（）。",
+      "stem": "周边是中国安身立命之所，发展繁荣之基。面对复杂多变的地区形势和国家发展的战略全局，中国始终高度重视周边外交，将其置于中国外交全局的首要位置。为深化睦邻友好、增进政治互信、扩大务实合作、共同维护地区和平稳定繁荣，中国长期坚持并不断完善其周边外交方针，这一方针是（）。",
       "answerRaw": "A",
       "explanation": "",
       "options": [
@@ -2577,11 +2634,12 @@ window.QUESTION_BANK_DATA = {
           "text": "独立自主、完全平等、互相尊重、互不干涉内部事务"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-059",
-      "sequence": 164,
+      "sequence": 166,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 151,
@@ -2620,11 +2678,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党章"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-060",
-      "sequence": 276,
+      "sequence": 274,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 160,
@@ -2663,11 +2722,12 @@ window.QUESTION_BANK_DATA = {
           "text": "独立的司法权和终审权"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-061",
-      "sequence": 454,
+      "sequence": 452,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 161,
@@ -2706,11 +2766,12 @@ window.QUESTION_BANK_DATA = {
           "text": "社会安全"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-062",
-      "sequence": 385,
+      "sequence": 382,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 7,
@@ -2750,11 +2811,12 @@ window.QUESTION_BANK_DATA = {
           "text": "医疗"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-063",
-      "sequence": 77,
+      "sequence": 83,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 11,
@@ -2794,11 +2856,12 @@ window.QUESTION_BANK_DATA = {
           "text": "交通运输结构"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-064",
-      "sequence": 78,
+      "sequence": 84,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 34,
@@ -2837,11 +2900,12 @@ window.QUESTION_BANK_DATA = {
           "text": "中国特色社会主义理论体系教育"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-065",
-      "sequence": 79,
+      "sequence": 85,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 43,
@@ -2880,11 +2944,12 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义文化"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-066",
-      "sequence": 80,
+      "sequence": 86,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 44,
@@ -2923,11 +2988,12 @@ window.QUESTION_BANK_DATA = {
           "text": "高质量发展"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-067",
-      "sequence": 427,
+      "sequence": 423,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 45,
@@ -2966,11 +3032,12 @@ window.QUESTION_BANK_DATA = {
           "text": "和谐相处"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-068",
-      "sequence": 277,
+      "sequence": 275,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 50,
@@ -3009,11 +3076,12 @@ window.QUESTION_BANK_DATA = {
           "text": "职责明确、依法行政的政府治理体系"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-069",
-      "sequence": 338,
+      "sequence": 337,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 52,
@@ -3052,11 +3120,12 @@ window.QUESTION_BANK_DATA = {
           "text": "生态文明建设"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-070",
-      "sequence": 339,
+      "sequence": 338,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 59,
@@ -3095,11 +3164,12 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持人与自然和谐共生"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-071",
-      "sequence": 278,
+      "sequence": 276,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 61,
@@ -3138,11 +3208,12 @@ window.QUESTION_BANK_DATA = {
           "text": "依宪治国"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-072",
-      "sequence": 165,
+      "sequence": 167,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 66,
@@ -3181,11 +3252,12 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持为人民服务"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-073",
-      "sequence": 386,
+      "sequence": 383,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 68,
@@ -3224,11 +3296,12 @@ window.QUESTION_BANK_DATA = {
           "text": "保障和改善民生"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-074",
-      "sequence": 428,
+      "sequence": 424,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 70,
@@ -3267,11 +3340,12 @@ window.QUESTION_BANK_DATA = {
           "text": "发展观念"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-075",
-      "sequence": 166,
+      "sequence": 168,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 76,
@@ -3289,7 +3363,7 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "党的十八大以来，党中央把全面从严治党纳入“四个全面”战略布局，并将其作为新时代党的建设的鲜明主题。在推进全面从严治党的（）具有根本性、长期性、稳定性的作用，能够从根本上解决党内存在的突出问题。党中央深刻认识到，",
+      "stem": "党的十八大以来，党中央把全面从严治党纳入“四个全面”战略布局，并将其作为新时代党的建设的鲜明主题。在推进全面从严治党的过程中，党中央深刻认识到，（）具有根本性、长期性、稳定性的作用，能够从根本上解决党内存在的突出问题。",
       "answerRaw": "A",
       "explanation": "",
       "options": [
@@ -3310,11 +3384,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党风建设"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-076",
-      "sequence": 167,
+      "sequence": 169,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 78,
@@ -3353,11 +3428,12 @@ window.QUESTION_BANK_DATA = {
           "text": "拜金主义、享乐主义、极端个人主义和历史虚无主义"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-077",
-      "sequence": 168,
+      "sequence": 170,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 93,
@@ -3397,11 +3473,12 @@ window.QUESTION_BANK_DATA = {
           "text": "个人主义"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-078",
-      "sequence": 455,
+      "sequence": 453,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 112,
@@ -3440,11 +3517,12 @@ window.QUESTION_BANK_DATA = {
           "text": "基本实现；全面建成"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-079",
-      "sequence": 496,
+      "sequence": 495,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 113,
@@ -3484,11 +3562,12 @@ window.QUESTION_BANK_DATA = {
           "text": "单边主义格局"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-080",
-      "sequence": 279,
+      "sequence": 277,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 124,
@@ -3527,11 +3606,12 @@ window.QUESTION_BANK_DATA = {
           "text": "媒体监督"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-081",
-      "sequence": 81,
+      "sequence": 87,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 129,
@@ -3572,11 +3652,12 @@ window.QUESTION_BANK_DATA = {
           "text": "共商共建共享"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-082",
-      "sequence": 216,
+      "sequence": 214,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 139,
@@ -3615,11 +3696,12 @@ window.QUESTION_BANK_DATA = {
           "text": "持久和平、普遍安全、共同繁荣、开放包容、和谐美丽"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-083",
-      "sequence": 217,
+      "sequence": 215,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 146,
@@ -3658,11 +3740,12 @@ window.QUESTION_BANK_DATA = {
           "text": "公平、正义、民主、自由"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-084",
-      "sequence": 497,
+      "sequence": 496,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 157,
@@ -3702,11 +3785,12 @@ window.QUESTION_BANK_DATA = {
           "text": "独立自主、完全平等、互相尊重、互不干涉内部事务"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-085",
-      "sequence": 387,
+      "sequence": 384,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 4,
@@ -3745,11 +3829,12 @@ window.QUESTION_BANK_DATA = {
           "text": "“三不愁三保障”"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-086",
-      "sequence": 82,
+      "sequence": 88,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 8,
@@ -3788,11 +3873,12 @@ window.QUESTION_BANK_DATA = {
           "text": "财富流动"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-087",
-      "sequence": 388,
+      "sequence": 385,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 18,
@@ -3832,11 +3918,12 @@ window.QUESTION_BANK_DATA = {
           "text": "政治性"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-088",
-      "sequence": 340,
+      "sequence": 339,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 25,
@@ -3875,11 +3962,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党的十九届六中全会"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-089",
-      "sequence": 341,
+      "sequence": 340,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 26,
@@ -3918,11 +4006,12 @@ window.QUESTION_BANK_DATA = {
           "text": "根本保障"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-090",
-      "sequence": 342,
+      "sequence": 341,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 88,
@@ -3961,11 +4050,12 @@ window.QUESTION_BANK_DATA = {
           "text": "基本位置"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-091",
-      "sequence": 169,
+      "sequence": 171,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 105,
@@ -4005,11 +4095,12 @@ window.QUESTION_BANK_DATA = {
           "text": "治"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-092",
-      "sequence": 456,
+      "sequence": 454,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 117,
@@ -4048,11 +4139,12 @@ window.QUESTION_BANK_DATA = {
           "text": "自卫性"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-093",
-      "sequence": 218,
+      "sequence": 216,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 126,
@@ -4091,11 +4183,12 @@ window.QUESTION_BANK_DATA = {
           "text": "共商共建共治"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-094",
-      "sequence": 389,
+      "sequence": 386,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 144,
@@ -4134,11 +4227,12 @@ window.QUESTION_BANK_DATA = {
           "text": "退役军人社会保障"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-095",
-      "sequence": 343,
+      "sequence": 342,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 154,
@@ -4177,6 +4271,7 @@ window.QUESTION_BANK_DATA = {
           "text": "对抗与矛盾"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
@@ -4220,11 +4315,12 @@ window.QUESTION_BANK_DATA = {
           "text": "振兴中华"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-097",
-      "sequence": 280,
+      "sequence": 278,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 2,
@@ -4263,6 +4359,7 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持总体国家安全观"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
@@ -4306,11 +4403,12 @@ window.QUESTION_BANK_DATA = {
           "text": "人类社会发展规律"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-099",
-      "sequence": 83,
+      "sequence": 89,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 14,
@@ -4349,11 +4447,12 @@ window.QUESTION_BANK_DATA = {
           "text": "以人民为中心"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-100",
-      "sequence": 84,
+      "sequence": 90,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 21,
@@ -4392,6 +4491,7 @@ window.QUESTION_BANK_DATA = {
           "text": "发展全过程人民民主"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
@@ -4435,11 +4535,12 @@ window.QUESTION_BANK_DATA = {
           "text": "价值取向和根本标准"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-102",
-      "sequence": 170,
+      "sequence": 172,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 25,
@@ -4478,11 +4579,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党中央对重大工作的领导体制"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-103",
-      "sequence": 85,
+      "sequence": 91,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 28,
@@ -4521,11 +4623,12 @@ window.QUESTION_BANK_DATA = {
           "text": "世界梦"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-104",
-      "sequence": 171,
+      "sequence": 173,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 29,
@@ -4564,11 +4667,12 @@ window.QUESTION_BANK_DATA = {
           "text": "“五四口号”"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-105",
-      "sequence": 86,
+      "sequence": 92,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 34,
@@ -4608,11 +4712,12 @@ window.QUESTION_BANK_DATA = {
           "text": "全体人民共同富裕同步实现"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-106",
-      "sequence": 87,
+      "sequence": 93,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 36,
@@ -4651,6 +4756,7 @@ window.QUESTION_BANK_DATA = {
           "text": "“三步走”"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
@@ -4694,11 +4800,12 @@ window.QUESTION_BANK_DATA = {
           "text": "第二个结合"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-108",
-      "sequence": 219,
+      "sequence": 217,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 39,
@@ -4737,11 +4844,12 @@ window.QUESTION_BANK_DATA = {
           "text": "中国特色社会主义新时代"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-109",
-      "sequence": 172,
+      "sequence": 174,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 40,
@@ -4780,11 +4888,12 @@ window.QUESTION_BANK_DATA = {
           "text": "“四个全面”"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-110",
-      "sequence": 281,
+      "sequence": 279,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 53,
@@ -4824,11 +4933,12 @@ window.QUESTION_BANK_DATA = {
           "text": "十三届全国人大三次会议"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-111",
-      "sequence": 390,
+      "sequence": 387,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 64,
@@ -4867,6 +4977,7 @@ window.QUESTION_BANK_DATA = {
           "text": "小康"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
@@ -4910,11 +5021,12 @@ window.QUESTION_BANK_DATA = {
           "text": "中国社会新兴阶层"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-113",
-      "sequence": 88,
+      "sequence": 94,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 67,
@@ -4953,6 +5065,7 @@ window.QUESTION_BANK_DATA = {
           "text": "解放生产力，发展生产力"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
@@ -4996,11 +5109,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党的二十大"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-115",
-      "sequence": 498,
+      "sequence": 497,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 77,
@@ -5039,6 +5153,7 @@ window.QUESTION_BANK_DATA = {
           "text": "习近平新时代中国特色社会主义思想"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
@@ -5082,6 +5197,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中国特色社会主义"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
@@ -5125,11 +5241,12 @@ window.QUESTION_BANK_DATA = {
           "text": "江泽民"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-118",
-      "sequence": 282,
+      "sequence": 280,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 86,
@@ -5168,11 +5285,12 @@ window.QUESTION_BANK_DATA = {
           "text": "民主"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-119",
-      "sequence": 173,
+      "sequence": 175,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 85,
@@ -5211,11 +5329,12 @@ window.QUESTION_BANK_DATA = {
           "text": "十四个坚持"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-120",
-      "sequence": 89,
+      "sequence": 95,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 93,
@@ -5254,11 +5373,12 @@ window.QUESTION_BANK_DATA = {
           "text": "十一个坚持"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-121",
-      "sequence": 174,
+      "sequence": 176,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 95,
@@ -5299,11 +5419,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党的领导"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-122",
-      "sequence": 90,
+      "sequence": 96,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 99,
@@ -5342,11 +5463,12 @@ window.QUESTION_BANK_DATA = {
           "text": "中国式现代化"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-123",
-      "sequence": 283,
+      "sequence": 281,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 101,
@@ -5385,11 +5507,12 @@ window.QUESTION_BANK_DATA = {
           "text": "政治品格"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-124",
-      "sequence": 220,
+      "sequence": 218,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 102,
@@ -5428,11 +5551,12 @@ window.QUESTION_BANK_DATA = {
           "text": "创新性"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-125",
-      "sequence": 391,
+      "sequence": 388,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 107,
@@ -5471,11 +5595,12 @@ window.QUESTION_BANK_DATA = {
           "text": "科技自立自强"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-126",
-      "sequence": 221,
+      "sequence": 219,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 108,
@@ -5515,11 +5640,12 @@ window.QUESTION_BANK_DATA = {
           "text": "供给侧结构性改革"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-127",
-      "sequence": 392,
+      "sequence": 389,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 110,
@@ -5560,11 +5686,12 @@ window.QUESTION_BANK_DATA = {
           "text": "科技自立自强"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-128",
-      "sequence": 344,
+      "sequence": 343,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 117,
@@ -5604,11 +5731,12 @@ window.QUESTION_BANK_DATA = {
           "text": "文化建设"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-129",
-      "sequence": 345,
+      "sequence": 344,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 119,
@@ -5647,11 +5775,12 @@ window.QUESTION_BANK_DATA = {
           "text": "产业兴旺、生态宜居、乡风文明、治理有效、生活富裕"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-130",
-      "sequence": 393,
+      "sequence": 390,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 120,
@@ -5690,11 +5819,12 @@ window.QUESTION_BANK_DATA = {
           "text": "人口受教育程度"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-131",
-      "sequence": 222,
+      "sequence": 220,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 124,
@@ -5733,11 +5863,12 @@ window.QUESTION_BANK_DATA = {
           "text": "构建人类命运共同体"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-132",
-      "sequence": 284,
+      "sequence": 282,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 126,
@@ -5776,11 +5907,12 @@ window.QUESTION_BANK_DATA = {
           "text": "中央委员会监督"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-133",
-      "sequence": 223,
+      "sequence": 221,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 127,
@@ -5819,11 +5951,12 @@ window.QUESTION_BANK_DATA = {
           "text": "解放和发展社会生产力"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-134",
-      "sequence": 394,
+      "sequence": 391,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 132,
@@ -5862,11 +5995,12 @@ window.QUESTION_BANK_DATA = {
           "text": "经济发展"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-135",
-      "sequence": 224,
+      "sequence": 222,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 133,
@@ -5905,6 +6039,7 @@ window.QUESTION_BANK_DATA = {
           "text": "科学社会主义一系列基本问题的彻底解决与实践创新"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
@@ -5948,11 +6083,12 @@ window.QUESTION_BANK_DATA = {
           "text": "机遇大于挑战"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-137",
-      "sequence": 457,
+      "sequence": 455,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 136,
@@ -5991,11 +6127,12 @@ window.QUESTION_BANK_DATA = {
           "text": "巩固和维护国家安全的民心基础"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-138",
-      "sequence": 285,
+      "sequence": 283,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 138,
@@ -6034,11 +6171,12 @@ window.QUESTION_BANK_DATA = {
           "text": "推进国家治理体系和治理能力现代化"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-139",
-      "sequence": 91,
+      "sequence": 97,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 140,
@@ -6077,11 +6215,12 @@ window.QUESTION_BANK_DATA = {
           "text": "全面建成小康社会目标"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-140",
-      "sequence": 175,
+      "sequence": 177,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 143,
@@ -6121,6 +6260,7 @@ window.QUESTION_BANK_DATA = {
           "text": "全面从严治党"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
@@ -6164,11 +6304,12 @@ window.QUESTION_BANK_DATA = {
           "text": "2024年5月"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-142",
-      "sequence": 92,
+      "sequence": 98,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 156,
@@ -6207,11 +6348,12 @@ window.QUESTION_BANK_DATA = {
           "text": "集体经济"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-143",
-      "sequence": 395,
+      "sequence": 392,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 157,
@@ -6250,11 +6392,12 @@ window.QUESTION_BANK_DATA = {
           "text": "大学阶段"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-144",
-      "sequence": 225,
+      "sequence": 223,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 160,
@@ -6294,11 +6437,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党的二十大"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-145",
-      "sequence": 346,
+      "sequence": 345,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 5,
@@ -6337,11 +6481,12 @@ window.QUESTION_BANK_DATA = {
           "text": "“两个结合”的提出否定了马克思主义的普遍性真理"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-146",
-      "sequence": 347,
+      "sequence": 346,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 5,
@@ -6380,11 +6525,12 @@ window.QUESTION_BANK_DATA = {
           "text": "“两个结合”的提出否定了马克思主义的普遍性真理"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-147",
-      "sequence": 93,
+      "sequence": 99,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 59,
@@ -6423,6 +6569,7 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义初级阶段的基本实现"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
@@ -6466,11 +6613,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党的十八届六中全会"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-149",
-      "sequence": 458,
+      "sequence": 456,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 69,
@@ -6509,6 +6657,7 @@ window.QUESTION_BANK_DATA = {
           "text": "党的建设新的伟大梦想"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
@@ -6552,11 +6701,12 @@ window.QUESTION_BANK_DATA = {
           "text": "中央委员会"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-151",
-      "sequence": 94,
+      "sequence": 100,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 73,
@@ -6595,6 +6745,7 @@ window.QUESTION_BANK_DATA = {
           "text": "中华民族伟大复兴"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
@@ -6639,6 +6790,7 @@ window.QUESTION_BANK_DATA = {
           "text": "建成社会主义现代化国家"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
@@ -6682,11 +6834,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党的二十届三中全会"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-154",
-      "sequence": 176,
+      "sequence": 178,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 79,
@@ -6725,11 +6878,12 @@ window.QUESTION_BANK_DATA = {
           "text": "马克思主义政党只要维护党的权威就能完成历史使命"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-155",
-      "sequence": 226,
+      "sequence": 224,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 101,
@@ -6768,11 +6922,12 @@ window.QUESTION_BANK_DATA = {
           "text": "“以内需为主”"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-156",
-      "sequence": 95,
+      "sequence": 101,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 104,
@@ -6811,11 +6966,12 @@ window.QUESTION_BANK_DATA = {
           "text": "以非公有制经济为主体"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-157",
-      "sequence": 286,
+      "sequence": 284,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 105,
@@ -6856,11 +7012,12 @@ window.QUESTION_BANK_DATA = {
           "text": "管用性"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-158",
-      "sequence": 96,
+      "sequence": 102,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 106,
@@ -6899,11 +7056,12 @@ window.QUESTION_BANK_DATA = {
           "text": "建设现代化经济体系"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-159",
-      "sequence": 287,
+      "sequence": 285,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 127,
@@ -6942,11 +7100,12 @@ window.QUESTION_BANK_DATA = {
           "text": "高效率"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-160",
-      "sequence": 348,
+      "sequence": 347,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 128,
@@ -6985,11 +7144,12 @@ window.QUESTION_BANK_DATA = {
           "text": "实现农业农村优先发展"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-161",
-      "sequence": 227,
+      "sequence": 225,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 131,
@@ -7028,11 +7188,12 @@ window.QUESTION_BANK_DATA = {
           "text": "处理好效率和公平的关系"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-162",
-      "sequence": 97,
+      "sequence": 103,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 159,
@@ -7072,58 +7233,17 @@ window.QUESTION_BANK_DATA = {
           "text": "贯彻新发展理念"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
       "id": "xi-thought-163",
-      "sequence": 288,
+      "sequence": 286,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 162,
       "sourceScreenshots": [
-        "Screenshot_20260117_103258_cn.ulearning.yxy.jpg"
-      ],
-      "chapterKey": "chapter-05",
-      "chapterTitle": "全过程人民民主与全面依法治国",
-      "type": "单选题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "习思想",
-        "优学院"
-      ],
-      "material": "",
-      "stem": "（）是社会主义的生命，是全面建设社会主义现代化国家的应有之义。",
-      "answerRaw": "A",
-      "explanation": "",
-      "options": [
-        {
-          "key": "A",
-          "text": "．人民民主"
-        },
-        {
-          "key": "B",
-          "text": "．中国共产党领导"
-        },
-        {
-          "key": "C",
-          "text": "人民民主专政"
-        },
-        {
-          "key": "D",
-          "text": "．全国人民代表大会制度"
-        }
-      ],
-      "fillBlanks": []
-    },
-    {
-      "id": "xi-thought-164",
-      "sequence": 289,
-      "sourceFile": "优学院截图（部分）",
-      "sheetName": "练习 484 题",
-      "sourceRow": 162,
-      "sourceScreenshots": [
+        "Screenshot_20260117_103258_cn.ulearning.yxy.jpg",
         "Screenshot_20260117_103451_cn.ulearning.yxy.jpg"
       ],
       "chapterKey": "chapter-05",
@@ -7143,26 +7263,27 @@ window.QUESTION_BANK_DATA = {
       "options": [
         {
           "key": "A",
-          "text": "．人民民主"
+          "text": "人民民主"
         },
         {
           "key": "B",
-          "text": "．中国共产党领导"
+          "text": "中国共产党领导"
         },
         {
           "key": "C",
-          "text": "．人民民主专政"
+          "text": "人民民主专政"
         },
         {
           "key": "D",
           "text": "全国人民代表大会制度"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-165",
-      "sequence": 228,
+      "id": "xi-thought-164",
+      "sequence": 226,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 163,
@@ -7201,11 +7322,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党的二十大"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-166",
-      "sequence": 98,
+      "id": "xi-thought-165",
+      "sequence": 104,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 7,
@@ -7244,11 +7366,12 @@ window.QUESTION_BANK_DATA = {
           "text": "实现中华民族伟大复兴"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-167",
-      "sequence": 99,
+      "id": "xi-thought-166",
+      "sequence": 105,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 171,
@@ -7287,11 +7410,12 @@ window.QUESTION_BANK_DATA = {
           "text": "全体人民共同富裕"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-168",
-      "sequence": 100,
+      "id": "xi-thought-167",
+      "sequence": 106,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 177,
@@ -7335,11 +7459,12 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持发扬斗争精神"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-169",
-      "sequence": 290,
+      "id": "xi-thought-168",
+      "sequence": 287,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 179,
@@ -7379,11 +7504,12 @@ window.QUESTION_BANK_DATA = {
           "text": "管理方式方法"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-170",
-      "sequence": 177,
+      "id": "xi-thought-169",
+      "sequence": 179,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 181,
@@ -7422,11 +7548,12 @@ window.QUESTION_BANK_DATA = {
           "text": "领导对象"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-171",
-      "sequence": 429,
+      "id": "xi-thought-170",
+      "sequence": 425,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 182,
@@ -7468,11 +7595,12 @@ window.QUESTION_BANK_DATA = {
           "text": "全局性"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-172",
-      "sequence": 291,
+      "id": "xi-thought-171",
+      "sequence": 288,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 184,
@@ -7513,11 +7641,12 @@ window.QUESTION_BANK_DATA = {
           "text": "执政为民的初心"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-173",
-      "sequence": 229,
+      "id": "xi-thought-172",
+      "sequence": 227,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 185,
@@ -7556,11 +7685,12 @@ window.QUESTION_BANK_DATA = {
           "text": "时代化"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-174",
-      "sequence": 349,
+      "id": "xi-thought-173",
+      "sequence": 348,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 186,
@@ -7600,11 +7730,12 @@ window.QUESTION_BANK_DATA = {
           "text": "历史性"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-175",
-      "sequence": 350,
+      "id": "xi-thought-174",
+      "sequence": 349,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 188,
@@ -7644,11 +7775,12 @@ window.QUESTION_BANK_DATA = {
           "text": "独特的的发展方式"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-176",
-      "sequence": 101,
+      "id": "xi-thought-175",
+      "sequence": 107,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 189,
@@ -7687,10 +7819,11 @@ window.QUESTION_BANK_DATA = {
           "text": "基本实现国家治理体系和治理能力现代化，全过程人民民主制度更加健全，基本建成法治国家、法治政府、法治社会"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-177",
+      "id": "xi-thought-176",
       "sequence": 15,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -7730,11 +7863,12 @@ window.QUESTION_BANK_DATA = {
           "text": "中国共产党领导的最大优势体现在能够替代其他国家机关行使职能，提高行政效率"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-178",
-      "sequence": 102,
+      "id": "xi-thought-177",
+      "sequence": 108,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 192,
@@ -7773,10 +7907,11 @@ window.QUESTION_BANK_DATA = {
           "text": "在文化建设中，要不断满足人民日益增长的精神文化需求，使人民在精神生活上更加充盈起来"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-179",
+      "id": "xi-thought-178",
       "sequence": 16,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -7816,11 +7951,12 @@ window.QUESTION_BANK_DATA = {
           "text": "建设中国、复兴中国"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-180",
-      "sequence": 351,
+      "id": "xi-thought-179",
+      "sequence": 350,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 205,
@@ -7859,11 +7995,12 @@ window.QUESTION_BANK_DATA = {
           "text": "制度自信、精神自信"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-181",
-      "sequence": 178,
+      "id": "xi-thought-180",
+      "sequence": 180,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 210,
@@ -7902,11 +8039,12 @@ window.QUESTION_BANK_DATA = {
           "text": "中央军事委员会"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-182",
-      "sequence": 103,
+      "id": "xi-thought-181",
+      "sequence": 109,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 212,
@@ -7946,11 +8084,12 @@ window.QUESTION_BANK_DATA = {
           "text": "高质量发展与效率、自立自强与实践探索"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-183",
-      "sequence": 179,
+      "id": "xi-thought-182",
+      "sequence": 181,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 214,
@@ -7989,11 +8128,12 @@ window.QUESTION_BANK_DATA = {
           "text": "坚决维护国家统一和民族团结"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-184",
-      "sequence": 180,
+      "id": "xi-thought-183",
+      "sequence": 182,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 215,
@@ -8032,11 +8172,12 @@ window.QUESTION_BANK_DATA = {
           "text": "立场要特别坚定"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-185",
-      "sequence": 104,
+      "id": "xi-thought-184",
+      "sequence": 110,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 210,
@@ -8076,11 +8217,12 @@ window.QUESTION_BANK_DATA = {
           "text": "推动中国历史前进无可替代的领导核心力量"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-186",
-      "sequence": 105,
+      "id": "xi-thought-185",
+      "sequence": 111,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 217,
@@ -8119,11 +8261,12 @@ window.QUESTION_BANK_DATA = {
           "text": "把党的领导作为一切工作的出发点和落脚点"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-187",
-      "sequence": 106,
+      "id": "xi-thought-186",
+      "sequence": 112,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 221,
@@ -8162,11 +8305,12 @@ window.QUESTION_BANK_DATA = {
           "text": "是由中华民族伟大复兴事业决定的"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-188",
-      "sequence": 181,
+      "id": "xi-thought-187",
+      "sequence": 183,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 222,
@@ -8205,11 +8349,12 @@ window.QUESTION_BANK_DATA = {
           "text": "“四个自信”"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-189",
-      "sequence": 107,
+      "id": "xi-thought-188",
+      "sequence": 113,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 224,
@@ -8248,11 +8393,12 @@ window.QUESTION_BANK_DATA = {
           "text": "创造了人类文明新形态"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-190",
-      "sequence": 292,
+      "id": "xi-thought-189",
+      "sequence": 289,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 226,
@@ -8291,11 +8437,12 @@ window.QUESTION_BANK_DATA = {
           "text": "统筹城乡的民生保障制度"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-191",
-      "sequence": 108,
+      "id": "xi-thought-190",
+      "sequence": 114,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 227,
@@ -8334,11 +8481,12 @@ window.QUESTION_BANK_DATA = {
           "text": "实现社会主义现代化"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-192",
-      "sequence": 182,
+      "id": "xi-thought-191",
+      "sequence": 184,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 232,
@@ -8377,11 +8525,12 @@ window.QUESTION_BANK_DATA = {
           "text": "行动上更加一致"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-193",
-      "sequence": 109,
+      "id": "xi-thought-192",
+      "sequence": 115,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 235,
@@ -8420,10 +8569,11 @@ window.QUESTION_BANK_DATA = {
           "text": "不可持续"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-194",
+      "id": "xi-thought-193",
       "sequence": 17,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -8463,10 +8613,11 @@ window.QUESTION_BANK_DATA = {
           "text": "我国社会主要矛盾是生产力和生产关系、经济基础和上层建筑的矛盾"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-195",
+      "id": "xi-thought-194",
       "sequence": 18,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -8506,10 +8657,11 @@ window.QUESTION_BANK_DATA = {
           "text": "人类社会发展规律"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-196",
+      "id": "xi-thought-195",
       "sequence": 19,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -8549,11 +8701,12 @@ window.QUESTION_BANK_DATA = {
           "text": "脑力劳动和体力劳动之间"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-197",
-      "sequence": 183,
+      "id": "xi-thought-196",
+      "sequence": 185,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 245,
@@ -8592,10 +8745,11 @@ window.QUESTION_BANK_DATA = {
           "text": "污染防治"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-198",
+      "id": "xi-thought-197",
       "sequence": 20,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -8635,11 +8789,12 @@ window.QUESTION_BANK_DATA = {
           "text": "习近平新时代中国特色社会主义思想是新时代党和国家事业发展的根本遵循"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-199",
-      "sequence": 352,
+      "id": "xi-thought-198",
+      "sequence": 351,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 247,
@@ -8679,11 +8834,12 @@ window.QUESTION_BANK_DATA = {
           "text": "塑造力"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-200",
-      "sequence": 184,
+      "id": "xi-thought-199",
+      "sequence": 186,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 249,
@@ -8722,11 +8878,12 @@ window.QUESTION_BANK_DATA = {
           "text": "人民"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-201",
-      "sequence": 293,
+      "id": "xi-thought-200",
+      "sequence": 290,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 254,
@@ -8765,10 +8922,11 @@ window.QUESTION_BANK_DATA = {
           "text": "要看权力运行规则和程序是否民主，更要看权力是否真正受到人民监督和制约"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-202",
+      "id": "xi-thought-201",
       "sequence": 21,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -8808,11 +8966,12 @@ window.QUESTION_BANK_DATA = {
           "text": "混合所有制经济中的集体成分"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-203",
-      "sequence": 294,
+      "id": "xi-thought-202",
+      "sequence": 291,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 259,
@@ -8855,11 +9014,12 @@ window.QUESTION_BANK_DATA = {
           "text": "香港同胞，澳门同胞，台湾同胞，华侨归侨及侨眷"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-204",
-      "sequence": 295,
+      "id": "xi-thought-203",
+      "sequence": 292,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 260,
@@ -8902,11 +9062,12 @@ window.QUESTION_BANK_DATA = {
           "text": "人民民主和国家意志"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-205",
-      "sequence": 430,
+      "id": "xi-thought-204",
+      "sequence": 426,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 261,
@@ -8945,11 +9106,12 @@ window.QUESTION_BANK_DATA = {
           "text": "营造待遇适当、保障有力的生活环境"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-206",
-      "sequence": 230,
+      "id": "xi-thought-205",
+      "sequence": 228,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 263,
@@ -8988,10 +9150,11 @@ window.QUESTION_BANK_DATA = {
           "text": "必须激发非公有制经济活力和创造力"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-207",
+      "id": "xi-thought-206",
       "sequence": 22,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -9031,11 +9194,12 @@ window.QUESTION_BANK_DATA = {
           "text": "支持数字企业发展壮大"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-208",
-      "sequence": 296,
+      "id": "xi-thought-207",
+      "sequence": 293,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 267,
@@ -9074,11 +9238,12 @@ window.QUESTION_BANK_DATA = {
           "text": "监督权"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-209",
-      "sequence": 297,
+      "id": "xi-thought-208",
+      "sequence": 294,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 268,
@@ -9118,11 +9283,12 @@ window.QUESTION_BANK_DATA = {
           "text": "全过程人民民主是新时代坚持和发展中国特色社会主义的根本动力"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-210",
-      "sequence": 231,
+      "id": "xi-thought-209",
+      "sequence": 229,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 273,
@@ -9161,11 +9327,12 @@ window.QUESTION_BANK_DATA = {
           "text": "中华民族的面貌"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-211",
-      "sequence": 298,
+      "id": "xi-thought-210",
+      "sequence": 295,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 274,
@@ -9204,11 +9371,12 @@ window.QUESTION_BANK_DATA = {
           "text": "胡锦涛"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-212",
-      "sequence": 110,
+      "id": "xi-thought-211",
+      "sequence": 116,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 278,
@@ -9248,11 +9416,12 @@ window.QUESTION_BANK_DATA = {
           "text": "增强其他地区在保障粮食安全、生态安全、边疆安全等方面的功能"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-213",
-      "sequence": 299,
+      "id": "xi-thought-212",
+      "sequence": 296,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 279,
@@ -9291,11 +9460,12 @@ window.QUESTION_BANK_DATA = {
           "text": "加快营造市场化、法治化、国际化一流营商环境"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-214",
-      "sequence": 396,
+      "id": "xi-thought-213",
+      "sequence": 393,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 280,
@@ -9335,10 +9505,11 @@ window.QUESTION_BANK_DATA = {
           "text": "政府统一调度"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-215",
+      "id": "xi-thought-214",
       "sequence": 23,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -9378,11 +9549,12 @@ window.QUESTION_BANK_DATA = {
           "text": "前期刺激政策消化期"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-216",
-      "sequence": 300,
+      "id": "xi-thought-215",
+      "sequence": 297,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 282,
@@ -9421,11 +9593,12 @@ window.QUESTION_BANK_DATA = {
           "text": "以职工代表大会为组织依托的企事业单位职工自治"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-217",
-      "sequence": 111,
+      "id": "xi-thought-216",
+      "sequence": 117,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 284,
@@ -9465,11 +9638,12 @@ window.QUESTION_BANK_DATA = {
           "text": "广泛凝聚共识"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-218",
-      "sequence": 232,
+      "id": "xi-thought-217",
+      "sequence": 230,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 287,
@@ -9509,11 +9683,12 @@ window.QUESTION_BANK_DATA = {
           "text": "确保改革不改向、变革不变色"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-219",
-      "sequence": 112,
+      "id": "xi-thought-218",
+      "sequence": 118,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 292,
@@ -9552,11 +9727,12 @@ window.QUESTION_BANK_DATA = {
           "text": "扩大开放的政策节奏，秉持合作共赢的信念立场"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-220",
-      "sequence": 233,
+      "id": "xi-thought-219",
+      "sequence": 231,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 297,
@@ -9596,11 +9772,12 @@ window.QUESTION_BANK_DATA = {
           "text": "确定建立社会主义市场经济体制"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-221",
-      "sequence": 234,
+      "id": "xi-thought-220",
+      "sequence": 232,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 299,
@@ -9640,11 +9817,12 @@ window.QUESTION_BANK_DATA = {
           "text": "提高劳动者素质"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-222",
-      "sequence": 113,
+      "id": "xi-thought-221",
+      "sequence": 119,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 300,
@@ -9684,11 +9862,12 @@ window.QUESTION_BANK_DATA = {
           "text": "发展力、持续力"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-223",
-      "sequence": 235,
+      "id": "xi-thought-222",
+      "sequence": 233,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 302,
@@ -9727,11 +9906,12 @@ window.QUESTION_BANK_DATA = {
           "text": "引领未来"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-224",
-      "sequence": 236,
+      "id": "xi-thought-223",
+      "sequence": 234,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 305,
@@ -9771,11 +9951,12 @@ window.QUESTION_BANK_DATA = {
           "text": "可行性"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-225",
-      "sequence": 237,
+      "id": "xi-thought-224",
+      "sequence": 235,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 306,
@@ -9814,11 +9995,12 @@ window.QUESTION_BANK_DATA = {
           "text": "去杠杆"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-226",
-      "sequence": 397,
+      "id": "xi-thought-225",
+      "sequence": 394,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 307,
@@ -9857,11 +10039,12 @@ window.QUESTION_BANK_DATA = {
           "text": "人才"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-227",
-      "sequence": 499,
+      "id": "xi-thought-226",
+      "sequence": 498,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 310,
@@ -9901,11 +10084,12 @@ window.QUESTION_BANK_DATA = {
           "text": "基础研究转化为实际应用的桥梁"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-228",
-      "sequence": 114,
+      "id": "xi-thought-227",
+      "sequence": 120,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 315,
@@ -9944,11 +10128,12 @@ window.QUESTION_BANK_DATA = {
           "text": "我国教育普及水平实现历史性跨越"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-229",
-      "sequence": 115,
+      "id": "xi-thought-228",
+      "sequence": 121,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 316,
@@ -9987,11 +10172,12 @@ window.QUESTION_BANK_DATA = {
           "text": "满足人民对美好生活需要"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-230",
-      "sequence": 301,
+      "id": "xi-thought-229",
+      "sequence": 298,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 319,
@@ -10030,11 +10216,12 @@ window.QUESTION_BANK_DATA = {
           "text": "全覆盖"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-231",
-      "sequence": 431,
+      "id": "xi-thought-230",
+      "sequence": 427,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 167,
@@ -10077,11 +10264,12 @@ window.QUESTION_BANK_DATA = {
           "text": "绿色低碳"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-232",
-      "sequence": 398,
+      "id": "xi-thought-231",
+      "sequence": 395,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 174,
@@ -10120,11 +10308,12 @@ window.QUESTION_BANK_DATA = {
           "text": "贯彻群众路线的有效途径"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-233",
-      "sequence": 116,
+      "id": "xi-thought-232",
+      "sequence": 122,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 177,
@@ -10163,10 +10352,11 @@ window.QUESTION_BANK_DATA = {
           "text": "发展成果由人民共享"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-234",
+      "id": "xi-thought-233",
       "sequence": 24,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -10206,11 +10396,12 @@ window.QUESTION_BANK_DATA = {
           "text": "系统性"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-235",
-      "sequence": 302,
+      "id": "xi-thought-234",
+      "sequence": 299,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 190,
@@ -10249,10 +10440,11 @@ window.QUESTION_BANK_DATA = {
           "text": "建设社会主义法治社会"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-236",
+      "id": "xi-thought-235",
       "sequence": 25,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -10292,10 +10484,11 @@ window.QUESTION_BANK_DATA = {
           "text": "形象化"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-237",
+      "id": "xi-thought-236",
       "sequence": 26,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -10335,11 +10528,12 @@ window.QUESTION_BANK_DATA = {
           "text": "组织性"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-238",
-      "sequence": 500,
+      "id": "xi-thought-237",
+      "sequence": 499,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 196,
@@ -10378,11 +10572,12 @@ window.QUESTION_BANK_DATA = {
           "text": "能否运用其科学的世界观和方法论解决中国的问题"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-239",
-      "sequence": 117,
+      "id": "xi-thought-238",
+      "sequence": 123,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 206,
@@ -10422,10 +10617,11 @@ window.QUESTION_BANK_DATA = {
           "text": "兼容并蓄"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-240",
+      "id": "xi-thought-239",
       "sequence": 27,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -10465,11 +10661,12 @@ window.QUESTION_BANK_DATA = {
           "text": "社会进步发展的选择"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-241",
-      "sequence": 303,
+      "id": "xi-thought-240",
+      "sequence": 300,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 225,
@@ -10508,11 +10705,12 @@ window.QUESTION_BANK_DATA = {
           "text": "抓大事"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-242",
-      "sequence": 399,
+      "id": "xi-thought-241",
+      "sequence": 396,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 226,
@@ -10551,10 +10749,11 @@ window.QUESTION_BANK_DATA = {
           "text": "人人享有"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-243",
+      "id": "xi-thought-242",
       "sequence": 28,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -10594,10 +10793,11 @@ window.QUESTION_BANK_DATA = {
           "text": "发展在人民"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-244",
+      "id": "xi-thought-243",
       "sequence": 29,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -10637,10 +10837,11 @@ window.QUESTION_BANK_DATA = {
           "text": "“六个必须坚持”"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-245",
+      "id": "xi-thought-244",
       "sequence": 30,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -10680,11 +10881,12 @@ window.QUESTION_BANK_DATA = {
           "text": "完善国家治理体系"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-246",
-      "sequence": 118,
+      "id": "xi-thought-245",
+      "sequence": 124,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 240,
@@ -10724,11 +10926,12 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持中国特色社会主义"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-247",
-      "sequence": 238,
+      "id": "xi-thought-246",
+      "sequence": 236,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 243,
@@ -10767,11 +10970,12 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义改革开放"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-248",
-      "sequence": 119,
+      "id": "xi-thought-247",
+      "sequence": 125,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 256,
@@ -10810,11 +11014,12 @@ window.QUESTION_BANK_DATA = {
           "text": "主体功能区战略"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-249",
-      "sequence": 120,
+      "id": "xi-thought-248",
+      "sequence": 126,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 270,
@@ -10853,11 +11058,12 @@ window.QUESTION_BANK_DATA = {
           "text": "人民当家作主的根本保证"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-250",
-      "sequence": 239,
+      "id": "xi-thought-249",
+      "sequence": 237,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 272,
@@ -10896,11 +11102,12 @@ window.QUESTION_BANK_DATA = {
           "text": "社会和谐进步"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-251",
-      "sequence": 459,
+      "id": "xi-thought-250",
+      "sequence": 457,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 276,
@@ -10939,11 +11146,12 @@ window.QUESTION_BANK_DATA = {
           "text": "系统集成"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-252",
-      "sequence": 121,
+      "id": "xi-thought-251",
+      "sequence": 127,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 277,
@@ -10982,11 +11190,12 @@ window.QUESTION_BANK_DATA = {
           "text": "是非公有制经济的主要经济组织形式"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-253",
-      "sequence": 240,
+      "id": "xi-thought-252",
+      "sequence": 238,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 282,
@@ -11025,11 +11234,12 @@ window.QUESTION_BANK_DATA = {
           "text": "唯学历、唯资历"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-254",
-      "sequence": 241,
+      "id": "xi-thought-253",
+      "sequence": 239,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 289,
@@ -11068,10 +11278,11 @@ window.QUESTION_BANK_DATA = {
           "text": "更深层次"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-255",
+      "id": "xi-thought-254",
       "sequence": 31,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -11111,11 +11322,12 @@ window.QUESTION_BANK_DATA = {
           "text": "传道授业、解惑答疑的教师精神；精益求精、追求卓越的工匠精神"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-256",
-      "sequence": 400,
+      "id": "xi-thought-255",
+      "sequence": 397,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 302,
@@ -11154,11 +11366,12 @@ window.QUESTION_BANK_DATA = {
           "text": "增强群众获得感和适应发展阶段的关系"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-257",
-      "sequence": 242,
+      "id": "xi-thought-256",
+      "sequence": 240,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 307,
@@ -11197,10 +11410,11 @@ window.QUESTION_BANK_DATA = {
           "text": "宏观调控有度"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-258",
+      "id": "xi-thought-257",
       "sequence": 32,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -11240,11 +11454,12 @@ window.QUESTION_BANK_DATA = {
           "text": "要积极投身社会实践，增长经验和技能"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-259",
-      "sequence": 401,
+      "id": "xi-thought-258",
+      "sequence": 398,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 201,
@@ -11284,11 +11499,12 @@ window.QUESTION_BANK_DATA = {
           "text": "市县抓落实"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-260",
-      "sequence": 185,
+      "id": "xi-thought-259",
+      "sequence": 187,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 208,
@@ -11327,11 +11543,12 @@ window.QUESTION_BANK_DATA = {
           "text": "促改革"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-261",
-      "sequence": 186,
+      "id": "xi-thought-260",
+      "sequence": 188,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 217,
@@ -11371,11 +11588,12 @@ window.QUESTION_BANK_DATA = {
           "text": "社会是否进步"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-262",
-      "sequence": 122,
+      "id": "xi-thought-261",
+      "sequence": 128,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 245,
@@ -11414,11 +11632,12 @@ window.QUESTION_BANK_DATA = {
           "text": "新时代建设什么样的社会主义市场经济体制、怎样建设可持续发展的社会主义市场经济体制"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-263",
-      "sequence": 123,
+      "id": "xi-thought-262",
+      "sequence": 129,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 254,
@@ -11457,10 +11676,11 @@ window.QUESTION_BANK_DATA = {
           "text": "从要素投入上把握新发展理念，坚持以资源驱动的发展思想"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-264",
+      "id": "xi-thought-263",
       "sequence": 33,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -11500,11 +11720,12 @@ window.QUESTION_BANK_DATA = {
           "text": "全方位育人"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-265",
-      "sequence": 432,
+      "id": "xi-thought-264",
+      "sequence": 428,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 274,
@@ -11544,11 +11765,12 @@ window.QUESTION_BANK_DATA = {
           "text": "绿色发展战略"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-266",
-      "sequence": 353,
+      "id": "xi-thought-265",
+      "sequence": 352,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 287,
@@ -11587,11 +11809,12 @@ window.QUESTION_BANK_DATA = {
           "text": "胸怀天下、以文化人的弘道追求"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-267",
-      "sequence": 243,
+      "id": "xi-thought-266",
+      "sequence": 241,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 291,
@@ -11630,11 +11853,12 @@ window.QUESTION_BANK_DATA = {
           "text": "改革组织方式"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-268",
-      "sequence": 402,
+      "id": "xi-thought-267",
+      "sequence": 399,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 166,
@@ -11673,11 +11897,12 @@ window.QUESTION_BANK_DATA = {
           "text": "共享"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-269",
-      "sequence": 304,
+      "id": "xi-thought-268",
+      "sequence": 301,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 175,
@@ -11716,11 +11941,12 @@ window.QUESTION_BANK_DATA = {
           "text": "严格规范公正文明执法"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-270",
-      "sequence": 354,
+      "id": "xi-thought-269",
+      "sequence": 353,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 179,
@@ -11759,11 +11985,12 @@ window.QUESTION_BANK_DATA = {
           "text": "可敬"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-271",
-      "sequence": 124,
+      "id": "xi-thought-270",
+      "sequence": 130,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 180,
@@ -11802,11 +12029,12 @@ window.QUESTION_BANK_DATA = {
           "text": "低碳化"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-272",
-      "sequence": 305,
+      "id": "xi-thought-271",
+      "sequence": 302,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 183,
@@ -11845,11 +12073,12 @@ window.QUESTION_BANK_DATA = {
           "text": "成效的相关性"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-273",
-      "sequence": 403,
+      "id": "xi-thought-272",
+      "sequence": 400,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 186,
@@ -11888,11 +12117,12 @@ window.QUESTION_BANK_DATA = {
           "text": "民生是党政兴国的第一要务"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-274",
-      "sequence": 355,
+      "id": "xi-thought-273",
+      "sequence": 354,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 187,
@@ -11932,11 +12162,12 @@ window.QUESTION_BANK_DATA = {
           "text": "压实责任"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-275",
-      "sequence": 404,
+      "id": "xi-thought-274",
+      "sequence": 401,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 192,
@@ -11975,11 +12206,12 @@ window.QUESTION_BANK_DATA = {
           "text": "健全社会心理服务体系和疏导机制、危机干预机制"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-276",
-      "sequence": 433,
+      "id": "xi-thought-275",
+      "sequence": 429,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 197,
@@ -12018,11 +12250,12 @@ window.QUESTION_BANK_DATA = {
           "text": "土壤"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-277",
-      "sequence": 405,
+      "id": "xi-thought-276",
+      "sequence": 402,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 198,
@@ -12061,11 +12294,12 @@ window.QUESTION_BANK_DATA = {
           "text": "解决人民群众最关心最直接最现实的利益问题"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-278",
-      "sequence": 306,
+      "id": "xi-thought-277",
+      "sequence": 303,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 199,
@@ -12105,11 +12339,12 @@ window.QUESTION_BANK_DATA = {
           "text": "要通过法律保障党的政策有效实施"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-279",
-      "sequence": 356,
+      "id": "xi-thought-278",
+      "sequence": 355,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 202,
@@ -12148,11 +12383,12 @@ window.QUESTION_BANK_DATA = {
           "text": "中国特色社会主义文化"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-280",
-      "sequence": 187,
+      "id": "xi-thought-279",
+      "sequence": 189,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 204,
@@ -12191,11 +12427,12 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持社会主义核心价值观、坚持从中国实际出发"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-281",
-      "sequence": 434,
+      "id": "xi-thought-280",
+      "sequence": 430,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 205,
@@ -12235,11 +12472,12 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持科学治理"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-282",
-      "sequence": 406,
+      "id": "xi-thought-281",
+      "sequence": 403,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 206,
@@ -12278,11 +12516,12 @@ window.QUESTION_BANK_DATA = {
           "text": "社会主义和资本主义的根本区别之一"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-283",
-      "sequence": 357,
+      "id": "xi-thought-282",
+      "sequence": 356,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 213,
@@ -12321,11 +12560,12 @@ window.QUESTION_BANK_DATA = {
           "text": "高举无产阶级专政的旗帜"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-284",
-      "sequence": 435,
+      "id": "xi-thought-283",
+      "sequence": 431,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 215,
@@ -12364,11 +12604,12 @@ window.QUESTION_BANK_DATA = {
           "text": "经济财富"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-285",
-      "sequence": 307,
+      "id": "xi-thought-284",
+      "sequence": 304,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 217,
@@ -12407,11 +12648,12 @@ window.QUESTION_BANK_DATA = {
           "text": "制度条例"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-286",
-      "sequence": 308,
+      "id": "xi-thought-285",
+      "sequence": 305,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 219,
@@ -12450,11 +12692,12 @@ window.QUESTION_BANK_DATA = {
           "text": "依法行政"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-287",
-      "sequence": 436,
+      "id": "xi-thought-286",
+      "sequence": 432,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 220,
@@ -12493,11 +12736,12 @@ window.QUESTION_BANK_DATA = {
           "text": "全过程"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-288",
-      "sequence": 437,
+      "id": "xi-thought-287",
+      "sequence": 433,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 221,
@@ -12536,11 +12780,12 @@ window.QUESTION_BANK_DATA = {
           "text": "更可持续"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-289",
-      "sequence": 358,
+      "id": "xi-thought-288",
+      "sequence": 357,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 222,
@@ -12579,11 +12824,12 @@ window.QUESTION_BANK_DATA = {
           "text": "生态良好"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-290",
-      "sequence": 309,
+      "id": "xi-thought-289",
+      "sequence": 306,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 223,
@@ -12622,11 +12868,12 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持系统思维"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-291",
-      "sequence": 501,
+      "id": "xi-thought-290",
+      "sequence": 500,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 228,
@@ -12665,11 +12912,12 @@ window.QUESTION_BANK_DATA = {
           "text": "把发挥祖国内地坚强后盾作用和提高港澳自身竞争力有机结合起来"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-292",
-      "sequence": 244,
+      "id": "xi-thought-291",
+      "sequence": 242,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 235,
@@ -12708,11 +12956,12 @@ window.QUESTION_BANK_DATA = {
           "text": "合作共赢"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-293",
-      "sequence": 125,
+      "id": "xi-thought-292",
+      "sequence": 131,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 236,
@@ -12751,11 +13000,12 @@ window.QUESTION_BANK_DATA = {
           "text": "高度自治"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-294",
-      "sequence": 188,
+      "id": "xi-thought-293",
+      "sequence": 190,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 239,
@@ -12796,11 +13046,12 @@ window.QUESTION_BANK_DATA = {
           "text": "政治属性是政党的第一属性"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-295",
-      "sequence": 460,
+      "id": "xi-thought-294",
+      "sequence": 458,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 243,
@@ -12840,11 +13091,12 @@ window.QUESTION_BANK_DATA = {
           "text": "加强国家安全制度建设"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-296",
-      "sequence": 310,
+      "id": "xi-thought-295",
+      "sequence": 307,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 245,
@@ -12883,11 +13135,12 @@ window.QUESTION_BANK_DATA = {
           "text": "智能化"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-297",
-      "sequence": 189,
+      "id": "xi-thought-296",
+      "sequence": 191,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 247,
@@ -12926,11 +13179,12 @@ window.QUESTION_BANK_DATA = {
           "text": "实效性"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-298",
-      "sequence": 502,
+      "id": "xi-thought-297",
+      "sequence": 501,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 248,
@@ -12969,11 +13223,12 @@ window.QUESTION_BANK_DATA = {
           "text": "中国品质"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-299",
-      "sequence": 311,
+      "id": "xi-thought-298",
+      "sequence": 308,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 253,
@@ -13012,11 +13267,12 @@ window.QUESTION_BANK_DATA = {
           "text": "共赢"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-300",
-      "sequence": 245,
+      "id": "xi-thought-299",
+      "sequence": 243,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 254,
@@ -13055,11 +13311,12 @@ window.QUESTION_BANK_DATA = {
           "text": "向发展中国家提供力所能及的援助"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-301",
-      "sequence": 359,
+      "id": "xi-thought-300",
+      "sequence": 358,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 255,
@@ -13098,11 +13355,12 @@ window.QUESTION_BANK_DATA = {
           "text": "意识形态"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-302",
-      "sequence": 246,
+      "id": "xi-thought-301",
+      "sequence": 244,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 257,
@@ -13141,11 +13399,12 @@ window.QUESTION_BANK_DATA = {
           "text": "管党治党考验"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-303",
-      "sequence": 360,
+      "id": "xi-thought-302",
+      "sequence": 359,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 258,
@@ -13184,11 +13443,12 @@ window.QUESTION_BANK_DATA = {
           "text": "可持续发展"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-304",
-      "sequence": 503,
+      "id": "xi-thought-303",
+      "sequence": 502,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 260,
@@ -13227,11 +13487,12 @@ window.QUESTION_BANK_DATA = {
           "text": "合作共赢"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-305",
-      "sequence": 312,
+      "id": "xi-thought-304",
+      "sequence": 309,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 261,
@@ -13270,10 +13531,11 @@ window.QUESTION_BANK_DATA = {
           "text": "执法"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-306",
+      "id": "xi-thought-305",
       "sequence": 34,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
@@ -13313,11 +13575,12 @@ window.QUESTION_BANK_DATA = {
           "text": "以人民幸福为目标"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-307",
-      "sequence": 461,
+      "id": "xi-thought-306",
+      "sequence": 459,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 266,
@@ -13358,10 +13621,11 @@ window.QUESTION_BANK_DATA = {
           "text": "立体高效"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-308",
+      "id": "xi-thought-307",
       "sequence": 35,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
@@ -13402,11 +13666,12 @@ window.QUESTION_BANK_DATA = {
           "text": "根本性"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-309",
-      "sequence": 190,
+      "id": "xi-thought-308",
+      "sequence": 192,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 268,
@@ -13445,11 +13710,12 @@ window.QUESTION_BANK_DATA = {
           "text": "官僚主义"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-310",
-      "sequence": 462,
+      "id": "xi-thought-309",
+      "sequence": 460,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 270,
@@ -13489,11 +13755,12 @@ window.QUESTION_BANK_DATA = {
           "text": "外交"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-311",
-      "sequence": 463,
+      "id": "xi-thought-310",
+      "sequence": 461,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 281,
@@ -13532,11 +13799,12 @@ window.QUESTION_BANK_DATA = {
           "text": "风险防控责任机制"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-312",
-      "sequence": 247,
+      "id": "xi-thought-311",
+      "sequence": 245,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 283,
@@ -13575,11 +13843,12 @@ window.QUESTION_BANK_DATA = {
           "text": "文明"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-313",
-      "sequence": 361,
+      "id": "xi-thought-312",
+      "sequence": 360,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 286,
@@ -13618,11 +13887,12 @@ window.QUESTION_BANK_DATA = {
           "text": "社会稳定"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-314",
-      "sequence": 464,
+      "id": "xi-thought-313",
+      "sequence": 462,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 287,
@@ -13661,11 +13931,12 @@ window.QUESTION_BANK_DATA = {
           "text": "军地协调"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-315",
-      "sequence": 504,
+      "id": "xi-thought-314",
+      "sequence": 503,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 295,
@@ -13704,11 +13975,12 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持以大国为关键，周边为首要"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-316",
-      "sequence": 438,
+      "id": "xi-thought-315",
+      "sequence": 434,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 303,
@@ -13747,11 +14019,12 @@ window.QUESTION_BANK_DATA = {
           "text": "中国模式"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-317",
-      "sequence": 191,
+      "id": "xi-thought-316",
+      "sequence": 193,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 304,
@@ -13791,11 +14064,12 @@ window.QUESTION_BANK_DATA = {
           "text": "中国特色社会主义制度优势发挥的根本保障"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-318",
-      "sequence": 465,
+      "id": "xi-thought-317",
+      "sequence": 463,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 305,
@@ -13834,11 +14108,12 @@ window.QUESTION_BANK_DATA = {
           "text": "建成能够打败一切强敌的世界一流军队"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-319",
-      "sequence": 439,
+      "id": "xi-thought-318",
+      "sequence": 435,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 168,
@@ -13877,11 +14152,12 @@ window.QUESTION_BANK_DATA = {
           "text": "生态效益"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-320",
-      "sequence": 362,
+      "id": "xi-thought-319",
+      "sequence": 361,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 176,
@@ -13920,11 +14196,12 @@ window.QUESTION_BANK_DATA = {
           "text": "要把“双碳”工作纳入生态文明建设整体布局和经济社会发展全局"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-321",
-      "sequence": 363,
+      "id": "xi-thought-320",
+      "sequence": 362,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 180,
@@ -13963,11 +14240,12 @@ window.QUESTION_BANK_DATA = {
           "text": "受益者"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-322",
-      "sequence": 440,
+      "id": "xi-thought-321",
+      "sequence": 436,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 186,
@@ -14006,11 +14284,12 @@ window.QUESTION_BANK_DATA = {
           "text": "环境质量底线"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-323",
-      "sequence": 364,
+      "id": "xi-thought-322",
+      "sequence": 363,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 189,
@@ -14049,11 +14328,12 @@ window.QUESTION_BANK_DATA = {
           "text": "创造力"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-324",
-      "sequence": 441,
+      "id": "xi-thought-323",
+      "sequence": 437,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 196,
@@ -14092,11 +14372,12 @@ window.QUESTION_BANK_DATA = {
           "text": "长远和未来"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-325",
-      "sequence": 407,
+      "id": "xi-thought-324",
+      "sequence": 404,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 200,
@@ -14136,11 +14417,12 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持尽力而为、量力而行"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-326",
-      "sequence": 313,
+      "id": "xi-thought-325",
+      "sequence": 310,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 205,
@@ -14179,11 +14461,12 @@ window.QUESTION_BANK_DATA = {
           "text": "到2035年，法治国家、法治政府、法治社会基本建成"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-327",
-      "sequence": 466,
+      "id": "xi-thought-326",
+      "sequence": 464,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 227,
@@ -14222,11 +14505,12 @@ window.QUESTION_BANK_DATA = {
           "text": "国家主导"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-328",
-      "sequence": 126,
+      "id": "xi-thought-327",
+      "sequence": 132,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 231,
@@ -14265,11 +14549,12 @@ window.QUESTION_BANK_DATA = {
           "text": "发展军事同盟"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-329",
-      "sequence": 467,
+      "id": "xi-thought-328",
+      "sequence": 465,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 233,
@@ -14308,10 +14593,11 @@ window.QUESTION_BANK_DATA = {
           "text": "安全"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-330",
+      "id": "xi-thought-329",
       "sequence": 36,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
@@ -14351,11 +14637,12 @@ window.QUESTION_BANK_DATA = {
           "text": "管思想"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-331",
-      "sequence": 365,
+      "id": "xi-thought-330",
+      "sequence": 364,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 248,
@@ -14394,11 +14681,12 @@ window.QUESTION_BANK_DATA = {
           "text": "意识形态领域存在不少挑战，重点领域风险口加大"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-332",
-      "sequence": 468,
+      "id": "xi-thought-331",
+      "sequence": 466,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 261,
@@ -14437,11 +14725,12 @@ window.QUESTION_BANK_DATA = {
           "text": "长久之计"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-333",
-      "sequence": 366,
+      "id": "xi-thought-332",
+      "sequence": 365,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 263,
@@ -14481,11 +14770,12 @@ window.QUESTION_BANK_DATA = {
           "text": "国际形势"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-334",
-      "sequence": 469,
+      "id": "xi-thought-333",
+      "sequence": 467,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 267,
@@ -14524,11 +14814,12 @@ window.QUESTION_BANK_DATA = {
           "text": "武器装备现代化"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-335",
-      "sequence": 470,
+      "id": "xi-thought-334",
+      "sequence": 468,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 268,
@@ -14567,10 +14858,11 @@ window.QUESTION_BANK_DATA = {
           "text": "快速度"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-336",
+      "id": "xi-thought-335",
       "sequence": 37,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
@@ -14610,11 +14902,12 @@ window.QUESTION_BANK_DATA = {
           "text": "多元化"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-337",
-      "sequence": 471,
+      "id": "xi-thought-336",
+      "sequence": 469,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 286,
@@ -14653,10 +14946,11 @@ window.QUESTION_BANK_DATA = {
           "text": "世界人民的共同企盼"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-338",
+      "id": "xi-thought-337",
       "sequence": 38,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
@@ -14696,11 +14990,12 @@ window.QUESTION_BANK_DATA = {
           "text": "务必敢于斗争、善于斗争"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-339",
-      "sequence": 367,
+      "id": "xi-thought-338",
+      "sequence": 366,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 170,
@@ -14740,11 +15035,12 @@ window.QUESTION_BANK_DATA = {
           "text": "良好生态环境是最普惠的民生福祉"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-340",
-      "sequence": 127,
+      "id": "xi-thought-339",
+      "sequence": 133,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 181,
@@ -14783,11 +15079,12 @@ window.QUESTION_BANK_DATA = {
           "text": "社会长治久安"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-341",
-      "sequence": 368,
+      "id": "xi-thought-340",
+      "sequence": 367,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 207,
@@ -14826,11 +15123,12 @@ window.QUESTION_BANK_DATA = {
           "text": "提升国家文化软实力和中华文化影响力"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-342",
-      "sequence": 408,
+      "id": "xi-thought-341",
+      "sequence": 405,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 213,
@@ -14869,11 +15167,12 @@ window.QUESTION_BANK_DATA = {
           "text": "高质量快速发展"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-343",
-      "sequence": 248,
+      "id": "xi-thought-342",
+      "sequence": 246,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 220,
@@ -14912,11 +15211,12 @@ window.QUESTION_BANK_DATA = {
           "text": "正确处理依法治国和依规治党的关系"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-344",
-      "sequence": 314,
+      "id": "xi-thought-343",
+      "sequence": 311,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 225,
@@ -14956,11 +15256,12 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持协商民主和法制宣传一体推进"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-345",
-      "sequence": 249,
+      "id": "xi-thought-344",
+      "sequence": 247,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 236,
@@ -14999,11 +15300,12 @@ window.QUESTION_BANK_DATA = {
           "text": "共商"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-346",
-      "sequence": 472,
+      "id": "xi-thought-345",
+      "sequence": 470,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 264,
@@ -15042,11 +15344,12 @@ window.QUESTION_BANK_DATA = {
           "text": "国际社会支持"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-347",
-      "sequence": 192,
+      "id": "xi-thought-346",
+      "sequence": 194,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 273,
@@ -15085,11 +15388,12 @@ window.QUESTION_BANK_DATA = {
           "text": "全面从严"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-348",
-      "sequence": 315,
+      "id": "xi-thought-347",
+      "sequence": 312,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 285,
@@ -15128,11 +15432,12 @@ window.QUESTION_BANK_DATA = {
           "text": "外交权"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-349",
-      "sequence": 250,
+      "id": "xi-thought-348",
+      "sequence": 248,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 288,
@@ -15171,11 +15476,12 @@ window.QUESTION_BANK_DATA = {
           "text": "热爱和平"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-350",
-      "sequence": 128,
+      "id": "xi-thought-349",
+      "sequence": 134,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 293,
@@ -15214,11 +15520,12 @@ window.QUESTION_BANK_DATA = {
           "text": "教育、科技、人才"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-351",
-      "sequence": 251,
+      "id": "xi-thought-350",
+      "sequence": 249,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 296,
@@ -15236,7 +15543,7 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "面对全球性挑战日益增多、全球治理体系变革加速演进的时代背景，中国作为负责任大国，积极参与全球治理体系改革和建设。这不了中国对国际秩序发展的深刻洞察，更反映了中国所秉持的独特理念，即践行（）的全球治理观，为推动全球治理体系朝着更加公正方向发展贡献中国智慧和力量。",
+      "stem": "面对全球性挑战日益增多、全球治理体系变革加速演进的时代背景，中国作为负责任大国，积极参与全球治理体系改革和建设。这不仅体现了中国对国际秩序发展的深刻洞察，更反映了中国所秉持的独特理念，即践行（）的全球治理观，为推动全球治理体系朝着更加公正合理的方向发展贡献中国智慧和力量。",
       "answerRaw": "ABC",
       "explanation": "",
       "options": [
@@ -15258,14 +15565,15 @@ window.QUESTION_BANK_DATA = {
         },
         {
           "key": "E",
-          "text": "共赢你的签安："
+          "text": "共赢"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-352",
-      "sequence": 473,
+      "id": "xi-thought-351",
+      "sequence": 471,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 300,
@@ -15304,11 +15612,12 @@ window.QUESTION_BANK_DATA = {
           "text": "人才培养"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-353",
-      "sequence": 193,
+      "id": "xi-thought-352",
+      "sequence": 195,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 302,
@@ -15348,11 +15657,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党员队伍建设"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-354",
-      "sequence": 252,
+      "id": "xi-thought-353",
+      "sequence": 250,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 303,
@@ -15391,10 +15701,11 @@ window.QUESTION_BANK_DATA = {
           "text": "气候变化、粮食安全、能源安全等全球性问题日趋尖锐复杂，地区热点和局部冲突此起彼伏"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-355",
+      "id": "xi-thought-354",
       "sequence": 39,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -15417,11 +15728,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-356",
-      "sequence": 129,
+      "id": "xi-thought-355",
+      "sequence": 135,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 346,
@@ -15444,10 +15756,11 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-357",
+      "id": "xi-thought-356",
       "sequence": 40,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -15470,11 +15783,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-358",
-      "sequence": 316,
+      "id": "xi-thought-357",
+      "sequence": 313,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 362,
@@ -15496,11 +15810,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-359",
-      "sequence": 505,
+      "id": "xi-thought-358",
+      "sequence": 504,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 367,
@@ -15522,11 +15837,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-360",
-      "sequence": 474,
+      "id": "xi-thought-359",
+      "sequence": 472,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 378,
@@ -15549,11 +15865,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-361",
-      "sequence": 409,
+      "id": "xi-thought-360",
+      "sequence": 406,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 388,
@@ -15575,11 +15892,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-362",
-      "sequence": 317,
+      "id": "xi-thought-361",
+      "sequence": 314,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 398,
@@ -15601,11 +15919,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-363",
-      "sequence": 130,
+      "id": "xi-thought-362",
+      "sequence": 136,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 403,
@@ -15628,11 +15947,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-364",
-      "sequence": 253,
+      "id": "xi-thought-363",
+      "sequence": 251,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 408,
@@ -15654,11 +15974,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-365",
-      "sequence": 131,
+      "id": "xi-thought-364",
+      "sequence": 137,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 412,
@@ -15681,11 +16002,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-366",
-      "sequence": 318,
+      "id": "xi-thought-365",
+      "sequence": 315,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 424,
@@ -15707,11 +16029,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-367",
-      "sequence": 254,
+      "id": "xi-thought-366",
+      "sequence": 252,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 429,
@@ -15733,10 +16056,11 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-368",
+      "id": "xi-thought-367",
       "sequence": 41,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -15759,11 +16083,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-369",
-      "sequence": 319,
+      "id": "xi-thought-368",
+      "sequence": 316,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 331,
@@ -15785,10 +16110,11 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-370",
+      "id": "xi-thought-369",
       "sequence": 42,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -15807,15 +16133,16 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "党的二十大提出“六个必须坚持”，其中坚持问题导向是重要实践要求，体现了体现了变与不变、继承与发展的内在联系",
+      "stem": "党的二十大提出“六个必须坚持”，其中坚持问题导向是重要实践要求，体现了变与不变、继承与发展的内在联系",
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-371",
-      "sequence": 506,
+      "id": "xi-thought-370",
+      "sequence": 505,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 378,
@@ -15837,11 +16164,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-372",
-      "sequence": 255,
+      "id": "xi-thought-371",
+      "sequence": 253,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 393,
@@ -15863,10 +16191,11 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-373",
+      "id": "xi-thought-372",
       "sequence": 43,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -15889,11 +16218,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-374",
-      "sequence": 442,
+      "id": "xi-thought-373",
+      "sequence": 438,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 310,
@@ -15915,11 +16245,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-375",
-      "sequence": 369,
+      "id": "xi-thought-374",
+      "sequence": 368,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 323,
@@ -15941,11 +16272,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-376",
-      "sequence": 194,
+      "id": "xi-thought-375",
+      "sequence": 196,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 332,
@@ -15967,11 +16299,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-377",
-      "sequence": 370,
+      "id": "xi-thought-376",
+      "sequence": 369,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 339,
@@ -15993,11 +16326,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-378",
-      "sequence": 410,
+      "id": "xi-thought-377",
+      "sequence": 407,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 355,
@@ -16019,10 +16353,11 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-379",
+      "id": "xi-thought-378",
       "sequence": 44,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
@@ -16045,11 +16380,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-380",
-      "sequence": 507,
+      "id": "xi-thought-379",
+      "sequence": 506,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 368,
@@ -16071,11 +16407,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-381",
-      "sequence": 508,
+      "id": "xi-thought-380",
+      "sequence": 507,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 389,
@@ -16097,11 +16434,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-382",
-      "sequence": 475,
+      "id": "xi-thought-381",
+      "sequence": 473,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 391,
@@ -16123,11 +16461,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-383",
-      "sequence": 476,
+      "id": "xi-thought-382",
+      "sequence": 474,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 411,
@@ -16149,11 +16488,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-384",
-      "sequence": 477,
+      "id": "xi-thought-383",
+      "sequence": 475,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 419,
@@ -16175,11 +16515,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-385",
-      "sequence": 509,
+      "id": "xi-thought-384",
+      "sequence": 508,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 421,
@@ -16201,10 +16542,11 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "错",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-386",
+      "id": "xi-thought-385",
       "sequence": 45,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -16227,10 +16569,11 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "对",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-387",
+      "id": "xi-thought-386",
       "sequence": 46,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -16253,11 +16596,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "对",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-388",
-      "sequence": 132,
+      "id": "xi-thought-387",
+      "sequence": 138,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 417,
@@ -16279,10 +16623,11 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "对",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-389",
+      "id": "xi-thought-388",
       "sequence": 47,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -16305,11 +16650,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "对",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-390",
-      "sequence": 195,
+      "id": "xi-thought-389",
+      "sequence": 197,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 350,
@@ -16331,11 +16677,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "对",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-391",
-      "sequence": 371,
+      "id": "xi-thought-390",
+      "sequence": 370,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 336,
@@ -16357,11 +16704,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "对",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-392",
-      "sequence": 372,
+      "id": "xi-thought-391",
+      "sequence": 371,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 353,
@@ -16383,11 +16731,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "对",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-393",
-      "sequence": 478,
+      "id": "xi-thought-392",
+      "sequence": 476,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 388,
@@ -16409,11 +16758,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "对",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-394",
-      "sequence": 479,
+      "id": "xi-thought-393",
+      "sequence": 477,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 392,
@@ -16435,11 +16785,12 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "对",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-395",
-      "sequence": 133,
+      "id": "xi-thought-394",
+      "sequence": 254,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 430,
@@ -16447,8 +16798,8 @@ window.QUESTION_BANK_DATA = {
         "Screenshot_20260121_153855_cn.ulearning.yxy.jpg",
         "Screenshot_20260121_171000_cn.ulearning.yxy.jpg"
       ],
-      "chapterKey": "chapter-02",
-      "chapterTitle": "以中国式现代化全面推进中华民族伟大复兴",
+      "chapterKey": "chapter-04",
+      "chapterTitle": "全面深化改革开放",
       "type": "填空题",
       "score": 1,
       "difficulty": 1,
@@ -16458,10 +16809,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "社会主义改革开放的出发点和落脚点，是为了更好实现和维护全体人民共同富裕（人民利益）、为了让老百姓过上好日子。",
+      "stem": "社会主义改革开放的出发点和落脚点，（）、为了让老百姓过上好日子。",
       "answerRaw": "人民利益",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -16471,8 +16823,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-396",
-      "sequence": 134,
+      "id": "xi-thought-395",
+      "sequence": 139,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 435,
@@ -16490,10 +16842,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "(共享发展)注重的是解决社会公平正义问题，必须坚持全民共享、全面共享、共建共享、渐进共享，不断推进全体人民共同富裕。",
+      "stem": "（）注重的是解决社会公平正义问题，必须坚持全民共享、全面共享、共建共享、渐进共享，不断推进全体人民共同富裕。",
       "answerRaw": "共享发展",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -16503,16 +16856,16 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-397",
-      "sequence": 196,
+      "id": "xi-thought-396",
+      "sequence": 48,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 439,
       "sourceScreenshots": [
         "Screenshot_20260121_153920_cn.ulearning.yxy.jpg"
       ],
-      "chapterKey": "chapter-03",
-      "chapterTitle": "坚持党的全面领导和全面从严治党",
+      "chapterKey": "chapter-01",
+      "chapterTitle": "新时代坚持和发展中国特色社会主义",
       "type": "填空题",
       "score": 1,
       "difficulty": 1,
@@ -16522,10 +16875,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "习近平总书记指出，坚持和加强中国共产党的领导（党的全面领导），关系党和国家前途命运，我们的全部事业都建立在这个基础之上，都根植于这个最本质特征和最大优势。",
+      "stem": "习近平总（），关系党和国家前途命运，我们的全部事业都建立在这个基础之上，都根植于这个最本质特征和最大优势。",
       "answerRaw": "党的全面领导",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -16535,8 +16889,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-398",
-      "sequence": 197,
+      "id": "xi-thought-397",
+      "sequence": 198,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 440,
@@ -16554,10 +16908,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "推动党的政治优势和组织优势转化为制度优势和治理效能，是贯彻执行党的领导制度的必然要求。必须坚持以科学社会主义基本原则（习近平新时代中国特色社会主义思想）为指导。",
+      "stem": "推动党的政治优势和组织优势转化为制度优势和治理效能，是贯彻执行党的领导制度的必然（）为指导。",
       "answerRaw": "习近平新时代中国特色社会主义思想",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -16567,8 +16922,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-399",
-      "sequence": 256,
+      "id": "xi-thought-398",
+      "sequence": 49,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 441,
@@ -16576,8 +16931,8 @@ window.QUESTION_BANK_DATA = {
         "Screenshot_20260121_153934_cn.ulearning.yxy.jpg",
         "Screenshot_20260121_162130_cn.ulearning.yxy.jpg"
       ],
-      "chapterKey": "chapter-04",
-      "chapterTitle": "全面深化改革开放",
+      "chapterKey": "chapter-01",
+      "chapterTitle": "新时代坚持和发展中国特色社会主义",
       "type": "填空题",
       "score": 1,
       "difficulty": 1,
@@ -16587,10 +16942,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "纵观人类发展史，改革创新（创新）始终是一个国家、一个民族发展的不竭动力。",
+      "stem": "（）始终是一个国家、一个民族发展的不竭动力。",
       "answerRaw": "创新",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -16600,8 +16956,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-400",
-      "sequence": 48,
+      "id": "xi-thought-399",
+      "sequence": 50,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 443,
@@ -16619,10 +16975,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "解放和发展生产力（进一步解放和发展社会生产力）、进一步解放和增强社会活力。‘三个进一步解放”是指进一步解放思想、",
+      "stem": "“三个进一步解放”是指（）、（）、（）。",
       "answerRaw": "进一步解放和发展社会生产力",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -16632,8 +16989,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-401",
-      "sequence": 510,
+      "id": "xi-thought-400",
+      "sequence": 509,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 444,
@@ -16652,10 +17009,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "自立自强（自力更生）是中华民族自立于世界民族之林的奋斗基点，自主创新是我们攀登世界科技高峰的必由之路。",
+      "stem": "（）是中华民族自立于世界民族之林的奋斗基点，自主创新是我们攀登世界科技高峰的必由之路。",
       "answerRaw": "自力更生",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -16665,8 +17023,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-402",
-      "sequence": 49,
+      "id": "xi-thought-401",
+      "sequence": 51,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 447,
@@ -16686,10 +17044,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "马克思主义理论不是教条，而是科学指导（行动指南）。",
+      "stem": "马克思主义理论不是教条，而是科学指导（）。",
       "answerRaw": "行动指南",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -16699,8 +17058,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-403",
-      "sequence": 320,
+      "id": "xi-thought-402",
+      "sequence": 317,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 448,
@@ -16718,10 +17077,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "人民民主专政（基层群众自治）制度是社会主义民主政治建设的基础。要发展基层民主，保障人民依法直接行使民主权利，实现自我管理、自我服务、自我教育、自我监督。",
+      "stem": "（）制度是社会主义民主政治建设的基础。要发展基层民主，保障人民依法直接行使民主权利，实现自我管理、自我服务、自我教育、自我监督。",
       "answerRaw": "基层群众自治",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -16731,49 +17091,13 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-404",
-      "sequence": 50,
+      "id": "xi-thought-403",
+      "sequence": 52,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 450,
       "sourceScreenshots": [
-        "Screenshot_20260121_154004_cn.ulearning.yxy.jpg"
-      ],
-      "chapterKey": "chapter-01",
-      "chapterTitle": "新时代坚持和发展中国特色社会主义",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "习思想",
-        "优学院"
-      ],
-      "material": "",
-      "stem": "马克思主义（党的基本理论）是坚持和发展中国特色社会主义的行动指南。拥有马克思主义科学理论指导是我们党鲜明的政治品格和强大的政治优势，是我们党坚定信仰信念、把握历史主动的根本所在。（党的基本路线）是国家的生命线、人民的幸福线。",
-      "answerRaw": "党的基本理论；党的基本路线",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "党的基本理论"
-          ]
-        },
-        {
-          "acceptedAnswers": [
-            "党的基本路线"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "xi-thought-405",
-      "sequence": 51,
-      "sourceFile": "优学院截图（部分）",
-      "sheetName": "练习 484 题",
-      "sourceRow": 479,
-      "sourceScreenshots": [
+        "Screenshot_20260121_154004_cn.ulearning.yxy.jpg",
         "Screenshot_20260121_165110_cn.ulearning.yxy.jpg"
       ],
       "chapterKey": "chapter-01",
@@ -16787,10 +17111,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "党的基本思想（党的基本理论）是坚持和发展中国特色社会主义的行动指南。拥有马克思主义科学理论指导是我们党鲜明的政治品格和强大的",
+      "stem": "（）是坚持和发展中国特色社会主义的行动指南。拥有马克思主义科学理论指导是我们党鲜明的政治品格和强大的政治优势，是我们党坚（）是国家的生命线、人民的幸福线。",
       "answerRaw": "党的基本理论；党的基本路线",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -16805,8 +17130,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-406",
-      "sequence": 52,
+      "id": "xi-thought-404",
+      "sequence": 53,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 451,
@@ -16824,10 +17149,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "为人民服务（为人民谋幸福)是中国共产党人的初心，是激励中国共产党人不断前进的动力。",
+      "stem": "（）是中国共产党人的初心，是激励中国共产党人不断前进的动力。",
       "answerRaw": "为人民谋幸福",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -16837,8 +17163,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-407",
-      "sequence": 53,
+      "id": "xi-thought-405",
+      "sequence": 54,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 454,
@@ -16856,10 +17182,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "党的(基本路线)是国家的生命线、人民的幸福线。",
+      "stem": "（）是国家的生命线、人民的幸福线。",
       "answerRaw": "基本路线",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -16869,8 +17196,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-408",
-      "sequence": 135,
+      "id": "xi-thought-406",
+      "sequence": 140,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 455,
@@ -16888,10 +17215,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "新征程上，谱写全面建设社会主义现代化国家新篇章，必须把扎实推动科技创新(全体人民共同富裕）摆在更加重要的位置。",
+      "stem": "新征程上，谱写全面建设社会主义现代（）摆在更加重要的位置。",
       "answerRaw": "全体人民共同富裕",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -16901,8 +17229,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-409",
-      "sequence": 321,
+      "id": "xi-thought-407",
+      "sequence": 318,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 456,
@@ -16921,10 +17249,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "全面建设社会主义现代化国家的内在要求和重要目标是发展（社会主义民主政治）。",
+      "stem": "全面建设社会主义现代化国家的内在要求和重要目标是发展（）。",
       "answerRaw": "社会主义民主政治",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -16934,8 +17263,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-410",
-      "sequence": 54,
+      "id": "xi-thought-408",
+      "sequence": 55,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 460,
@@ -16953,10 +17282,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "新发展阶段是我国社会主义初级阶段历史进程中的一个重要阶段，是中国共产党带领人民迎来从站起来、富起来到强起来历史性跨越的新阶段，是全面建设社会主义现代化国家、向（第二个百年奋斗目标）进军的重要阶段。",
+      "stem": "新发展阶段是我国社会主义初级阶段历史进程中的一个重要阶段，是中国共产党带领人民迎来从站起来、富起来到强起来历史性跨越的新阶（）进军的重要阶段。",
       "answerRaw": "第二个百年奋斗目标",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -16966,8 +17296,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-411",
-      "sequence": 257,
+      "id": "xi-thought-409",
+      "sequence": 255,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 461,
@@ -16985,10 +17315,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "以(开放)促改革、促发展是我国发展不断取得新成就的宝贵经验。",
+      "stem": "（）促改革、促发展是我国发展不断取得新成就的宝贵经验。",
       "answerRaw": "开放",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -16998,8 +17329,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-412",
-      "sequence": 411,
+      "id": "xi-thought-410",
+      "sequence": 408,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 462,
@@ -17017,10 +17348,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "实施乡村振兴战略， (农业农村现代化)是总目标。",
+      "stem": "实施乡村振兴战略，（）是总目标。",
       "answerRaw": "农业农村现代化",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17030,8 +17362,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-413",
-      "sequence": 480,
+      "id": "xi-thought-411",
+      "sequence": 478,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 463,
@@ -17049,10 +17381,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "中国特色社会主义是马克思主义(科学社会主义)理论逻辑和中国社会发展历史逻辑的辩证统一。",
+      "stem": "（）理论逻辑和中国社会发展历史逻辑的辩证统一。",
       "answerRaw": "科学社会主义",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17062,8 +17395,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-414",
-      "sequence": 258,
+      "id": "xi-thought-412",
+      "sequence": 256,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 465,
@@ -17081,10 +17414,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "统筹推进各领域各方面改革开放，必须以全面深化改革总目标为引领，以经济建设(制度建设)为主线，以制度建设(经济体制改革)为重点，以重要领域和关键环节改革为突破口，使各方面改革协同推进、环环相扣、形成合力。",
+      "stem": "统筹推进各领域各方面改革开放，必须以（）（）为重点，以重要领域和关键环节改革为突破口，使各方面改革协同推进、环环相扣、形成合力。",
       "answerRaw": "制度建设；经济体制改革",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17099,8 +17433,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-415",
-      "sequence": 136,
+      "id": "xi-thought-413",
+      "sequence": 141,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 466,
@@ -17118,10 +17452,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "要全面建成新发展格局，必须着力推动实施扩大内需战略同深化(供给侧结构性改革)有机结合。",
+      "stem": "要全面建成新发展格局（）有机结合。",
       "answerRaw": "供给侧结构性改革",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17131,8 +17466,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-416",
-      "sequence": 412,
+      "id": "xi-thought-414",
+      "sequence": 409,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 467,
@@ -17150,10 +17485,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "建设（农业强国），必须走中国特色社会主义乡村振兴道路，大力实施乡村振兴战略，全面推进乡村振兴。",
+      "stem": "（），必须走中国特色社会主义乡村振兴道路，大力实施乡村振兴战略，全面推进乡村振兴。",
       "answerRaw": "农业强国",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17163,8 +17499,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-417",
-      "sequence": 55,
+      "id": "xi-thought-415",
+      "sequence": 56,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 469,
@@ -17182,10 +17518,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "思政课(家庭)是人生的第一所学校，要给孩子讲好“人生第一课”，帮助扣好人生第一粒扣子。",
+      "stem": "（）是人生的第一所学校，要给孩子讲好“人生第一课”，帮助扣好人生第一粒扣子。",
       "answerRaw": "家庭",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17195,8 +17532,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-418",
-      "sequence": 137,
+      "id": "xi-thought-416",
+      "sequence": 142,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 473,
@@ -17214,10 +17551,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "推进中国式现代化，必须坚持以经济建设为中心，坚持四项基本原则，坚持改革开放，坚持中国共产党的领导(独立自主）、自力更生，坚持道不变、志不改，既不走封闭僵化的老路，也不走改旗易帜的邪路，始终坚持和发展中国特色社会主义。",
+      "stem": "推进中国式现代化，必须坚持以经济建设为中心，坚持四项基本原则（）、自力更生，坚持道不变、志不改，既不走封闭僵化的老路，也不走改旗易帜的邪路，始终坚持和发展中国特色社会主义。",
       "answerRaw": "改革开放;独立自主",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17232,8 +17570,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-419",
-      "sequence": 511,
+      "id": "xi-thought-417",
+      "sequence": 510,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 475,
@@ -17251,10 +17589,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "(科技自立自强)是我国经济生存和发展的基础，是畅通国内国际双循环、促进我国发展大局的关键。",
+      "stem": "（）是我国经济生存和发展的基础，是畅通国内国际双循环、促进我国发展大局的关键。",
       "answerRaw": "科技自立自强",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17264,8 +17603,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-420",
-      "sequence": 259,
+      "id": "xi-thought-418",
+      "sequence": 257,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 477,
@@ -17285,10 +17624,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "习近平总书记指出：“全面深化改革，全面者，就是要统筹推进各领域改革，就需要有管总的目标，也要回答推进各领域改革最终是为了什么、要实现什么样的整体目标（要取得什么样的整体结果）这个问题。”",
+      "stem": "习近平总书记指出：“全面深化改革，全面者，就是要统筹推进各领域改革，就需要有管总的目标，也要回答推进各领域改革最（）这个问题。”",
       "answerRaw": "要取得什么样的整体结果",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17298,8 +17638,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-421",
-      "sequence": 56,
+      "id": "xi-thought-419",
+      "sequence": 57,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 480,
@@ -17317,10 +17657,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "中国特色社会主义事业是(全面发展)、(全面进步)的事业。",
+      "stem": "中国特色社会主义事业是（）、（）的事业。",
       "answerRaw": "全面发展；全面进步",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17335,8 +17676,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-422",
-      "sequence": 413,
+      "id": "xi-thought-420",
+      "sequence": 410,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 482,
@@ -17355,10 +17696,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "习近平总书记指出，要始终把人民安居乐业、安危冷暖放在心上，（用心用情用力）解决群众关心的就业、教育、社保、医疗、住房、养老、食品安全、社会治安等实际问题。",
+      "stem": "习近平总书记指出，要始（）解决群众关心的就业、教育、社保、医疗、住房、养老、食品安全、社会治安等实际问题。",
       "answerRaw": "用心用情用力",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17368,18 +17710,18 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-423",
-      "sequence": 138,
+      "id": "xi-thought-421",
+      "sequence": 58,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
-      "sourceRow": 483,
+      "sourceRow": 466,
       "sourceScreenshots": [
         "Screenshot_20260121_154542_cn.ulearning.yxy.jpg",
         "Screenshot_20260121_165052_cn.ulearning.yxy.jpg",
         "Screenshot_20260121_174050_cn.ulearning.yxy.jpg"
       ],
-      "chapterKey": "chapter-02",
-      "chapterTitle": "以中国式现代化全面推进中华民族伟大复兴",
+      "chapterKey": "chapter-01",
+      "chapterTitle": "新时代坚持和发展中国特色社会主义",
       "type": "填空题",
       "score": 1,
       "difficulty": 1,
@@ -17389,10 +17731,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "中国式现代化坚持从自立自强(本国实际)出发，独立自主制定实现现代化的路线方针政策和战略",
+      "stem": "（）出发，独立自主制定实现现代化的路线方针政策和战略",
       "answerRaw": "本国实际",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17402,8 +17745,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-424",
-      "sequence": 373,
+      "id": "xi-thought-422",
+      "sequence": 372,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 434,
@@ -17421,10 +17764,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "中国特色社会主义进入新时代，是我国社会主要矛盾发生新变化的反映。社会主要矛盾已由人民日益增长的物质文化需要同落后的社会生产之间的矛盾，转化为人民日益增长的美好生活需要和不平衡不充分的发展（不平衡不充分的发展之间）的矛盾。",
+      "stem": "中国特色社会主义进入新时代，是我国社会主要矛盾发生新变化的反映。社会主要矛盾已由人民日益增长的物质文化需要同落后的社会生产之间的矛盾，转化为人民日益增（）的矛盾。",
       "answerRaw": "人民日益增长的美好生活需要；不平衡不充分的发展之间",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17439,8 +17783,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-425",
-      "sequence": 57,
+      "id": "xi-thought-423",
+      "sequence": 59,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 436,
@@ -17458,10 +17802,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "“两个结合\"是我们党在探索中国特色社会主义道路中得出的规律性认识，是我们取得成功的重要法宝（最大法宝）。",
+      "stem": "“两个结合\"是我们党在探索中国特色社会主义道路中得出的（）。",
       "answerRaw": "最大法宝",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17471,16 +17816,16 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-426",
-      "sequence": 414,
+      "id": "xi-thought-424",
+      "sequence": 60,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 438,
       "sourceScreenshots": [
         "Screenshot_20260121_162120_cn.ulearning.yxy.jpg"
       ],
-      "chapterKey": "chapter-07",
-      "chapterTitle": "民生保障与社会治理",
+      "chapterKey": "chapter-01",
+      "chapterTitle": "新时代坚持和发展中国特色社会主义",
       "type": "填空题",
       "score": 1,
       "difficulty": 1,
@@ -17490,10 +17835,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "建设教育强国、科技强国、军事强国（人才强国）具有内在一致性和相互支撑性。",
+      "stem": "（）具有内在一致性和相互支撑性。",
       "answerRaw": "人才强国",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17503,16 +17849,16 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-427",
-      "sequence": 198,
+      "id": "xi-thought-425",
+      "sequence": 479,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 442,
       "sourceScreenshots": [
         "Screenshot_20260121_162134_cn.ulearning.yxy.jpg"
       ],
-      "chapterKey": "chapter-03",
-      "chapterTitle": "坚持党的全面领导和全面从严治党",
+      "chapterKey": "chapter-09",
+      "chapterTitle": "国家安全与国防军队",
       "type": "填空题",
       "score": 1,
       "difficulty": 1,
@@ -17522,10 +17868,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "中国共产党的领导（思想引领力）是保证全党全国各族人民思想统一、步调一致的坚实基础。",
+      "stem": "（）是保证全党全国各族人民思想统一、步调一致的坚实基础。",
       "answerRaw": "思想引领力",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17535,8 +17882,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-428",
-      "sequence": 139,
+      "id": "xi-thought-426",
+      "sequence": 143,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 452,
@@ -17555,10 +17902,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "进一步解放和发展生产力(共同富裕)是中国特色社会主义的本质要求，是中国式现代化的重要特征。",
+      "stem": "（）是中国特色社会主义的本质要求，是中国式现代化的重要特征。",
       "answerRaw": "共同富裕",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17568,8 +17916,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-429",
-      "sequence": 58,
+      "id": "xi-thought-427",
+      "sequence": 61,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 455,
@@ -17587,10 +17935,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "自立自强(团结奋斗）是中国共产党和中国人民最显著的精神标识，能团结奋斗的民族才有前途，能团结奋斗的政党才能立于不败之地。",
+      "stem": "（）是中国共产党和中国人民最显著的精神标识。",
       "answerRaw": "团结奋斗",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17600,16 +17949,16 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-430",
-      "sequence": 140,
+      "id": "xi-thought-428",
+      "sequence": 62,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 458,
       "sourceScreenshots": [
         "Screenshot_20260121_162231_cn.ulearning.yxy.jpg"
       ],
-      "chapterKey": "chapter-02",
-      "chapterTitle": "以中国式现代化全面推进中华民族伟大复兴",
+      "chapterKey": "chapter-01",
+      "chapterTitle": "新时代坚持和发展中国特色社会主义",
       "type": "填空题",
       "score": 1,
       "difficulty": 1,
@@ -17619,10 +17968,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "习近平新时代中国特色社会主义思想，是全党全国各族人民为实现中华民族伟大复兴而奋斗的科学指导（行动指南），是新时代党和国家事业发展的科学指导（根本遵循）。",
+      "stem": "习近平新时代中国特色社会主义思想，是全党全国各族人民为（）（）。",
       "answerRaw": "行动指南；根本遵循",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17637,16 +17987,16 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-431",
-      "sequence": 141,
+      "id": "xi-thought-429",
+      "sequence": 63,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 471,
       "sourceScreenshots": [
         "Screenshot_20260122_114151_cn.ulearning.yxy.jpg"
       ],
-      "chapterKey": "chapter-02",
-      "chapterTitle": "以中国式现代化全面推进中华民族伟大复兴",
+      "chapterKey": "chapter-01",
+      "chapterTitle": "新时代坚持和发展中国特色社会主义",
       "type": "填空题",
       "score": 1,
       "difficulty": 1,
@@ -17656,10 +18006,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "思想引领（行动指南），是新时代党和国家事业习近平新时代中国特色社会主义思想，是全党全国各族人民为实现中华民族伟大复兴而奋斗的发展的行动指南（根本遵循）。",
+      "stem": "（），是新时代党和国家事业习近平新时代中国特色社会主义思想，是全党全国各族人民为实现中（）。",
       "answerRaw": "行动指南；根本遵循",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17674,7 +18025,7 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-432",
+      "id": "xi-thought-430",
       "sequence": 199,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -17693,10 +18044,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "中国特色社会主义法治（人民代表大会制度）是坚持党的领导、人民当家作主、依法治国有机统一的根本政治制度安排。",
+      "stem": "（）是坚持党的领导、人民当家作主、依法治国有机统一的根本政治制度安排。",
       "answerRaw": "人民代表大会制度",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17706,8 +18058,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-433",
-      "sequence": 142,
+      "id": "xi-thought-431",
+      "sequence": 144,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 475,
@@ -17725,10 +18077,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "中国式现代化既要物质财富极大丰富，也要精神财富极大丰富、在思想文化上自信自强。习近平指出：\"当高楼大厦在我国大地上遍地林立精神（中华民族精神）的大厦也应该巍然耸立。时，",
+      "stem": "中国式现代化既要物质财富极大丰富，也要精神财富极大丰富、在思想文化上自信自强。习近平指出：“当（）的大厦也应该巍然耸立。”",
       "answerRaw": "中华民族精神",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17738,7 +18091,7 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-434",
+      "id": "xi-thought-432",
       "sequence": 200,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
@@ -17761,6 +18114,7 @@ window.QUESTION_BANK_DATA = {
       "answerRaw": "中国道路",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17770,8 +18124,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-435",
-      "sequence": 59,
+      "id": "xi-thought-433",
+      "sequence": 64,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 439,
@@ -17789,10 +18143,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "人民（人民群众）是社会物质财富的创造者，不仅创造了人们吃穿住行等必需的生活资料，也创造了人们进行生产和再生产活动的生产资料。",
+      "stem": "（）是社会物质财富的创造者，不仅创造了人们吃穿住行等必需的生活资料，也创造了人们进行生产和再生产活动的生产资料。",
       "answerRaw": "人民群众",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17802,8 +18157,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-436",
-      "sequence": 60,
+      "id": "xi-thought-434",
+      "sequence": 65,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 450,
@@ -17821,10 +18176,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "国家(治理体系)和(治理能力)是一个国家的制度和制度执行能力的集中体现，两者相辅相成。",
+      "stem": "（）（）是一个国家的制度和制度执行能力的集中体现，两者相辅相成。",
       "answerRaw": "治理体系；治理能力",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17839,8 +18195,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-437",
-      "sequence": 61,
+      "id": "xi-thought-435",
+      "sequence": 66,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 435,
@@ -17858,10 +18214,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "党的基本路线(群众路线）是中国共产党的生命线和根本工作路线，也是中国共产党永葆青春活力和战斗力的重要传家宝。",
+      "stem": "（）是中国共产党的生命线和根本工作路线，也是中国共产党永葆青春活力和战斗力的重要传家宝。",
       "answerRaw": "群众路线",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17871,8 +18228,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-438",
-      "sequence": 143,
+      "id": "xi-thought-436",
+      "sequence": 145,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 456,
@@ -17890,10 +18247,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "习近平总书记多次深刻阐述实现中华民族伟大复兴的中国梦，强调中国梦的内涵是国家统一（国家富强）、民族复兴（民族振兴)、人民幸福",
+      "stem": "习近平总书记多次深刻阐述实现中华民族伟大复兴的中国梦，强调中国梦的内涵是（）、（）、（）。",
       "answerRaw": "国家富强；民族振兴；人民幸福",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17913,8 +18271,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-439",
-      "sequence": 443,
+      "id": "xi-thought-437",
+      "sequence": 439,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 457,
@@ -17933,10 +18291,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "坚持营造识才爱才惜才（识才爱才敬才用才）的环境是做好人才工作的社会条件。",
+      "stem": "（）的环境是做好人才工作的社会条件。",
       "answerRaw": "识才爱才敬才用才",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17946,8 +18305,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-440",
-      "sequence": 144,
+      "id": "xi-thought-438",
+      "sequence": 146,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 436,
@@ -17965,10 +18324,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "坚持和发展中国特色社会主义的总任务，是实现社会主义现代化和共同富裕（中华民族伟大复兴）。",
+      "stem": "坚持和发展中国特色社会主义的总（）。",
       "answerRaw": "中华民族伟大复兴",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -17978,8 +18338,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-441",
-      "sequence": 481,
+      "id": "xi-thought-439",
+      "sequence": 480,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 425,
@@ -17997,10 +18357,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "“一国两制\"的提出是为了实现和维护国家统一和领土完整（国家统一）。",
+      "stem": "“一国两制”的提出是为了实现和维护（）和领土完整。",
       "answerRaw": "国家统一",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18010,8 +18371,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-442",
-      "sequence": 145,
+      "id": "xi-thought-440",
+      "sequence": 147,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 456,
@@ -18030,10 +18391,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "处理好绿水青山和金山银山的关系，必须要处理好高质量发展和高水平保护的关系，通过高水平环境保护，不断塑造发展的新动能、着力构建绿色低碳循环发展（绿色低碳循环）纟经济体系。",
+      "stem": "处理好绿水青山和金山银山的关系，必须要处理好高质量发展和高水平保护的关系，通过高水平环境保护，不断塑造发（）纟经济体系。",
       "answerRaw": "绿色低碳循环",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18043,8 +18405,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-443",
-      "sequence": 322,
+      "id": "xi-thought-441",
+      "sequence": 319,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 429,
@@ -18062,10 +18424,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "中国特色社会主义法治体系，本质上是中国特色社会主义制度的(法律)表现形式。",
+      "stem": "中国特色社会主义法治（）表现形式。",
       "answerRaw": "法律",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18075,8 +18438,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-444",
-      "sequence": 444,
+      "id": "xi-thought-442",
+      "sequence": 440,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 431,
@@ -18094,10 +18457,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "我们要建设的现代化是人与自然 和谐共处(和谐共生)的现代化。",
+      "stem": "我们要建设的现代化是人与自然（）的现代化。",
       "answerRaw": "和谐共生",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18107,13 +18471,45 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-445",
-      "sequence": 323,
+      "id": "xi-thought-443",
+      "sequence": 320,
+      "sourceFile": "优学院截图（部分）",
+      "sheetName": "练习 469 题",
+      "sourceRow": 432,
+      "sourceScreenshots": [
+        "Screenshot_20260121_210252_cn.ulearning.yxy.jpg"
+      ],
+      "chapterKey": "chapter-05",
+      "chapterTitle": "全过程人民民主与全面依法治国",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "习思想",
+        "优学院"
+      ],
+      "material": "",
+      "stem": "（）为深入推进全面依法治国、加快建设社会主义法治国家，提供了根本遵循和行动指南。",
+      "answerRaw": "习近平法治思想",
+      "explanation": "",
+      "options": [],
+      "normalizedOptions": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "习近平法治思想"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xi-thought-444",
+      "sequence": 321,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 443,
       "sourceScreenshots": [
-        "Screenshot_20260121_210252_cn.ulearning.yxy.jpg",
         "Screenshot_20260122_201256_cn.ulearning.yxy.jpg"
       ],
       "chapterKey": "chapter-05",
@@ -18127,10 +18523,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "中国特色社会主义法治思想县(习近平法治思想)为深入推进全面依法治国、加快建设社会主义法治国家，提供了根本遵循和行动指南。",
+      "stem": "（）为深入推进全面依法治国、加快建设社会主义法治国家，提供了根本遵循和行动指南。",
       "answerRaw": "习近平法治思想",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18140,8 +18537,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-446",
-      "sequence": 415,
+      "id": "xi-thought-445",
+      "sequence": 411,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 434,
@@ -18159,10 +18556,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "良好的就业环境(生态环境)是最公平的公共产品，是最普惠的民生福祉。",
+      "stem": "（）是最公平的公共产品，是最普惠的民生福祉。",
       "answerRaw": "生态环境",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18172,8 +18570,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-447",
-      "sequence": 512,
+      "id": "xi-thought-446",
+      "sequence": 511,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 438,
@@ -18191,10 +18589,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "人类命运共同体（习近平外交思想）旗帜鲜明地回答了新时代中国应当推动建设什么样的世界、构建什么样的国际关系，中国需要什2交，怎样办好新时代外交等一系列重大理论和实践问题。",
+      "stem": "（）旗帜鲜明地回答了新时代中国应当推动建设什么样的世界、构建什么样的国际关系，中国需要什么样的外交、怎样办好新时代外交等一系列重大理论和实践问题。",
       "answerRaw": "习近平外交思想",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18204,8 +18603,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-448",
-      "sequence": 416,
+      "id": "xi-thought-447",
+      "sequence": 412,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 467,
@@ -18224,10 +18623,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "党的十九届四中全会提出坚持和完善共商共建共享(共建共治共享)的社会治理制度，体现了我们党对社会运行和社会治理规律认识的不断深化。",
+      "stem": "党的十九（）的社会治理制度，体现了我们党对社会运行和社会治理规律认识的不断深化。",
       "answerRaw": "共建共治共享",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18237,8 +18637,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-449",
-      "sequence": 324,
+      "id": "xi-thought-448",
+      "sequence": 322,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 444,
@@ -18256,10 +18656,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "(全面依法治国)是完善和发展中国特色社会主义制度、推进国家治理体系和治理能力现代化的重要方面，是中国特色社会主义的本质要求和重要保障。",
+      "stem": "（）是完善和发展中国特色社会主义制度、推进国家治理体系和治理能力现代化的重要方面，是中国特色社会主义的本质要求和重要保障。",
       "answerRaw": "全面依法治国",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18269,7 +18670,7 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-450",
+      "id": "xi-thought-449",
       "sequence": 201,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
@@ -18288,10 +18689,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "坚持全面依法治国(党要管党）、全面从严治党是新时代党的建设的方针。",
+      "stem": "（）、全面从严治党是新时代党的建设的方针。",
       "answerRaw": "党要管党",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18301,8 +18703,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-451",
-      "sequence": 374,
+      "id": "xi-thought-450",
+      "sequence": 373,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 449,
@@ -18320,21 +18722,23 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "总体国家安全观的关键是“总体”。强调夫（大安全//“大安全\"）理念，涵盖政治、军事、国土、经济、金融、文化等诸多领域，而且将随着社会发展不断动态调整。",
+      "stem": "总（）理念，涵盖政治、军事、国土、经济、金融、文化等诸多领域，而且将随着社会发展不断动态调整。",
       "answerRaw": "大安全//“大安全”",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
-            "大安全//“大安全”"
+            "大安全",
+            "“大安全”"
           ]
         }
       ]
     },
     {
-      "id": "xi-thought-452",
-      "sequence": 325,
+      "id": "xi-thought-451",
+      "sequence": 323,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 450,
@@ -18352,10 +18756,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "宪法(党的政策)是国家法律的先导和指引，是立法的依据和执法司法的重要指导，要通过法律保障党的政策有效实施。",
+      "stem": "（）是国家法律的先导和指引，是立法的依据和执法司法的重要指导。",
       "answerRaw": "党的政策",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18365,8 +18770,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-453",
-      "sequence": 62,
+      "id": "xi-thought-452",
+      "sequence": 67,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 452,
@@ -18384,21 +18789,23 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "台独分子（台独分裂势力及其活动//台独）是两岸关系和平发展的最大障碍，是台海和平稳定的最大威胁。",
+      "stem": "（）是两岸关系和平发展的最大障碍，是台海和平稳定的最大威胁。",
       "answerRaw": "台独分裂势力及其活动//台独",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
-            "台独分裂势力及其活动//台独"
+            "台独分裂势力及其活动",
+            "台独"
           ]
         }
       ]
     },
     {
-      "id": "xi-thought-454",
-      "sequence": 417,
+      "id": "xi-thought-453",
+      "sequence": 413,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 454,
@@ -18416,10 +18823,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "习近平总书记指出，增进民生福祉（以人民为中心）是我们党的根本执政理念，让人民生活幸福是“国之大者”",
+      "stem": "（）是我们党的根本执政理念，让人民生活幸福是“国之大者”",
       "answerRaw": "以人民为中心",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18429,8 +18837,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-455",
-      "sequence": 418,
+      "id": "xi-thought-454",
+      "sequence": 414,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 442,
@@ -18448,10 +18856,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "党的十八大以来，以习近平同志为核心的党中央坚持（以人民为中心）的发展思想，在发展中保障和改善民生。",
+      "stem": "党的十八大（）的发展思想，在发展中保障和改善民生。",
       "answerRaw": "以人民为中心",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18461,8 +18870,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-456",
-      "sequence": 482,
+      "id": "xi-thought-455",
+      "sequence": 481,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 458,
@@ -18480,10 +18889,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "总体国家安全观的宗旨是（人民安全）。",
+      "stem": "总体国家安全观的宗旨是（）。",
       "answerRaw": "人民安全",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18493,8 +18903,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-457",
-      "sequence": 513,
+      "id": "xi-thought-456",
+      "sequence": 512,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 459,
@@ -18512,10 +18922,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "推动建立新型国际关系，要坚决维护国家（核心利益）。",
+      "stem": "推动建立新型国际关系，要坚决维护国家（）。",
       "answerRaw": "核心利益",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18525,8 +18936,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-458",
-      "sequence": 63,
+      "id": "xi-thought-457",
+      "sequence": 68,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 462,
@@ -18544,10 +18955,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "作风问题本质上是党性问题，核心是党与群众的关系（党同人民群众的关系）问题。",
+      "stem": "作风问题本质上是党性问题，核心是党与群众的（）问题。",
       "answerRaw": "党同人民群众的关系",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18557,16 +18969,16 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-459",
-      "sequence": 375,
+      "id": "xi-thought-458",
+      "sequence": 441,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 463,
       "sourceScreenshots": [
         "Screenshot_20260121_210434_cn.ulearning.yxy.jpg"
       ],
-      "chapterKey": "chapter-06",
-      "chapterTitle": "文化建设与文化自信",
+      "chapterKey": "chapter-08",
+      "chapterTitle": "生态文明建设",
       "type": "填空题",
       "score": 1,
       "difficulty": 1,
@@ -18576,10 +18988,44 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "要解决好工业文明带来的矛盾，以建设生态文明（人与自然和谐相处）为目标，实现世界的可持续发展和人的全面发展。",
+      "stem": "要解决（）为目标，实现世界的可持续发展和人的全面发展。",
       "answerRaw": "人与自然和谐相处",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
+      "fillBlanks": [
+        {
+          "acceptedAnswers": [
+            "人与自然和谐相处"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xi-thought-459",
+      "sequence": 442,
+      "sourceFile": "优学院截图（部分）",
+      "sheetName": "练习 469 题",
+      "sourceRow": 460,
+      "sourceScreenshots": [
+        "Screenshot_20260121_212658_cn.ulearning.yxy.jpg"
+      ],
+      "chapterKey": "chapter-08",
+      "chapterTitle": "生态文明建设",
+      "type": "填空题",
+      "score": 1,
+      "difficulty": 1,
+      "shareScope": "仅自己",
+      "tags": [
+        "习思想",
+        "优学院"
+      ],
+      "material": "",
+      "stem": "要解决好工（）为目标，实现世界的可持续发展和人的全面发展。",
+      "answerRaw": "人与自然和谐相处",
+      "explanation": "",
+      "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18590,39 +19036,7 @@ window.QUESTION_BANK_DATA = {
     },
     {
       "id": "xi-thought-460",
-      "sequence": 376,
-      "sourceFile": "优学院截图（部分）",
-      "sheetName": "练习 469 题",
-      "sourceRow": 460,
-      "sourceScreenshots": [
-        "Screenshot_20260121_212658_cn.ulearning.yxy.jpg"
-      ],
-      "chapterKey": "chapter-06",
-      "chapterTitle": "文化建设与文化自信",
-      "type": "填空题",
-      "score": 1,
-      "difficulty": 1,
-      "shareScope": "仅自己",
-      "tags": [
-        "习思想",
-        "优学院"
-      ],
-      "material": "",
-      "stem": "要解决好工业文明带来的矛盾，以绿色低碳循环发展（人与自然和谐相处）为目标，实现世界的可持续发展和人的全面发展。",
-      "answerRaw": "人与自然和谐相处",
-      "explanation": "",
-      "options": [],
-      "fillBlanks": [
-        {
-          "acceptedAnswers": [
-            "人与自然和谐相处"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "xi-thought-461",
-      "sequence": 514,
+      "sequence": 513,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 464,
@@ -18640,10 +19054,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "推动建设相互尊重、平等互助（公平正义）、（合作共赢）的新型国际关系，是党中央立足时代发展潮流和我国根本利益作出的战略选择，反映了中国人民和世界人民的共同心愿。",
+      "stem": "（）（）的新型国际关系，是党中央立足时代发展潮流和我国根本利益作出的战略选择，反映了中国人民和世界人民的共同心愿。",
       "answerRaw": "公平正义；合作共赢",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18658,16 +19073,16 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-462",
-      "sequence": 202,
+      "id": "xi-thought-461",
+      "sequence": 324,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 465,
       "sourceScreenshots": [
         "Screenshot_20260121_210449_cn.ulearning.yxy.jpg"
       ],
-      "chapterKey": "chapter-03",
-      "chapterTitle": "坚持党的全面领导和全面从严治党",
+      "chapterKey": "chapter-05",
+      "chapterTitle": "全过程人民民主与全面依法治国",
       "type": "填空题",
       "score": 1,
       "difficulty": 1,
@@ -18677,10 +19092,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "保证全党服从中央，坚持依法治国（(党中央权威)和从严治党(集中统一领导），是党的政治建设的首要任务。",
+      "stem": "保证全党服从中央，坚持依法治国（（）（），是党的政治建设的首要任务。",
       "answerRaw": "党中央权威；集中统一领导",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18695,8 +19111,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-463",
-      "sequence": 483,
+      "id": "xi-thought-462",
+      "sequence": 482,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 458,
@@ -18715,10 +19131,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "保证全党服从中央，坚持党中央权威和集中统一管理（集中统一领导），是党的政治建设的首要任务。",
+      "stem": "保证全党服（），是党的政治建设的首要任务。",
       "answerRaw": "党中央权威；集中统一领导",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18733,8 +19150,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-464",
-      "sequence": 326,
+      "id": "xi-thought-463",
+      "sequence": 325,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 466,
@@ -18752,10 +19169,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "把党内法律法规(党内法规体系)纳入中国特色社会主义法治体系，是我国法治区别于其他国家法治的鲜明特征。",
+      "stem": "（）纳入中国特色社会主义法治体系，是我国法治区别于其他国家法治的鲜明特征。",
       "answerRaw": "党内法规体系",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18765,8 +19183,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-465",
-      "sequence": 419,
+      "id": "xi-thought-464",
+      "sequence": 415,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 429,
@@ -18785,10 +19203,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "社会治理基层(市域)是将风险隐患解决在基层、化解在萌芽状态的最直接、最有效力的治理层级，处于推进基层治理现代化的前线位",
+      "stem": "（）是将风险隐患解决在基层、化解在萌芽状态的最直接、最有效力的治理层级，处于推进基层治理现代化的前线位",
       "answerRaw": "市域",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18798,8 +19217,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-466",
-      "sequence": 420,
+      "id": "xi-thought-465",
+      "sequence": 416,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 433,
@@ -18817,10 +19236,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "发展(收入分配）是民生之源，是改善民生、实现发展成果由人民共享最重要最直接的方式。",
+      "stem": "（）是民生之源，是改善民生、实现发展成果由人民共享最重要最直接的方式。",
       "answerRaw": "收入分配",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18830,16 +19250,16 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-467",
-      "sequence": 203,
+      "id": "xi-thought-466",
+      "sequence": 69,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 443,
       "sourceScreenshots": [
         "Screenshot_20260121_212630_cn.ulearning.yxy.jpg"
       ],
-      "chapterKey": "chapter-03",
-      "chapterTitle": "坚持党的全面领导和全面从严治党",
+      "chapterKey": "chapter-01",
+      "chapterTitle": "新时代坚持和发展中国特色社会主义",
       "type": "填空题",
       "score": 1,
       "difficulty": 1,
@@ -18849,10 +19269,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "构建一体推进不敢腐、不能腐、不想腐的体制机制，最终目的是实现干部清正、政府 清廉、政治 清明、社会(清朗）。",
+      "stem": "构建一体推进不敢腐、不能腐、不想腐的体制机制，最终目的是实现干（）。",
       "answerRaw": "清正；清廉；清明；清朗",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18877,8 +19298,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-468",
-      "sequence": 515,
+      "id": "xi-thought-467",
+      "sequence": 514,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 459,
@@ -18896,10 +19317,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "坚持走中国特色社会主义外交（和平发展)道路，是我们党根据时代发展潮流和我国根本利益作出的战略抉择，是新时代中国外交的基本原则。",
+      "stem": "（）道路，是我们党根据时代发展潮流和我国根本利益作出的战略抉择，是新时代中国外交的基本原则。",
       "answerRaw": "和平发展",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18909,8 +19331,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-469",
-      "sequence": 484,
+      "id": "xi-thought-468",
+      "sequence": 483,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 467,
@@ -18928,10 +19350,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "“一国两制\"方针是一个完整的体系。维护主权（国家主权）、安全、发展利益是“一国两制\"方针的最高原则，在这个前提下，香港、澳门保持原有的资本主义制度长期不变，享有高度自治权。",
+      "stem": "“一国（）、安全、发展利益是“一国两制\"方针的最高原则，在这个前提下，香港、澳门保持原有的资本主义制度长期不变，享有高度自治权。",
       "answerRaw": "国家主权",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18941,8 +19364,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-470",
-      "sequence": 377,
+      "id": "xi-thought-469",
+      "sequence": 374,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 426,
@@ -18960,10 +19383,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "生态环境是人类生存最为基础的条件，建设生态文明(生态文明建设)是关系中华民族永续发展的根本大计。",
+      "stem": "生态环境是（）是关系中华民族永续发展的根本大计。",
       "answerRaw": "生态文明建设",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -18973,8 +19397,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-471",
-      "sequence": 204,
+      "id": "xi-thought-470",
+      "sequence": 202,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 429,
@@ -18993,10 +19417,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "中国共产党的领导（党的领导）是中国特色社会主义法治之魂，是我们的法治同西方资本主义国家的法治最大的区别。",
+      "stem": "（）是中国特色社会主义法治之魂，是我们的法治同西方资本主义国家的法治最大的区别。",
       "answerRaw": "党的领导",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -19006,8 +19431,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-472",
-      "sequence": 327,
+      "id": "xi-thought-471",
+      "sequence": 326,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 441,
@@ -19025,21 +19450,23 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "中共十五夫（党的十五大/十五大）明确提出形成中国特色社会主义法律体系的重大任务。",
+      "stem": "（）明确提出形成中国特色社会主义法律体系的重大任务。",
       "answerRaw": "党的十五大//十五大",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
-            "党的十五大//十五大"
+            "党的十五大",
+            "十五大"
           ]
         }
       ]
     },
     {
-      "id": "xi-thought-473",
-      "sequence": 485,
+      "id": "xi-thought-472",
+      "sequence": 484,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 447,
@@ -19058,10 +19485,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "“一国两制”在台湾的具体实现形式会充分考虑台湾现实情况，会充分吸收台湾同胞（两岸各界）意见和建议，会充分照顾到台湾同胞利益和感情。",
+      "stem": "“一国两制”在台湾的具体实现形式会充分（）意见和建议，会充分照顾到台湾同胞利益和感情。",
       "answerRaw": "两岸各界",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -19071,8 +19499,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-474",
-      "sequence": 64,
+      "id": "xi-thought-473",
+      "sequence": 70,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 457,
@@ -19090,21 +19518,23 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "（灰犀牛/\"灰犀牛\"）事件是指太过于常见以至于人们习以为常的风险，比喻大概率且影响巨大的潜在危机。",
+      "stem": "（）事件是指太过于常见以至于人们习以为常的风险，比喻大概率且影响巨大的潜在危机。",
       "answerRaw": "灰犀牛//“灰犀牛”",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
-            "灰犀牛//“灰犀牛”"
+            "灰犀牛",
+            "“灰犀牛”"
           ]
         }
       ]
     },
     {
-      "id": "xi-thought-475",
-      "sequence": 205,
+      "id": "xi-thought-474",
+      "sequence": 203,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 462,
@@ -19122,10 +19552,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "习近平强军思想明确中国共产党建军治军的基本方式是(依法治军)。",
+      "stem": "习近平强军思想明确中国共产党建军治军的基本方式是（）。",
       "answerRaw": "依法治军",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -19135,8 +19566,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-476",
-      "sequence": 486,
+      "id": "xi-thought-475",
+      "sequence": 485,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 464,
@@ -19154,10 +19585,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "国家统一（国家安全）是民族复兴的根基，社会稳定是国家强盛的前提。",
+      "stem": "（）是民族复兴的根基，社会稳定是国家强盛的前提。",
       "answerRaw": "国家安全",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -19167,8 +19599,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-477",
-      "sequence": 516,
+      "id": "xi-thought-476",
+      "sequence": 515,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 463,
@@ -19187,10 +19619,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "中国外交的宗旨是维护世界和平、构建人类命运共同体（促进共同发展）。",
+      "stem": "中国外交的宗旨是维护世界和平、（）。",
       "answerRaw": "促进共同发展",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -19200,8 +19633,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-478",
-      "sequence": 146,
+      "id": "xi-thought-477",
+      "sequence": 148,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 6,
@@ -19240,11 +19673,12 @@ window.QUESTION_BANK_DATA = {
           "text": "发展全过程人民民主"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-479",
-      "sequence": 65,
+      "id": "xi-thought-478",
+      "sequence": 71,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 42,
@@ -19283,11 +19717,12 @@ window.QUESTION_BANK_DATA = {
           "text": "“十三个方面成就”"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-480",
-      "sequence": 206,
+      "id": "xi-thought-479",
+      "sequence": 204,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 76,
@@ -19326,11 +19761,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党的领导"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-481",
-      "sequence": 147,
+      "id": "xi-thought-480",
+      "sequence": 149,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 85,
@@ -19369,11 +19805,12 @@ window.QUESTION_BANK_DATA = {
           "text": "“中国道路”"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-482",
-      "sequence": 148,
+      "id": "xi-thought-481",
+      "sequence": 150,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 86,
@@ -19412,11 +19849,12 @@ window.QUESTION_BANK_DATA = {
           "text": "发展全过程人民民主"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-483",
-      "sequence": 421,
+      "id": "xi-thought-482",
+      "sequence": 417,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 103,
@@ -19455,11 +19893,12 @@ window.QUESTION_BANK_DATA = {
           "text": "教育优先发展"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-484",
-      "sequence": 149,
+      "id": "xi-thought-483",
+      "sequence": 151,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 130,
@@ -19498,11 +19937,12 @@ window.QUESTION_BANK_DATA = {
           "text": "团结奋斗"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-485",
-      "sequence": 328,
+      "id": "xi-thought-484",
+      "sequence": 327,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 133,
@@ -19541,11 +19981,12 @@ window.QUESTION_BANK_DATA = {
           "text": "民主决策"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-486",
-      "sequence": 66,
+      "id": "xi-thought-485",
+      "sequence": 72,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 174,
@@ -19584,11 +20025,12 @@ window.QUESTION_BANK_DATA = {
           "text": "发展的可持续性"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-487",
-      "sequence": 329,
+      "id": "xi-thought-486",
+      "sequence": 328,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 181,
@@ -19627,11 +20069,12 @@ window.QUESTION_BANK_DATA = {
           "text": "必须坚持民主集中制原则"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-488",
-      "sequence": 150,
+      "id": "xi-thought-487",
+      "sequence": 152,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 183,
@@ -19649,7 +20092,7 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "中国有了中国共产党执政，是中国、中国人民、中华民族的一大幸事。只要我们深入了解中国近代史、中国现代史、中国革命史，就不难发是（）。",
+      "stem": "中国有了中国共产党执政，是中国、中国人民、中华民族的一大幸事。只要我们深入了解中国近代史、中国现代史、中国革命史，就不难发现，如果没有中国共产党领导，我们的国家、我们的民族不可能取得今天这样的成就，也不可能具有今天这样的国际地位。中国共产党的领导是（）。",
       "answerRaw": "ABC",
       "explanation": "",
       "options": [
@@ -19670,11 +20113,12 @@ window.QUESTION_BANK_DATA = {
           "text": "贯穿党治国理政全部活动的一条红线"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-489",
-      "sequence": 151,
+      "id": "xi-thought-488",
+      "sequence": 153,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 184,
@@ -19713,11 +20157,12 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持循序渐进"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-490",
-      "sequence": 207,
+      "id": "xi-thought-489",
+      "sequence": 205,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 197,
@@ -19756,11 +20201,12 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持独立自主"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-491",
-      "sequence": 487,
+      "id": "xi-thought-490",
+      "sequence": 486,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 206,
@@ -19799,11 +20245,12 @@ window.QUESTION_BANK_DATA = {
           "text": "党中央决策部署"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-492",
-      "sequence": 67,
+      "id": "xi-thought-491",
+      "sequence": 73,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 224,
@@ -19842,11 +20289,12 @@ window.QUESTION_BANK_DATA = {
           "text": "牢固树立和践行正确的政绩观"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-493",
-      "sequence": 517,
+      "id": "xi-thought-492",
+      "sequence": 516,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 239,
@@ -19885,11 +20333,12 @@ window.QUESTION_BANK_DATA = {
           "text": "完善全球治理体系"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-494",
-      "sequence": 152,
+      "id": "xi-thought-493",
+      "sequence": 154,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 245,
@@ -19928,11 +20377,12 @@ window.QUESTION_BANK_DATA = {
           "text": "中国梦把国家的追求、民族的向往、人民的期盼融为一体"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-495",
-      "sequence": 153,
+      "id": "xi-thought-494",
+      "sequence": 155,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 218,
@@ -19971,11 +20421,12 @@ window.QUESTION_BANK_DATA = {
           "text": "同广大人民日用而不觉的价值观念具有高度的契合性"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-496",
-      "sequence": 154,
+      "id": "xi-thought-495",
+      "sequence": 156,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 259,
@@ -20014,11 +20465,12 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持和发展中国特色社会主义、实现中华民族伟大复兴的必由之路"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-497",
-      "sequence": 260,
+      "id": "xi-thought-496",
+      "sequence": 258,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 264,
@@ -20057,11 +20509,12 @@ window.QUESTION_BANK_DATA = {
           "text": "经济发展水平"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-498",
-      "sequence": 155,
+      "id": "xi-thought-497",
+      "sequence": 157,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 265,
@@ -20100,11 +20553,12 @@ window.QUESTION_BANK_DATA = {
           "text": "促进民生改善"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-499",
-      "sequence": 261,
+      "id": "xi-thought-498",
+      "sequence": 259,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 278,
@@ -20143,11 +20597,12 @@ window.QUESTION_BANK_DATA = {
           "text": "开拓新局"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-500",
-      "sequence": 422,
+      "id": "xi-thought-499",
+      "sequence": 418,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 279,
@@ -20186,11 +20641,12 @@ window.QUESTION_BANK_DATA = {
           "text": "逐步打破城乡壁垒，快速提高城市GDP"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-501",
-      "sequence": 488,
+      "id": "xi-thought-500",
+      "sequence": 487,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 315,
@@ -20229,11 +20685,12 @@ window.QUESTION_BANK_DATA = {
           "text": "人民代表大会制度能够正确处理事关国家前途命运的一系列重大政治关系，维护国家统一和民族团结"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-502",
-      "sequence": 68,
+      "id": "xi-thought-501",
+      "sequence": 74,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 317,
@@ -20272,11 +20729,12 @@ window.QUESTION_BANK_DATA = {
           "text": "必须把中国特色社会主义制度优势转化为国家治理效能"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-503",
-      "sequence": 69,
+      "id": "xi-thought-502",
+      "sequence": 75,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 484 题",
       "sourceRow": 451,
@@ -20294,10 +20752,11 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "科技自立自强(实体经济)是一国经济的立身之本、财富之源，是构筑未来发展战略优势的重要支撑。",
+      "stem": "（）是一国经济的立身之本、财富之源，是构筑未来发展战略优势的重要支撑。",
       "answerRaw": "实体经济",
       "explanation": "",
       "options": [],
+      "normalizedOptions": [],
       "fillBlanks": [
         {
           "acceptedAnswers": [
@@ -20307,8 +20766,8 @@ window.QUESTION_BANK_DATA = {
       ]
     },
     {
-      "id": "xi-thought-504",
-      "sequence": 330,
+      "id": "xi-thought-503",
+      "sequence": 329,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 33,
@@ -20347,11 +20806,12 @@ window.QUESTION_BANK_DATA = {
           "text": "医疗"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-505",
-      "sequence": 262,
+      "id": "xi-thought-504",
+      "sequence": 260,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 84,
@@ -20390,11 +20850,12 @@ window.QUESTION_BANK_DATA = {
           "text": "共商共建共享"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-506",
-      "sequence": 263,
+      "id": "xi-thought-505",
+      "sequence": 261,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 91,
@@ -20433,11 +20894,12 @@ window.QUESTION_BANK_DATA = {
           "text": "挑战和成果"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-507",
-      "sequence": 489,
+      "id": "xi-thought-506",
+      "sequence": 488,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 115,
@@ -20476,11 +20938,12 @@ window.QUESTION_BANK_DATA = {
           "text": "群众观点"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-508",
-      "sequence": 208,
+      "id": "xi-thought-507",
+      "sequence": 206,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 117,
@@ -20519,11 +20982,12 @@ window.QUESTION_BANK_DATA = {
           "text": "坚持依规治党，推进党的建设伟大工程"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-509",
-      "sequence": 490,
+      "id": "xi-thought-508",
+      "sequence": 489,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 122,
@@ -20562,11 +21026,12 @@ window.QUESTION_BANK_DATA = {
           "text": "共同愿望；题中之义"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-510",
-      "sequence": 518,
+      "id": "xi-thought-509",
+      "sequence": 517,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 131,
@@ -20605,11 +21070,12 @@ window.QUESTION_BANK_DATA = {
           "text": "新型国际关系是构建人类命运共同体的具体路径之一"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-511",
-      "sequence": 491,
+      "id": "xi-thought-510",
+      "sequence": 490,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 136,
@@ -20648,11 +21114,12 @@ window.QUESTION_BANK_DATA = {
           "text": "平安中国建设"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-512",
-      "sequence": 331,
+      "id": "xi-thought-511",
+      "sequence": 330,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 182,
@@ -20691,11 +21158,12 @@ window.QUESTION_BANK_DATA = {
           "text": "法治"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-513",
-      "sequence": 332,
+      "id": "xi-thought-512",
+      "sequence": 331,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 195,
@@ -20734,11 +21202,12 @@ window.QUESTION_BANK_DATA = {
           "text": "增进人民福祉"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-514",
-      "sequence": 333,
+      "id": "xi-thought-513",
+      "sequence": 332,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 213,
@@ -20777,11 +21246,12 @@ window.QUESTION_BANK_DATA = {
           "text": "使失业率保持在合理区间"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-515",
-      "sequence": 209,
+      "id": "xi-thought-514",
+      "sequence": 207,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 217,
@@ -20799,7 +21269,7 @@ window.QUESTION_BANK_DATA = {
         "优学院"
       ],
       "material": "",
-      "stem": "习近平总书记在十八届中央纪律检查委员会第六次全体会议上的讲话中指出，问责不能感情用事，不能有怜悯之心，要“较真”、“叫震慑效应。我们对湖南衡阳发生的以贿赂手段破坏选举案件严肃问责，给予党纪政纪处分467人，移送司法机关处理69人；对南充拉进行彻底调查，对全部477名涉案人员严肃处理。这些案例充分彰显了党在面对公权力滥用问题时，始终坚持（）的鲜明态度。",
+      "stem": "习近平总书记在十八届中央纪律检查委员会第六次全体会议上的讲话中指出，问责不能感情用事，不能有怜悯之心，要“较真”、“叫板”，发挥震慑效应。我们对湖南衡阳发生的以贿赂手段破坏选举案件严肃问责，给予党纪政纪处分467人，移送司法机关处理69人；对南充拉票贿选案进行彻底调查，对全部477名涉案人员严肃处理。这些案例充分彰显了党在面对公权力滥用问题时，始终坚持（）的鲜明态度。",
       "answerRaw": "AC",
       "explanation": "",
       "options": [
@@ -20820,11 +21290,12 @@ window.QUESTION_BANK_DATA = {
           "text": "用权受监督"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-516",
-      "sequence": 423,
+      "id": "xi-thought-515",
+      "sequence": 419,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 223,
@@ -20863,11 +21334,12 @@ window.QUESTION_BANK_DATA = {
           "text": "社会是否持续稳定"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-517",
-      "sequence": 519,
+      "id": "xi-thought-516",
+      "sequence": 518,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 250,
@@ -20906,11 +21378,12 @@ window.QUESTION_BANK_DATA = {
           "text": "可持续"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-518",
-      "sequence": 210,
+      "id": "xi-thought-517",
+      "sequence": 208,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 274,
@@ -20949,11 +21422,12 @@ window.QUESTION_BANK_DATA = {
           "text": "长期性"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-519",
-      "sequence": 378,
+      "id": "xi-thought-518",
+      "sequence": 375,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 279,
@@ -20992,11 +21466,12 @@ window.QUESTION_BANK_DATA = {
           "text": "社会信息化"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     },
     {
-      "id": "xi-thought-520",
-      "sequence": 520,
+      "id": "xi-thought-519",
+      "sequence": 519,
       "sourceFile": "优学院截图（部分）",
       "sheetName": "练习 469 题",
       "sourceRow": 304,
@@ -21035,6 +21510,7 @@ window.QUESTION_BANK_DATA = {
           "text": "未来之变"
         }
       ],
+      "normalizedOptions": [],
       "fillBlanks": []
     }
   ]
